@@ -7,10 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>d6cc9bae-cf6b-4bf8-94b6-290a494b3de4</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{86cadb26-5817-46b6-88c7-76d5753722c3}|src\Project\Habitat\code\Sitecore.Habitat.Website.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Habitat.Website.csproj</SourceWebVirtualPath>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
     <SingleAssemblyName>Sitecore.Habitat.Website.Master</SingleAssemblyName>
@@ -24,6 +20,9 @@
     <ManageRoles>True</ManageRoles>
     <SitecoreDatabase>master</SitecoreDatabase>
     <AssemblyStatus>Exclude</AssemblyStatus>
+    <SourceWebVirtualPath>/Sitecore.Project.csproj</SourceWebVirtualPath>
+    <SourceWebProject>{3df06dfc-7efd-4181-8659-f29d95d2eabc}|src\Project\code\Sitecore.Project.csproj</SourceWebProject>
+    <SourceWebPhysicalPath>..\..\..\code</SourceWebPhysicalPath>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -439,12 +438,6 @@
     </SitecoreItem>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\code\Sitecore.Habitat.Website.csproj">
-      <Project>{86cadb26-5817-46b6-88c7-76d5753722c3}</Project>
-      <Name>Sitecore.Habitat.Website</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <SitecoreRole Include="Sitecore Roles\habitat\Project Habitat Content Author.role" />
     <SitecoreRole Include="Sitecore Roles\habitat\Project Habitat Modules Admin.role" />
     <SitecoreRole Include="Sitecore Roles\sitecore\Author.role" />
@@ -452,6 +445,12 @@
   </ItemGroup>
   <ItemGroup>
     <SitecorePackage Include="..\Habitat Users-1.0.0.zip" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\code\Sitecore.Project.csproj">
+      <Project>{3df06dfc-7efd-4181-8659-f29d95d2eabc}</Project>
+      <Name>Sitecore.Project</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\HedgehogDevelopment\SitecoreProject\v9.0\HedgehogDevelopment.SitecoreProject.targets" Condition="Exists('$(MSBuildExtensionsPath)\HedgehogDevelopment\SitecoreProject\v9.0\HedgehogDevelopment.SitecoreProject.targets')" />
 </Project>

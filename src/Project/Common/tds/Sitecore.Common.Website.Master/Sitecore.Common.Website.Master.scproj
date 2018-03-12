@@ -7,10 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>06feb855-6724-4e55-afaa-aa9306141088</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{c98ead78-4d83-4789-a621-6011c3d7314d}|src\Project\Common\code\Sitecore.Common.Website.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Common.Website.csproj</SourceWebVirtualPath>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
     <SingleAssemblyName>Sitecore.Common.Website.Master</SingleAssemblyName>
