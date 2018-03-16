@@ -7,9 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>e0598453-0397-4daa-b3a0-064c8b3f25f5</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{4dd516f2-d9e5-4775-b840-e00a71dd7e87}|src\feature\Demo\code\Sitecore.Feature.Demo.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Feature.Demo.csproj</SourceWebVirtualPath>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
@@ -248,12 +245,6 @@
       <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
     </SitecoreItem>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\code\Sitecore.Feature.Demo.csproj">
-      <Project>{4dd516f2-d9e5-4775-b840-e00a71dd7e87}</Project>
-      <Name>Sitecore.Feature.Demo</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <SitecoreRole Include="Sitecore Roles\modules\Feature Demo Admin.role" />
