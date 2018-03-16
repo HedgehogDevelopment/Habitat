@@ -240,9 +240,9 @@
       <Project>{7cc3d72b-4518-4b78-be48-630a263c0f5b}</Project>
       <Name>Sitecore.Foundation.Testing</Name>
     </ProjectReference>
-    <ProjectReference Include="..\code\Sitecore.Feature.Accounts.csproj">
-      <Project>{3F61C57D-50D9-4194-8196-EF5F7AA4CCE5}</Project>
-      <Name>Sitecore.Feature.Accounts</Name>
+    <ProjectReference Include="..\..\code\Sitecore.Feature.csproj">
+      <Project>{1010cdc5-9c85-4f9f-96fd-506c3caa4933}</Project>
+      <Name>Sitecore.Feature</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

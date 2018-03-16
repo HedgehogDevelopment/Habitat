@@ -7,9 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ae13d34c-cd4f-40c1-8ef3-06f1366d5a81</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{3f61c57d-50d9-4194-8196-ef5f7aa4cce5}|src\feature\Accounts\code\Sitecore.Feature.Accounts.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Feature.Accounts.csproj</SourceWebVirtualPath>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
@@ -230,15 +227,6 @@
     <BundledProject Include="..\Sitecore.Feature.Accounts.Core\Sitecore.Feature.Accounts.Core.scproj">
       <ProjectId>{aec741a2-5bc2-4c9a-807e-c6bc56ff8031}</ProjectId>
     </BundledProject>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\code\Sitecore.Feature.Accounts.csproj">
-      <Project>{3f61c57d-50d9-4194-8196-ef5f7aa4cce5}</Project>
-      <Name>Sitecore.Feature.Accounts</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Sitecore.Feature.Accounts.Core\Sitecore.Feature.Accounts.Core.scproj">
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <SitecoreRole Include="Sitecore Roles\modules\Feature Accounts Admin.role" />

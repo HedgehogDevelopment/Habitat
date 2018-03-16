@@ -16,9 +16,6 @@
     <AssemblyName>Sitecore.Habitat.TDS.Master</AssemblyName>
     <Name>Sitecore.Habitat.TDS.Master</Name>
     <RootNamespace>Sitecore.Habitat.TDS.Master</RootNamespace>
-    <SourceWebVirtualPath>/Sitecore.Project.csproj</SourceWebVirtualPath>
-    <SourceWebProject>{3df06dfc-7efd-4181-8659-f29d95d2eabc}|src\Project\code\Sitecore.Project.csproj</SourceWebProject>
-    <SourceWebPhysicalPath>..\..\Project\code</SourceWebPhysicalPath>
     <ManageRoles>False</ManageRoles>
     <SitecoreDatabase>master</SitecoreDatabase>
   </PropertyGroup>
@@ -4287,6 +4284,22 @@
     </SitecoreItem>
   </ItemGroup>
   <ItemGroup>
+    <SourceWebProjects Include="{1010cdc5-9c85-4f9f-96fd-506c3caa4933}|src\Feature\code\Sitecore.Feature.csproj">
+      <SourceWebPhysicalPath>..\..\Feature\code</SourceWebPhysicalPath>
+      <SourceWebVirtualPath>/Sitecore.Feature.csproj</SourceWebVirtualPath>
+      <SourceWebProjectId>1010cdc5-9c85-4f9f-96fd-506c3caa4933</SourceWebProjectId>
+    </SourceWebProjects>
+    <SourceWebProjects Include="{3df06dfc-7efd-4181-8659-f29d95d2eabc}|src\Project\code\Sitecore.Project.csproj">
+      <SourceWebPhysicalPath>..\..\Project\code</SourceWebPhysicalPath>
+      <SourceWebVirtualPath>/Sitecore.Project.csproj</SourceWebVirtualPath>
+      <SourceWebProjectId>3df06dfc-7efd-4181-8659-f29d95d2eabc</SourceWebProjectId>
+    </SourceWebProjects>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Feature\code\Sitecore.Feature.csproj">
+      <Project>{1010cdc5-9c85-4f9f-96fd-506c3caa4933}</Project>
+      <Name>Sitecore.Feature</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\Project\code\Sitecore.Project.csproj">
       <Project>{3df06dfc-7efd-4181-8659-f29d95d2eabc}</Project>
       <Name>Sitecore.Project</Name>

@@ -8,14 +8,15 @@ name: Edit Profile
 master: {00000000-0000-0000-0000-000000000000}
 template: {2A3E91A0-7987-44B5-AB34-35C2D9DE83B9}
 templatekey: Controller rendering
+created: 20180316T013439Z
 
 ----field----
 field: {E64AD073-DFCC-4D20-8C0B-FE5AA6226CD7}
 name: Controller
 key: controller
-content-length: 83
+content-length: 74
 
-Sitecore.Feature.Accounts.Controllers.AccountsController, Sitecore.Feature.Accounts
+Sitecore.Feature.Accounts.Controllers.AccountsController, Sitecore.Feature
 ----field----
 field: {DED9E431-3604-4921-A4B3-A6EC7636A5B6}
 name: Controller Action
@@ -26,7 +27,7 @@ EditProfile
 ----version----
 language: en
 version: 1
-revision: e87ecb2d-96e8-4c61-bcd0-510b83295ca2
+revision: b7fd3d8b-1737-4b06-a637-8aed570a5f41
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -41,18 +42,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e87ecb2d-96e8-4c61-bcd0-510b83295ca2
+b7fd3d8b-1737-4b06-a637-8aed570a5f41
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160405T151825Z
+20180316T021125Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 16
+content-length: 14
 
-sitecore\unicorn
+sitecore\admin
