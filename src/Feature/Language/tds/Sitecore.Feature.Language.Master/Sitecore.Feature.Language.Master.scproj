@@ -7,9 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c5a686ea-9c06-4d79-b4eb-e10af3cdaf1e</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{aca65632-ee93-422b-b25e-8e31969694f5}|src\feature\Language\code\Sitecore.Feature.Language.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Feature.Language.csproj</SourceWebVirtualPath>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
@@ -100,12 +97,6 @@
       <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
     </SitecoreItem>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\code\Sitecore.Feature.Language.csproj">
-      <Project>{aca65632-ee93-422b-b25e-8e31969694f5}</Project>
-      <Name>Sitecore.Feature.Language</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <SitecoreRole Include="Sitecore Roles\modules\Feature Language Admin.role" />
