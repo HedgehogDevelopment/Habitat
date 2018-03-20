@@ -130,6 +130,7 @@
     <SitecoreRole Include="Sitecore Roles\habitat\Project Habitat Modules Admin.role" />
     <SitecoreRole Include="Sitecore Roles\modules\Feature Accounts Admin.role" />
     <SitecoreRole Include="Sitecore Roles\modules\Feature Demo Admin.role" />
+    <SitecoreRole Include="Sitecore Roles\modules\Feature FAQ Admin.role" />
     <SitecoreRole Include="Sitecore Roles\sitecore\Author.role" />
     <SitecoreRole Include="Sitecore Roles\sitecore\Designer.role" />
   </ItemGroup>
