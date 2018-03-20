@@ -7,10 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c81b58ef-884f-4d28-8f9f-b4385d880183</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{19ce4259-bd16-4239-ac7c-22220fb26575}|src\Feature\Maps\code\Sitecore.Feature.Maps.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Feature.Maps.csproj</SourceWebVirtualPath>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
     <SingleAssemblyName>Sitecore.Feature.Maps.Master</SingleAssemblyName>

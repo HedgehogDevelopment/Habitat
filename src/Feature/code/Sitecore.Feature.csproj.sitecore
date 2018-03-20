@@ -35,4 +35,7 @@
   <File Include="Views\Language\LanguageSelector.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
     <Item DatabaseName="master">{2695013C-DD51-410B-9983-F271F16C727D}</Item>
   </File>
+  <File Include="Views\Maps\Map.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{7DFD9396-CB94-4174-9721-9419A2AA68E3}</Item>
+  </File>
 </Project>

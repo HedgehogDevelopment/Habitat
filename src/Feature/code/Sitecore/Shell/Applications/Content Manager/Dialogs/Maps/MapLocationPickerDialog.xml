@@ -37,7 +37,7 @@
                 Text="Pick a location" OKButton="Select">
 
       <!--Define Code Beside-->
-      <CodeBeside Type="Sitecore.Feature.Maps.Sitecore.shell.Applications.Content_Manager.Dialogs.Maps.MapLocationPickerDialog, Sitecore.Feature.Maps"/>
+      <CodeBeside Type="Sitecore.Feature.Maps.Sitecore.shell.Applications.Content_Manager.Dialogs.Maps.MapLocationPickerDialog, Sitecore.Feature"/>
 
       <Groupbox Header="Search a location" Style="height:50px;">
         <table width="100%">
