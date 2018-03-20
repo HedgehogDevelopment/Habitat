@@ -7,9 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>dddc658e-bf73-4f12-b10c-21463aa55112</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{c2e10220-2850-484f-8fca-dcdd1c6e3b53}|src\Feature\faq\code\Sitecore.Feature.FAQ.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Feature.FAQ.csproj</SourceWebVirtualPath>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
@@ -119,12 +116,6 @@
       <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
     </SitecoreItem>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\code\Sitecore.Feature.FAQ.csproj">
-      <Project>{c2e10220-2850-484f-8fca-dcdd1c6e3b53}</Project>
-      <Name>Sitecore.Feature.FAQ</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <SitecoreRole Include="Sitecore Roles\modules\Feature FAQ Admin.role" />

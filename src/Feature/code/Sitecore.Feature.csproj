@@ -179,6 +179,7 @@
     <Content Include="Views\Demo\DemoContent.cshtml" />
     <Content Include="Views\Demo\EmptyLayout.cshtml" />
     <Content Include="Views\Demo\ExperienceData.cshtml" />
+    <Content Include="Views\FAQ\FaqAccordion.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -259,6 +260,8 @@
     <Compile Include="Demo\Services\IProfileProvider.cs" />
     <Compile Include="Demo\Services\ProfileProvider.cs" />
     <Compile Include="Demo\Templates.cs" />
+    <Compile Include="FAQ\Repositories\FaqRepository.cs" />
+    <Compile Include="FAQ\Templates.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
