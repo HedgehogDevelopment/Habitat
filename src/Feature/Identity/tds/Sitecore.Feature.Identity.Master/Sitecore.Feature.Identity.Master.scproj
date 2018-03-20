@@ -7,10 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>bcbeaeb7-1371-49e6-a00d-ad62e1ccd19a</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{0d0b809c-03ab-4ee1-898f-cfe28cf5b245}|src\feature\Identity\code\Sitecore.Feature.Identity.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Feature.Identity.csproj</SourceWebVirtualPath>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
     <SingleAssemblyName>Sitecore.Feature.Identity.Master</SingleAssemblyName>

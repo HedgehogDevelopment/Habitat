@@ -180,6 +180,9 @@
     <Content Include="Views\Demo\EmptyLayout.cshtml" />
     <Content Include="Views\Demo\ExperienceData.cshtml" />
     <Content Include="Views\FAQ\FaqAccordion.cshtml" />
+    <Content Include="Views\Identity\ContactInformation.cshtml" />
+    <Content Include="Views\Identity\Copyright.cshtml" />
+    <Content Include="Views\Identity\Logo.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -262,6 +265,8 @@
     <Compile Include="Demo\Templates.cs" />
     <Compile Include="FAQ\Repositories\FaqRepository.cs" />
     <Compile Include="FAQ\Templates.cs" />
+    <Compile Include="Identity\Repositories\IdentityRepository.cs" />
+    <Compile Include="Identity\Templates.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
