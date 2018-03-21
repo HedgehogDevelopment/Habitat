@@ -7,9 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>8269f815-d34f-4797-8a5d-9ce761a1a8dd</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{16003e7f-0faf-4dee-b13d-dd327e965a98}|src\feature\Navigation\code\Sitecore.Feature.Navigation.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Feature.Navigation.csproj</SourceWebVirtualPath>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
@@ -172,12 +169,6 @@
       <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
     </SitecoreItem>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\code\Sitecore.Feature.Navigation.csproj">
-      <Project>{16003e7f-0faf-4dee-b13d-dd327e965a98}</Project>
-      <Name>Sitecore.Feature.Navigation</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <SitecoreRole Include="Sitecore Roles\modules\Feature Navigation Admin.role" />
