@@ -7,9 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>4d451c82-35c9-4018-b127-2f36d31917a3</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{2bbd157c-ad28-4055-a208-48a2da93bd04}|src\feature\Metadata\code\Sitecore.Feature.Metadata.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Feature.Metadata.csproj</SourceWebVirtualPath>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
@@ -144,12 +141,6 @@
       <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
     </SitecoreItem>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\code\Sitecore.Feature.Metadata.csproj">
-      <Project>{2bbd157c-ad28-4055-a208-48a2da93bd04}</Project>
-      <Name>Sitecore.Feature.Metadata</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <SitecoreRole Include="Sitecore Roles\modules\Feature Metadata Admin.role" />

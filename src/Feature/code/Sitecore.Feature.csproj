@@ -223,6 +223,8 @@
     <Content Include="Views\MediaFeature\PageHeaderMedia.cshtml" />
     <Content Include="Views\MediaFeature\SectionMedia.cshtml" />
     <Content Include="Views\MediaFeature\Video.cshtml" />
+    <Content Include="Views\Metadata\PageMetadata.cshtml" />
+    <Content Include="App_Config\Include\Feature\Feature.Metadata.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -271,6 +273,7 @@
     <Compile Include="Controllers\LanguageController.cs" />
     <Compile Include="Controllers\MapsController.cs" />
     <Compile Include="Controllers\MediaFeatureController.cs" />
+    <Compile Include="Controllers\MetadataController.cs" />
     <Compile Include="Demo\Models\Campaign.cs" />
     <Compile Include="Demo\Models\DemoContent.cs" />
     <Compile Include="Demo\Models\Device.cs" />
@@ -325,6 +328,14 @@
     <Compile Include="Media\Models\MediaSelectorElement.cs" />
     <Compile Include="Media\Repositories\MediaSelectorElementsRepository.cs" />
     <Compile Include="Media\Templates.cs" />
+    <Compile Include="Metadata\Infrastructure\Pipelines\GetPageMetadata\CombineTitle.cs" />
+    <Compile Include="Metadata\Infrastructure\Pipelines\GetPageMetadata\GetPageMetadataArgs.cs" />
+    <Compile Include="Metadata\Infrastructure\Pipelines\GetPageMetadata\SetFromContext.cs" />
+    <Compile Include="Metadata\Infrastructure\Pipelines\GetPageMetadata\SetFromPage.cs" />
+    <Compile Include="Metadata\Models\IMetadata.cs" />
+    <Compile Include="Metadata\Models\MetadataViewModel.cs" />
+    <Compile Include="Metadata\Repositories\MetadataRepository.cs" />
+    <Compile Include="Metadata\Templates.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sitecore\Shell\Applications\Content Manager\Dialogs\Maps\MapLocationPickerDialog.cs" />
     <Compile Include="Sitecore\Shell\Applications\ContentEditor\FieldTypes\MapField.cs" />
