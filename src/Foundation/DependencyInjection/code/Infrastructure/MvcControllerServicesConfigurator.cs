@@ -8,7 +8,9 @@
         public void Configure(IServiceCollection serviceCollection)
         {
             serviceCollection.AddMvcControllers("*.Feature.*");
+            serviceCollection.AddMvcControllers("Sitecore.Feature");
             serviceCollection.AddClassesWithServiceAttribute("*.Feature.*");
+            serviceCollection.AddClassesWithServiceAttribute("Sitecore.Feature");
             serviceCollection.AddClassesWithServiceAttribute("*.Foundation.*");
         }
     }
