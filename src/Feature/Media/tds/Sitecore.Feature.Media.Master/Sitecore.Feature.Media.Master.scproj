@@ -7,9 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>4042b797-0e29-4459-ae97-2e274b76b018</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{1417b162-f987-4cbd-8642-ca4c4119e705}|src\feature\Media\code\Sitecore.Feature.Media.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Feature.Media.csproj</SourceWebVirtualPath>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
@@ -304,12 +301,6 @@
       <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
     </SitecoreItem>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\code\Sitecore.Feature.Media.csproj">
-      <Project>{1417b162-f987-4cbd-8642-ca4c4119e705}</Project>
-      <Name>Sitecore.Feature.Media</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <SitecoreRole Include="Sitecore Roles\modules\Feature Media Admin.role" />

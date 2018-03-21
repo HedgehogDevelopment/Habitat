@@ -215,6 +215,14 @@
     <Content Include="compilerconfig.json.defaults">
       <DependentUpon>compilerconfig.json</DependentUpon>
     </Content>
+    <Content Include="Views\MediaFeature\LightboxGallery.cshtml" />
+    <Content Include="Views\MediaFeature\LightboxImage.cshtml" />
+    <Content Include="Views\MediaFeature\LightboxVideo.cshtml" />
+    <Content Include="Views\MediaFeature\MediaCarousel.cshtml" />
+    <Content Include="Views\MediaFeature\PageHeaderCarousel.cshtml" />
+    <Content Include="Views\MediaFeature\PageHeaderMedia.cshtml" />
+    <Content Include="Views\MediaFeature\SectionMedia.cshtml" />
+    <Content Include="Views\MediaFeature\Video.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -262,6 +270,7 @@
     <Compile Include="Controllers\DemoController.cs" />
     <Compile Include="Controllers\LanguageController.cs" />
     <Compile Include="Controllers\MapsController.cs" />
+    <Compile Include="Controllers\MediaFeatureController.cs" />
     <Compile Include="Demo\Models\Campaign.cs" />
     <Compile Include="Demo\Models\DemoContent.cs" />
     <Compile Include="Demo\Models\Device.cs" />
@@ -312,6 +321,10 @@
     <Compile Include="Maps\Repositories\IMapPointRepository.cs" />
     <Compile Include="Maps\Repositories\MapPointRepository.cs" />
     <Compile Include="Maps\Templates.cs" />
+    <Compile Include="Media\Models\MediaBackgroundRenderingModel.cs" />
+    <Compile Include="Media\Models\MediaSelectorElement.cs" />
+    <Compile Include="Media\Repositories\MediaSelectorElementsRepository.cs" />
+    <Compile Include="Media\Templates.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sitecore\Shell\Applications\Content Manager\Dialogs\Maps\MapLocationPickerDialog.cs" />
     <Compile Include="Sitecore\Shell\Applications\ContentEditor\FieldTypes\MapField.cs" />
@@ -344,6 +357,10 @@
     <ProjectReference Include="..\..\foundation\SitecoreExtensions\code\Sitecore.Foundation.SitecoreExtensions.csproj">
       <Project>{b535703f-8d07-4f23-a533-2974bb4cc7b1}</Project>
       <Name>Sitecore.Foundation.SitecoreExtensions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Foundation\Theming\code\Sitecore.Foundation.Theming.csproj">
+      <Project>{98de0d1d-26f1-4cca-847c-4e0fc2dba5fc}</Project>
+      <Name>Sitecore.Foundation.Theming</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup />
