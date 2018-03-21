@@ -41,4 +41,7 @@
   <File Include="Views\Metadata\PageMetadata.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
     <Item DatabaseName="master">{E7AE3F87-CF66-40F2-A9F5-33ECF08BC777}</Item>
   </File>
+  <File Include="Views\Multisite\SwitchSite.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{604ECBB6-2BBF-45AF-AC6E-BA9F853E7A03}</Item>
+  </File>
 </Project>

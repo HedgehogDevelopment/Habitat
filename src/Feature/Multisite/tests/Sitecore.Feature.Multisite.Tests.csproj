@@ -187,10 +187,6 @@
       <Project>{7cc3d72b-4518-4b78-be48-630a263c0f5b}</Project>
       <Name>Sitecore.Foundation.Testing</Name>
     </ProjectReference>
-    <ProjectReference Include="..\code\Sitecore.Feature.Multisite.csproj">
-      <Project>{64CB17EE-49BF-44A6-98F0-4F72EE89073B}</Project>
-      <Name>Sitecore.Feature.Multisite</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />

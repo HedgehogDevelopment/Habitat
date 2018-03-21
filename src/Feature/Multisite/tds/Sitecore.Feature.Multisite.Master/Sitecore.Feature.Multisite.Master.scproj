@@ -7,9 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>0d343d50-1fbc-452e-bb77-73aeccd15111</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{64cb17ee-49bf-44a6-98f0-4f72ee89073b}|src\Feature\Multisite\code\Sitecore.Feature.Multisite.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Feature.Multisite.csproj</SourceWebVirtualPath>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
@@ -104,12 +101,6 @@
       <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
     </SitecoreItem>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\code\Sitecore.Feature.Multisite.csproj">
-      <Project>{64cb17ee-49bf-44a6-98f0-4f72ee89073b}</Project>
-      <Name>Sitecore.Feature.Multisite</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <SitecoreRole Include="Sitecore Roles\modules\Feature Multisite Admin.role" />
