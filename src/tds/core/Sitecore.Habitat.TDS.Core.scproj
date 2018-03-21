@@ -172,6 +172,7 @@
     <SitecoreRole Include="Sitecore Roles\modules\Feature Maps Admin.role" />
     <SitecoreRole Include="Sitecore Roles\modules\Feature Media Admin.role" />
     <SitecoreRole Include="Sitecore Roles\modules\Feature Metadata Admin.role" />
+    <SitecoreRole Include="Sitecore Roles\modules\Feature Multisite Admin.role" />
     <SitecoreRole Include="Sitecore Roles\sitecore\Author.role" />
     <SitecoreRole Include="Sitecore Roles\sitecore\Designer.role" />
   </ItemGroup>
