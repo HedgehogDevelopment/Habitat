@@ -7,9 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>d3712d53-f781-4b3d-94b2-5d8b2629093b</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{b018c183-6976-4766-b2c0-0cba4c064aed}|src\feature\Social\code\Sitecore.Feature.Social.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Feature.Social.csproj</SourceWebVirtualPath>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
@@ -160,12 +157,6 @@
       <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
     </SitecoreItem>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\code\Sitecore.Feature.Social.csproj">
-      <Project>{b018c183-6976-4766-b2c0-0cba4c064aed}</Project>
-      <Name>Sitecore.Feature.Social</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <SitecoreRole Include="Sitecore Roles\modules\Feature Social Admin.role" />

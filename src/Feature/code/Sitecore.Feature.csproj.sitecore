@@ -116,7 +116,7 @@
   <File Include="Views\Person\Quote.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
     <Item DatabaseName="master">{A1AD34DD-535E-47AF-A911-34C57CCC26F6}</Item>
   </File>
-    <File Include="Views\Search\GlobalSearch.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+  <File Include="Views\Search\GlobalSearch.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
     <Item DatabaseName="master">{8C3A2CFC-18FB-4BF5-8584-50EA88978ED6}</Item>
   </File>
   <File Include="Views\Search\PagedSearchResults.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
@@ -127,5 +127,11 @@
   </File>
   <File Include="Views\Search\SearchResultsHeader.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
     <Item DatabaseName="master">{D1AAD687-8B93-44C8-9011-8E8CE2DD281F}</Item>
+  </File>
+  <File Include="Views\Social\OpenGraph.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{3389CAFC-000C-41E5-921C-92821B3DB7B5}</Item>
+  </File>
+  <File Include="Views\Social\TwitterFeed.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{0CF58F14-D0F8-4C41-9896-3D69048A0B19}</Item>
   </File>
 </Project>

@@ -282,6 +282,8 @@
     <Content Include="Views\Search\SearchFacets.cshtml" />
     <Content Include="Views\Search\SearchResults.cshtml" />
     <Content Include="Views\Search\SearchResultsHeader.cshtml" />
+    <Content Include="Views\Social\OpenGraph.cshtml" />
+    <Content Include="Views\Social\TwitterFeed.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -434,6 +436,8 @@
     <Compile Include="Search\Templates.cs" />
     <Compile Include="Sitecore\Shell\Applications\Content Manager\Dialogs\Maps\MapLocationPickerDialog.cs" />
     <Compile Include="Sitecore\Shell\Applications\ContentEditor\FieldTypes\MapField.cs" />
+    <Compile Include="Social\Models\TwitterFeedRenderingProperties.cs" />
+    <Compile Include="Social\Templates.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Foundation\Accounts\code\Sitecore.Foundation.Accounts.csproj">
