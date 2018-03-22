@@ -7,9 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>58fe88ed-c34f-40b4-ad15-73f5ab0b80f3</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{da079e95-db53-4a66-ab35-2dab71d19276}|src\feature\PageContent\code\Sitecore.Feature.PageContent.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Feature.PageContent.csproj</SourceWebVirtualPath>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
@@ -152,12 +149,6 @@
       <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
     </SitecoreItem>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\code\Sitecore.Feature.PageContent.csproj">
-      <Project>{da079e95-db53-4a66-ab35-2dab71d19276}</Project>
-      <Name>Sitecore.Feature.PageContent</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <SitecoreRole Include="Sitecore Roles\modules\Feature PageContent Admin.role" />
