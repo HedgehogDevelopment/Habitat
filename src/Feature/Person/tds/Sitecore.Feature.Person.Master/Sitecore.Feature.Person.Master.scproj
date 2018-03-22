@@ -7,9 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c1ee0036-1b56-4f22-b58a-3a9643dea346</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{452c63b5-6019-4ec2-9a9b-9b5dd3241485}|src\Feature\Person\code\Sitecore.Feature.Person.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Feature.Person.csproj</SourceWebVirtualPath>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
@@ -232,12 +229,6 @@
       <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
     </SitecoreItem>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\code\Sitecore.Feature.Person.csproj">
-      <Project>{452c63b5-6019-4ec2-9a9b-9b5dd3241485}</Project>
-      <Name>Sitecore.Feature.Person</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <SitecoreRole Include="Sitecore Roles\modules\Feature Person Admin.role" />
