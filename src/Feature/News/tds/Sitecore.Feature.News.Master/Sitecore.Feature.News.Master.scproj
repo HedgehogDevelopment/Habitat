@@ -7,9 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ccff3497-44a0-493e-a440-5e88abeeb4f4</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{1aad6f22-9b6d-4688-8ea5-1ae7044031f7}|src\feature\News\code\Sitecore.Feature.News.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Feature.News.csproj</SourceWebVirtualPath>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
@@ -152,12 +149,6 @@
       <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
     </SitecoreItem>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\code\Sitecore.Feature.News.csproj">
-      <Project>{1aad6f22-9b6d-4688-8ea5-1ae7044031f7}</Project>
-      <Name>Sitecore.Feature.News</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <SitecoreRole Include="Sitecore Roles\modules\Feature News Admin.role" />
