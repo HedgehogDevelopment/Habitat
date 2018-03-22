@@ -294,6 +294,15 @@
     <Content Include="Views\Teasers\TitleImageSummaryTeaser.cshtml" />
     <Content Include="Views\Teasers\TitleImageTeaser.cshtml" />
     <Content Include="Views\Teasers\TitleSummaryTeaser.cshtml" />
+    <Content Include="Views\Person\EmployeeContactHeader.cshtml" />
+    <Content Include="Views\Person\EmployeeContactTeaser.cshtml" />
+    <Content Include="Views\Person\EmployeeDetails.cshtml" />
+    <Content Include="Views\Person\EmployeeHeader.cshtml" />
+    <Content Include="Views\Person\EmployeesCarousel.cshtml" />
+    <Content Include="Views\Person\EmployeeSearchResult.cshtml" />
+    <Content Include="Views\Person\EmployeesList.cshtml" />
+    <Content Include="Views\Person\EmployeeTeaser.cshtml" />
+    <Content Include="Views\Person\Quote.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
