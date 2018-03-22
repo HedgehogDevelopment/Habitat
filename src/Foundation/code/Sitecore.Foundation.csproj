@@ -57,6 +57,12 @@
     <Reference Include="Sitecore.Analytics.Model, Version=10.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\..\packages\Sitecore.Analytics.Model.NoReferences.8.2.170728\lib\NET452\Sitecore.Analytics.Model.dll</HintPath>
     </Reference>
+    <Reference Include="Sitecore.Client, Version=10.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\packages\Sitecore.Client.NoReferences.8.2.170728\lib\NET452\Sitecore.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Sitecore.ExperienceEditor, Version=3.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\packages\Sitecore.ExperienceEditor.NoReferences.8.2.170728\lib\NET452\Sitecore.ExperienceEditor.dll</HintPath>
+    </Reference>
     <Reference Include="Sitecore.Kernel, Version=10.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\..\packages\Sitecore.Kernel.NoReferences.8.2.170728\lib\NET452\Sitecore.Kernel.dll</HintPath>
     </Reference>
@@ -104,6 +110,9 @@
     <Content Include="Views\Alerts\InfoMessage.cshtml" />
     <Content Include="Views\Web.config" />
     <Content Include="App_Config\Include\Foundation\Foundation.Alerts.config" />
+    <Content Include="App_Config\Include\Foundation\Foundation.FieldEditor.config">
+      <SubType>Designer</SubType>
+    </Content>
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -127,6 +136,8 @@
     <Compile Include="Alerts\Extensions\AlertHtmlHelpers.cs" />
     <Compile Include="Alerts\Models\InfoMessage.cs" />
     <Compile Include="Alerts\Pipelines\MvcException\InvalidDatasourceItemExceptionProcessor.cs" />
+    <Compile Include="FieldEditor\Infrastructure\EditAllFieldsCommand.cs" />
+    <Compile Include="FieldEditor\Services\GetFieldsToEditService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

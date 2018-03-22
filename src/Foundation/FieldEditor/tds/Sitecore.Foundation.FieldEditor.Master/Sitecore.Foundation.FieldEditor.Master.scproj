@@ -6,7 +6,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>65e58ff2-de32-4fd3-b858-a07219e0769e</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
     <SingleAssemblyName>Sitecore.Foundation.FieldEditor.Master</SingleAssemblyName>
@@ -16,9 +15,6 @@
     <AssemblyName>Sitecore.Foundation.FieldEditor.Master</AssemblyName>
     <Name>Sitecore.Foundation.FieldEditor.Master</Name>
     <RootNamespace>Sitecore.Foundation.FieldEditor.Master</RootNamespace>
-    <SourceWebVirtualPath>/Sitecore.Foundation.FieldEditor.csproj</SourceWebVirtualPath>
-    <SourceWebProject>{812c16c9-1e8a-42dc-a1c0-6896d570f63a}|src\Foundation\FieldEditor\code\Sitecore.Foundation.FieldEditor.csproj</SourceWebProject>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
     <ManageRoles>False</ManageRoles>
     <SitecoreDatabase>master</SitecoreDatabase>
   </PropertyGroup>
@@ -53,12 +49,6 @@
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
       <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
     </SitecoreItem>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\code\Sitecore.Foundation.FieldEditor.csproj">
-      <Project>{812c16c9-1e8a-42dc-a1c0-6896d570f63a}</Project>
-      <Name>Sitecore.Foundation.FieldEditor</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\HedgehogDevelopment\SitecoreProject\v9.0\HedgehogDevelopment.SitecoreProject.targets" Condition="Exists('$(MSBuildExtensionsPath)\HedgehogDevelopment\SitecoreProject\v9.0\HedgehogDevelopment.SitecoreProject.targets')" />
 </Project>
