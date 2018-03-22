@@ -44,10 +44,22 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <HintPath>..\..\..\packages\SharpZipLib.0.86.0\lib\20\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Lucene.Net, Version=3.0.3.0, Culture=neutral, PublicKeyToken=85089178b9ac3181, processorArchitecture=MSIL">
+      <HintPath>..\..\..\packages\Lucene.Net.3.0.3\lib\NET40\Lucene.Net.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\..\..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Extensions.DependencyInjection, Version=1.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\..\..\packages\Microsoft.Extensions.DependencyInjection.1.0.0\lib\netstandard1.1\Microsoft.Extensions.DependencyInjection.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\..\..\packages\Microsoft.Extensions.DependencyInjection.Abstractions.1.0.0\lib\netstandard1.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\..\..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
     </Reference>
@@ -80,6 +92,9 @@
     </Reference>
     <Reference Include="Sitecore.Analytics.Outcome, Version=10.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\..\packages\Sitecore.Analytics.Outcome.NoReferences.8.2.170728\lib\NET452\Sitecore.Analytics.Outcome.dll</HintPath>
+    </Reference>
+    <Reference Include="Sitecore.Buckets, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\packages\Sitecore.Buckets.NoReferences.8.2.170728\lib\NET452\Sitecore.Buckets.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.CES.DeviceDetection, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\..\packages\Sitecore.CES.DeviceDetection.NoReferences.8.2.170728\lib\NET452\Sitecore.CES.DeviceDetection.dll</HintPath>
@@ -171,6 +186,7 @@
     <Content Include="Scripts\Language\language.js" />
     <Content Include="Scripts\Maps\Maps.js" />
     <Content Include="Scripts\Maps\markerclusterer.js" />
+    <Content Include="Scripts\Search\search.js" />
     <Content Include="Sitecore\Shell\Applications\Content Manager\Dialogs\Maps\js\maplocationpickerdialog.js" />
     <Content Include="Sitecore\Shell\Applications\Content Manager\Dialogs\Maps\MapLocationPickerDialog.xml">
       <SubType>Designer</SubType>
@@ -260,6 +276,12 @@
     <Content Include="App_Config\Include\Feature\Feature.Person.config">
       <SubType>Designer</SubType>
     </Content>
+    <Content Include="App_Config\Include\Feature\Feature.Search.config" />
+    <Content Include="Views\Search\GlobalSearch.cshtml" />
+    <Content Include="Views\Search\PagedSearchResults.cshtml" />
+    <Content Include="Views\Search\SearchFacets.cshtml" />
+    <Content Include="Views\Search\SearchResults.cshtml" />
+    <Content Include="Views\Search\SearchResultsHeader.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -313,6 +335,7 @@
     <Compile Include="Controllers\NavigationController.cs" />
     <Compile Include="Controllers\NewsController.cs" />
     <Compile Include="Controllers\PersonController.cs" />
+    <Compile Include="Controllers\SearchController.cs" />
     <Compile Include="Demo\Models\Campaign.cs" />
     <Compile Include="Demo\Models\DemoContent.cs" />
     <Compile Include="Demo\Models\Device.cs" />
@@ -395,6 +418,20 @@
     <Compile Include="Person\Repositories\PersonRepository.cs" />
     <Compile Include="Person\Templates.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Search\App_Start\RouteConfig.cs" />
+    <Compile Include="Search\Factories\SearchResultsViewModelFactory.cs" />
+    <Compile Include="Search\Infrastructure\Pipelines\InitializeRoutes.cs" />
+    <Compile Include="Search\Infrastructure\Providers\DefaultFacetProvider.cs" />
+    <Compile Include="Search\Models\PagingSettings.cs" />
+    <Compile Include="Search\Models\SearchContext.cs" />
+    <Compile Include="Search\Models\SearchQuery.cs" />
+    <Compile Include="Search\Models\SearchResultsHeader.cs" />
+    <Compile Include="Search\Models\SearchResultsViewModel.cs" />
+    <Compile Include="Search\Repositories\ISearchContextRepository.cs" />
+    <Compile Include="Search\Repositories\SearchContextRepository.cs" />
+    <Compile Include="Search\Services\FacetQueryStringService.cs" />
+    <Compile Include="Search\Services\SearchService.cs" />
+    <Compile Include="Search\Templates.cs" />
     <Compile Include="Sitecore\Shell\Applications\Content Manager\Dialogs\Maps\MapLocationPickerDialog.cs" />
     <Compile Include="Sitecore\Shell\Applications\ContentEditor\FieldTypes\MapField.cs" />
   </ItemGroup>

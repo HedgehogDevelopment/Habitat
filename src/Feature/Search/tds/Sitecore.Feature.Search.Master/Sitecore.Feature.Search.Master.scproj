@@ -7,9 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>a39f8207-6ff7-443a-b39e-27e181542a37</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{55b9c026-e106-4185-8213-9cdd53b44e1b}|src\feature\Search\code\Sitecore.Feature.Search.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Feature.Search.csproj</SourceWebVirtualPath>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
@@ -160,12 +157,6 @@
       <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
     </SitecoreItem>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\code\Sitecore.Feature.Search.csproj">
-      <Project>{55b9c026-e106-4185-8213-9cdd53b44e1b}</Project>
-      <Name>Sitecore.Feature.Search</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <SitecoreRole Include="Sitecore Roles\modules\Feature Search Admin.role" />
