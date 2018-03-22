@@ -7,10 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>028439a6-441c-49ad-a240-a7763ec508ea</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{ce34a3b7-b91a-41ba-8b16-c1e131e1c621}|src\Foundation\Accounts\code\Sitecore.Foundation.Accounts.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Foundation.Accounts.csproj</SourceWebVirtualPath>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
     <SingleAssemblyName>Sitecore.Foundation.Accounts.Master</SingleAssemblyName>

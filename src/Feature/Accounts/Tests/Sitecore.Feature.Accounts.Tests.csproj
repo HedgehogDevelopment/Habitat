@@ -220,13 +220,13 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Foundation\Accounts\code\Sitecore.Foundation.Accounts.csproj">
-      <Project>{CE34A3B7-B91A-41BA-8B16-C1E131E1C621}</Project>
-      <Name>Sitecore.Foundation.Accounts</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\..\Foundation\Alerts\code\Sitecore.Foundation.Alerts.csproj">
       <Project>{5cf5fa06-ab27-4df5-a471-ed57ef3e4ae9}</Project>
       <Name>Sitecore.Foundation.Alerts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Foundation\code\Sitecore.Foundation.csproj">
+      <Project>{e50b27ec-209d-4903-8bd9-41af1c80c997}</Project>
+      <Name>Sitecore.Foundation</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\..\Foundation\Dictionary\code\Sitecore.Foundation.Dictionary.csproj">
       <Project>{0d6ba4d8-c469-4ae9-9ebb-93bdf7d7e78f}</Project>

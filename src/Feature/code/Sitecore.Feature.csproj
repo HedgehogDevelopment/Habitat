@@ -464,10 +464,6 @@
     <Compile Include="Teasers\Templates.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Foundation\Accounts\code\Sitecore.Foundation.Accounts.csproj">
-      <Project>{ce34a3b7-b91a-41ba-8b16-c1e131e1c621}</Project>
-      <Name>Sitecore.Foundation.Accounts</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\Foundation\Alerts\code\Sitecore.Foundation.Alerts.csproj">
       <Project>{5cf5fa06-ab27-4df5-a471-ed57ef3e4ae9}</Project>
       <Name>Sitecore.Foundation.Alerts</Name>
