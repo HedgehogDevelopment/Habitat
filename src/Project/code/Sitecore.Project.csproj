@@ -274,10 +274,6 @@
     <Folder Include="Views\Website\Sublayouts\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Foundation\Alerts\code\Sitecore.Foundation.Alerts.csproj">
-      <Project>{5cf5fa06-ab27-4df5-a471-ed57ef3e4ae9}</Project>
-      <Name>Sitecore.Foundation.Alerts</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\Foundation\DependencyInjection\code\Sitecore.Foundation.DependencyInjection.csproj">
       <Project>{366148b7-2392-4f42-80d6-786b7a3682ae}</Project>
       <Name>Sitecore.Foundation.DependencyInjection</Name>

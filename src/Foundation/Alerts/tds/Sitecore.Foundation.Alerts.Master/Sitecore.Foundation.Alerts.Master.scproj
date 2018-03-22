@@ -7,10 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6585d32b-ef87-41b2-9be5-c049024f138a</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{5cf5fa06-ab27-4df5-a471-ed57ef3e4ae9}|src\Foundation\Alerts\code\Sitecore.Foundation.Alerts.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Foundation.Alerts.csproj</SourceWebVirtualPath>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
     <SingleAssemblyName>Sitecore.Foundation.Alerts.Master</SingleAssemblyName>

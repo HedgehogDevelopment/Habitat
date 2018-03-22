@@ -193,9 +193,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Foundation\Alerts\code\Sitecore.Foundation.Alerts.csproj">
-      <Project>{5CF5FA06-AB27-4DF5-A471-ED57EF3E4AE9}</Project>
-      <Name>Sitecore.Foundation.Alerts</Name>
+    <ProjectReference Include="..\..\..\Foundation\code\Sitecore.Foundation.csproj">
+      <Project>{e50b27ec-209d-4903-8bd9-41af1c80c997}</Project>
+      <Name>Sitecore.Foundation</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\..\Foundation\Dictionary\code\Sitecore.Foundation.Dictionary.csproj">
       <Project>{0D6BA4D8-C469-4AE9-9EBB-93BDF7D7E78F}</Project>

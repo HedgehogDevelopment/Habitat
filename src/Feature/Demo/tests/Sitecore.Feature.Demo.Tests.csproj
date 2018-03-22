@@ -219,10 +219,6 @@
     <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Foundation\Alerts\code\Sitecore.Foundation.Alerts.csproj">
-      <Project>{5CF5FA06-AB27-4DF5-A471-ED57EF3E4AE9}</Project>
-      <Name>Sitecore.Foundation.Alerts</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\..\Foundation\code\Sitecore.Foundation.csproj">
       <Project>{e50b27ec-209d-4903-8bd9-41af1c80c997}</Project>
       <Name>Sitecore.Foundation</Name>
