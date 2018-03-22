@@ -176,6 +176,7 @@
     <SitecoreRole Include="Sitecore Roles\modules\Feature Navigation Admin.role" />
     <SitecoreRole Include="Sitecore Roles\modules\Feature News Admin.role" />
     <SitecoreRole Include="Sitecore Roles\modules\Feature PageContent Admin.role" />
+    <SitecoreRole Include="Sitecore Roles\modules\Feature Person Admin.role" />
     <SitecoreRole Include="Sitecore Roles\sitecore\Author.role" />
     <SitecoreRole Include="Sitecore Roles\sitecore\Designer.role" />
   </ItemGroup>
