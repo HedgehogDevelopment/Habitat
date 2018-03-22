@@ -7,9 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>feb3bdca-6086-4c2d-b021-a8c399ebeae6</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{a7b7ec6a-5804-4352-9655-06eb07f033fa}|src\Foundation\Forms\code\Sitecore.Foundation.Forms.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Foundation.Forms.csproj</SourceWebVirtualPath>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
@@ -41,12 +38,6 @@
     <AssemblyAttributes Include="AssemblyVersion">
       <Value>$(AssemblyVersion)</Value>
     </AssemblyAttributes>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\code\Sitecore.Foundation.Forms.csproj">
-      <Project>{a7b7ec6a-5804-4352-9655-06eb07f033fa}</Project>
-      <Name>Sitecore.Foundation.Forms</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\HedgehogDevelopment\SitecoreProject\v9.0\HedgehogDevelopment.SitecoreProject.targets" Condition="Exists('$(MSBuildExtensionsPath)\HedgehogDevelopment\SitecoreProject\v9.0\HedgehogDevelopment.SitecoreProject.targets')" />
   <ItemGroup>

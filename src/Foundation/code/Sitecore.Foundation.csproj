@@ -44,6 +44,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="HtmlAgilityPack, Version=1.4.6.0, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a, processorArchitecture=MSIL">
+      <HintPath>..\..\..\packages\HtmlAgilityPack.1.4.6\lib\Net45\HtmlAgilityPack.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\..\..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
     </Reference>
@@ -57,17 +60,29 @@
     <Reference Include="Sitecore.Analytics.Model, Version=10.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\..\packages\Sitecore.Analytics.Model.NoReferences.8.2.170728\lib\NET452\Sitecore.Analytics.Model.dll</HintPath>
     </Reference>
+    <Reference Include="Sitecore.Analytics.Outcome, Version=10.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\packages\Sitecore.Analytics.Outcome.NoReferences.8.2.170728\lib\NET452\Sitecore.Analytics.Outcome.dll</HintPath>
+    </Reference>
     <Reference Include="Sitecore.Client, Version=10.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\..\packages\Sitecore.Client.NoReferences.8.2.170728\lib\NET452\Sitecore.Client.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.ExperienceEditor, Version=3.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\..\packages\Sitecore.ExperienceEditor.NoReferences.8.2.170728\lib\NET452\Sitecore.ExperienceEditor.dll</HintPath>
     </Reference>
+    <Reference Include="Sitecore.Forms.Core, Version=8.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\packages\Sitecore.Forms.Core.NoReferences.8.2.170413\lib\NET452\Sitecore.Forms.Core.dll</HintPath>
+    </Reference>
     <Reference Include="Sitecore.Kernel, Version=10.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\..\packages\Sitecore.Kernel.NoReferences.8.2.170728\lib\NET452\Sitecore.Kernel.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.Mvc, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\..\packages\Sitecore.Mvc.NoReferences.8.2.170728\lib\NET452\Sitecore.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="Sitecore.WFFM.Abstractions, Version=8.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\packages\Sitecore.WFFM.Abstractions.NoReferences.8.2.170807\lib\NET452\Sitecore.WFFM.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Sitecore.WFFM.Actions, Version=8.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\packages\Sitecore.WFFM.Actions.NoReferences.8.2.170807\lib\NET452\Sitecore.WFFM.Actions.dll</HintPath>
     </Reference>
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="System.Web.DynamicData" />
@@ -107,12 +122,16 @@
     <Content Include="packages.config" />
     <Content Include="App_Config\Include\Foundation\Foundation.Accounts.config" />
     <Content Include="App_Config\Security\domains.config.transform" />
+    <Content Include="sitecore\shell\Applications\Dialogs\Forms\OutcomeEditor.xml">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Views\Alerts\InfoMessage.cshtml" />
     <Content Include="Views\Web.config" />
     <Content Include="App_Config\Include\Foundation\Foundation.Alerts.config" />
     <Content Include="App_Config\Include\Foundation\Foundation.FieldEditor.config">
       <SubType>Designer</SubType>
     </Content>
+    <Content Include="Views\Form\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -138,6 +157,13 @@
     <Compile Include="Alerts\Pipelines\MvcException\InvalidDatasourceItemExceptionProcessor.cs" />
     <Compile Include="FieldEditor\Infrastructure\EditAllFieldsCommand.cs" />
     <Compile Include="FieldEditor\Services\GetFieldsToEditService.cs" />
+    <Compile Include="Forms\ActionEditors\BaseActionEditor.cs" />
+    <Compile Include="Forms\ActionEditors\OutcomeEditor.cs" />
+    <Compile Include="Forms\Constants.cs" />
+    <Compile Include="Forms\SaveActions\RegisterOutcome.cs" />
+    <Compile Include="Forms\Services\ISheerService.cs" />
+    <Compile Include="Forms\Services\SheerService.cs" />
+    <Compile Include="Forms\Templates.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
