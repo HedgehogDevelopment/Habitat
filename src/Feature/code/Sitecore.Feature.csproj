@@ -284,6 +284,16 @@
     <Content Include="Views\Search\SearchResultsHeader.cshtml" />
     <Content Include="Views\Social\OpenGraph.cshtml" />
     <Content Include="Views\Social\TwitterFeed.cshtml" />
+    <Content Include="Views\Teasers\Accordion.cshtml" />
+    <Content Include="Views\Teasers\Headline.cshtml" />
+    <Content Include="Views\Teasers\Jumbotron.cshtml" />
+    <Content Include="Views\Teasers\JumbotronCarousel.cshtml" />
+    <Content Include="Views\Teasers\JumbotronHeader.cshtml" />
+    <Content Include="Views\Teasers\Tabs.cshtml" />
+    <Content Include="Views\Teasers\TeaserCarousel.cshtml" />
+    <Content Include="Views\Teasers\TitleImageSummaryTeaser.cshtml" />
+    <Content Include="Views\Teasers\TitleImageTeaser.cshtml" />
+    <Content Include="Views\Teasers\TitleSummaryTeaser.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -338,6 +348,7 @@
     <Compile Include="Controllers\NewsController.cs" />
     <Compile Include="Controllers\PersonController.cs" />
     <Compile Include="Controllers\SearchController.cs" />
+    <Compile Include="Controllers\TeasersController.cs" />
     <Compile Include="Demo\Models\Campaign.cs" />
     <Compile Include="Demo\Models\DemoContent.cs" />
     <Compile Include="Demo\Models\Device.cs" />
@@ -438,6 +449,10 @@
     <Compile Include="Sitecore\Shell\Applications\ContentEditor\FieldTypes\MapField.cs" />
     <Compile Include="Social\Models\TwitterFeedRenderingProperties.cs" />
     <Compile Include="Social\Templates.cs" />
+    <Compile Include="Teasers\Extensions\DynamicTeaserModelExtensions.cs" />
+    <Compile Include="Teasers\Models\DynamicTeaserItem.cs" />
+    <Compile Include="Teasers\Models\DynamicTeaserModel.cs" />
+    <Compile Include="Teasers\Templates.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Foundation\Accounts\code\Sitecore.Foundation.Accounts.csproj">

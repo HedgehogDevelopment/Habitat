@@ -7,9 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>1e86efa3-0793-4e36-9c62-3af793b9028f</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{64c1c1ef-71cb-47bd-92f9-4e50ce35bd9f}|src\feature\Teasers\code\Sitecore.Feature.Teasers.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Feature.Teasers.csproj</SourceWebVirtualPath>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
@@ -312,12 +309,6 @@
       <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
     </SitecoreItem>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\code\Sitecore.Feature.Teasers.csproj">
-      <Project>{64c1c1ef-71cb-47bd-92f9-4e50ce35bd9f}</Project>
-      <Name>Sitecore.Feature.Teasers</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <SitecoreRole Include="Sitecore Roles\modules\Feature Teasers Admin.role" />
