@@ -6346,6 +6346,24 @@
       </ExcludeItemFrom>
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
     </SitecoreItem>
+    <SitecoreItem Include="sitecore\templates\Foundation\LocalDatasource.item">
+      <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+      <ItemDeployment>AlwaysUpdate</ItemDeployment>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\templates\Foundation\LocalDatasource\Local Datasource Folder.item">
+      <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+      <ItemDeployment>AlwaysUpdate</ItemDeployment>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\templates\Foundation\LocalDatasource\Local Datasource Folder\__Standard Values.item">
+      <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+      <ItemDeployment>AlwaysUpdate</ItemDeployment>
+    </SitecoreItem>
     <SitecoreItem Include="sitecore\templates\Project.item">
       <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
       <ExcludeItemFrom>
@@ -6989,6 +7007,42 @@
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
     </SitecoreItem>
     <SitecoreItem Include="sitecore\templates\Project\Habitat\Page Types\Section\__Standard Values.item">
+      <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+      <ItemDeployment>AlwaysUpdate</ItemDeployment>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\templates\System.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\templates\System\Layout.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\templates\System\Layout\Sections.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\templates\System\Layout\Sections\Rendering Options.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\templates\System\Layout\Sections\Rendering Options\Editor Options.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\templates\System\Layout\Sections\Rendering Options\Editor Options\Supports Local Datasource.item">
       <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
       <ExcludeItemFrom>
       </ExcludeItemFrom>
