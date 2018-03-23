@@ -208,6 +208,7 @@
     <SitecoreRole Include="Sitecore Roles\modules\Feature Search Admin.role" />
     <SitecoreRole Include="Sitecore Roles\modules\Feature Social Admin.role" />
     <SitecoreRole Include="Sitecore Roles\modules\Feature Teasers Admin.role" />
+    <SitecoreRole Include="Sitecore Roles\modules\Foundation Multisite Admin.role" />
     <SitecoreRole Include="Sitecore Roles\sitecore\Author.role" />
     <SitecoreRole Include="Sitecore Roles\sitecore\Designer.role" />
   </ItemGroup>
