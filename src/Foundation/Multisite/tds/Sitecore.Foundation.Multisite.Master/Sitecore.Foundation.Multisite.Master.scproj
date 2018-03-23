@@ -7,10 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>0ffda52a-7be3-44b0-a1c3-5a7305b4ca89</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{cfa2ae87-7f8d-4ca6-bb72-b16380190db7}|src\Foundation\Multisite\code\Sitecore.Foundation.Multisite.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Foundation.Multisite.csproj</SourceWebVirtualPath>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
     <SingleAssemblyName>Sitecore.Foundation.Multisite.Master</SingleAssemblyName>

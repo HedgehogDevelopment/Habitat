@@ -51,6 +51,12 @@
       <HintPath>..\..\..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Extensions.DependencyInjection, Version=1.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\..\..\packages\Microsoft.Extensions.DependencyInjection.1.0.0\lib\netstandard1.1\Microsoft.Extensions.DependencyInjection.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\..\..\packages\Microsoft.Extensions.DependencyInjection.Abstractions.1.0.0\lib\netstandard1.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.SqlServer.ConnectionInfo, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
       <HintPath>..\..\..\packages\Microsoft.SqlServer.Scripting.11.0.2100.61\lib\Microsoft.SqlServer.ConnectionInfo.dll</HintPath>
       <Private>True</Private>
@@ -193,6 +199,7 @@
     <Content Include="sitecore\shell\Applications\Dialogs\Forms\OutcomeEditor.xml">
       <SubType>Designer</SubType>
     </Content>
+    <Content Include="sitecore\shell\Applications\Dialogs\Multisite\DatasourceSettings.xml" />
     <Content Include="Views\Alerts\InfoMessage.cshtml" />
     <Content Include="Views\Web.config" />
     <Content Include="App_Config\Include\Foundation\Foundation.Alerts.config" />
@@ -202,6 +209,9 @@
     <Content Include="Views\Form\Index.cshtml" />
     <Content Include="App_Config\Include\Foundation\Foundation.Installer.config" />
     <Content Include="App_Config\Include\Foundation\Foundation.LocalDatasource.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="App_Config\Include\Foundation\Foundation.Multisite.config">
       <SubType>Designer</SubType>
     </Content>
     <None Include="Web.Debug.config">
@@ -269,6 +279,24 @@
     <Compile Include="LocalDatasource\Services\ItemReferenceReplacer.cs" />
     <Compile Include="LocalDatasource\Settings.cs" />
     <Compile Include="LocalDatasource\Templates.cs" />
+    <Compile Include="Multisite\Commands\CreateRenderingSettings.cs" />
+    <Compile Include="Multisite\Commands\OpenExperienceEditor.cs" />
+    <Compile Include="Multisite\Dialogs\DatasourceSettingsPage.cs" />
+    <Compile Include="Multisite\Pipelines\GetDatasourceLocationAndTemplateFromSite.cs" />
+    <Compile Include="Multisite\Pipelines\ResolveContentLanguage.cs" />
+    <Compile Include="Multisite\Placeholders\SiteSpecificPlaceholderCache.cs" />
+    <Compile Include="Multisite\Placeholders\SiteSpecificPlaceholderCacheManager.cs" />
+    <Compile Include="Multisite\Providers\DatasourceConfigurationService.cs" />
+    <Compile Include="Multisite\Providers\DatasourceProvider.cs" />
+    <Compile Include="Multisite\Providers\IDatasourceProvider.cs" />
+    <Compile Include="Multisite\Providers\ISiteDefinitionsProvider.cs" />
+    <Compile Include="Multisite\Providers\ISiteSettingsProvider.cs" />
+    <Compile Include="Multisite\Providers\SiteDefinitionsProvider.cs" />
+    <Compile Include="Multisite\Providers\SiteSettingsProvider.cs" />
+    <Compile Include="Multisite\ServicesConfigurator.cs" />
+    <Compile Include="Multisite\SiteContext.cs" />
+    <Compile Include="Multisite\SiteDefinition.cs" />
+    <Compile Include="Multisite\Templates.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
