@@ -7,10 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>d28dcfc0-a1b4-4f91-8038-19e0e1103e6a</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{323ca7a6-6abb-4652-abe2-75dab139cbc0}|src\Foundation\LocalDatasource\code\Sitecore.Foundation.LocalDatasource.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Foundation.LocalDatasource.csproj</SourceWebVirtualPath>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
     <SingleAssemblyName>Sitecore.Foundation.LocalDatasource.Master</SingleAssemblyName>
