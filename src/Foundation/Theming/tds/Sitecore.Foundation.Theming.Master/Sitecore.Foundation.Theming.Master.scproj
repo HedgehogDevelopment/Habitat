@@ -7,10 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>941aefd8-5bd3-46fb-b35c-e0ad5f267e9e</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{98de0d1d-26f1-4cca-847c-4e0fc2dba5fc}|src\Foundation\Theming\code\Sitecore.Foundation.Theming.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Foundation.Theming.csproj</SourceWebVirtualPath>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
     <SingleAssemblyName>Sitecore.Foundation.Theming.Master</SingleAssemblyName>

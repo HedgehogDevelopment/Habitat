@@ -175,13 +175,13 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\code\Sitecore.Foundation.Theming.csproj">
-      <Project>{98DE0D1D-26F1-4CCA-847C-4E0FC2DBA5FC}</Project>
-      <Name>Sitecore.Foundation.Theming</Name>
-    </ProjectReference>
+    <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
   </ItemGroup>
   <ItemGroup>
-    <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
+    <ProjectReference Include="..\..\code\Sitecore.Foundation.csproj">
+      <Project>{e50b27ec-209d-4903-8bd9-41af1c80c997}</Project>
+      <Name>Sitecore.Foundation</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
