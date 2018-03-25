@@ -8,18 +8,19 @@ name: QueryableDatasourceRenderingModel
 master: {00000000-0000-0000-0000-000000000000}
 template: {FED6A14F-0D05-4E18-B160-17C0588A2005}
 templatekey: Model
+created: 20180323T033659Z
 
 ----field----
 field: {EE9E23D2-181D-4172-A929-0E0B8D10313C}
 name: Model Type
 key: model type
-content-length: 102
+content-length: 93
 
-Sitecore.Foundation.Indexing.Rendering.QueryableDatasourceRenderingModel, Sitecore.Foundation.Indexing
+Sitecore.Foundation.Indexing.Rendering.QueryableDatasourceRenderingModel, Sitecore.Foundation
 ----version----
 language: en
 version: 1
-revision: f3e9e88f-23c6-4501-aa4f-36b0518dec7f
+revision: c8da6433-26c7-4309-b529-202af5bd3ad9
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -41,18 +42,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f3e9e88f-23c6-4501-aa4f-36b0518dec7f
+c8da6433-26c7-4309-b529-202af5bd3ad9
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160622T155944Z
+20180325T020813Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 16
+content-length: 14
 
-sitecore\unicorn
+sitecore\admin
