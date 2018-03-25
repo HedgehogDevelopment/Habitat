@@ -352,6 +352,9 @@
       <SubType>Designer</SubType>
     </Content>
     <Content Include="App_Config\Include\DynamicPlaceholders\DynamicPlaceholders.config" />
+    <Content Include="App_Config\Include\Foundation\Foundation.DependencyInjection.config">
+      <SubType>Designer</SubType>
+    </Content>
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -389,6 +392,10 @@
     <Compile Include="Assets\Repositories\AssetRepository.cs" />
     <Compile Include="Assets\Services\RenderAssetsService.cs" />
     <Compile Include="Assets\Templates.cs" />
+    <Compile Include="DependencyInjection\Infrastructure\MvcControllerServicesConfigurator.cs" />
+    <Compile Include="DependencyInjection\Lifetime.cs" />
+    <Compile Include="DependencyInjection\ServiceAttribute.cs" />
+    <Compile Include="DependencyInjection\ServiceCollectionExtensions.cs" />
     <Compile Include="Dictionary\Extensions\SitecoreExtensions.cs" />
     <Compile Include="Dictionary\Models\Dictionary.cs" />
     <Compile Include="Dictionary\Repositories\DictionaryPhraseRepository.cs" />
@@ -513,12 +520,6 @@
     <Compile Include="Theming\Extensions\Controls\BackgroundRendering.cs" />
     <Compile Include="Theming\Extensions\RenderingExtensions.cs" />
     <Compile Include="Theming\Templates.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\DependencyInjection\code\Sitecore.Foundation.DependencyInjection.csproj">
-      <Project>{366148b7-2392-4f42-80d6-786b7a3682ae}</Project>
-      <Name>Sitecore.Foundation.DependencyInjection</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="images\" />

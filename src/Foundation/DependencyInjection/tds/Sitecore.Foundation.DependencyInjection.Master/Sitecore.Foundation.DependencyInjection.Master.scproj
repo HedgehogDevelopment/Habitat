@@ -7,10 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>690482d5-10cc-4f8d-a301-7ef8c17a2e18</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{366148b7-2392-4f42-80d6-786b7a3682ae}|src\Foundation\DependencyInjection\code\Sitecore.Foundation.DependencyInjection.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Foundation.DependencyInjection.csproj</SourceWebVirtualPath>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
     <SingleAssemblyName>Sitecore.Foundation.DependencyInjection.Master</SingleAssemblyName>

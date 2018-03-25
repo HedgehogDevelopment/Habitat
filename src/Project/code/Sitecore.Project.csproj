@@ -273,12 +273,6 @@
   <ItemGroup>
     <Folder Include="Views\Website\Sublayouts\" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\Foundation\DependencyInjection\code\Sitecore.Foundation.DependencyInjection.csproj">
-      <Project>{366148b7-2392-4f42-80d6-786b7a3682ae}</Project>
-      <Name>Sitecore.Foundation.DependencyInjection</Name>
-    </ProjectReference>
-  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
