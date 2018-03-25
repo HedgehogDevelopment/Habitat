@@ -7,10 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>031de74a-d92d-4e68-90c3-8e99ec0d83a5</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{7e46ff93-ee05-412c-ac47-2a59a13da73c}|src\foundation\Assets\code\Sitecore.Foundation.Assets.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Foundation.Assets.csproj</SourceWebVirtualPath>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
     <SingleAssemblyName>Sitecore.Foundation.Assets.Master</SingleAssemblyName>

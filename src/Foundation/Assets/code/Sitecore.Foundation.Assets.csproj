@@ -115,21 +115,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\AssetContentType.cs" />
-    <Compile Include="Pipelines\GetPageRendering\AddRenderingAssets.cs" />
-    <Compile Include="Pipelines\GetPageRendering\AddPageAssets.cs" />
-    <Compile Include="Pipelines\GetPageRendering\ClearAssets.cs" />
-    <Compile Include="Pipelines\GetPageRendering\AddThemeAssets.cs" />
-    <Compile Include="Repositories\AssetRepository.cs" />
-    <Compile Include="Models\Asset.cs" />
-    <Compile Include="Models\AssetRequirementCache.cs" />
-    <Compile Include="Models\AssetRequirementList.cs" />
-    <Compile Include="Models\ScriptLocation.cs" />
-    <Compile Include="Models\AssetType.cs" />
-    <Compile Include="Pipelines\GetPageRendering\AddAssets.cs" />
-    <Compile Include="Templates.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Services\RenderAssetsService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\SitecoreExtensions\code\Sitecore.Foundation.SitecoreExtensions.csproj">
@@ -138,7 +124,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\Foundation\Foundation.Assets.config" />
     <Content Include="packages.config" />
     <None Include="Properties\PublishProfiles\Local.pubxml" />
     <None Include="web.config" />

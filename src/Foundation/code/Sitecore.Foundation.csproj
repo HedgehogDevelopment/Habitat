@@ -333,6 +333,9 @@
       <SubType>Designer</SubType>
     </Content>
     <Content Include="App_Config\Include\Foundation\Foundation.Dictionary.config" />
+    <Content Include="App_Config\Include\Foundation\Foundation.Assets.config">
+      <SubType>Designer</SubType>
+    </Content>
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -356,6 +359,20 @@
     <Compile Include="Alerts\Extensions\AlertHtmlHelpers.cs" />
     <Compile Include="Alerts\Models\InfoMessage.cs" />
     <Compile Include="Alerts\Pipelines\MvcException\InvalidDatasourceItemExceptionProcessor.cs" />
+    <Compile Include="Assets\Models\Asset.cs" />
+    <Compile Include="Assets\Models\AssetContentType.cs" />
+    <Compile Include="Assets\Models\AssetRequirementCache.cs" />
+    <Compile Include="Assets\Models\AssetRequirementList.cs" />
+    <Compile Include="Assets\Models\AssetType.cs" />
+    <Compile Include="Assets\Models\ScriptLocation.cs" />
+    <Compile Include="Assets\Pipelines\GetPageRendering\AddAssets.cs" />
+    <Compile Include="Assets\Pipelines\GetPageRendering\AddPageAssets.cs" />
+    <Compile Include="Assets\Pipelines\GetPageRendering\AddRenderingAssets.cs" />
+    <Compile Include="Assets\Pipelines\GetPageRendering\AddThemeAssets.cs" />
+    <Compile Include="Assets\Pipelines\GetPageRendering\ClearAssets.cs" />
+    <Compile Include="Assets\Repositories\AssetRepository.cs" />
+    <Compile Include="Assets\Services\RenderAssetsService.cs" />
+    <Compile Include="Assets\Templates.cs" />
     <Compile Include="Dictionary\Extensions\SitecoreExtensions.cs" />
     <Compile Include="Dictionary\Models\Dictionary.cs" />
     <Compile Include="Dictionary\Repositories\DictionaryPhraseRepository.cs" />
