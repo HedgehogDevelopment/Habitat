@@ -7294,11 +7294,20 @@
       <SourceWebVirtualPath>/Sitecore.Project.csproj</SourceWebVirtualPath>
       <SourceWebProjectId>3df06dfc-7efd-4181-8659-f29d95d2eabc</SourceWebProjectId>
     </SourceWebProjects>
+    <SourceWebProjects Include="{e50b27ec-209d-4903-8bd9-41af1c80c997}|src\Foundation\code\Sitecore.Foundation.csproj">
+      <SourceWebPhysicalPath>..\..\Foundation\code</SourceWebPhysicalPath>
+      <SourceWebVirtualPath>/Sitecore.Foundation.csproj</SourceWebVirtualPath>
+      <SourceWebProjectId>e50b27ec-209d-4903-8bd9-41af1c80c997</SourceWebProjectId>
+    </SourceWebProjects>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Feature\code\Sitecore.Feature.csproj">
       <Project>{1010cdc5-9c85-4f9f-96fd-506c3caa4933}</Project>
       <Name>Sitecore.Feature</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Foundation\code\Sitecore.Foundation.csproj">
+      <Project>{e50b27ec-209d-4903-8bd9-41af1c80c997}</Project>
+      <Name>Sitecore.Foundation</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\Project\code\Sitecore.Project.csproj">
       <Project>{3df06dfc-7efd-4181-8659-f29d95d2eabc}</Project>

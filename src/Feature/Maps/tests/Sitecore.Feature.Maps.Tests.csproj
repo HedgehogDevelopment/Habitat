@@ -184,9 +184,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\foundation\Indexing\code\Sitecore.Foundation.Indexing.csproj">
-      <Project>{80213F24-577F-4F0B-A3B8-62485EA4D2F3}</Project>
-      <Name>Sitecore.Foundation.Indexing</Name>
+    <ProjectReference Include="..\..\..\Foundation\code\Sitecore.Foundation.csproj">
+      <Project>{e50b27ec-209d-4903-8bd9-41af1c80c997}</Project>
+      <Name>Sitecore.Foundation</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\..\Foundation\Testing\tests\Sitecore.Foundation.Testing.csproj">
       <Project>{7cc3d72b-4518-4b78-be48-630a263c0f5b}</Project>

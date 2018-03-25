@@ -7,10 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>0b38465a-bb8b-4414-8d00-6204829500bd</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{80213f24-577f-4f0b-a3b8-62485ea4d2f3}|src\foundation\Indexing\code\Sitecore.Foundation.Indexing.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Foundation.Indexing.csproj</SourceWebVirtualPath>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
     <SingleAssemblyName>Sitecore.Foundation.Indexing.Master</SingleAssemblyName>
