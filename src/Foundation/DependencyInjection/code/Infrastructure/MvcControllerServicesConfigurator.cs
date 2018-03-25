@@ -12,6 +12,7 @@
             serviceCollection.AddClassesWithServiceAttribute("*.Feature.*");
             serviceCollection.AddClassesWithServiceAttribute("Sitecore.Feature");
             serviceCollection.AddClassesWithServiceAttribute("*.Foundation.*");
+            serviceCollection.AddClassesWithServiceAttribute("*.Foundation");
         }
     }
 }
