@@ -7,10 +7,6 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>5017b3bf-e175-4c13-9500-b64ddb3ce0a5</ProjectGuid>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <SourceWebPhysicalPath>..\..\code</SourceWebPhysicalPath>
-    <SourceWebProject>{0d6ba4d8-c469-4ae9-9ebb-93bdf7d7e78f}|src\Foundation\Dictionary\code\Sitecore.Foundation.Dictionary.csproj</SourceWebProject>
-    <SourceWebVirtualPath>/Sitecore.Foundation.Dictionary.csproj</SourceWebVirtualPath>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <EnableUpdateable>true</EnableUpdateable>
     <UseMerge>true</UseMerge>
     <SingleAssemblyName>Sitecore.Foundation.Dictionary.Master</SingleAssemblyName>
