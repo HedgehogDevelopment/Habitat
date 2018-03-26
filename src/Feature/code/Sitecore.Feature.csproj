@@ -181,20 +181,20 @@
     <Content Include="packages.config">
       <SubType>Designer</SubType>
     </Content>
-    <Content Include="Scripts\Accounts\Accounts.js" />
-    <Content Include="Scripts\Demo\VisitDetails.js" />
-    <Content Include="Scripts\Language\language.js" />
-    <Content Include="Scripts\Maps\Maps.js" />
-    <Content Include="Scripts\Maps\markerclusterer.js" />
-    <Content Include="Scripts\Search\search.js" />
-    <Content Include="Sitecore\Shell\Applications\Content Manager\Dialogs\Maps\js\maplocationpickerdialog.js" />
-    <Content Include="Sitecore\Shell\Applications\Content Manager\Dialogs\Maps\MapLocationPickerDialog.xml">
+    <Content Include="scripts\Accounts\Accounts.js" />
+    <Content Include="scripts\Demo\VisitDetails.js" />
+    <Content Include="scripts\Language\language.js" />
+    <Content Include="scripts\Maps\Maps.js" />
+    <Content Include="scripts\Maps\markerclusterer.js" />
+    <Content Include="scripts\Search\search.js" />
+    <Content Include="sitecore\Shell\Applications\Content Manager\Dialogs\Maps\js\maplocationpickerdialog.js" />
+    <Content Include="sitecore\Shell\Applications\Content Manager\Dialogs\Maps\MapLocationPickerDialog.xml">
       <SubType>Designer</SubType>
     </Content>
-    <Content Include="Styles\maps\maps.css">
+    <Content Include="styles\maps\maps.css">
       <DependentUpon>maps.scss</DependentUpon>
     </Content>
-    <Content Include="Styles\maps\maps.min.css">
+    <Content Include="styles\maps\maps.min.css">
       <DependentUpon>maps.css</DependentUpon>
     </Content>
     <Content Include="Views\Accounts\_Login.cshtml" />
@@ -225,7 +225,7 @@
     <Content Include="Views\Identity\Logo.cshtml" />
     <Content Include="Views\Language\LanguageSelector.cshtml" />
     <Content Include="App_Config\Include\Feature\Feature.Language.config" />
-    <Content Include="Styles\maps\maps.scss" />
+    <Content Include="styles\maps\maps.scss" />
     <Content Include="Views\Maps\Map.cshtml" />
     <Content Include="App_Config\Include\Feature\Feature.Maps.config">
       <SubType>Designer</SubType>
@@ -454,8 +454,8 @@
     <Compile Include="Search\Services\FacetQueryStringService.cs" />
     <Compile Include="Search\Services\SearchService.cs" />
     <Compile Include="Search\Templates.cs" />
-    <Compile Include="Sitecore\Shell\Applications\Content Manager\Dialogs\Maps\MapLocationPickerDialog.cs" />
-    <Compile Include="Sitecore\Shell\Applications\ContentEditor\FieldTypes\MapField.cs" />
+    <Compile Include="sitecore\Shell\Applications\Content Manager\Dialogs\Maps\MapLocationPickerDialog.cs" />
+    <Compile Include="sitecore\Shell\Applications\ContentEditor\FieldTypes\MapField.cs" />
     <Compile Include="Social\Models\TwitterFeedRenderingProperties.cs" />
     <Compile Include="Social\Templates.cs" />
     <Compile Include="Teasers\Extensions\DynamicTeaserModelExtensions.cs" />
