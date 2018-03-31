@@ -201,6 +201,8 @@
     <Compile Include="Language\Extensions\AutoLanguageDbDataAttribute.cs" />
     <Compile Include="Language\LanguageFactoryTests.cs" />
     <Compile Include="Language\LanguageRepositoryTests.cs" />
+    <Compile Include="Maps\MapsControllerTests.cs" />
+    <Compile Include="Maps\MapsPointsRepositoryTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
