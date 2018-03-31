@@ -198,6 +198,9 @@
     <Compile Include="Demo\Repositories\VisitsRepositoryTests.cs" />
     <Compile Include="Demo\Services\BehaviorProfileDecoratorTests.cs" />
     <Compile Include="Demo\Services\ProfileProviderTests.cs" />
+    <Compile Include="Language\Extensions\AutoLanguageDbDataAttribute.cs" />
+    <Compile Include="Language\LanguageFactoryTests.cs" />
+    <Compile Include="Language\LanguageRepositoryTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
