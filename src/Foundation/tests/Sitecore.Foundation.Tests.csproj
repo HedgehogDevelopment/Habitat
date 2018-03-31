@@ -215,6 +215,10 @@
     <Compile Include="Installer\TransformsProviderTests.cs" />
     <Compile Include="Installer\XdtTransformEngineTests.cs" />
     <Compile Include="Installer\XmlTransformActionTests.cs" />
+    <Compile Include="LocalDatasource\GetLocalDatasourceLocationTests.cs" />
+    <Compile Include="LocalDatasource\ItemExtensionsTests.cs" />
+    <Compile Include="LocalDatasource\ItemReferenceReplacerTests.cs" />
+    <Compile Include="LocalDatasource\UpdateLocalDatasourceReferencesService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
