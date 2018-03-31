@@ -227,6 +227,15 @@
     <Compile Include="Multisite\SiteDefinitionProviderTests.cs" />
     <Compile Include="Multisite\SiteSettingsProviderTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SitecoreExtensions\Attributes\SkipAnalyticsTrackingAttributeTests.cs" />
+    <Compile Include="SitecoreExtensions\Attributes\ValidateRenderingIdAttributeTests.cs" />
+    <Compile Include="SitecoreExtensions\AutoDbMvcDataAttribute.cs" />
+    <Compile Include="SitecoreExtensions\Extensions\HTMLHelperExtensionsTests.cs" />
+    <Compile Include="SitecoreExtensions\Extensions\ItemExtensionsTests.cs" />
+    <Compile Include="SitecoreExtensions\Extensions\MediaTemplate.cs" />
+    <Compile Include="SitecoreExtensions\Extensions\StringExtensionsTests.cs" />
+    <Compile Include="SitecoreExtensions\Repositories\RenderingPropertiesRepositoryTests.cs" />
+    <Compile Include="SitecoreExtensions\Services\TrackerServiceTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
