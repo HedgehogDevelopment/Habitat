@@ -207,6 +207,9 @@
     <Compile Include="Media\Infrastructure\MediaTemplate.cs" />
     <Compile Include="Media\Infrastructure\VideoTemplate.cs" />
     <Compile Include="Media\Repositories\MediaSelectorElementsRepositoryTests.cs" />
+    <Compile Include="Multisite\MultisiteControllerTests.cs" />
+    <Compile Include="Multisite\SiteConfigurationRepositoryTests.cs" />
+    <Compile Include="Multisite\SiteConfigurationsTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -230,6 +233,7 @@
       <Name>Sitecore.Feature</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
