@@ -219,6 +219,13 @@
     <Compile Include="LocalDatasource\ItemExtensionsTests.cs" />
     <Compile Include="LocalDatasource\ItemReferenceReplacerTests.cs" />
     <Compile Include="LocalDatasource\UpdateLocalDatasourceReferencesService.cs" />
+    <Compile Include="Multisite\DatasourceConfigurationServiceTests.cs" />
+    <Compile Include="Multisite\DatasourceProviderTests.cs" />
+    <Compile Include="Multisite\Extensions\AutoDbDataAttribute.cs" />
+    <Compile Include="Multisite\Pipelines\GetDataSourceLocationAndTemplateFromSiteTests.cs" />
+    <Compile Include="Multisite\SiteContextTests.cs" />
+    <Compile Include="Multisite\SiteDefinitionProviderTests.cs" />
+    <Compile Include="Multisite\SiteSettingsProviderTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
