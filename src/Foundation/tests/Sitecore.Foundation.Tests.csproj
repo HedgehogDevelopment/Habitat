@@ -206,6 +206,15 @@
     <Compile Include="Forms\RegisterOutcomeTests.cs" />
     <Compile Include="Indexing\Repositories\SearchServiceRepositoryTests.cs" />
     <Compile Include="Indexing\Services\SearchServiceTests.cs" />
+    <Compile Include="Installer\AccountsEnableActionTests.cs" />
+    <Compile Include="Installer\AutoSububstituteDataAttribute.cs" />
+    <Compile Include="Installer\MongoRestore\MongoRestoreProcessorTests.cs" />
+    <Compile Include="Installer\MongoRestore\MongoRestoreServiceTests.cs" />
+    <Compile Include="Installer\PostStepTests.cs" />
+    <Compile Include="Installer\ProcessRunnerTests.cs" />
+    <Compile Include="Installer\TransformsProviderTests.cs" />
+    <Compile Include="Installer\XdtTransformEngineTests.cs" />
+    <Compile Include="Installer\XmlTransformActionTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
