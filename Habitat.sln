@@ -26,17 +26,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{9A8FD752-FF60-4789-8251-E1D8FF290F3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Indexing.Tests", "src\foundation\Indexing\tests\Sitecore.Foundation.Indexing.Tests.csproj", "{3ECFDA25-B8AE-43F5-9CA9-4AFDF1F96901}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.SitecoreExtensions.Tests", "src\foundation\SitecoreExtensions\tests\Sitecore.Foundation.SitecoreExtensions.Tests.csproj", "{85F735B7-9BEE-43C3-94DF-539CE267F0B9}"
 	ProjectSection(ProjectDependencies) = postProject
 		{57295D42-6C03-455B-8202-12AEAF233677} = {57295D42-6C03-455B-8202-12AEAF233677}
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Installer.Tests", "src\foundation\Installer\tests\Sitecore.Foundation.Installer.Tests.csproj", "{EDD5B894-28C3-4FB5-8A85-AFD9C2FD823D}"
-	ProjectSection(ProjectDependencies) = postProject
-		{3ECFDA25-B8AE-43F5-9CA9-4AFDF1F96901} = {3ECFDA25-B8AE-43F5-9CA9-4AFDF1F96901}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Multisite.Tests", "src\Foundation\Multisite\tests\Sitecore.Foundation.Multisite.Tests.csproj", "{57295D42-6C03-455B-8202-12AEAF233677}"
 	ProjectSection(ProjectDependencies) = postProject
@@ -86,13 +81,6 @@ Global
 		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3ECFDA25-B8AE-43F5-9CA9-4AFDF1F96901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3ECFDA25-B8AE-43F5-9CA9-4AFDF1F96901}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3ECFDA25-B8AE-43F5-9CA9-4AFDF1F96901}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{3ECFDA25-B8AE-43F5-9CA9-4AFDF1F96901}.Debug|x64.Build.0 = Debug|Any CPU
-		{3ECFDA25-B8AE-43F5-9CA9-4AFDF1F96901}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3ECFDA25-B8AE-43F5-9CA9-4AFDF1F96901}.Release|x64.ActiveCfg = Release|Any CPU
-		{3ECFDA25-B8AE-43F5-9CA9-4AFDF1F96901}.Release|x64.Build.0 = Release|Any CPU
 		{85F735B7-9BEE-43C3-94DF-539CE267F0B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{85F735B7-9BEE-43C3-94DF-539CE267F0B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85F735B7-9BEE-43C3-94DF-539CE267F0B9}.Debug|x64.ActiveCfg = Debug|Any CPU
@@ -204,7 +192,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{3ECFDA25-B8AE-43F5-9CA9-4AFDF1F96901} = {E57BE37D-7428-454A-A5B4-1C426D43A284}
 		{85F735B7-9BEE-43C3-94DF-539CE267F0B9} = {E57BE37D-7428-454A-A5B4-1C426D43A284}
 		{EDD5B894-28C3-4FB5-8A85-AFD9C2FD823D} = {E57BE37D-7428-454A-A5B4-1C426D43A284}
 		{57295D42-6C03-455B-8202-12AEAF233677} = {E57BE37D-7428-454A-A5B4-1C426D43A284}

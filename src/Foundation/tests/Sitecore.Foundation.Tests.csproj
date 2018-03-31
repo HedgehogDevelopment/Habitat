@@ -204,6 +204,8 @@
     <Compile Include="FieldEditor\Services\GetFieldsToEditServiceTests.cs" />
     <Compile Include="Forms\BaseActionEditorTests.cs" />
     <Compile Include="Forms\RegisterOutcomeTests.cs" />
+    <Compile Include="Indexing\Repositories\SearchServiceRepositoryTests.cs" />
+    <Compile Include="Indexing\Services\SearchServiceTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
