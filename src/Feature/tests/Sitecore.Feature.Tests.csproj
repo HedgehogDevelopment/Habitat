@@ -219,6 +219,8 @@
     <Compile Include="News\NewsIndexingProviderTests.cs" />
     <Compile Include="News\NewsRepositoryTests.cs" />
     <Compile Include="News\SearchSettingsTests.cs" />
+    <Compile Include="Person\InlineAutoDbDataAttribute.cs" />
+    <Compile Include="Person\PersonIndexingProviderTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
