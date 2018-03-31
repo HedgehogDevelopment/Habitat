@@ -35,6 +35,6 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyFileVersion("1.0.0.0")]
 
 #if DEBUG
-[assembly: InternalsVisibleTo("Sitecore.Foundation.Dictionary.Tests")]
+[assembly: InternalsVisibleTo("Sitecore.Foundation.Tests")]
 
 #endif

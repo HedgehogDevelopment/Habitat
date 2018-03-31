@@ -184,6 +184,11 @@
     <Compile Include="Accounts\Providers\ContactProfileProviderTests.cs" />
     <Compile Include="Alerts\Helpers\AlertHtmlHelpersTests.cs" />
     <Compile Include="Alerts\Pipelines\InvalidDatasourceItemExceptionProcessorTests.cs" />
+    <Compile Include="Dictionary\Repositories\DictionaryPhraseRepositoryCacheTests.cs" />
+    <Compile Include="Dictionary\Repositories\DictionaryPhraseRepositoryTests.cs" />
+    <Compile Include="Dictionary\Repositories\DictionaryRepositoryTests.cs" />
+    <Compile Include="Dictionary\Services\CreateDictionaryEntryServiceTests.cs" />
+    <Compile Include="Dictionary\SitecoreExtensionsTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
