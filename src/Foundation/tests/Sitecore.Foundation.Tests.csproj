@@ -236,6 +236,9 @@
     <Compile Include="SitecoreExtensions\Extensions\StringExtensionsTests.cs" />
     <Compile Include="SitecoreExtensions\Repositories\RenderingPropertiesRepositoryTests.cs" />
     <Compile Include="SitecoreExtensions\Services\TrackerServiceTests.cs" />
+    <Compile Include="Theming\Extensions\AutoDbDataAttribute.cs" />
+    <Compile Include="Theming\Extensions\AutoDbDataWithExtension.cs" />
+    <Compile Include="Theming\RenderingExtensionsTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />

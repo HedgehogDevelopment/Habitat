@@ -28,8 +28,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{9A8F
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testing", "Testing", "{1B850A0C-6B4F-4189-89F3-7A16E9592291}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Theming.Tests", "src\Foundation\Theming\tests\Sitecore.Foundation.Theming.Tests.csproj", "{A4C73B2A-8F4A-48C5-BFEE-EA31B3DC34D3}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Testing", "src\Foundation\Testing\tests\Sitecore.Foundation.Testing.csproj", "{7CC3D72B-4518-4B78-BE48-630A263C0F5B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Project", "src\Project\code\Sitecore.Project.csproj", "{3DF06DFC-7EFD-4181-8659-F29D95D2EABC}"
@@ -61,13 +59,6 @@ Global
 		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A4C73B2A-8F4A-48C5-BFEE-EA31B3DC34D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A4C73B2A-8F4A-48C5-BFEE-EA31B3DC34D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A4C73B2A-8F4A-48C5-BFEE-EA31B3DC34D3}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{A4C73B2A-8F4A-48C5-BFEE-EA31B3DC34D3}.Debug|x64.Build.0 = Debug|Any CPU
-		{A4C73B2A-8F4A-48C5-BFEE-EA31B3DC34D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A4C73B2A-8F4A-48C5-BFEE-EA31B3DC34D3}.Release|x64.ActiveCfg = Release|Any CPU
-		{A4C73B2A-8F4A-48C5-BFEE-EA31B3DC34D3}.Release|x64.Build.0 = Release|Any CPU
 		{7CC3D72B-4518-4B78-BE48-630A263C0F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7CC3D72B-4518-4B78-BE48-630A263C0F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CC3D72B-4518-4B78-BE48-630A263C0F5B}.Debug|x64.ActiveCfg = Debug|Any CPU
