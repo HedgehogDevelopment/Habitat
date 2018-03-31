@@ -131,6 +131,12 @@
     <Reference Include="Sitecore.Nexus, Version=1.0.4430.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\..\packages\Sitecore.Nexus.NoReferences.8.2.170728\lib\NET452\Sitecore.Nexus.dll</HintPath>
     </Reference>
+    <Reference Include="Sitecore.WFFM.Abstractions, Version=8.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\packages\Sitecore.WFFM.Abstractions.NoReferences.8.2.170807\lib\NET452\Sitecore.WFFM.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Sitecore.WFFM.Actions, Version=8.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\packages\Sitecore.WFFM.Actions.NoReferences.8.2.170807\lib\NET452\Sitecore.WFFM.Actions.dll</HintPath>
+    </Reference>
     <Reference Include="Sitecore.Xdb.Configuration, Version=10.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\..\packages\Sitecore.Xdb.Configuration.NoReferences.8.2.170728\lib\NET452\Sitecore.Xdb.Configuration.dll</HintPath>
     </Reference>
@@ -196,6 +202,8 @@
     <Compile Include="Dictionary\Services\CreateDictionaryEntryServiceTests.cs" />
     <Compile Include="Dictionary\SitecoreExtensionsTests.cs" />
     <Compile Include="FieldEditor\Services\GetFieldsToEditServiceTests.cs" />
+    <Compile Include="Forms\BaseActionEditorTests.cs" />
+    <Compile Include="Forms\RegisterOutcomeTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -214,6 +222,9 @@
   </ItemGroup>
   <ItemGroup>
     <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Forms\ActionEditors\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
