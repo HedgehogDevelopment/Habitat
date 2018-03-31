@@ -203,6 +203,10 @@
     <Compile Include="Language\LanguageRepositoryTests.cs" />
     <Compile Include="Maps\MapsControllerTests.cs" />
     <Compile Include="Maps\MapsPointsRepositoryTests.cs" />
+    <Compile Include="Media\Infrastructure\MediaSelectorTemplate.cs" />
+    <Compile Include="Media\Infrastructure\MediaTemplate.cs" />
+    <Compile Include="Media\Infrastructure\VideoTemplate.cs" />
+    <Compile Include="Media\Repositories\MediaSelectorElementsRepositoryTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
