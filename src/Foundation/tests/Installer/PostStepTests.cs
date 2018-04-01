@@ -18,7 +18,7 @@
       //Arrange
       FakePostStepAction.CallCount = 0;
       var nameValueCollection = new NameValueCollection();
-      nameValueCollection.Add("Attributes", "name1=Sitecore.Foundation.Installer.Tests.PostStepTests+FakePostStepAction, Sitecore.Foundation.Installer.Tests");
+      nameValueCollection.Add("Attributes", "name1=Sitecore.Foundation.Installer.Tests.PostStepTests+FakePostStepAction, Sitecore.Foundation.Tests");
       
       //Act
       postStep.Run(null, nameValueCollection);
@@ -34,7 +34,7 @@
       //Arrange
       FakePostStepAction.CallCount = 0;
       var nameValueCollection = new NameValueCollection();
-      nameValueCollection.Add("Attributes", "name1=Sitecore.Foundation.Installer.Tests.PostStepTests+FakePostStepAction, Sitecore.Foundation.Installer.Tests|name2=Sitecore.Foundation.Installer.Tests.PostStepTests+FakePostStepAction, Sitecore.Foundation.Installer.Tests|");
+      nameValueCollection.Add("Attributes", "name1=Sitecore.Foundation.Installer.Tests.PostStepTests+FakePostStepAction, Sitecore.Foundation.Tests|name2=Sitecore.Foundation.Installer.Tests.PostStepTests+FakePostStepAction, Sitecore.Foundation.Tests|");
 
       //Act
       postStep.Run(null, nameValueCollection);
