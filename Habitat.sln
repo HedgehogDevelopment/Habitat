@@ -25,6 +25,11 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Project", "src\Project\code\Sitecore.Project.csproj", "{3DF06DFC-7EFD-4181-8659-F29D95D2EABC}"
 EndProject
 Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "Sitecore.Habitat.TDS.Master", "src\tds\master\Sitecore.Habitat.TDS.Master.scproj", "{E258E4FD-93EF-4AF0-AEC6-9ECC2D478FCC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1010CDC5-9C85-4F9F-96FD-506C3CAA4933} = {1010CDC5-9C85-4F9F-96FD-506C3CAA4933}
+		{E50B27EC-209D-4903-8BD9-41AF1C80C997} = {E50B27EC-209D-4903-8BD9-41AF1C80C997}
+		{3DF06DFC-7EFD-4181-8659-F29D95D2EABC} = {3DF06DFC-7EFD-4181-8659-F29D95D2EABC}
+	EndProjectSection
 EndProject
 Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "Sitecore.Habitat.TDS.Core", "src\tds\core\Sitecore.Habitat.TDS.Core.scproj", "{D91A5874-13E1-4829-9482-CC6DC8BFABDA}"
 	ProjectSection(ProjectDependencies) = postProject
