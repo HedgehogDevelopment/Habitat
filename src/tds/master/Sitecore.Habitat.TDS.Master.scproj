@@ -33,12 +33,16 @@
     <EnableValidations>True</EnableValidations>
     <ValidationSettingsFilePath>.\Sitecore.Habitat.TDS.Master_Release.xml</ValidationSettingsFilePath>
     <PackageName>Sitecore.Habitat</PackageName>
-    <PackageAuthor>Hedgehog</PackageAuthor>
-    <PackagePublisher>Hedgehog</PackagePublisher>
-    <PackageVersion>1.0.0</PackageVersion>
-    <PackageReadme>Sitecore Habitat Demo Project, using a compacted solution structure and TDS Classic.</PackageReadme>
+    <PackageAuthor>
+    </PackageAuthor>
+    <PackagePublisher>
+    </PackagePublisher>
+    <PackageVersion>
+    </PackageVersion>
+    <PackageReadme>
+    </PackageReadme>
     <SitecoreAssemblyPath />
-    <GeneratePackage>True</GeneratePackage>
+    <GeneratePackage>False</GeneratePackage>
     <SeperateFilesAndItems>False</SeperateFilesAndItems>
     <PackageExcludeCode>False</PackageExcludeCode>
     <AddDateTimeToPackageName>False</AddDateTimeToPackageName>
@@ -5481,20 +5485,6 @@
       <Project>{3df06dfc-7efd-4181-8659-f29d95d2eabc}</Project>
       <Name>Sitecore.Project</Name>
     </ProjectReference>
-    <ProjectReference Include="..\core\Sitecore.Habitat.TDS.Core.scproj">
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="..\master.content\Sitecore.Habitat.TDS.Master.Content.scproj">
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <BundledProject Include="..\core\Sitecore.Habitat.TDS.Core.scproj">
-      <ProjectId>{d91a5874-13e1-4829-9482-cc6dc8bfabda}</ProjectId>
-    </BundledProject>
-    <BundledProject Include="..\master.content\Sitecore.Habitat.TDS.Master.Content.scproj">
-      <ProjectId>{46e73b74-f751-4502-939a-a06c6fbe2fe3}</ProjectId>
-    </BundledProject>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\HedgehogDevelopment\SitecoreProject\v9.0\HedgehogDevelopment.SitecoreProject.targets" Condition="Exists('$(MSBuildExtensionsPath)\HedgehogDevelopment\SitecoreProject\v9.0\HedgehogDevelopment.SitecoreProject.targets')" />
 </Project>

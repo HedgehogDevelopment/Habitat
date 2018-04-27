@@ -32,6 +32,16 @@
     <DebugSymbols>false</DebugSymbols>
     <OutputPath>.\bin\Release\</OutputPath>
     <RecursiveDeployAction>Ignore</RecursiveDeployAction>
+    <PackageName>Sitecore.Habitat</PackageName>
+    <PackageAuthor>Hedgehog</PackageAuthor>
+    <PackagePublisher>Hedgehog</PackagePublisher>
+    <PackageVersion>1.0.0</PackageVersion>
+    <PackageReadme>Sitecore Habitat Demo Project, using a compacted solution structure and TDS Classic.</PackageReadme>
+    <SitecoreAssemblyPath />
+    <GeneratePackage>True</GeneratePackage>
+    <SeperateFilesAndItems>False</SeperateFilesAndItems>
+    <PackageExcludeCode>False</PackageExcludeCode>
+    <AddDateTimeToPackageName>False</AddDateTimeToPackageName>
   </PropertyGroup>
   <ItemGroup>
     <AssemblyAttributes Include="AssemblyFileVersion">
@@ -2230,6 +2240,22 @@
       </ExcludeItemFrom>
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
     </SitecoreItem>
+  </ItemGroup>
+  <ItemGroup>
+    <BundledProject Include="..\core\Sitecore.Habitat.TDS.Core.scproj">
+      <ProjectId>{d91a5874-13e1-4829-9482-cc6dc8bfabda}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\master\Sitecore.Habitat.TDS.Master.scproj">
+      <ProjectId>{e258e4fd-93ef-4af0-aec6-9ecc2d478fcc}</ProjectId>
+    </BundledProject>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\core\Sitecore.Habitat.TDS.Core.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\master\Sitecore.Habitat.TDS.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\HedgehogDevelopment\SitecoreProject\v9.0\HedgehogDevelopment.SitecoreProject.targets" Condition="Exists('$(MSBuildExtensionsPath)\HedgehogDevelopment\SitecoreProject\v9.0\HedgehogDevelopment.SitecoreProject.targets')" />
 </Project>
