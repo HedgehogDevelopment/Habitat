@@ -1,0 +1,152 @@
+----item----
+version: 1
+id: {43186E7B-CADD-4D79-8F65-D49806BCE96D}
+database: master
+path: /sitecore/content/Habitat/Home/Modules/Feature/Accounts/_Local/Login Teaser
+parent: {464D56AE-4A48-454B-8EAA-06304ACFF6E9}
+name: Login Teaser
+master: {00000000-0000-0000-0000-000000000000}
+template: {6E686B1C-1675-4263-AF03-DCE07827AFDD}
+templatekey: Login Teaser
+created: 20170612T151929Z
+
+----version----
+language: en
+version: 1
+revision: 67eb02c9-9c49-4744-abef-0617763ec9af
+
+----field----
+field: {D9843186-ED10-47D8-8CC7-511AC670B6B4}
+name: Title
+key: title
+content-length: 12
+
+Login Teaser
+----field----
+field: {FFAB401B-8D7C-4172-A82A-AE32B7D2C6C1}
+name: Summary
+key: summary
+content-length: 106
+
+This is a login teaser - which is not logged in.
+The component will show the user details when logged in.
+----field----
+field: {39AABCF6-426C-4AD1-8B3D-A5135F219455}
+name: Logged In Title
+key: logged in title
+content-length: 12
+
+Login Teaser
+----field----
+field: {76183BC1-755C-428B-A35A-1425309990BE}
+name: Logged In Summary
+key: logged in summary
+content-length: 101
+
+This is a login teaser - which is logged in.
+The component will show a login box when not logged in.
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20161201T033611Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+67eb02c9-9c49-4744-abef-0617763ec9af
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151929Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+default\Anonymous
+----version----
+language: ja-JP
+version: 1
+revision: db172d4f-c264-4c1f-a75e-e410a5e51a54
+
+----field----
+field: {D9843186-ED10-47D8-8CC7-511AC670B6B4}
+name: Title
+key: title
+content-length: 9
+
+ログインティーザー
+----field----
+field: {FFAB401B-8D7C-4172-A82A-AE32B7D2C6C1}
+name: Summary
+key: summary
+content-length: 62
+
+これはログインのティーザー- ログインをしていない場合.
+ログインをした時にはこのコンポーネントを参照することができます。
+----field----
+field: {39AABCF6-426C-4AD1-8B3D-A5135F219455}
+name: Logged In Title
+key: logged in title
+content-length: 8
+
+ログインティザー
+----field----
+field: {76183BC1-755C-428B-A35A-1425309990BE}
+name: Logged In Summary
+key: logged in summary
+content-length: 64
+
+これはログインティーザー- ログインをしている場合.
+今コンポーネントはログインしていないときにログインボックスを表示します。
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 8
+
+ログインティザー
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170323T054535Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+db172d4f-c264-4c1f-a75e-e410a5e51a54
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151929Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

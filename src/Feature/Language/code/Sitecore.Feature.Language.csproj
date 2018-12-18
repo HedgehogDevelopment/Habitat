@@ -126,7 +126,6 @@
     <Compile Include="Templates.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\Feature\Feature.Language.Serialization.config" />
     <Content Include="App_Config\Include\Feature\Feature.Language.config" />
     <Content Include="packages.config" />
     <None Include="Properties\PublishProfiles\Local.pubxml" />

@@ -1,0 +1,174 @@
+----item----
+version: 1
+id: {7DA1FF7C-FABB-4219-952B-06F253FCA7D3}
+database: master
+path: /sitecore/content/Habitat/Global/Links/Footer Menu/Left/Documentation
+parent: {FB1E4810-6D89-4F1E-A47B-70478FE32DA7}
+name: Documentation
+master: {00000000-0000-0000-0000-000000000000}
+template: {390333C8-751B-4332-84A3-6360B969A19F}
+templatekey: Link Menu Item
+created: 20170612T151928Z
+
+----version----
+language: da
+version: 1
+revision: 2f849b6a-1331-4a61-ab6b-a3a73142f2aa
+
+----field----
+field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
+name: Link
+key: link
+content-length: 131
+
+<link text="" linktype="external" url="https//doc.sitecore.net" anchor="" title="" class="" querystring="" target="_blank" id="" />
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 13
+
+Dokumentation
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160112T164850Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2f849b6a-1331-4a61-ab6b-a3a73142f2aa
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151928Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----version----
+language: en
+version: 1
+revision: ea1db60f-6904-4e57-8216-b833efe373f4
+
+----field----
+field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
+name: Link
+key: link
+content-length: 131
+
+<link text="" linktype="external" url="https//doc.sitecore.net" anchor="" title="" class="" querystring="" target="_blank" id="" />
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 13
+
+Documentation
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150910T105950Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ea1db60f-6904-4e57-8216-b833efe373f4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151928Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+default\Anonymous
+----version----
+language: ja-JP
+version: 1
+revision: a2e4892d-2597-42ee-b261-e1ed1203e354
+
+----field----
+field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
+name: Link
+key: link
+content-length: 131
+
+<link text="" linktype="external" url="https//doc.sitecore.net" anchor="" title="" class="" querystring="" target="_blank" id="" />
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 7
+
+開発者向け情報
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 7
+
+開発者向け情報
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170323T054645Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a2e4892d-2597-42ee-b261-e1ed1203e354
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151928Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

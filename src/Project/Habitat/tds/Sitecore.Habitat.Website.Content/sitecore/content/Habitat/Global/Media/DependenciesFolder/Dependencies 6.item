@@ -1,0 +1,127 @@
+----item----
+version: 1
+id: {7E5BDD04-6032-42FB-A0B7-B1A3C83EAF70}
+database: master
+path: /sitecore/content/Habitat/Global/Media/DependenciesFolder/Dependencies 6
+parent: {4B86CB93-0AE5-4845-877B-6A045EAC5707}
+name: Dependencies 6
+master: {00000000-0000-0000-0000-000000000000}
+template: {F0369E1A-9030-4A05-A09C-EF09B664ED27}
+templatekey: Image
+created: 20170612T151923Z
+
+----version----
+language: en
+version: 1
+revision: 414b7ae5-fd58-45a9-9b7f-94d89a5ad11d
+
+----field----
+field: {63DDA48B-B0CB-45A7-9A1B-B26DDB41009B}
+name: MediaTitle
+key: mediatitle
+content-length: 33
+
+Layering makes way for modularity
+----field----
+field: {302C9F8D-F703-4F76-A4AB-73D222648232}
+name: MediaDescription
+key: mediadescription
+content-length: 146
+
+Getting a modular architecture right and harvesting the wins of that relies on having a methodology where dependencies and coupling is controlled.
+----field----
+field: {9F51DEAD-AD6E-41C2-9759-7BE17EB474A4}
+name: MediaImage
+key: mediaimage
+content-length: 311
+
+<image mediapath="/Habitat/Images/Content/Dependencies/Habitat Dependencies 2" alt="Dependencies in Habitat" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="~/media/Habitat/Images/Content/Dependencies/Habitat Dependencies 2" mediaid="{449FD373-4DC6-483C-9A34-1E7D1385CAFC}" ></image>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151209T045130Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+414b7ae5-fd58-45a9-9b7f-94d89a5ad11d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151923Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+default\Anonymous
+----version----
+language: ja-JP
+version: 1
+revision: 42b34eff-2c89-4247-8fe0-65de50c7fbc4
+
+----field----
+field: {63DDA48B-B0CB-45A7-9A1B-B26DDB41009B}
+name: MediaTitle
+key: mediatitle
+content-length: 33
+
+Layering makes way for modularity
+----field----
+field: {302C9F8D-F703-4F76-A4AB-73D222648232}
+name: MediaDescription
+key: mediadescription
+content-length: 146
+
+Getting a modular architecture right and harvesting the wins of that relies on having a methodology where dependencies and coupling is controlled.
+----field----
+field: {9F51DEAD-AD6E-41C2-9759-7BE17EB474A4}
+name: MediaImage
+key: mediaimage
+content-length: 311
+
+<image mediapath="/Habitat/Images/Content/Dependencies/Habitat Dependencies 2" alt="Dependencies in Habitat" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="~/media/Habitat/Images/Content/Dependencies/Habitat Dependencies 2" mediaid="{449FD373-4DC6-483C-9A34-1E7D1385CAFC}" ></image>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170323T054656Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+42b34eff-2c89-4247-8fe0-65de50c7fbc4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151923Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

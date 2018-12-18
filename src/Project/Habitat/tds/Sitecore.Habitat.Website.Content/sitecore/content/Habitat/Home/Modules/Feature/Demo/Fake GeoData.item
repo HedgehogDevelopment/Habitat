@@ -1,0 +1,129 @@
+----item----
+version: 1
+id: {CB4D7B30-1359-4C1D-9B0E-16B019C92C97}
+database: master
+path: /sitecore/content/Habitat/Home/Modules/Feature/Demo/Fake GeoData
+parent: {8EAC162B-96BC-43F1-95D6-99B83745B2F4}
+name: Fake GeoData
+master: {00000000-0000-0000-0000-000000000000}
+template: {49C651BA-4004-40A9-9B0F-E95D0573F3AE}
+templatekey: Demo Page
+created: 20170612T151928Z
+
+----field----
+field: {D28EFE17-C491-47C0-B62D-934DC9DA38A4}
+name: Referrer
+key: referrer
+content-length: 0
+
+
+----field----
+field: {D0A49D11-B9A3-43E1-AF51-66804DF3B63B}
+name: Latitude
+key: latitude
+content-length: 9
+
+51.606010
+----field----
+field: {D34BEF48-023B-4930-8360-A89BEB8B3D82}
+name: Longitude
+key: longitude
+content-length: 8
+
+7.149110
+----field----
+field: {666FE277-D4DD-435E-B2BE-3A02612E8A5B}
+name: Business Name
+key: business name
+content-length: 13
+
+Sitecore GmbH
+----field----
+field: {FB9E9F07-C887-45D8-8F34-F156F17C57C9}
+name: City
+key: city
+content-length: 7
+
+Disteln
+----field----
+field: {0DBCDBCB-185A-4845-8ACB-97D5A1E1C401}
+name: Country
+key: country
+content-length: 7
+
+Germany
+----field----
+field: {2064B0FB-A738-467A-A262-3EB2E1E9E2F0}
+name: ISP
+key: isp
+content-length: 13
+
+Vodafone GmbH
+----field----
+field: {26FF4697-C334-49EE-8AAE-9480DFEB40C3}
+name: Region
+key: region
+content-length: 19
+
+Nordrhein-Westfalen
+----field----
+field: {F0FFE350-6033-4E41-A99F-91ECCA49BC7C}
+name: Url
+key: url
+content-length: 16
+
+www.sitecore.net
+----version----
+language: en
+version: 1
+revision: 753c9515-ec32-4d4d-b50c-864279a6a5f6
+
+----field----
+field: {0BC0AEDF-A6D0-4F74-933C-BD1779CD40B2}
+name: HTML Content
+key: html content
+content-length: 368
+
+<html>
+<body>
+<h1>Demo Page</h1>
+<p>This page fakes the geo location. Set the geo location by opening this page in the Sitecore content editor.</p>
+<p>The page is not tracked in xDB.<br/>After returning to a standard web page, use the panel in the right hand side to view the faked information.</p>
+<p><a href="/">Return to the home page</a></p>
+</body>
+</html>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170530T230230Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+753c9515-ec32-4d4d-b50c-864279a6a5f6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151928Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

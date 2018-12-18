@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {7490D46D-F7DE-465F-8983-4B51586E4B37}
+database: master
+path: /sitecore/templates/Foundation/Assets/Theme Folder/__Standard Values
+parent: {10059264-CD0B-47B9-8350-A31A90815921}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {10059264-CD0B-47B9-8350-A31A90815921}
+templatekey: Theme Folder
+created: 20170101T205914Z
+
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 0
+
+
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 38
+
+{1C87EA50-CC18-48CC-86DE-592E274D0C4F}
+----version----
+language: en
+version: 1
+revision: 52f99fbe-651d-4473-9f7a-9a6d786b138e
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20161212T014821Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+52f99fbe-651d-4473-9f7a-9a6d786b138e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170101T205914Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

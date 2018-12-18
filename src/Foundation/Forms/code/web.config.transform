@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <configuration  xmlns:xdt="http://schemas.microsoft.com/XML-Document-Transform">
+  <!-- This transform now occurs in the Project.Habitat module -->
   <system.webServer xdt:Transform="InsertIfMissing">
     <handlers  xdt:Transform="InsertIfMissing">
       <add xdt:Transform="InsertIfMissing" xdt:Locator="Match(name)" name="CaptchaImage" verb="*" path="CaptchaImage.axd" type="Sitecore.Form.Core.Pipeline.RequestProcessor.CaptchaResolver, Sitecore.Forms.Core" />

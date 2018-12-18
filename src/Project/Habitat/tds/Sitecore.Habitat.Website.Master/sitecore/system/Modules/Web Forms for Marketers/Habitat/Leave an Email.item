@@ -1,0 +1,136 @@
+----item----
+version: 1
+id: {FBDA72A7-7867-455A-B91E-36B2D9D56660}
+database: master
+path: /sitecore/system/Modules/Web Forms for Marketers/Habitat/Leave an Email
+parent: {4BC8A78C-44A7-46EB-8126-040D3F12CAA0}
+name: Leave an Email
+master: {00000000-0000-0000-0000-000000000000}
+template: {FFB1DA32-2764-47DB-83B0-95B843546A7E}
+templatekey: Form
+created: 20161226T041004Z
+
+----field----
+field: {A42052F7-6C18-424A-A2A1-7A72054CB1A6}
+name: Show Title
+key: show title
+content-length: 1
+
+1
+----field----
+field: {46FB324A-9741-43BD-A0C9-5081A39D40AA}
+name: Show Introduction
+key: show introduction
+content-length: 0
+
+
+----field----
+field: {FAEACD39-B059-4F46-BEC4-74BA468A97B8}
+name: Show Footer
+key: show footer
+content-length: 0
+
+
+----field----
+field: {A7F779B9-5FCF-45CC-866B-7C973F5C4FAC}
+name: Save Actions
+key: save actions
+content-length: 532
+
+<?xml version="1.0" encoding="utf-16"?>
+<li xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <g id="{E5EABB1F-40BC-45BB-8D87-3B6C239B521B}" displayName="Actions" onclick="javascript:return scForm.postEvent(this,event,'forms:addaction')">
+    <li id="{90538392-5648-4326-B506-E1913ED1DAA8}" unicid="BC4E474A256840CA9BF9953DD44E1DC2">
+      <parameters>&amp;lt;outcome&amp;gt;{BF6B8EE3-9FFB-4C58-9CB4-301C1C710F89}&amp;lt;/outcome&amp;gt;</parameters>
+    </li>
+  </g>
+</li>
+----field----
+field: {AF08C32B-F101-44A4-BAAE-677383E8EB02}
+name: Check Actions
+key: check actions
+content-length: 367
+
+<?xml version="1.0" encoding="utf-16"?>
+<li xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <g id="{10FE9225-5E6C-4896-9CD2-880D6D48C4CC}" displayName="Check Actions">
+    <li id="{2D5B5061-747A-4477-BD41-E746EAFEB231}" unicid="89F18F7C96F4469A9470057CE421A115">
+      <parameters />
+    </li>
+  </g>
+</li>
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 740
+
+<tracking><event name="Submit Success Event" id="{2FF08489-2A47-4F04-8D8E-0C25A294B2C4}" /><event name="Form Submit" id="{A2C2CF51-9360-4084-9BA0-1A15F1A41096}" /><event name="Field Completed" id="{F0113A93-570A-4F69-8C7C-BA08037D1E34}" /><event name="Field Not Completed" id="{7E86B2F5-ACEC-4C60-8922-4EB5AE5D9874}" /><event name="Field Out of Boundary" id="{F3D7B20C-675C-4707-84CC-5E5B4481B0EE}" /><event name="Form Check Action Error" id="{7144C4C9-E56A-4529-B3C1-A1DEDC454AB8}" /><event name="Form Save Action Failure" id="{DE302E25-E5AF-465E-8BB1-5C3E8145615D}" /><event name="Invalid Field Syntax" id="{844BBD40-91F6-42CE-8823-5EA4D089ECA2}" /><event name="Newsletter Signup" id="{1779CC42-EF7A-4C58-BF19-FA85D30755C9}" /></tracking>
+----version----
+language: en
+version: 1
+revision: 874ea1d3-a08e-4643-9832-d579235fe731
+
+----field----
+field: {86D6A401-5A20-49C9-A2F8-0312398EE946}
+name: Title
+key: title
+content-length: 14
+
+Leave an Email
+----field----
+field: {6739FA82-A9B4-40F1-AEFE-3D67AE3E8DFC}
+name: Title Tag
+key: title tag
+content-length: 2
+
+H1
+----field----
+field: {9C4C1994-5140-49D3-BAD7-DB997816F816}
+name: Success Page
+key: success page
+content-length: 52
+
+<link id="{00000000-0000-0000-0000-000000000000}" />
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 14
+
+Leave an Email
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160321T132837Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+874ea1d3-a08e-4643-9832-d579235fe731
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20161226T041004Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

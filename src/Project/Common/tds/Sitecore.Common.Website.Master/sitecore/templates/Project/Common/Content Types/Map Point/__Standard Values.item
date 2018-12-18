@@ -1,0 +1,58 @@
+----item----
+version: 1
+id: {6D25C8CE-682B-4036-B0EA-BB8F8D7CB4D1}
+database: master
+path: /sitecore/templates/Project/Common/Content Types/Map Point/__Standard Values
+parent: {11C28D16-9B88-456E-A42B-D4B5A82867E3}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {11C28D16-9B88-456E-A42B-D4B5A82867E3}
+templatekey: Map Point
+
+----version----
+language: en
+version: 1
+revision: 963486ba-459b-4208-99d1-89d8e07d15ea
+
+----field----
+field: {F12C22BB-E57D-4FAB-96E1-1229E4E7FF0E}
+name: MapPointName
+key: mappointname
+content-length: 5
+
+$name
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160129T044730Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+963486ba-459b-4208-99d1-89d8e07d15ea
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160617T181748Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

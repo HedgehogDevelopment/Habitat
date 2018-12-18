@@ -1,0 +1,44 @@
+----item----
+version: 1
+id: {1F6E1284-BFD0-491D-BD7C-76DD86668100}
+database: master
+path: /sitecore/templates/Feature/Teasers/_TeasersParameters/__Standard Values
+parent: {20748D57-4EF6-49A8-B7E6-13818795E3B5}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {20748D57-4EF6-49A8-B7E6-13818795E3B5}
+templatekey: _TeasersParameters
+
+----version----
+language: en
+version: 1
+revision: 9d338f6f-9f6e-4286-8309-6f6a3fd61aaf
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160412T155035Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9d338f6f-9f6e-4286-8309-6f6a3fd61aaf
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160415T211014Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous

@@ -1,0 +1,95 @@
+----item----
+version: 1
+id: {7DFD9396-CB94-4174-9721-9419A2AA68E3}
+database: master
+path: /sitecore/layout/Renderings/Feature/Maps/Map
+parent: {02EDA08E-78E1-409C-9655-A2F43ABE09F3}
+name: Map
+master: {00000000-0000-0000-0000-000000000000}
+template: {99F8905D-4A87-4EB8-9F8B-A9BEBFB3ADD6}
+templatekey: View rendering
+
+----field----
+field: {51B435BC-F7B9-478A-9C51-52916AF96FF5}
+name: Path
+key: path
+content-length: 22
+
+/Views/Maps/Map.cshtml
+----field----
+field: {7D24E54F-5C16-4314-90C9-6051AA1A7DA1}
+name: Parameters Template
+key: parameters template
+content-length: 38
+
+{D77856C3-8A5E-452C-8854-F2965EDF25E0}
+----field----
+field: {EF7C5528-7307-4E19-863B-DA19EED6A9ED}
+name: Open Properties after Add
+key: open properties after add
+content-length: 1
+
+1
+----field----
+field: {E514A1EB-DDBA-44F7-8528-82CA2280F778}
+name: JavaScript assets
+key: javascript assets
+content-length: 57
+
+/scripts/maps/markerclusterer.js
+/scripts/maps/maps.js
+
+----field----
+field: {4867D192-326A-4AA4-81EF-EA430E224AFF}
+name: Css assets
+key: css assets
+content-length: 25
+
+/styles/maps/maps.min.css
+----field----
+field: {B5B27AF1-25EF-405C-87CE-369B3A004016}
+name: Datasource Location
+key: datasource location
+content-length: 14
+
+site:mappoints
+----field----
+field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
+name: __Thumbnail
+key: __thumbnail
+content-length: 58
+
+<image mediaid="{8E5FCC7D-069D-48D8-9A57-AC4AEC221E10}" />
+----version----
+language: en
+version: 1
+revision: ef6c8929-9fc2-44ad-8770-a2f48005ac4e
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151204T050308Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ef6c8929-9fc2-44ad-8770-a2f48005ac4e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160617T181658Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

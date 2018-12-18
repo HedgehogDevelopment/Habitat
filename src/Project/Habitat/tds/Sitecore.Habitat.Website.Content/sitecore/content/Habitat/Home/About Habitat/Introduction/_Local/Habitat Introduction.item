@@ -1,0 +1,148 @@
+----item----
+version: 1
+id: {67E5F37F-ADF9-4044-9A02-FBE3E99B5A7A}
+database: master
+path: /sitecore/content/Habitat/Home/About Habitat/Introduction/_Local/Habitat Introduction
+parent: {B265C694-AF8B-4894-96D7-66A3D6D703C5}
+name: Habitat Introduction
+master: {00000000-0000-0000-0000-000000000000}
+template: {F1C095E2-B3E0-46D0-B838-02A9E8B880D9}
+templatekey: Video
+created: 20170612T151928Z
+
+----version----
+language: en
+version: 1
+revision: f5379f6b-50cc-498a-b045-9fc9644ba0f9
+
+----field----
+field: {2628705D-9434-4448-978C-C3BF166FA1EB}
+name: MediaVideoLink
+key: mediavideolink
+content-length: 83
+
+<link linktype="external" url="https://youtu.be/RchuR18xLa0" anchor="" target="" />
+----field----
+field: {63DDA48B-B0CB-45A7-9A1B-B26DDB41009B}
+name: MediaTitle
+key: mediatitle
+content-length: 20
+
+Habitat Introduction
+----field----
+field: {302C9F8D-F703-4F76-A4AB-73D222648232}
+name: MediaDescription
+key: mediadescription
+content-length: 89
+
+<p>Video introducing the concepts and thoughts behind the Sitecore Helix methodology.</p>
+----field----
+field: {4FF62B0A-D73B-4436-BEA2-023154F2FFC4}
+name: MediaThumbnail
+key: mediathumbnail
+content-length: 65
+
+<image mediaid="{AC09E83E-3473-4F94-B1DA-CB2BD5ADD401}" ></image>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160407T233756Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f5379f6b-50cc-498a-b045-9fc9644ba0f9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151928Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+default\Anonymous
+----version----
+language: ja-JP
+version: 1
+revision: e3a73909-b1c6-4c37-9b86-3620d60505bd
+
+----field----
+field: {2628705D-9434-4448-978C-C3BF166FA1EB}
+name: MediaVideoLink
+key: mediavideolink
+content-length: 83
+
+<link linktype="external" url="https://youtu.be/RchuR18xLa0" anchor="" target="" />
+----field----
+field: {63DDA48B-B0CB-45A7-9A1B-B26DDB41009B}
+name: MediaTitle
+key: mediatitle
+content-length: 11
+
+Habitat の紹介
+----field----
+field: {302C9F8D-F703-4F76-A4AB-73D222648232}
+name: MediaDescription
+key: mediadescription
+content-length: 45
+
+<p>Sitecore Helixの方法論の背後にある概念と思考を紹介するビデオ。</p>
+----field----
+field: {4FF62B0A-D73B-4436-BEA2-023154F2FFC4}
+name: MediaThumbnail
+key: mediathumbnail
+content-length: 65
+
+<image mediaid="{AC09E83E-3473-4F94-B1DA-CB2BD5ADD401}" ></image>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 11
+
+Habitat の紹介
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170323T054527Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e3a73909-b1c6-4c37-9b86-3620d60505bd
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151928Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

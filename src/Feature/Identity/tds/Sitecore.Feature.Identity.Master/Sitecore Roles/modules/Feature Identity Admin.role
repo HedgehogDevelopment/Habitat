@@ -1,0 +1,6 @@
+----role----
+name: modules\Feature Identity Admin
+
+----role-in-role----
+rolename: habitat\Project Habitat Modules Admin
+

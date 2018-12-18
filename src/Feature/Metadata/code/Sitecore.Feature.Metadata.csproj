@@ -115,7 +115,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\Feature\Feature.Metadata.Serialization.config" />
     <Content Include="packages.config" />
     <Content Include="App_Config\Include\Feature\Feature.Metadata.config" />
     <None Include="Properties\PublishProfiles\Local.pubxml" />

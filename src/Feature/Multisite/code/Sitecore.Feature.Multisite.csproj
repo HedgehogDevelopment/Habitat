@@ -118,7 +118,6 @@
     <Compile Include="Templates.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\Feature\Feature.Multisite.Serialization.config" />
     <None Include="Properties\PublishProfiles\Local.pubxml" />
     <Content Include="Views\Multisite\SwitchSite.cshtml" />
     <None Include="Web.Debug.config">

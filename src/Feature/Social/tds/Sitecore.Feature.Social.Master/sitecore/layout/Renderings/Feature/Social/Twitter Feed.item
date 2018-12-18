@@ -1,0 +1,86 @@
+----item----
+version: 1
+id: {0CF58F14-D0F8-4C41-9896-3D69048A0B19}
+database: master
+path: /sitecore/layout/Renderings/Feature/Social/Twitter Feed
+parent: {D44C5A79-5C36-4A93-9DE4-7E59345DF572}
+name: Twitter Feed
+master: {00000000-0000-0000-0000-000000000000}
+template: {99F8905D-4A87-4EB8-9F8B-A9BEBFB3ADD6}
+templatekey: View rendering
+
+----field----
+field: {51B435BC-F7B9-478A-9C51-52916AF96FF5}
+name: Path
+key: path
+content-length: 32
+
+/Views/Social/TwitterFeed.cshtml
+----field----
+field: {7D24E54F-5C16-4314-90C9-6051AA1A7DA1}
+name: Parameters Template
+key: parameters template
+content-length: 38
+
+{9EEE8077-990F-4FDE-95FB-C7B9819DF913}
+----field----
+field: {E514A1EB-DDBA-44F7-8528-82CA2280F778}
+name: JavaScript assets
+key: javascript assets
+content-length: 38
+
+http://platform.twitter.com/widgets.js
+----field----
+field: {B5B27AF1-25EF-405C-87CE-369B3A004016}
+name: Datasource Location
+key: datasource location
+content-length: 16
+
+site:twitterfeed
+----field----
+field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
+name: __Thumbnail
+key: __thumbnail
+content-length: 58
+
+<image mediaid="{6EA80E0B-565B-4E89-A3C8-260BF26BF538}" />
+----version----
+language: en
+version: 1
+revision: 6fe1f4dc-701d-4313-ada9-1744e1dce613
+
+----field----
+field: {1C307764-806C-42F0-B7CE-FC173AC8372B}
+name: Supports Local Datasource
+key: supports local datasource
+content-length: 1
+
+1
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150910T030357Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6fe1f4dc-701d-4313-ada9-1744e1dce613
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160617T181722Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

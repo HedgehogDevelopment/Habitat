@@ -1,0 +1,155 @@
+----item----
+version: 1
+id: {BAA538A3-9DE8-4D89-B2EA-7F30B7D6410D}
+database: master
+path: /sitecore/content/Habitat/Global/Quotes/Groundbreaking
+parent: {9F6E51E8-696A-45D5-BAFE-A2D6F2F98CAC}
+name: Groundbreaking
+master: {00000000-0000-0000-0000-000000000000}
+template: {40AD8A9B-C75C-428D-9E1A-51372B21F63E}
+templatekey: Quote
+created: 20170612T151920Z
+
+----version----
+language: en
+version: 1
+revision: e33ddd49-367c-494d-b3e5-e32488a00545
+
+----field----
+field: {26CD59AB-3639-488F-BAFD-58D2B217755A}
+name: Name
+key: name
+content-length: 26
+
+Anders Laub Christoffersen
+----field----
+field: {0DE53078-0DA4-40CC-BBCA-63AA96A0A1EF}
+name: Quote
+key: quote
+content-length: 145
+
+[Habitat...] is nothing less than groundbreaking, it is a real revolution in the way that Sitecore teaches developers to work with their product.
+----field----
+field: {76972FCD-4BB0-4255-864E-077745EFDF50}
+name: Title
+key: title
+content-length: 12
+
+Sitecore MVP
+----field----
+field: {BF83983A-473F-4A49-BE8E-7D563AA5687E}
+name: Cite Origin
+key: cite origin
+content-length: 10
+
+Pentia A/S
+----field----
+field: {C9BAF3EB-8CFA-4BF6-9B19-51D38DB5FC38}
+name: Picture
+key: picture
+content-length: 65
+
+<image mediaid="{A127A6BF-3087-4495-BD07-7B7C5C77A621}" ></image>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151209T053230Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e33ddd49-367c-494d-b3e5-e32488a00545
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151920Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+default\Anonymous
+----version----
+language: ja-JP
+version: 1
+revision: 15e265e3-9b5e-4cd1-8bb3-f05ce94f6af6
+
+----field----
+field: {26CD59AB-3639-488F-BAFD-58D2B217755A}
+name: Name
+key: name
+content-length: 26
+
+Anders Laub Christoffersen
+----field----
+field: {0DE53078-0DA4-40CC-BBCA-63AA96A0A1EF}
+name: Quote
+key: quote
+content-length: 71
+
+[Habitat...] は画期的なものではありませんが、Sitecoreが開発者に自社の製品で作業する方法を教えてくれるのは本当の革命です。
+----field----
+field: {76972FCD-4BB0-4255-864E-077745EFDF50}
+name: Title
+key: title
+content-length: 12
+
+Sitecore MVP
+----field----
+field: {BF83983A-473F-4A49-BE8E-7D563AA5687E}
+name: Cite Origin
+key: cite origin
+content-length: 10
+
+Pentia A/S
+----field----
+field: {C9BAF3EB-8CFA-4BF6-9B19-51D38DB5FC38}
+name: Picture
+key: picture
+content-length: 65
+
+<image mediaid="{A127A6BF-3087-4495-BD07-7B7C5C77A621}" ></image>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170323T054700Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+15e265e3-9b5e-4cd1-8bb3-f05ce94f6af6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151920Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

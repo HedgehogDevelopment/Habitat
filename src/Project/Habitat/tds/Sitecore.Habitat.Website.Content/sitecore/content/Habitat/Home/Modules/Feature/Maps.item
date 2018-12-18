@@ -1,0 +1,190 @@
+----item----
+version: 1
+id: {C0A33DD0-EFDB-43C0-88EF-B46C39C5CBDA}
+database: master
+path: /sitecore/content/Habitat/Home/Modules/Feature/Maps
+parent: {F7434DF7-E32E-4F8C-A50E-27C476F4DC32}
+name: Maps
+master: {00000000-0000-0000-0000-000000000000}
+template: {94A8C8E9-690B-4E65-98E7-F95800222767}
+templatekey: Article
+created: 20170612T151924Z
+
+----version----
+language: en
+version: 1
+revision: ca86d3ac-06f9-42db-b507-70be898ee98a
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 4
+
+Maps
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 80
+
+The Maps module allows you to add maps with points to the pages of your website.
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 161
+
+<p>The Maps module allows you to add maps to the pages of your website. A map can show one or more map points which are stored in a central folder for reuse.</p>
+----field----
+field: {9492E0BB-9DF9-46E7-8188-EC795C4ADE44}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{F53A3B36-7FC8-4C58-B4CE-25963AB803B6}" />
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 4
+
+Maps
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 4
+
+Maps
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1317
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{1D14E75C-3F43-4665-B2E2-B21B89EAF728}" p:before="*" s:ds="{F4477B0F-B874-4385-A3D7-ED1C1A868DB0}" s:id="{7DFD9396-CB94-4174-9721-9419A2AA68E3}" s:par="MapType=terrain&amp;CenterLocation=-33.832724, 151.289431&amp;ZoomLevel=10&amp;EnableCenterMapControl&amp;EnableZoomControl&amp;EnableMapTypeControl&amp;EnableScaleControl&amp;EnableStreetViewControl&amp;EnableRotateControl" s:ph="/page-layout/section-narrow/col-wide-1_27c81c8d-b50a-4a27-b728-114c314d417b" /><r uid="{D9CA2CCD-729B-41C0-988D-A5DD7961E6AD}" p:after="r[@uid='{1D14E75C-3F43-4665-B2E2-B21B89EAF728}']" s:ds="{37FCED17-913A-4ABB-9EEC-3BF745334326}" s:id="{7DFD9396-CB94-4174-9721-9419A2AA68E3}" s:par="MapType=roadmap&amp;CenterLocation=55.6749167,12.561860199999956&amp;ZoomLevel=0&amp;EnableCenterMapControl&amp;EnableZoomControl=1&amp;EnableMapTypeControl=1&amp;EnableScaleControl&amp;EnableStreetViewControl&amp;EnableRotateControl" s:ph="/page-layout/section-narrow/col-wide-2_27c81c8d-b50a-4a27-b728-114c314d417b" /><r uid="{27C81C8D-B50A-4A27-B728-114C314D417B}" p:after="r[@uid='{D9CA2CCD-729B-41C0-988D-A5DD7961E6AD}']" s:id="{50F6052C-4FC2-4AA6-9399-FFC6055CF19F}" s:ph="/page-layout/section-narrow" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160129T051509Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ca86d3ac-06f9-42db-b507-70be898ee98a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151924Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----version----
+language: ja-JP
+version: 1
+revision: b014799c-1cc8-49d7-901a-b0b6bb2384b9
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 2
+
+地図
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 40
+
+Mapsモジュールでは、ウェブサイトのページにポイントを持つ地図を追加できます。
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 86
+
+<p>地図モジュールでは、ウェブサイトのページに地図を追加できます。 マップには、再利用のために中央フォルダに格納されている1つ以上のマップポイントが表示されます。</p>
+----field----
+field: {9492E0BB-9DF9-46E7-8188-EC795C4ADE44}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{F53A3B36-7FC8-4C58-B4CE-25963AB803B6}" />
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 2
+
+地図
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 2
+
+地図
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 2
+
+地図
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1366
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{1D14E75C-3F43-4665-B2E2-B21B89EAF728}" p:before="r[@uid='{D9CA2CCD-729B-41C0-988D-A5DD7961E6AD}']" s:ds="{F4477B0F-B874-4385-A3D7-ED1C1A868DB0}" s:id="{7DFD9396-CB94-4174-9721-9419A2AA68E3}" s:par="MapType=terrain&amp;CenterLocation=-33.832724, 151.289431&amp;ZoomLevel=10&amp;EnableCenterMapControl&amp;EnableZoomControl&amp;EnableMapTypeControl&amp;EnableScaleControl&amp;EnableStreetViewControl&amp;EnableRotateControl" s:ph="/page-layout/section-narrow/col-wide-1_27c81c8d-b50a-4a27-b728-114c314d417b" /><r uid="{D9CA2CCD-729B-41C0-988D-A5DD7961E6AD}" p:before="r[@uid='{E6CA18D8-321D-4105-9C38-0622E94BE400}']" s:ds="{37FCED17-913A-4ABB-9EEC-3BF745334326}" s:id="{7DFD9396-CB94-4174-9721-9419A2AA68E3}" s:par="MapType=roadmap&amp;CenterLocation=55.6749167,12.561860199999956&amp;ZoomLevel=0&amp;EnableCenterMapControl&amp;EnableZoomControl=1&amp;EnableMapTypeControl=1&amp;EnableScaleControl&amp;EnableStreetViewControl&amp;EnableRotateControl" s:ph="/page-layout/section-narrow/col-wide-2_27c81c8d-b50a-4a27-b728-114c314d417b" /><r uid="{27C81C8D-B50A-4A27-B728-114C314D417B}" p:before="r[@uid='{E6CA18D8-321D-4105-9C38-0622E94BE400}']" s:id="{50F6052C-4FC2-4AA6-9399-FFC6055CF19F}" s:ph="/page-layout/section-narrow" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170323T054543Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b014799c-1cc8-49d7-901a-b0b6bb2384b9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151924Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

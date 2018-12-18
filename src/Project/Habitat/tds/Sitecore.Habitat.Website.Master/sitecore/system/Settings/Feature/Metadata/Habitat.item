@@ -1,0 +1,45 @@
+----item----
+version: 1
+id: {E0A0E113-CC4E-49A6-89AA-8C88F62EB8B0}
+database: master
+path: /sitecore/system/Settings/Feature/Metadata/Habitat
+parent: {553D3CC1-B549-4AA1-9ED9-E8E06E14A683}
+name: Habitat
+master: {00000000-0000-0000-0000-000000000000}
+template: {CD047791-C29A-4596-AEEE-DB5E70421C1F}
+templatekey: MetaKeyword Folder
+created: 20161226T041004Z
+
+----version----
+language: en
+version: 1
+revision: 2db2a70f-deab-40ec-bc71-f917e204b219
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20161115T003212Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2db2a70f-deab-40ec-bc71-f917e204b219
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20161226T041004Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+habitat\Anonymous

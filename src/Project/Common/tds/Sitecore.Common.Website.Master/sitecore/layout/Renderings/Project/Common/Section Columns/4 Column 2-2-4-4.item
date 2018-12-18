@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {98D6BC34-0185-42A0-B53B-CEB7B17008B6}
+database: master
+path: /sitecore/layout/Renderings/Project/Common/Section Columns/4 Column 2-2-4-4
+parent: {D560211B-B1D6-4233-9C5C-E7B635F4A4F1}
+name: 4 Column 2-2-4-4
+master: {00000000-0000-0000-0000-000000000000}
+template: {99F8905D-4A87-4EB8-9F8B-A9BEBFB3ADD6}
+templatekey: View rendering
+created: 20161006T142922:636113609621630000
+
+----field----
+field: {51B435BC-F7B9-478A-9C51-52916AF96FF5}
+name: Path
+key: path
+content-length: 48
+
+/Views/Common/Sublayouts/4 Column 2-2-4-4.cshtml
+----field----
+field: {7D24E54F-5C16-4314-90C9-6051AA1A7DA1}
+name: Parameters Template
+key: parameters template
+content-length: 38
+
+{4654D5F0-9B39-426A-992D-1D42E356FB0A}
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+900
+----field----
+field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
+name: __Thumbnail
+key: __thumbnail
+content-length: 58
+
+<image mediaid="{D140A085-B61F-4D9D-9119-23C0F52359FB}" />
+----version----
+language: en
+version: 1
+revision: a75f4b63-a554-4de5-8e05-52696621a0ee
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160212T100530Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a75f4b63-a554-4de5-8e05-52696621a0ee
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20161006T142922Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

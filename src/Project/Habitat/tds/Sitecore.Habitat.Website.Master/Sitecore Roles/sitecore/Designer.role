@@ -1,0 +1,12 @@
+----role----
+name: sitecore\Designer
+
+----role-in-role----
+rolename: habitat\Project Habitat Content Author
+
+----role-in-role----
+rolename: sitecore\Developer
+
+----role-in-role----
+rolename: sitecore\Sitecore Client Forms Author
+

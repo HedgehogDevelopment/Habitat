@@ -1,0 +1,51 @@
+----item----
+version: 1
+id: {B19C4F7B-37C3-4A9E-86FF-3A6398EE6F1B}
+database: master
+path: /sitecore/content/Habitat/Global/Dictionary/Person/Search
+parent: {429C8498-C8DE-46DA-927C-F7E7E95AE673}
+name: Search
+master: {00000000-0000-0000-0000-000000000000}
+template: {98E4BDC6-9B43-4EB2-BAA3-D4303C35852E}
+templatekey: DictionaryFolder
+
+----version----
+language: en
+version: 1
+revision: 876a3b23-530f-4deb-b775-fb8c899f29a7
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160406T234824Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+876a3b23-530f-4deb-b775-fb8c899f29a7
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160617T181802Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+default\Anonymous

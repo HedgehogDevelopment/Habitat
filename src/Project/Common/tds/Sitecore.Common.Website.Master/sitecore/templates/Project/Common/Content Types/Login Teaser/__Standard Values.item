@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {F3842B64-F6DC-4624-BB59-CCA73A3927D2}
+database: master
+path: /sitecore/templates/Project/Common/Content Types/Login Teaser/__Standard Values
+parent: {6E686B1C-1675-4263-AF03-DCE07827AFDD}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {6E686B1C-1675-4263-AF03-DCE07827AFDD}
+templatekey: Login Teaser
+created: 20161226T040929Z
+
+----version----
+language: en
+version: 1
+revision: 841380e3-ecd4-4439-9d1e-ae2f9c8f938d
+
+----field----
+field: {D9843186-ED10-47D8-8CC7-511AC670B6B4}
+name: Title
+key: title
+content-length: 5
+
+$name
+----field----
+field: {39AABCF6-426C-4AD1-8B3D-A5135F219455}
+name: Logged In Title
+key: logged in title
+content-length: 5
+
+$name
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20161129T214748Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+841380e3-ecd4-4439-9d1e-ae2f9c8f938d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20161226T040929Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

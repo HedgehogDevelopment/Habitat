@@ -1,0 +1,292 @@
+----item----
+version: 1
+id: {C9AA3B8F-5638-4360-AFAD-416D1A6D82B1}
+database: master
+path: /sitecore/content/Habitat/Home/About Habitat/Getting Started
+parent: {762684E7-480B-41D6-82DE-8549BABE95E3}
+name: Getting Started
+master: {00000000-0000-0000-0000-000000000000}
+template: {94A8C8E9-690B-4E65-98E7-F95800222767}
+templatekey: Article
+created: 20170612T151920Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+150
+----version----
+language: da
+version: 1
+revision: cef4a75f-ba23-4675-aa74-c3fd282b5429
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 16
+
+ Kom godt i gang
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 140
+
+Habitat er ikke kun en defineret metode med konventioner og praksis. Det er også et eksempel implementering til rådighed for din forståelse.
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 770
+
+<p> Sitecore Habitat metoden er implementeret i et eksempel løsning -. faktisk nøjagtig, du kigger lige nu </ p>
+<p> Eksemplet løsning med fuld kildekode og et sæt af enkle at bruge værktøjer er tilgængelige for din brug på github.com. Følg linket nedenfor for at finde arkivet. </ P>
+<p> I <a href="https://github.com/sitecore/habitat/wiki" target="_blank"> Sitecore Habitat GitHub wiki </a> finder du information om, hvordan du installerer og arbejde med eksempel på en implementering. Du kan også klikke rundt i moduler sektionen på dette site for at se, hvilke moduler er inkluderet i eksemplet. </ P>
+<p> Held og lykke med Habitat! </ p>
+<ul>
+     <li> <a href="http://github.com/sitecore/habitat" target="_blank"> Github Habitat Repository </a> </ li>
+</ ul>
+----field----
+field: {9492E0BB-9DF9-46E7-8188-EC795C4ADE44}
+name: Image
+key: image
+content-length: 65
+
+<image mediaid="{10EEB8D4-7919-4485-BFB4-96EA618E9984}" ></image>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 16
+
+ Kom godt i gang
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160112T132048Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+cef4a75f-ba23-4675-aa74-c3fd282b5429
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151920Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----version----
+language: en
+version: 1
+revision: 03aa844e-b714-46b0-a2fe-5b8ea541c088
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 15
+
+Getting Started
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 147
+
+<p>Sitecore Helix a defined methodology with conventions and practises - Habitat is an example implementation available for your understanding.</p>
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 861
+
+<p>The Sitecore Helix methodology has been implemented in an example solution - actually the exact one you are browsing right now.</p>
+<p>This example solution with full source code and a set of simple to use tools are available for your use on github.com. Please follow the link below to find the repository.</p>
+<p>In the <a href="https://github.com/sitecore/habitat/wiki" target="_blank">Sitecore Habitat GitHub wiki </a>you will find information on how to install and work with the example implementation. You can also click around in the Modules section of this site to see which modules are included in the example.</p>
+<p>Good luck with Helix and Habitat!</p>
+<ul>
+    <li><a href="http://github.com/sitecore/habitat" target="_blank">Github Habitat Repository</a></li>
+    <li><a href="http://helix.sitecore.net">Helix Documentation</a></li>
+</ul>
+----field----
+field: {9492E0BB-9DF9-46E7-8188-EC795C4ADE44}
+name: Image
+key: image
+content-length: 65
+
+<image mediaid="{10EEB8D4-7919-4485-BFB4-96EA618E9984}" ></image>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 15
+
+Getting Started
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 15
+
+Getting Started
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1666
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{76D661A2-40FB-49A1-AD4C-343764D8C6F9}" p:before="*" s:ds="{DCF8B605-5837-484D-91BB-F04ECEB090FE}" s:id="{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}" s:ph="/page-layout/section_980060a2-5e50-4610-9d07-f78f6c5e2a1e/col-huge_fd975815-f2ff-4e00-a2fe-6799177956b7" /><r uid="{FD975815-F2FF-4E00-A2FE-6799177956B7}" p:after="r[@uid='{76D661A2-40FB-49A1-AD4C-343764D8C6F9}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/page-layout/section_980060a2-5e50-4610-9d07-f78f6c5e2a1e" /><r uid="{AE712ACE-7DE6-43C1-A41B-E5F3848E67CE}" p:after="r[@uid='{FD975815-F2FF-4E00-A2FE-6799177956B7}']" s:ds="{BAA538A3-9DE8-4D89-B2EA-7F30B7D6410D}" s:id="{A1AD34DD-535E-47AF-A911-34C57CCC26F6}" s:ph="/page-layout/section-narrow/col-wide-2_69a3648f-2cd6-4b8d-ad40-30618e6d9386" /><r uid="{912BC1D7-B501-4EE5-B1FC-DC3BFC56CD87}" p:after="r[@uid='{AE712ACE-7DE6-43C1-A41B-E5F3848E67CE}']" s:ds="{A92C04FE-9158-47C5-BCA2-14FCA32FF772}" s:id="{0534F12C-804E-4532-A832-5D61FE9EC6ED}" s:ph="/page-layout/section-narrow/col-wide-1_69a3648f-2cd6-4b8d-ad40-30618e6d9386" /><r uid="{69A3648F-2CD6-4B8D-AD40-30618E6D9386}" p:after="r[@uid='{912BC1D7-B501-4EE5-B1FC-DC3BFC56CD87}']" s:id="{50F6052C-4FC2-4AA6-9399-FFC6055CF19F}" s:ph="/page-layout/section-narrow" /><r uid="{980060A2-5E50-4610-9D07-F78F6C5E2A1E}" p:after="r[@uid='{66422117-69C1-4B62-9323-482F16C4F244}']" s:ds="" s:id="{D201A487-5099-48A1-8189-55944F70C6CB}" s:par="Background={EFA6AD59-AE21-4524-90F8-A92440B869AF}&amp;ContainerIsFluid&amp;UseStaticPlaceholderNames" s:ph="page-layout" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151026T042307Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+03aa844e-b714-46b0-a2fe-5b8ea541c088
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151920Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----version----
+language: ja-JP
+version: 1
+revision: bd65a0b3-a1e0-47e1-9751-612ef7fbe9c0
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 4
+
+はじめに
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 69
+
+<p>Sitecore Helix 規約 とプラクティスで定義された方法論 - Habitat は、理解を深めるための実装例です。</p>
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 568
+
+<p>Sitecore Helixの方法論は、実際に現在閲覧しているソリューションの例で実装されています。</p>
+<p>完全なソースコードを持つこのサンプルソリューションと使いやすいツールがgithub.comで使用できます。 リポジトリを見つけるには、下のリンクをクリックしてください。</p>
+<p><a href="https://github.com/sitecore/habitat/wiki" target="_blank">Sitecore Habitat GitHub wiki </a>では、サンプル実装をインストールして使用する方法についての情報があります。 また、このサイトの「モジュール」セクションをクリックして、この例に含まれているモジュールを確認することもできます。</p>
+<p>Helix を Habitat を楽しんでください!</p>
+<ul>
+    <li><a href="http://github.com/sitecore/habitat" target="_blank">Github Habitat リポジトリー</a></li>
+    <li><a href="http://helix.sitecore.net">Helix 参考文書</a></li>
+</ul>
+----field----
+field: {9492E0BB-9DF9-46E7-8188-EC795C4ADE44}
+name: Image
+key: image
+content-length: 65
+
+<image mediaid="{10EEB8D4-7919-4485-BFB4-96EA618E9984}" ></image>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 4
+
+はじめに
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 4
+
+はじめに
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 4
+
+はじめに
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1666
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{76D661A2-40FB-49A1-AD4C-343764D8C6F9}" p:before="*" s:ds="{DCF8B605-5837-484D-91BB-F04ECEB090FE}" s:id="{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}" s:ph="/page-layout/section_980060a2-5e50-4610-9d07-f78f6c5e2a1e/col-huge_fd975815-f2ff-4e00-a2fe-6799177956b7" /><r uid="{FD975815-F2FF-4E00-A2FE-6799177956B7}" p:after="r[@uid='{76D661A2-40FB-49A1-AD4C-343764D8C6F9}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/page-layout/section_980060a2-5e50-4610-9d07-f78f6c5e2a1e" /><r uid="{AE712ACE-7DE6-43C1-A41B-E5F3848E67CE}" p:after="r[@uid='{FD975815-F2FF-4E00-A2FE-6799177956B7}']" s:ds="{BAA538A3-9DE8-4D89-B2EA-7F30B7D6410D}" s:id="{A1AD34DD-535E-47AF-A911-34C57CCC26F6}" s:ph="/page-layout/section-narrow/col-wide-2_69a3648f-2cd6-4b8d-ad40-30618e6d9386" /><r uid="{912BC1D7-B501-4EE5-B1FC-DC3BFC56CD87}" p:after="r[@uid='{AE712ACE-7DE6-43C1-A41B-E5F3848E67CE}']" s:ds="{A92C04FE-9158-47C5-BCA2-14FCA32FF772}" s:id="{0534F12C-804E-4532-A832-5D61FE9EC6ED}" s:ph="/page-layout/section-narrow/col-wide-1_69a3648f-2cd6-4b8d-ad40-30618e6d9386" /><r uid="{69A3648F-2CD6-4B8D-AD40-30618E6D9386}" p:after="r[@uid='{912BC1D7-B501-4EE5-B1FC-DC3BFC56CD87}']" s:id="{50F6052C-4FC2-4AA6-9399-FFC6055CF19F}" s:ph="/page-layout/section-narrow" /><r uid="{980060A2-5E50-4610-9D07-F78F6C5E2A1E}" p:after="r[@uid='{66422117-69C1-4B62-9323-482F16C4F244}']" s:ds="" s:id="{D201A487-5099-48A1-8189-55944F70C6CB}" s:par="Background={EFA6AD59-AE21-4524-90F8-A92440B869AF}&amp;ContainerIsFluid&amp;UseStaticPlaceholderNames" s:ph="page-layout" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170323T054531Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+bd65a0b3-a1e0-47e1-9751-612ef7fbe9c0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151920Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

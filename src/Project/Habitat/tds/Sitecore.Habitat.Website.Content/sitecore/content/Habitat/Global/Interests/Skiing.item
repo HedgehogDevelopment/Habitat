@@ -1,0 +1,99 @@
+----item----
+version: 1
+id: {8BF3F0D1-6041-4CA9-9042-B04975EF535D}
+database: master
+path: /sitecore/content/Habitat/Global/Interests/Skiing
+parent: {A74EE096-F225-4568-8D81-2F71ABBC8118}
+name: Skiing
+master: {00000000-0000-0000-0000-000000000000}
+template: {4176BFC2-7814-4FA5-ABCF-7FA0714BF05F}
+templatekey: Interest
+created: 20170612T151919Z
+
+----version----
+language: en
+version: 1
+revision: f0419acc-bb35-41cd-8b7c-0de57a616d73
+
+----field----
+field: {1FBE5200-2C62-4A32-BA84-CFFE3CF665D3}
+name: Title
+key: title
+content-length: 6
+
+Skiing
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151112T140113Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f0419acc-bb35-41cd-8b7c-0de57a616d73
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151919Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+default\Anonymous
+----version----
+language: ja-JP
+version: 1
+revision: 6fd9f912-15a9-43ff-b05b-48e2de8c6c11
+
+----field----
+field: {1FBE5200-2C62-4A32-BA84-CFFE3CF665D3}
+name: Title
+key: title
+content-length: 6
+
+Skiing
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170323T054643Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6fd9f912-15a9-43ff-b05b-48e2de8c6c11
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151919Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

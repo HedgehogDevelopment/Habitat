@@ -1,0 +1,9 @@
+----role----
+name: sitecore\Author
+
+----role-in-role----
+rolename: habitat\Project Habitat Content Author
+
+----role-in-role----
+rolename: sitecore\Developer
+

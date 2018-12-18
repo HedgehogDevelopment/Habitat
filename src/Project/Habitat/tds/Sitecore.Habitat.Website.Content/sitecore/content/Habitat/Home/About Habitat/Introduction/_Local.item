@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {B265C694-AF8B-4894-96D7-66A3D6D703C5}
+database: master
+path: /sitecore/content/Habitat/Home/About Habitat/Introduction/_Local
+parent: {B16765BA-7B3E-4C5B-9937-BFC985F2550C}
+name: _Local
+master: {00000000-0000-0000-0000-000000000000}
+template: {FFF5F245-FFC0-4022-A998-9B07AA5E761F}
+templatekey: Local Datasource Folder
+created: 20170101T210135Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 5
+
+-1000
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 116
+
+{F1C095E2-B3E0-46D0-B838-02A9E8B880D9}|{C7D9D293-4EF8-4380-8E10-C4632E729F39}|{061574E1-59DD-4B62-9680-1C84EFBE6773}
+----version----
+language: en
+version: 1
+revision: 9529828a-02ae-4614-948f-3c5dfd773d13
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160407T233739Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9529828a-02ae-4614-948f-3c5dfd773d13
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170101T210135Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+default\Anonymous

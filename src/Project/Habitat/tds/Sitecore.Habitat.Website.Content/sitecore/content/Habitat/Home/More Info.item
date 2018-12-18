@@ -1,0 +1,201 @@
+----item----
+version: 1
+id: {3A5D638D-5BDD-4DDD-BEAC-4A0C81C27E8A}
+database: master
+path: /sitecore/content/Habitat/Home/More Info
+parent: {DAC24EDD-44FB-42EF-9ECD-1E8DAF706386}
+name: More Info
+master: {00000000-0000-0000-0000-000000000000}
+template: {94A8C8E9-690B-4E65-98E7-F95800222767}
+templatekey: Article
+created: 20170612T151917Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+500
+----version----
+language: en
+version: 1
+revision: a2c81e4b-945c-4cc0-8be4-49d57e37aff6
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 13
+
+Find out more
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 104
+
+Want to know more about Helix and Habitat? Here are some interesting links, videos and material for you.
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 303
+
+<p>The Habitat project - this website - is completely available for you on GitHub, source code and all.</p>
+<p>The full description of the Helix Guidelines are available on http://helix.sitecore.net.</p>
+<p>There are also a number of videos concerning the methodology and it's underlying patterns.</p>
+----field----
+field: {9492E0BB-9DF9-46E7-8188-EC795C4ADE44}
+name: Image
+key: image
+content-length: 214
+
+<image mediapath="/Default Website/cover" src="~/media/Default Website/cover" height="" mediaid="{8CBBCDFB-C9A8-4D3F-BFF0-D01C504E10BB}" hspace="" usethumbnail="" showineditor="" width="" alt="" vspace="" ></image>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 9
+
+More Info
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 10
+
+Contact Us
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 2319
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{CE29FDE6-9B0C-497E-8A02-9A17137165F6}" p:before="*" s:ds="{EDFA5F1B-AC69-453E-A664-22F76FDE7BF4}" s:id="{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}" s:ph="/page-layout/section_95b004ff-ad63-40fe-8c36-93559bdcd4c8/col-huge_8173bdfe-f8f3-4367-aa50-0f6767c1b2df" /><r uid="{8173BDFE-F8F3-4367-AA50-0F6767C1B2DF}" p:after="r[@uid='{CE29FDE6-9B0C-497E-8A02-9A17137165F6}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/page-layout/section_95b004ff-ad63-40fe-8c36-93559bdcd4c8" /><r uid="{D678FE6D-9A7F-40B3-B3DB-69A6608F31AE}" p:after="r[@uid='{8173BDFE-F8F3-4367-AA50-0F6767C1B2DF}']" s:ds="{E732AB5A-24AE-40D8-8F93-05DAD455E259}" s:id="{FDFCD088-3C9E-49C4-97FF-2DDE5D339BA0}" s:ph="/page-layout/section-narrow/col-wide-1_c4318289-c278-4384-96be-2c13d80cef0b" /><r uid="{F9295B78-5A5D-4FEB-81F6-298657A9C863}" p:after="r[@uid='{D678FE6D-9A7F-40B3-B3DB-69A6608F31AE}']" s:ds="{D656E3EF-7298-4AF3-B4A7-E5F43B5BCF4A}" s:id="{F366FBA9-EF26-4007-988A-63CB64649C46}" s:ph="/page-layout/section-narrow/col-narrow-1_c4318289-c278-4384-96be-2c13d80cef0b" /><r uid="{C4318289-C278-4384-96BE-2C13D80CEF0B}" p:after="r[@uid='{F9295B78-5A5D-4FEB-81F6-298657A9C863}']" s:id="{831876B6-F9F1-463E-9DD5-7F93F1640590}" s:ph="/page-layout/section-narrow" /><r uid="{EDDB6350-A262-4054-AE20-0F69D10F93A9}" p:after="r[@uid='{C4318289-C278-4384-96BE-2C13D80CEF0B}']" s:ds="{EE7C0E8A-37F1-41D7-A1DC-9990A97B93CE}" s:id="{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}" s:ph="/page-layout/col-narrow-1" /><r uid="{173D3C36-B946-4978-8E4D-2F726E6D32AF}" p:after="r[@uid='{EDDB6350-A262-4054-AE20-0F69D10F93A9}']" s:ds="{DCF8B605-5837-484D-91BB-F04ECEB090FE}" s:id="{781C6B36-4B02-46EA-8ADC-B92A11877F10}" s:par="Background={EFA6AD59-AE21-4524-90F8-A92440B869AF}" s:ph="/page-layout/col-narrow-1" /><r uid="{66422117-69C1-4B62-9323-482F16C4F244}" s:id="{CF750731-1275-4CC7-A9E6-809515CB4DD1}" /><r uid="{A85893F9-5DF5-4C28-AC0F-67AD85D29661}"><p:d /></r><r uid="{95B004FF-AD63-40FE-8C36-93559BDCD4C8}" p:after="r[@uid='{66422117-69C1-4B62-9323-482F16C4F244}']" s:ds="" s:id="{1149A3C7-C69A-4E6B-A6C3-32687EC2F8D4}" s:par="UseStaticPlaceholderNames&amp;Type=bg-secondary&amp;Media&amp;Parallax" s:ph="page-layout" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150827T013810Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a2c81e4b-945c-4cc0-8be4-49d57e37aff6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151917Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----version----
+language: ja-JP
+version: 1
+revision: 8f1ce9ce-37f8-400c-855d-56ca061983d8
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 7
+
+詳細情報の確認
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 61
+
+HelixとHabitatの詳細を知りたいですか？ ここにあなたのためのいくつかの興味深いリンク、ビデオ、資料があります。
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 163
+
+<p>The Habitat project - このウェブサイトは- is GitHub、ソースコード、そしてすべてで完全に利用可能</p>
+<p>ヘリックスガイドラインの詳細は、http://helix.sitecore.net.</p>
+<p>方法論に関する数多くのビデオもあり、その基礎となるパターンです.</p>
+----field----
+field: {9492E0BB-9DF9-46E7-8188-EC795C4ADE44}
+name: Image
+key: image
+content-length: 215
+
+<image mediapath="/Default Website/cover" src="~/media/Default Website/cover" height="" mediaid="{8CBBCDFB-C9A8-4D3F-BFF0-D01C504E10BB}" hspace="" usethumbnail="" showineditor="" width="" alt="詳細" vspace=""></image>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 4
+
+詳細情報
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 4
+
+詳細情報
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 4
+
+詳細情報
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 2319
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{CE29FDE6-9B0C-497E-8A02-9A17137165F6}" p:before="*" s:ds="{EDFA5F1B-AC69-453E-A664-22F76FDE7BF4}" s:id="{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}" s:ph="/page-layout/section_95b004ff-ad63-40fe-8c36-93559bdcd4c8/col-huge_8173bdfe-f8f3-4367-aa50-0f6767c1b2df" /><r uid="{8173BDFE-F8F3-4367-AA50-0F6767C1B2DF}" p:after="r[@uid='{CE29FDE6-9B0C-497E-8A02-9A17137165F6}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/page-layout/section_95b004ff-ad63-40fe-8c36-93559bdcd4c8" /><r uid="{D678FE6D-9A7F-40B3-B3DB-69A6608F31AE}" p:after="r[@uid='{8173BDFE-F8F3-4367-AA50-0F6767C1B2DF}']" s:ds="{E732AB5A-24AE-40D8-8F93-05DAD455E259}" s:id="{FDFCD088-3C9E-49C4-97FF-2DDE5D339BA0}" s:ph="/page-layout/section-narrow/col-wide-1_c4318289-c278-4384-96be-2c13d80cef0b" /><r uid="{F9295B78-5A5D-4FEB-81F6-298657A9C863}" p:after="r[@uid='{D678FE6D-9A7F-40B3-B3DB-69A6608F31AE}']" s:ds="{D656E3EF-7298-4AF3-B4A7-E5F43B5BCF4A}" s:id="{F366FBA9-EF26-4007-988A-63CB64649C46}" s:ph="/page-layout/section-narrow/col-narrow-1_c4318289-c278-4384-96be-2c13d80cef0b" /><r uid="{C4318289-C278-4384-96BE-2C13D80CEF0B}" p:after="r[@uid='{F9295B78-5A5D-4FEB-81F6-298657A9C863}']" s:id="{831876B6-F9F1-463E-9DD5-7F93F1640590}" s:ph="/page-layout/section-narrow" /><r uid="{EDDB6350-A262-4054-AE20-0F69D10F93A9}" p:after="r[@uid='{C4318289-C278-4384-96BE-2C13D80CEF0B}']" s:ds="{EE7C0E8A-37F1-41D7-A1DC-9990A97B93CE}" s:id="{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}" s:ph="/page-layout/col-narrow-1" /><r uid="{173D3C36-B946-4978-8E4D-2F726E6D32AF}" p:after="r[@uid='{EDDB6350-A262-4054-AE20-0F69D10F93A9}']" s:ds="{DCF8B605-5837-484D-91BB-F04ECEB090FE}" s:id="{781C6B36-4B02-46EA-8ADC-B92A11877F10}" s:par="Background={EFA6AD59-AE21-4524-90F8-A92440B869AF}" s:ph="/page-layout/col-narrow-1" /><r uid="{66422117-69C1-4B62-9323-482F16C4F244}" s:id="{CF750731-1275-4CC7-A9E6-809515CB4DD1}" /><r uid="{A85893F9-5DF5-4C28-AC0F-67AD85D29661}"><p:d /></r><r uid="{95B004FF-AD63-40FE-8C36-93559BDCD4C8}" p:after="r[@uid='{66422117-69C1-4B62-9323-482F16C4F244}']" s:ds="" s:id="{1149A3C7-C69A-4E6B-A6C3-32687EC2F8D4}" s:par="UseStaticPlaceholderNames&amp;Type=bg-secondary&amp;Media&amp;Parallax" s:ph="page-layout" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170323T054559Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8f1ce9ce-37f8-400c-855d-56ca061983d8
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151917Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

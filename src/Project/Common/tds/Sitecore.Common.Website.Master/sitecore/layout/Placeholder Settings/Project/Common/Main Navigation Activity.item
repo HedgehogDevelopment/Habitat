@@ -1,0 +1,79 @@
+----item----
+version: 1
+id: {B1AF956B-E1E8-4E6A-88F0-B263E472EDA3}
+database: master
+path: /sitecore/layout/Placeholder Settings/Project/Common/Main Navigation Activity
+parent: {6CA1A082-5054-4AA0-88DA-39489A7D1CCE}
+name: Main Navigation Activity
+master: {00000000-0000-0000-0000-000000000000}
+template: {5C547D4E-7111-4995-95B0-6B561751BF2E}
+templatekey: Placeholder
+
+----field----
+field: {7256BDAB-1FD2-49DD-B205-CB4873D2917C}
+name: Placeholder Key
+key: placeholder key
+content-length: 15
+
+navbar-activity
+----field----
+field: {E391B526-D0C5-439D-803E-17512EAE6222}
+name: Allowed Controls
+key: allowed controls
+content-length: 155
+
+{28BD7068-7FF6-4CE6-98E6-85CFE9967E14}|{2695013C-DD51-410B-9983-F271F16C727D}|{604ECBB6-2BBF-45AF-AC6E-BA9F853E7A03}|{8C3A2CFC-18FB-4BF5-8584-50EA88978ED6}
+----field----
+field: {14D0728A-82F9-4B01-AB16-1FE1577CEDE2}
+name: Editable
+key: editable
+content-length: 0
+
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+900
+----version----
+language: en
+version: 1
+revision: 09f0f3a8-89cf-4387-a9d2-dadef3d685bb
+
+----field----
+field: {87871FF5-1965-46D6-884F-01D6A0B9C4C1}
+name: Description
+key: description
+content-length: 80
+
+Navigation are for special activities, for example login, languages, search etc.
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160216T005347Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+09f0f3a8-89cf-4387-a9d2-dadef3d685bb
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160405T151911Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

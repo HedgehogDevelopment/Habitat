@@ -1,0 +1,99 @@
+----item----
+version: 1
+id: {E2D7D0EE-0B30-43C6-B509-9ED69ABF36F0}
+database: master
+path: /sitecore/content/Habitat/Global/Teasers/Teaser Page/Teaser Carousel
+parent: {E151CDEF-1A9F-449D-A87C-5CF5741FA857}
+name: Teaser Carousel
+master: {00000000-0000-0000-0000-000000000000}
+template: {F5F30CDC-9003-4015-84EC-C3A7E3E50D5E}
+templatekey: Dynamic Teaser
+created: 20170612T151924Z
+
+----field----
+field: {A33F9523-96C4-4E42-B6D7-1E861718D373}
+name: Count
+key: count
+content-length: 1
+
+6
+----version----
+language: en
+version: 1
+revision: 0a0fdfb6-3f66-49d5-b657-9aac250d4de3
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160322T051423Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+0a0fdfb6-3f66-49d5-b657-9aac250d4de3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151924Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+default\Anonymous
+----version----
+language: ja-JP
+version: 1
+revision: 1103031b-34bb-4e9d-bdba-2059e82dd8e2
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 11
+
+ティーザー カルーセル
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170323T054711Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1103031b-34bb-4e9d-bdba-2059e82dd8e2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151924Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

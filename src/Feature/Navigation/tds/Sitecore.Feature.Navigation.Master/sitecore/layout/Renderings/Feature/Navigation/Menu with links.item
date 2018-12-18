@@ -1,0 +1,79 @@
+----item----
+version: 1
+id: {69B9C355-004B-4268-BB1E-2F725B8752B7}
+database: master
+path: /sitecore/layout/Renderings/Feature/Navigation/Menu with links
+parent: {9CE7AFD3-6B9F-4955-9B00-164B9C91ECD2}
+name: Menu with links
+master: {00000000-0000-0000-0000-000000000000}
+template: {2A3E91A0-7987-44B5-AB34-35C2D9DE83B9}
+templatekey: Controller rendering
+
+----field----
+field: {E64AD073-DFCC-4D20-8C0B-FE5AA6226CD7}
+name: Controller
+key: controller
+content-length: 89
+
+Sitecore.Feature.Navigation.Controllers.NavigationController, Sitecore.Feature.Navigation
+----field----
+field: {DED9E431-3604-4921-A4B3-A6EC7636A5B6}
+name: Controller Action
+key: controller action
+content-length: 8
+
+LinkMenu
+----field----
+field: {B5B27AF1-25EF-405C-87CE-369B3A004016}
+name: Datasource Location
+key: datasource location
+content-length: 13
+
+site:linkmenu
+----field----
+field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
+name: __Thumbnail
+key: __thumbnail
+content-length: 58
+
+<image mediaid="{D9DDF883-571B-4987-A3A4-77DDB35E41AD}" />
+----version----
+language: en
+version: 1
+revision: bdbc07b2-af92-4f44-b0c3-3fc11f41445a
+
+----field----
+field: {1C307764-806C-42F0-B7CE-FC173AC8372B}
+name: Supports Local Datasource
+key: supports local datasource
+content-length: 1
+
+1
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150907T042151Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+bdbc07b2-af92-4f44-b0c3-3fc11f41445a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160617T181709Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

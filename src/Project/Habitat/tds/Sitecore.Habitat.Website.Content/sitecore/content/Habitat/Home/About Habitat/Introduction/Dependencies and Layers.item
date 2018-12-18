@@ -1,0 +1,211 @@
+----item----
+version: 1
+id: {9AC1E982-476D-4567-93C4-EE0FCE56CECB}
+database: master
+path: /sitecore/content/Habitat/Home/About Habitat/Introduction/Dependencies and Layers
+parent: {B16765BA-7B3E-4C5B-9937-BFC985F2550C}
+name: Dependencies and Layers
+master: {00000000-0000-0000-0000-000000000000}
+template: {94A8C8E9-690B-4E65-98E7-F95800222767}
+templatekey: Article
+created: 20170612T151924Z
+
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 257
+
+<tracking><profile id="{24DFF2CF-B30A-4B75-8967-2FE3DED82271}" name="Focus" presets="architecture|100||"><key name="Background" value="9" /><key name="Practical" value="2" /><key name="Process" value="6" /><key name="Scope" value="3" /></profile></tracking>
+----version----
+language: en
+version: 1
+revision: a89b9f1f-451d-48b5-bb51-648007ba06b7
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 23
+
+Dependencies and Layers
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 112
+
+Controlling dependencies between features and modules is critical for long term maintainability and flexibility.
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 947
+
+<p>When following the Package Principles or traditional modular architecture there exists no layers. Actually modular architecture is often seen as an approach to going away from the traditional 3 tiered architecture (UI, business logic, data). Layers in the Habitat methodology is not this kind of layers.</p>
+<p>The layered approach in Sitecore Habitat is aimed at tightly controlling dependencies between modules and thereby is a vital part of the architectural approach.</p>
+<p>The structure is split into three layers: Project, Features and Foundation, which all consists of modules. </p>
+<ul>
+    <li>The Foundation layer consists of services which are common across the whole or parts of the solution.</li>
+    <li>Features - or the functionality of the solution - is built as modules in the Feature layer.</li>
+    <li>The unified solution, websites or channels, are brought together in one or more Project layer modules.</li>
+</ul>
+----field----
+field: {9492E0BB-9DF9-46E7-8188-EC795C4ADE44}
+name: Image
+key: image
+content-length: 65
+
+<image mediaid="{D556FE4B-1253-452C-83DD-C3E1998304B0}" ></image>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 23
+
+Dependencies and Layers
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 23
+
+Dependencies and Layers
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1702
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{068EB119-DC57-4EAF-B637-48A0C71B4173}" p:before="*" s:ds="{DE020AD2-FB43-436C-B82B-2672B7DD5BC9}" s:id="{781C6B36-4B02-46EA-8ADC-B92A11877F10}" s:ph="/page-layout/section_698b697c-673c-4d24-9028-230f6fc15754/col-narrow-3_2f95b672-ba05-4f73-8c52-c74462e33e95" /><r uid="{5C980CE4-7BCC-4D81-A644-3BEF81172A9D}" p:after="r[@uid='{068EB119-DC57-4EAF-B637-48A0C71B4173}']" s:ds="{844A6AC4-4696-4EA3-B0F9-E1E502D3CDDF}" s:id="{781C6B36-4B02-46EA-8ADC-B92A11877F10}" s:ph="/page-layout/section_698b697c-673c-4d24-9028-230f6fc15754/col-narrow-2_2f95b672-ba05-4f73-8c52-c74462e33e95" /><r uid="{FAF4C5CC-F5ED-4E90-94D5-5858BE0B04FF}" p:after="r[@uid='{5C980CE4-7BCC-4D81-A644-3BEF81172A9D}']" s:ds="{389E6AE3-14AF-4ED1-A0FA-C3A4CC5CAE65}" s:id="{781C6B36-4B02-46EA-8ADC-B92A11877F10}" s:ph="/page-layout/section_698b697c-673c-4d24-9028-230f6fc15754/col-narrow-1_2f95b672-ba05-4f73-8c52-c74462e33e95" /><r uid="{2F95B672-BA05-4F73-8C52-C74462E33E95}" p:after="r[@uid='{FAF4C5CC-F5ED-4E90-94D5-5858BE0B04FF}']" s:id="{7074CA39-734D-4953-A3D5-B7D09C37CE3B}" s:ph="/page-layout/section_698b697c-673c-4d24-9028-230f6fc15754" /><r uid="{5091CCFE-9A8F-4005-AE29-0075066EF2CA}" p:after="r[@uid='{2F95B672-BA05-4F73-8C52-C74462E33E95}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/page-layout/section-narrow" /><r uid="{698B697C-673C-4D24-9028-230F6FC15754}" p:after="r[@uid='{66422117-69C1-4B62-9323-482F16C4F244}']" s:ds="" s:id="{1149A3C7-C69A-4E6B-A6C3-32687EC2F8D4}" s:par="UseStaticPlaceholderNames&amp;Type=bg-primary&amp;Media&amp;Parallax" s:ph="page-layout" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151009T013423Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a89b9f1f-451d-48b5-bb51-648007ba06b7
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151924Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----version----
+language: ja-JP
+version: 1
+revision: 26143e5e-35f0-4534-ba7d-0d8146930793
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 9
+
+依存関係とレイヤー
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 47
+
+機能とモジュール間の依存関係を制御することは、長期間のメンテナンス性と柔軟性にとって重要です。
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 527
+
+<p>パッケージ原則または伝統的なモジュラーアーキテクチャーに従えば、レイヤーは存在しません。 実際、モジュラーアーキテクチャは、従来の3段階アーキテクチャ（UI、ビジネスロジック、データ）から離れていくアプローチとしてよく見られます。 生息地の方法論における層は、この種の層ではありません。</p>
+<p> Sitecore Habitatの階層化アプローチは、モジュール間の依存関係を厳密に制御することを目的としており、アーキテクチャアプローチの重要な部分です。</p>
+<p>構造は、Project、Features、Foundationの3つのレイヤーに分かれています。すべてがモジュールで構成されています。 </p>
+<ul>
+     <li> Foundationレイヤーは、ソリューションの全部または一部に共通するサービスで構成されています。</li>
+     <li>フィーチャまたはフィーチャの機能はフィーチャレイヤでモジュールとして構築されます。</li>
+     <li>統一されたソリューション、ウェブサイト、またはチャネルは、1つまたは複数のプロジェクトレイヤモジュールに統合されます。</li>
+</ul>
+----field----
+field: {9492E0BB-9DF9-46E7-8188-EC795C4ADE44}
+name: Image
+key: image
+content-length: 65
+
+<image mediaid="{D556FE4B-1253-452C-83DD-C3E1998304B0}" ></image>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 9
+
+依存関係とレイヤー
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 9
+
+依存関係とレイヤー
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 9
+
+依存関係とレイヤー
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1754
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{068EB119-DC57-4EAF-B637-48A0C71B4173}" p:before="r[@uid='{5C980CE4-7BCC-4D81-A644-3BEF81172A9D}']" s:ds="{DE020AD2-FB43-436C-B82B-2672B7DD5BC9}" s:id="{781C6B36-4B02-46EA-8ADC-B92A11877F10}" s:ph="/page-layout/section_698b697c-673c-4d24-9028-230f6fc15754/col-narrow-3_2f95b672-ba05-4f73-8c52-c74462e33e95" /><r uid="{5C980CE4-7BCC-4D81-A644-3BEF81172A9D}" p:before="r[@uid='{FAF4C5CC-F5ED-4E90-94D5-5858BE0B04FF}']" s:ds="{844A6AC4-4696-4EA3-B0F9-E1E502D3CDDF}" s:id="{781C6B36-4B02-46EA-8ADC-B92A11877F10}" s:ph="/page-layout/section_698b697c-673c-4d24-9028-230f6fc15754/col-narrow-2_2f95b672-ba05-4f73-8c52-c74462e33e95" /><r uid="{FAF4C5CC-F5ED-4E90-94D5-5858BE0B04FF}" p:before="r[@uid='{2F95B672-BA05-4F73-8C52-C74462E33E95}']" s:ds="{389E6AE3-14AF-4ED1-A0FA-C3A4CC5CAE65}" s:id="{781C6B36-4B02-46EA-8ADC-B92A11877F10}" s:ph="/page-layout/section_698b697c-673c-4d24-9028-230f6fc15754/col-narrow-1_2f95b672-ba05-4f73-8c52-c74462e33e95" /><r uid="{2F95B672-BA05-4F73-8C52-C74462E33E95}" p:before="r[@uid='{5091CCFE-9A8F-4005-AE29-0075066EF2CA}']" s:id="{7074CA39-734D-4953-A3D5-B7D09C37CE3B}" s:ph="/page-layout/section_698b697c-673c-4d24-9028-230f6fc15754" /><r uid="{5091CCFE-9A8F-4005-AE29-0075066EF2CA}" p:before="r[@uid='{E6CA18D8-321D-4105-9C38-0622E94BE400}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/page-layout/section-narrow" /><r uid="{698B697C-673C-4D24-9028-230F6FC15754}" p:before="r[@uid='{A85893F9-5DF5-4C28-AC0F-67AD85D29661}']" s:ds="" s:id="{1149A3C7-C69A-4E6B-A6C3-32687EC2F8D4}" s:par="UseStaticPlaceholderNames&amp;Type=bg-primary&amp;Media&amp;Parallax" s:ph="page-layout" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170323T054530Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+26143e5e-35f0-4534-ba7d-0d8146930793
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151924Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

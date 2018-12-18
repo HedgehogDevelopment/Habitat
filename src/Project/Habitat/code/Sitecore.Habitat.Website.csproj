@@ -158,12 +158,18 @@
     <Content Include="App_Config\Include\Project\Habitat.Website.config">
       <SubType>Designer</SubType>
     </Content>
-    <Content Include="App_Config\Include\Project\Habitat.Website.Serialization.config">
+    <Content Include="App_Config\Security\Domains.config">
       <SubType>Designer</SubType>
     </Content>
     <Content Include="favicon.ico" />
     <None Include="App_Config\Security\domains.config.transform" />
     <Content Include="packages.config" />
+    <None Include="App_Config\Security\Domains.Debug.config">
+      <DependentUpon>Domains.config</DependentUpon>
+    </None>
+    <None Include="App_Config\Security\Domains.Release.config">
+      <DependentUpon>Domains.config</DependentUpon>
+    </None>
     <None Include="Properties\PublishProfiles\Local.pubxml" />
     <Content Include="App_Config\Include\Project\z.Habitat.DevSettings.config">
       <SubType>Designer</SubType>
@@ -171,7 +177,7 @@
     <None Include="Properties\PublishProfiles\Habitat.pubxml" />
     <Content Include="Views\Web.config" />
     <Content Include="Views\Website\Layouts\Default.cshtml" />
-    <None Include="web.config" />
+    <Content Include="web.config" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
     </None>

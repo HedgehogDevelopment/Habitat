@@ -1,0 +1,192 @@
+----item----
+version: 1
+id: {29118C22-B3C0-43E8-8E12-A80BC99E008F}
+database: master
+path: /sitecore/content/Habitat/Home/Modules/Feature/Social
+parent: {F7434DF7-E32E-4F8C-A50E-27C476F4DC32}
+name: Social
+master: {00000000-0000-0000-0000-000000000000}
+template: {94A8C8E9-690B-4E65-98E7-F95800222767}
+templatekey: Article
+created: 20170612T151925Z
+
+----version----
+language: en
+version: 1
+revision: de745672-8693-4036-a575-6320231b2c71
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 6
+
+Social
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 80
+
+The social modules contains components and functionality related to social media
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 302
+
+<p><span style="line-height: 24.2857px;">The social modules contains components and functionality related to social media such as Facebook, Twitter etc.</span></p>
+<p><span style="line-height: 24.2857px;">Amongst others the module include the OpenGraph metadata and twitter feed components.</span></p>
+----field----
+field: {9492E0BB-9DF9-46E7-8188-EC795C4ADE44}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{45D3C3F1-FBF9-498E-B3D1-DE9C923D477C}" />
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 6
+
+Social
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 6
+
+Social
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 854
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{EFDC23BE-86F5-47C5-B86A-48BC7B4D37CF}" p:before="*" s:ds="{98E48045-DFC7-4A70-9BED-5C40AB6558A6}" s:id="{0CF58F14-D0F8-4C41-9896-3D69048A0B19}" s:par="Background={BD2F308A-E00A-4372-ADBB-BD64712A54FA}&amp;TweetsToShow=2" s:ph="/page-layout/section-narrow/col-narrow-1_9c668f15-14eb-4736-9acb-eb2b9e0812a7" /><r uid="{9C668F15-14EB-4736-9ACB-EB2B9E0812A7}" p:after="r[@uid='{EFDC23BE-86F5-47C5-B86A-48BC7B4D37CF}']" s:id="{831876B6-F9F1-463E-9DD5-7F93F1640590}" s:ph="/page-layout/section-narrow" /><r uid="{47F5A079-6F63-4219-BC45-1A221B200906}" s:par="Background={22EFB258-62F5-4B49-9D7E-DE07F70C9F37}" /><r uid="{84124EE2-E678-4144-8316-0D6874866604}" s:par="Background={22EFB258-62F5-4B49-9D7E-DE07F70C9F37}" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151116T023652Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+de745672-8693-4036-a575-6320231b2c71
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151925Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----version----
+language: ja-JP
+version: 1
+revision: 083fb82c-1c52-4938-8a09-6d8a28d24c53
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 5
+
+ソーシャル
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 46
+
+ソーシャルモジュールには、ソーシャルメディアに関連するコンポーネントと機能が含まれています。
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 219
+
+<p><span style="line-height: 24.2857px;">ソーシャルモジュールには、Facebook、Twitterなどのソーシャルメディアに関連するコンポーネントと機能が含まれています。</span></p>
+<p><span style="line-height: 24.2857px;">とりわけ、Open Graphメタデータとtwitterフィードコンポーネントが含まれています。</span></p>
+----field----
+field: {9492E0BB-9DF9-46E7-8188-EC795C4ADE44}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{45D3C3F1-FBF9-498E-B3D1-DE9C923D477C}" />
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 5
+
+ソーシャル
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 5
+
+ソーシャル
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 5
+
+ソーシャル
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 902
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{EFDC23BE-86F5-47C5-B86A-48BC7B4D37CF}" p:before="r[@uid='{9C668F15-14EB-4736-9ACB-EB2B9E0812A7}']" s:ds="{98E48045-DFC7-4A70-9BED-5C40AB6558A6}" s:id="{0CF58F14-D0F8-4C41-9896-3D69048A0B19}" s:par="Background={BD2F308A-E00A-4372-ADBB-BD64712A54FA}&amp;TweetsToShow=2" s:ph="/page-layout/section-narrow/col-narrow-1_9c668f15-14eb-4736-9acb-eb2b9e0812a7" /><r uid="{9C668F15-14EB-4736-9ACB-EB2B9E0812A7}" p:before="r[@uid='{E6CA18D8-321D-4105-9C38-0622E94BE400}']" s:id="{831876B6-F9F1-463E-9DD5-7F93F1640590}" s:ph="/page-layout/section-narrow" /><r uid="{47F5A079-6F63-4219-BC45-1A221B200906}" s:par="Background={22EFB258-62F5-4B49-9D7E-DE07F70C9F37}" /><r uid="{84124EE2-E678-4144-8316-0D6874866604}" s:par="Background={22EFB258-62F5-4B49-9D7E-DE07F70C9F37}" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170323T054553Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+083fb82c-1c52-4938-8a09-6d8a28d24c53
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151925Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

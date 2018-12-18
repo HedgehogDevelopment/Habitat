@@ -1,0 +1,419 @@
+----item----
+version: 1
+id: {725A45E3-E307-4B95-B363-2782B059DF06}
+database: master
+path: /sitecore/content/Habitat
+parent: {0DE95AE4-41AB-4D01-9EB0-67441B7C2450}
+name: Habitat
+master: {00000000-0000-0000-0000-000000000000}
+template: {0643D9D4-F30B-4B07-91D0-289CC324C9CF}
+templatekey: Site Root
+created: 20170612T151917Z
+
+----field----
+field: {ED71D374-8C33-4561-991D-77482AE01330}
+name: Accounts Details Page
+key: accounts details page
+content-length: 43
+
+/sitecore/content/Habitat/Home/Edit Profile
+----field----
+field: {71962360-10D8-4B98-BB8D-57660CE11127}
+name: Register Page
+key: register page
+content-length: 39
+
+/sitecore/content/Habitat/Home/Register
+----field----
+field: {60745023-FFD5-400E-8F80-4BCA9F2ABB29}
+name: Login Page
+key: login page
+content-length: 36
+
+/sitecore/content/Habitat/Home/Login
+----field----
+field: {F3CD2BB8-472B-4DF0-87C0-A13098E391CA}
+name: Forgot Password Page
+key: forgot password page
+content-length: 52
+
+/sitecore/content/Habitat/Home/Login/Forgot Password
+----field----
+field: {B128E2B3-3865-4F1C-A147-5F248676D3F5}
+name: After Login Page
+key: after login page
+content-length: 43
+
+/sitecore/content/Habitat/Home/Edit Profile
+----field----
+field: {365254C4-1C1C-493A-9710-671574717898}
+name: Forgot Password Mail Template
+key: forgot password mail template
+content-length: 66
+
+/sitecore/content/Habitat/Global/Registration/Forgot Password Mail
+----field----
+field: {5F115B6D-6052-4C7E-B442-AE923A7E9BD2}
+name: SupportedLanguages
+key: supportedlanguages
+content-length: 116
+
+{AF584191-45C9-4201-8740-5409F4CF8BDD}|{DCACA62F-1FD9-4B2D-AC1F-4EAA58D317B2}|{2403D44D-A04E-4C4F-B00B-5CE8CF531254}
+----field----
+field: {1C843E6A-02B9-4AA0-9FED-FDFDDC419AE3}
+name: Search Results Page
+key: search results page
+content-length: 37
+
+/sitecore/content/Habitat/Home/Search
+----field----
+field: {12537182-F35C-403F-AFB5-747D55C450B8}
+name: ShowInMenu
+key: showinmenu
+content-length: 1
+
+1
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+999
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 100
+
+ar|habitat\Project Habitat Content Author|pe|+item:write|+item:read|!*|pd|+item:write|+item:read|!*|
+----version----
+language: da
+version: 1
+revision: 0222f2c4-d682-4b91-a3cc-746f49260071
+
+----field----
+field: {E748D808-64C1-4DEC-9718-F35CF9689E4B}
+name: Logo
+key: logo
+content-length: 211
+
+<image mediapath="/Default Website/sc_logo" alt="" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="~/media/Default Website/sc_logo" mediaid="{461A93BF-5471-4AF2-BF36-D638F5660CB5}" />
+----field----
+field: {02115632-FE1E-4B3D-9AD4-A4DDF1F782F0}
+name: Copyright
+key: copyright
+content-length: 126
+
+Copyright &copy; 2015 <a href="http://sitecore.net" target="_blank" title="Opens in a new window">Sitecore Corporation A/S</a>
+----field----
+field: {235AE392-97AC-4822-BE38-837DA3E7724E}
+name: SiteBrowserTitle
+key: sitebrowsertitle
+content-length: 36
+
+ - Habitat Sitecore Framework Rammer
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160105T102340Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+0222f2c4-d682-4b91-a3cc-746f49260071
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151917Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----version----
+language: en
+version: 1
+revision: 24acf5f4-45d8-4f61-80db-c4772961e00f
+
+----field----
+field: {835FA523-D28A-46A2-A589-6AA4A5BF0846}
+name: Register Outcome
+key: register outcome
+content-length: 38
+
+{C2D9DFBC-E465-45FD-BA21-0A06EBE942D6}
+----field----
+field: {2A84ECA4-68BB-4451-B4AC-98EA71A5A3DC}
+name: SiteProfiles
+key: siteprofiles
+content-length: 38
+
+{24DFF2CF-B30A-4B75-8967-2FE3DED82271}
+----field----
+field: {E748D808-64C1-4DEC-9718-F35CF9689E4B}
+name: Logo
+key: logo
+content-length: 104
+
+<image mediaid="{93AB35C2-44A0-4D5D-9EC0-B857D37F8B08}" alt="" height="" width="" hspace="" vspace="" />
+----field----
+field: {31D027BB-FAB5-4E1A-A66D-9F5B0FD4F005}
+name: Logo Tagline
+key: logo tagline
+content-length: 0
+
+
+----field----
+field: {02115632-FE1E-4B3D-9AD4-A4DDF1F782F0}
+name: Copyright
+key: copyright
+content-length: 329
+
+<p>© Copyright 2017, <a href="http://sitecore.net" target="_blank" title="Opens in a new window">Sitecore</a>. All Rights Reserved<br />
+<small>&ldquo;Habitat&rdquo; as used here is for demonstration purposes only and to represent the software and services provided by Sitecore further described at www.sitecore.net.</small></p>
+----field----
+field: {235AE392-97AC-4822-BE38-837DA3E7724E}
+name: SiteBrowserTitle
+key: sitebrowsertitle
+content-length: 32
+
+ - Habitat Sitecore Example Site
+----field----
+field: {378B7D87-5775-4EB6-86B7-282D5359B1C6}
+name: User Profile
+key: user profile
+content-length: 38
+
+{14523428-879D-491C-9DF0-1417E82A4311}
+----field----
+field: {021AA3F7-206F-4ACC-9538-F6D7FE86B168}
+name: Interests Folder
+key: interests folder
+content-length: 38
+
+{A74EE096-F225-4568-8D81-2F71ABBC8118}
+----field----
+field: {F07811D3-41E9-440A-9D81-310C1D78BED6}
+name: Title
+key: title
+content-length: 13
+
+About Habitat
+----field----
+field: {53B5AF0A-265F-4E60-B2B2-4576CE0BECCF}
+name: Theme
+key: theme
+content-length: 38
+
+{9025588B-C765-458B-829C-1886A98AD3A7}
+----field----
+field: {EFD4980A-030C-497C-8880-40B6030AC28B}
+name: OrganisationName
+key: organisationname
+content-length: 20
+
+Sitecore Corporation
+----field----
+field: {A24DF48F-C8A3-4163-966C-8C24BD8760B2}
+name: OrganisationAddress
+key: organisationaddress
+content-length: 44
+
+2320 Marinship Way
+Sausalito, CA 94965
+USA
+----field----
+field: {005ED83C-2D2F-4D07-A7A9-EB64D873DE46}
+name: OrganisationPhone
+key: organisationphone
+content-length: 15
+
++1 415 380 0600
+----field----
+field: {9C428556-5D7B-46AC-B0BB-B06A4F4C9591}
+name: OrganisationEmail
+key: organisationemail
+content-length: 103
+
+<link text='sales@sitecore.net' linktype='mailto' style='' url='mailto:sales@sitecore.net'  title='' />
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150824T171748Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+24acf5f4-45d8-4f61-80db-c4772961e00f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151917Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+habitat\Anonymous
+----version----
+language: ja-JP
+version: 1
+revision: f31744aa-ee2a-4a67-b06b-0bc8b5f4f1d0
+
+----field----
+field: {835FA523-D28A-46A2-A589-6AA4A5BF0846}
+name: Register Outcome
+key: register outcome
+content-length: 38
+
+{C2D9DFBC-E465-45FD-BA21-0A06EBE942D6}
+----field----
+field: {2A84ECA4-68BB-4451-B4AC-98EA71A5A3DC}
+name: SiteProfiles
+key: siteprofiles
+content-length: 38
+
+{24DFF2CF-B30A-4B75-8967-2FE3DED82271}
+----field----
+field: {E748D808-64C1-4DEC-9718-F35CF9689E4B}
+name: Logo
+key: logo
+content-length: 104
+
+<image mediaid="{93AB35C2-44A0-4D5D-9EC0-B857D37F8B08}" alt="" height="" width="" hspace="" vspace="" />
+----field----
+field: {02115632-FE1E-4B3D-9AD4-A4DDF1F782F0}
+name: Copyright
+key: copyright
+content-length: 263
+
+<p>© Copyright 2017, <a href="http://sitecore.net" target="_blank" title="Opens in a new window">Sitecore</a>. All Rights Reserved<br />
+<small>&ldquo; Habitat&rdquo; とはデモンストレーション目的のみで利用しており、Sitecoreが提供するソフトウェアとサービスに関しては www.sitecore.net で詳しく説明しています。</small></p>
+----field----
+field: {235AE392-97AC-4822-BE38-837DA3E7724E}
+name: SiteBrowserTitle
+key: sitebrowsertitle
+content-length: 29
+
+ - Habitat Sitecore Framework
+----field----
+field: {378B7D87-5775-4EB6-86B7-282D5359B1C6}
+name: User Profile
+key: user profile
+content-length: 38
+
+{14523428-879D-491C-9DF0-1417E82A4311}
+----field----
+field: {021AA3F7-206F-4ACC-9538-F6D7FE86B168}
+name: Interests Folder
+key: interests folder
+content-length: 38
+
+{A74EE096-F225-4568-8D81-2F71ABBC8118}
+----field----
+field: {F07811D3-41E9-440A-9D81-310C1D78BED6}
+name: Title
+key: title
+content-length: 12
+
+Habitat について
+----field----
+field: {53B5AF0A-265F-4E60-B2B2-4576CE0BECCF}
+name: Theme
+key: theme
+content-length: 38
+
+{9025588B-C765-458B-829C-1886A98AD3A7}
+----field----
+field: {EFD4980A-030C-497C-8880-40B6030AC28B}
+name: OrganisationName
+key: organisationname
+content-length: 9
+
+サイトコア株式会社
+----field----
+field: {A24DF48F-C8A3-4163-966C-8C24BD8760B2}
+name: OrganisationAddress
+key: organisationaddress
+content-length: 32
+
+〒107-0062
+東京都港区 
+南青山2-11-16 
+
+----field----
+field: {005ED83C-2D2F-4D07-A7A9-EB64D873DE46}
+name: OrganisationPhone
+key: organisationphone
+content-length: 12
+
+03-5413-6900
+----field----
+field: {9C428556-5D7B-46AC-B0BB-B06A4F4C9591}
+name: OrganisationEmail
+key: organisationemail
+content-length: 104
+
+<link text="sales@sitecore.net" linktype="mailto" style="" url="mailto:info-jp@sitecore.net" title="" />
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170323T054524Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f31744aa-ee2a-4a67-b06b-0bc8b5f4f1d0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151917Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

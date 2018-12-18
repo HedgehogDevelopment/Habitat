@@ -1,0 +1,131 @@
+----item----
+version: 1
+id: {24C5D99D-910F-4F54-BB3E-30DDF9CFC44D}
+database: master
+path: /sitecore/content/Habitat/Global/Map Points/Sitecore Offices/Copenhagen
+parent: {37FCED17-913A-4ABB-9EEC-3BF745334326}
+name: Copenhagen
+master: {00000000-0000-0000-0000-000000000000}
+template: {11C28D16-9B88-456E-A42B-D4B5A82867E3}
+templatekey: Map Point
+created: 20170612T151923Z
+
+----version----
+language: en
+version: 1
+revision: 5d884d3a-58d7-4914-b24d-8b3f71ae339f
+
+----field----
+field: {F12C22BB-E57D-4FAB-96E1-1229E4E7FF0E}
+name: MapPointName
+key: mappointname
+content-length: 16
+
+Sitecore Nordics
+----field----
+field: {0295C01D-214C-4C23-AFC2-3F0B4E88B643}
+name: MapPointAddress
+key: mappointaddress
+content-length: 49
+
+Vester Farimagsgade 3
+1606 Copenhagen V
+Denmark
+----field----
+field: {F686AC8E-1D33-45DB-8E1A-1B40CD491E7A}
+name: MapPointLocation
+key: mappointlocation
+content-length: 29
+
+55.6749167,12.561860199999956
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160129T052407Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+5d884d3a-58d7-4914-b24d-8b3f71ae339f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151923Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+default\Anonymous
+----version----
+language: ja-JP
+version: 1
+revision: 71d310bf-10ce-4d88-aa75-07f0dcb2e2d5
+
+----field----
+field: {F12C22BB-E57D-4FAB-96E1-1229E4E7FF0E}
+name: MapPointName
+key: mappointname
+content-length: 16
+
+Sitecore Nordics
+----field----
+field: {0295C01D-214C-4C23-AFC2-3F0B4E88B643}
+name: MapPointAddress
+key: mappointaddress
+content-length: 49
+
+Vester Farimagsgade 3
+1606 Copenhagen V
+Denmark
+----field----
+field: {F686AC8E-1D33-45DB-8E1A-1B40CD491E7A}
+name: MapPointLocation
+key: mappointlocation
+content-length: 29
+
+55.6749167,12.561860199999956
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170323T054650Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+71d310bf-10ce-4d88-aa75-07f0dcb2e2d5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151923Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

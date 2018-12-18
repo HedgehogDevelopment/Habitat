@@ -1,0 +1,134 @@
+----item----
+version: 1
+id: {D0817598-184D-4BFB-9740-28C0E8E80F23}
+database: master
+path: /sitecore/content/Habitat/Global/Teasers/Teaser Page/Call to Action Content
+parent: {E151CDEF-1A9F-449D-A87C-5CF5741FA857}
+name: Call to Action Content
+master: {00000000-0000-0000-0000-000000000000}
+template: {C7D9D293-4EF8-4380-8E10-C4632E729F39}
+templatekey: Teaser
+created: 20170612T151924Z
+
+----field----
+field: {E8AB122C-6F54-4D4E-AEC6-F81ADDC558FC}
+name: TeaserLink
+key: teaserlink
+content-length: 97
+
+<link linktype="internal" querystring="" target="" id="{762684E7-480B-41D6-82DE-8549BABE95E3}" />
+----version----
+language: en
+version: 1
+revision: 8de148bd-553f-496a-9e65-2978d25c5aa9
+
+----field----
+field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
+name: TeaserTitle
+key: teasertitle
+content-length: 22
+
+Call to Action Teasers
+----field----
+field: {13D97A52-7C4E-407C-960D-FADDE8A3C1B1}
+name: TeaserSummary
+key: teasersummary
+content-length: 180
+
+The Call to Action teaser focuses attention on an important message. Like with the other teasers the backgroun can be set to the theme colors or shows teaser image as a background.
+----field----
+field: {3F7E7E3A-4E8E-4639-B079-FC5AEFF172F5}
+name: Teaser Label
+key: teaser label
+content-length: 13
+
+Announcement!
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160323T005657Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8de148bd-553f-496a-9e65-2978d25c5aa9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151924Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+default\Anonymous
+----version----
+language: ja-JP
+version: 1
+revision: 3f52e637-da01-447d-a9b9-3f1bcea29482
+
+----field----
+field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
+name: TeaserTitle
+key: teasertitle
+content-length: 22
+
+Call to Action Teasers
+----field----
+field: {13D97A52-7C4E-407C-960D-FADDE8A3C1B1}
+name: TeaserSummary
+key: teasersummary
+content-length: 100
+
+Call to Actionティーザーは重要なメッセージに注目しています。 他のティーザーと同様にバックグラウンドはテーマカラーに設定することも、背景としてティーザーイメージを表示することもできます。
+----field----
+field: {3F7E7E3A-4E8E-4639-B079-FC5AEFF172F5}
+name: Teaser Label
+key: teaser label
+content-length: 13
+
+Announcement!
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170323T054706Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3f52e637-da01-447d-a9b9-3f1bcea29482
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151924Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

@@ -1,0 +1,106 @@
+----item----
+version: 1
+id: {76C38283-9143-4F17-9B7D-AA53E01C5A95}
+database: master
+path: /sitecore/content/Habitat/Global/Dictionary/Demo/Visits/Pages This Visit
+parent: {22000BFB-CD14-404D-BF94-12F309ED5599}
+name: Pages This Visit
+master: {00000000-0000-0000-0000-000000000000}
+template: {EC4DD3F2-590D-404B-9189-2A12679749CC}
+templatekey: DictionaryEntry
+created: 20170612T151927Z
+
+----version----
+language: en
+version: 1
+revision: f2e91f69-d850-485f-a7f8-0db24c1662b4
+
+----field----
+field: {DDACDD55-5B08-405F-9E58-04F09AED640A}
+name: Phrase
+key: phrase
+content-length: 25
+
+Pages seen in this visit:
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160406T232704Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f2e91f69-d850-485f-a7f8-0db24c1662b4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151927Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----version----
+language: ja-JP
+version: 1
+revision: a6827d74-4b26-4f9e-bcfd-c92b903447a6
+
+----field----
+field: {DDACDD55-5B08-405F-9E58-04F09AED640A}
+name: Phrase
+key: phrase
+content-length: 25
+
+Pages seen in this visit:
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170323T054634Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a6827d74-4b26-4f9e-bcfd-c92b903447a6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151927Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

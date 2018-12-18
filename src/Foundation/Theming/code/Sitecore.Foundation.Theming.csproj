@@ -54,7 +54,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="bower.json" />
-    <Content Include="App_Config\Include\Foundation\Foundation.Theming.Serialization.config" />
     <Content Include="scripts\Sitecore.Foundation.Theming.js" />
     <Content Include="scripts\Sitecore.Foundation.Theming.min.js">
       <DependentUpon>Sitecore.Foundation.Theming.js</DependentUpon>

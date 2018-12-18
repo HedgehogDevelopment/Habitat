@@ -1,0 +1,190 @@
+----item----
+version: 1
+id: {362CE8CA-4846-4477-9621-FC38F41D6371}
+database: master
+path: /sitecore/content/Habitat/Home/Modules/Feature/Identity
+parent: {F7434DF7-E32E-4F8C-A50E-27C476F4DC32}
+name: Identity
+master: {00000000-0000-0000-0000-000000000000}
+template: {94A8C8E9-690B-4E65-98E7-F95800222767}
+templatekey: Article
+created: 20170612T151924Z
+
+----version----
+language: en
+version: 1
+revision: 674096b4-9da7-4c82-811f-8c5a7953369b
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 8
+
+Identity
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 140
+
+The corporate or organisational identity of the website is managed by the Identity module. This includes Logos and legal footer information.
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 185
+
+<span style="line-height: 24.2857px;">The corporate or organisational identity of the website is managed by the Identity module. This includes Logos and legal footer information.</span>
+----field----
+field: {9492E0BB-9DF9-46E7-8188-EC795C4ADE44}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{0E882593-65D1-44BD-83C4-B2CC48C9C9E7}" />
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 8
+
+Identity
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 8
+
+Identity
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 515
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{4BAA8F11-90C7-4BF3-B5D8-C59381B81189}" p:before="*" s:id="{CA748838-E6D5-4BAD-9126-CAD10DD1B0DB}" s:ph="/page-layout/section-narrow/col-narrow-1_d4399158-183a-41e7-aa4c-86f7d7e68d76" /><r uid="{D4399158-183A-41E7-AA4C-86F7D7E68D76}" p:after="r[@uid='{4BAA8F11-90C7-4BF3-B5D8-C59381B81189}']" s:id="{831876B6-F9F1-463E-9DD5-7F93F1640590}" s:ph="/page-layout/section-narrow" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151116T023602Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+674096b4-9da7-4c82-811f-8c5a7953369b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151924Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----version----
+language: ja-JP
+version: 1
+revision: cf69c43e-48f5-4e88-b9b4-d04bf7f09bd3
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 8
+
+アイデンティティ
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 71
+
+ウェブサイトの企業または組織のアイデンティティは、アイデンティティモジュールによって管理されます。 これには、ロゴとフッター情報が含まれます。
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 116
+
+<span style="line-height: 24.2857px;">ウェブサイトの企業または組織のアイデンティティは、アイデンティティモジュールによって管理されます。 これには、ロゴとフッター情報が含まれます。</span>
+----field----
+field: {9492E0BB-9DF9-46E7-8188-EC795C4ADE44}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{0E882593-65D1-44BD-83C4-B2CC48C9C9E7}" />
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 8
+
+アイデンティティ
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 8
+
+アイデンティティ
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 8
+
+アイデンティティ
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 563
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{4BAA8F11-90C7-4BF3-B5D8-C59381B81189}" p:before="r[@uid='{D4399158-183A-41E7-AA4C-86F7D7E68D76}']" s:id="{CA748838-E6D5-4BAD-9126-CAD10DD1B0DB}" s:ph="/page-layout/section-narrow/col-narrow-1_d4399158-183a-41e7-aa4c-86f7d7e68d76" /><r uid="{D4399158-183A-41E7-AA4C-86F7D7E68D76}" p:before="r[@uid='{E6CA18D8-321D-4105-9C38-0622E94BE400}']" s:id="{831876B6-F9F1-463E-9DD5-7F93F1640590}" s:ph="/page-layout/section-narrow" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170323T054541Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+cf69c43e-48f5-4e88-b9b4-d04bf7f09bd3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151924Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

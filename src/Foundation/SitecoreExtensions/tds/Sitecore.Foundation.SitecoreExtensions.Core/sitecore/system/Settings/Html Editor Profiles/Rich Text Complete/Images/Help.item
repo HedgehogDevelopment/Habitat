@@ -1,0 +1,234 @@
+----item----
+version: 1
+id: {7070FCE6-BFC4-44F8-A23E-7C409ACBE9E7}
+database: core
+path: /sitecore/system/Settings/Html Editor Profiles/Rich Text Complete/Images/Help
+parent: {9D578B9D-B63D-43F4-B574-83613BBA7030}
+name: Help
+master: {2C9E00E7-4A4F-42E8-9251-B50A3FDF356F}
+template: {3825FE6A-6CA1-489B-A7C9-C3B4B3B38272}
+templatekey: Html Editor Snippet
+
+----field----
+field: {7DFF83D2-E609-4C5F-99A9-13EC8536D65B}
+name: Value
+key: value
+content-length: 101
+
+<img height="16" src="/sitecore/shell/Themes/standard/core/16x16/help16.png" width="16" border="0" />
+----version----
+language: da
+version: 1
+revision: d2c3d35b-e25d-41a9-a584-850211260243
+
+----field----
+field: {8E5179B0-2A09-4624-885D-619C0E3D0390}
+name: Header
+key: header
+content-length: 105
+
+<img height= 16  src=  sitecore shell themes standard core 16x16 help16 png  width= 16  border= 0   >help
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 5
+
+Hjælp
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151003T031051Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d2c3d35b-e25d-41a9-a584-850211260243
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160405T151311Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----version----
+language: de-DE
+version: 1
+revision: 8ec5e08c-d046-453d-a9d3-ec8704e3a770
+
+----field----
+field: {8E5179B0-2A09-4624-885D-619C0E3D0390}
+name: Header
+key: header
+content-length: 105
+
+<img height="16" src="/sitecore/shell/Themes/standard/core/16x16/help16.png" width="16" border="0" />Help
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 5
+
+Hilfe
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151003T030804Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8ec5e08c-d046-453d-a9d3-ec8704e3a770
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160405T151311Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----version----
+language: en
+version: 1
+revision: e1ffc76c-817c-4081-9973-f7ff367158b2
+
+----field----
+field: {8E5179B0-2A09-4624-885D-619C0E3D0390}
+name: Header
+key: header
+content-length: 105
+
+<img height="16" src="/sitecore/shell/Themes/standard/core/16x16/help16.png" width="16" border="0" />Help
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 15
+
+20060130T125519
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20060130T125519
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e1ffc76c-817c-4081-9973-f7ff367158b2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160405T151311Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----version----
+language: ja-JP
+version: 1
+revision: 207cbc2d-ffe0-468f-a94f-82dd566c8295
+
+----field----
+field: {8E5179B0-2A09-4624-885D-619C0E3D0390}
+name: Header
+key: header
+content-length: 104
+
+<img height="16" src="/sitecore/shell/Themes/standard/core/16x16/help16.png" width="16" border="0" />ヘルプ
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 3
+
+ヘルプ
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151003T030932Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+207cbc2d-ffe0-468f-a94f-82dd566c8295
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160405T151311Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

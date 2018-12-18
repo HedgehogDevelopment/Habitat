@@ -1,5 +1,20 @@
 [Oo]bj/
 src/**/[Bb]in/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+
+# Hedgehog Team Development for Sitecore
+*.scproj.user
+IconCache/
+T4RenderCache/
+BuiltFiles_*.txt
+
 specs/**/[Bb]in/
 .nuget/
 _ReSharper.*

@@ -114,7 +114,6 @@
   <ItemGroup>
     <Content Include="App_Config\Include\Foundation\Foundation.FieldEditor.config" />
     <Content Include="packages.config" />
-    <Content Include="App_Config\Include\Foundation\Foundation.FieldEditor.Serialization.config" />
     <None Include="Properties\PublishProfiles\Local.pubxml" />
     <None Include="Web.config" />
   </ItemGroup>

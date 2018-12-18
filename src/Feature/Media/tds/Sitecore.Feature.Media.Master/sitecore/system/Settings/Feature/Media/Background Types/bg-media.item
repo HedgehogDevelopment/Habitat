@@ -1,0 +1,58 @@
+----item----
+version: 1
+id: {DEE1F8F7-E786-4D38-A009-878535A6C933}
+database: master
+path: /sitecore/system/Settings/Feature/Media/Background Types/bg-media
+parent: {D4CE5263-0AAD-4540-BC85-9477F8529745}
+name: bg-media
+master: {00000000-0000-0000-0000-000000000000}
+template: {55A5BDAD-EB69-40F5-8195-CDA182E48EE4}
+templatekey: Background Type
+
+----version----
+language: en
+version: 1
+revision: ad89239c-f3a0-4d2e-a27b-269ce8364b68
+
+----field----
+field: {AF6B8E5C-10A2-46BE-8310-407434EC1055}
+name: Class
+key: class
+content-length: 8
+
+bg-media
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160204T104525Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ad89239c-f3a0-4d2e-a27b-269ce8364b68
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160405T151841Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

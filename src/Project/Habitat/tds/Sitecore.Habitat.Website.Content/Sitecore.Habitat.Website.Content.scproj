@@ -1,0 +1,2226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>e892f513-c3ca-4308-8ca5-9d1a00d57090</ProjectGuid>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <SourceWebPhysicalPath>
+    </SourceWebPhysicalPath>
+    <SourceWebProject>
+    </SourceWebProject>
+    <SourceWebVirtualPath>
+    </SourceWebVirtualPath>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <EnableUpdateable>true</EnableUpdateable>
+    <UseMerge>true</UseMerge>
+    <SingleAssemblyName>Sitecore.Habitat.Website.Content</SingleAssemblyName>
+    <UseWebConfigReplacement>false</UseWebConfigReplacement>
+    <DeleteAppCodeCompiledFiles>true</DeleteAppCodeCompiledFiles>
+    <LegacyFileReplacement>false</LegacyFileReplacement>
+    <AssemblyName>Sitecore.Habitat.Website.Content</AssemblyName>
+    <Name>Sitecore.Habitat.Website.Content</Name>
+    <RootNamespace>Sitecore.Habitat.Website.Content</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>.\bin\Debug\</OutputPath>
+    <RecursiveDeployAction>Ignore</RecursiveDeployAction>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>false</DebugSymbols>
+    <OutputPath>.\bin\Release\</OutputPath>
+    <RecursiveDeployAction>Ignore</RecursiveDeployAction>
+  </PropertyGroup>
+  <ItemGroup>
+    <AssemblyAttributes Include="AssemblyFileVersion">
+      <Value>$(AssemblyFileVersion)</Value>
+    </AssemblyAttributes>
+    <AssemblyAttributes Include="AssemblyVersion">
+      <Value>$(AssemblyVersion)</Value>
+    </AssemblyAttributes>
+  </ItemGroup>
+  <ItemGroup>
+    <SitecoreItem Include="sitecore\content.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Accounts Menu.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Accounts Menu\Edit Details.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Accounts Menu\Email.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Accounts Menu\Login.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Accounts Menu\Logout.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Edit Profile.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Edit Profile\Edit Profile First Name Placeholder.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Edit Profile\Edit Profile Last Name Placeholder.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Edit Profile\Edit Profile Phone Placeholder.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Edit Profile\Edit Profile Success.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Edit Profile\Email.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Edit Profile\First Name.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Edit Profile\Interests.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Edit Profile\Last Name.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Edit Profile\Phone Number.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Edit Profile\Profile Mismatch.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Edit Profile\Update.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Forgot Password.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Forgot Password\Email.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Forgot Password\Forgot Password Email Placeholder.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Forgot Password\Reset Password Info.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Forgot Password\Reset Password.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Login.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Login\Email.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Login\Forgot Your Password.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Login\Login E-mail Placeholder.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Login\Login Password Placeholder.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Login\Login.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Login\Password.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Login\Register.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Register.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Register\Confirm Password.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Register\Email.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Register\Password.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Register\Register Confirm Password Placeholder.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Register\Register Email Placeholder.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Register\Register Password Placeholder.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Accounts\Register\Register.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Alerts.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Alerts\Friendly.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Alerts\Friendly\Invalid data source template.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Alerts\Invalid data source.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Contact Details.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Contact Details\Number Of Visits.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\ExperiencePanel.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\ExperiencePanel\Close Label.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\ExperiencePanel\Close Visit Details Panel.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\ExperiencePanel\End Visit Label.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\ExperiencePanel\End Visit.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\ExperiencePanel\Open Visit Details Panel.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\ExperiencePanel\Refresh Label.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\ExperiencePanel\Refresh Visit Details.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Onsite Behavior.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Onsite Behavior\Current Visit.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Onsite Behavior\Goals Tab.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Onsite Behavior\Goals Triggered.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Onsite Behavior\Historic.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Onsite Behavior\No Goals.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Onsite Behavior\No Outcomes.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Onsite Behavior\No Page Events.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Onsite Behavior\No Profiling.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Onsite Behavior\Outcomes.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Onsite Behavior\Page Event Elapsed.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Onsite Behavior\Page Event Name.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Onsite Behavior\Page Events Tab.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Onsite Behavior\Profiling.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Onsite Behavior\Title.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Page View.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Page View\Home.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\PageView.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\PageView\Home.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Personal Info.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Personal Info\Address.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Personal Info\Anonymous User.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Personal Info\Email.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Personal Info\Identification.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Personal Info\Identified User.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Personal Info\Phone.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Personal Info\Title.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Referral.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Referral\Campaigns.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Referral\Device Browser.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Referral\Device Title.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Referral\Device.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Referral\No Campaigns.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Referral\Referrer Unknown.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Referral\Referrer.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Referral\Title.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Visits.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Visits\Engagement Value.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Visits\Engagement.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Visits\First Visit.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Visits\Number Of Visits.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Visits\Pages This Visit.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Visits\Pages Viewed.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Visits\Total Visits.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Identity.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Identity\Contact Information.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Identity\Contact Information\Email.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Identity\Contact Information\Title.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Maps.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Maps\Map.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Maps\Map\Page Edit.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Media.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Media\Carousel.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Media\Carousel\Next.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Media\Carousel\Previous.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\News.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\News\Latest News.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\News\Latest News\Read More.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\News\Latest News\Title.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\News\News Teaser.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\News\News Teaser\Read More.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\News\Search.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\News\Search\Content Type.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Page Content.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Page Content\Page Teaser.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Page Content\Page Teaser\Read more.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Page Content\Search.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Page Content\Search\Content Type.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\PageContent.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\PageContent\Teaser.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\PageContent\Teaser\Read more.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Person.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Person\Employee Contact Teaser.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Person\Employee Contact Teaser\Read more.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Person\Employee Teaser.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Person\Employee Teaser\Read more.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Person\EmployeeContactTeaser.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Person\EmployeeContactTeaser\Read more.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Person\EmployeeList.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Person\EmployeeList\Read More.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Person\Search.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Person\Search\Content Type.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Search.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Search\Header.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Search\Header\Search Again.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Search\Header\Title No Search.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Search\Header\Title With Results.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\teaser.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\teaser\carousel.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\teaser\carousel\next.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\teaser\carousel\previous.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Website.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Website\Sidebar.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Website\Sidebar\Close Visit Details Panel.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Website\Sidebar\End Visit.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Website\Sidebar\Open Visit Details Panel.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Website\Sidebar\Refresh Visit Details Panel.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\FAQ.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\FAQ\What is FAQ.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\FAQ\What is Habitat.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Interests.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Interests\Skiing.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Interests\Swiming.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\Footer Menu.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\Footer Menu\Left.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\Footer Menu\Left\Community.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\Footer Menu\Left\Documentation.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\Footer Menu\Left\Knowledge Base.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\Footer Menu\Left\Partner Network.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\Footer Menu\Right.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\Footer Menu\Right\Best Practice Blogs.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\Footer Menu\Right\Business Blogs.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\Footer Menu\Right\Contact Sitecore.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\Footer Menu\Right\Technical Blogs.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\GitHub.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\GitHub\GitHub Repository.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\GitHub\How to Contribute.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\GitHub\Wiki.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\Social Menu.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\Social Menu\Facebook.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\Social Menu\Twitter.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\Social Menu\YouTube.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\Topbar Menu.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\Topbar Menu\Habitat.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\Topbar Menu\Helix.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\Topbar Menu\Sitecore.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Map Points.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Map Points\Sitecore Offices.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Map Points\Sitecore Offices\Copenhagen.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Map Points\Sitecore Offices\San Francisco.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Map Points\Sitecore Offices\Sydney.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Map Points\Sydney Beaches.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Map Points\Sydney Beaches\Balmoral.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Map Points\Sydney Beaches\Bondi.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Map Points\Sydney Beaches\Manly.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Media.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Media\Architecture Introduction.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Media\Carousel.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Media\Dependencies.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Media\DependenciesFolder.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Media\DependenciesFolder\Dependencies 1.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Media\DependenciesFolder\Dependencies 2.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Media\DependenciesFolder\Dependencies 3.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Media\DependenciesFolder\Dependencies 4.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Media\DependenciesFolder\Dependencies 5.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Media\DependenciesFolder\Dependencies 6.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Media\Experience.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Media\Extensibility.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Media\Flexibility.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Media\Habitat Getting Started Video.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Media\Habitat Introduction Video.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Media\Habitat Layers Video.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Media\Habitat Modules Video.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Media\Lightbox Image Documentation.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Media\Lightbox Video Documentation.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Media\Simplicity.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Quotes.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Quotes\Groundbreaking.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Quotes\Jane Douane.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Registration.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Registration\Forgot Password Mail.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Social.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Social\sitecorehabitat.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\About Habitat.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Content.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Content\Example Divider.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Content\Recommended Reading.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Content\The Common Closure Principle.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Content\The Common Reuse Principle.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Content\The Release Reuse Equivalency Principle.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Content\The Stable Abstractions Principle.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Content\The Stable Dependencies Principle.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Content\TitleSummaryTeaser.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Download.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Examples.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Extensibility.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Flexibility.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Headline Employee Teasers.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Helix.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Lighboxes.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Media Documentation.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Simplicity.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Sitecore Experience Platform.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Teaser Page.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Teaser Page\Call to Action Content.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Teaser Page\Dynamic Jumbotron Carousel.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Teaser Page\Dynamic Teaser Content.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Teaser Page\Dynamic Teaser Content\Extensibility.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Teaser Page\Dynamic Teaser Content\Flexibility.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Teaser Page\Dynamic Teaser Content\Simplicity.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Teaser Page\Headline Accordion.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Teaser Page\Headline Call to Action.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Teaser Page\Headline Carousel.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Teaser Page\Headline Employee Carousel.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Teaser Page\Headline Jumbotron Carousel.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Teaser Page\Headline Tabs.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Teaser Page\Headline Teasers.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Teaser Page\Teaser Carousel.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Teasers\Teasers Documentation.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\_Local.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\_Local\Getting Started.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\About Habitat.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\About Habitat\Getting Started.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\About Habitat\Getting Started\_Local.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\About Habitat\Helix Documentation.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\About Habitat\Introduction.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\About Habitat\Introduction\_Local.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\About Habitat\Introduction\_Local\Habitat Introduction.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\About Habitat\Introduction\_Local\Helix Intro Blogpost.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\About Habitat\Introduction\_Local\Principles.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\About Habitat\Introduction\Dependencies and Layers.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\About Habitat\Introduction\Modular Architecture.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Edit Profile.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Login.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Login\Forgot Password.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Accounts.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Accounts\_Local.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Accounts\_Local\Login Teaser.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Demo.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Demo\_Local.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Demo\_Local\Chart Example.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Demo\_Local\Demo Content.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Demo\Fake GeoData.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Demo\Fake IP Address.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Demo\Fake Page.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Demo\Fake Referrer.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\FAQ.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\FAQ\FAQ Group.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Identity.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Language.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Maps.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Maps\Map Page.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Media.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Media\_Local.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Media\_Local\Videos Headline.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Metadata.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Navigation.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Navigation\External Link.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\News.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\News\News.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\News\News\2015.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\News\News\2015\08.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\News\News\2015\08\24.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\News\News\2015\08\24\17.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\News\News\2015\08\24\17\57.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\News\News\2015\08\24\17\57\Best In Class.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\News\News\2015\08\24\17\57\Best In Class\_Local.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\News\News\2015\08\24\17\57\Best In Class\_Local\Local Content Example.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\News\News\2015\08\24\17\57\Experience Management.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\News\News\2015\08\24\17\57\New version.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Page Content.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Person.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Person\Employees List.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Person\Employees List\John Doe.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Person\Employees List\John Howard.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Search.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Search\Search results.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Social.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Feature\Teasers.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Foundation.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Foundation\Assets.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Foundation\Forms.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Foundation\Indexing.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Foundation\Serialization.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Foundation\Sitecore Extensions.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Foundation\Theming.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Project.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Project\Common.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Project\Habitat.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\More Info.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\More Info\_Local.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\More Info\_Local\Demos.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Register.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Search.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Home\Secure Page.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Settings.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Settings\Datasources.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Settings\Datasources\carousel.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Settings\Datasources\democontent.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Settings\Datasources\dynamicteaser.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Settings\Datasources\employee.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Settings\Datasources\employeeslist.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Settings\Datasources\faq.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Settings\Datasources\headlines.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Settings\Datasources\identity.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Settings\Datasources\jumbotronteaser.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Settings\Datasources\lightboximage.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Settings\Datasources\lightboxvideo.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Settings\Datasources\linkmenu.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Settings\Datasources\loginteaser.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Settings\Datasources\mappoints.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Settings\Datasources\newsarticle.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Settings\Datasources\newslist.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Settings\Datasources\pagecontent.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Settings\Datasources\pageteaser.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Settings\Datasources\person.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Settings\Datasources\quote.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Settings\Datasources\searchsettings.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Settings\Datasources\teasers.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Settings\Datasources\twitterfeed.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Settings\localteasers.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Home.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+    </SitecoreItem>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\HedgehogDevelopment\SitecoreProject\v9.0\HedgehogDevelopment.SitecoreProject.targets" Condition="Exists('$(MSBuildExtensionsPath)\HedgehogDevelopment\SitecoreProject\v9.0\HedgehogDevelopment.SitecoreProject.targets')" />
+</Project>

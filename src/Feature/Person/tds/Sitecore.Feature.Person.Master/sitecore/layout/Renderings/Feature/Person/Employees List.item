@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {DC19892A-B345-4EFE-AAA2-6E27A801A733}
+database: master
+path: /sitecore/layout/Renderings/Feature/Person/Employees List
+parent: {918ADF7B-F0E9-422C-8DEE-757215CE3407}
+name: Employees List
+master: {00000000-0000-0000-0000-000000000000}
+template: {2A3E91A0-7987-44B5-AB34-35C2D9DE83B9}
+templatekey: Controller rendering
+created: 20161226T040914Z
+
+----field----
+field: {E64AD073-DFCC-4D20-8C0B-FE5AA6226CD7}
+name: Controller
+key: controller
+content-length: 77
+
+Sitecore.Feature.Person.Controllers.PersonController, Sitecore.Feature.Person
+----field----
+field: {DED9E431-3604-4921-A4B3-A6EC7636A5B6}
+name: Controller Action
+key: controller action
+content-length: 13
+
+EmployeesList
+----field----
+field: {B5B27AF1-25EF-405C-87CE-369B3A004016}
+name: Datasource Location
+key: datasource location
+content-length: 14
+
+site:Employees
+----field----
+field: {1A7C85E5-DC0B-490D-9187-BB1DBCB4C72F}
+name: Datasource Template
+key: datasource template
+content-length: 0
+
+
+----field----
+field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
+name: __Thumbnail
+key: __thumbnail
+content-length: 58
+
+<image mediaid="{A9F7775D-946D-458B-A2E0-D7BE50A99240}" />
+----version----
+language: en
+version: 1
+revision: 8b82392e-572b-468c-8bea-0b875cc7aa56
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151124T104542Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8b82392e-572b-468c-8bea-0b875cc7aa56
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20161226T040915Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

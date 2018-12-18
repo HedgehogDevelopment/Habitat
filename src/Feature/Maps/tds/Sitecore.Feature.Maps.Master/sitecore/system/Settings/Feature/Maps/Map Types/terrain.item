@@ -1,0 +1,51 @@
+----item----
+version: 1
+id: {C6BD7927-A5F1-40A6-806A-81EC543EF2E1}
+database: master
+path: /sitecore/system/Settings/Feature/Maps/Map Types/terrain
+parent: {07674169-6ECB-4534-9D90-F2BB2FEB2BFA}
+name: terrain
+master: {00000000-0000-0000-0000-000000000000}
+template: {04C34CF5-B7EA-4408-88E8-5FC851173DBD}
+templatekey: Map Type
+
+----version----
+language: en
+version: 1
+revision: 3e2aafd6-8e51-4c99-89c6-d67e8deac961
+
+----field----
+field: {4A724065-E4CA-4CDD-9027-F56CEEF1B082}
+name: Name
+key: name
+content-length: 7
+
+terrain
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151214T093346Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3e2aafd6-8e51-4c99-89c6-d67e8deac961
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160411T220214Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

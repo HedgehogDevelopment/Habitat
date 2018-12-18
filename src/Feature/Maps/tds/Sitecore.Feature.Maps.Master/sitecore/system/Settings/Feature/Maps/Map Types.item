@@ -1,0 +1,58 @@
+----item----
+version: 1
+id: {07674169-6ECB-4534-9D90-F2BB2FEB2BFA}
+database: master
+path: /sitecore/system/Settings/Feature/Maps/Map Types
+parent: {933308AC-1959-4515-BB18-C4CF011F2D9D}
+name: Map Types
+master: {00000000-0000-0000-0000-000000000000}
+template: {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+templatekey: Folder
+
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 38
+
+{04C34CF5-B7EA-4408-88E8-5FC851173DBD}
+----version----
+language: en
+version: 1
+revision: 13b4228b-12f8-46a6-a9e1-d59e98587750
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151214T092658Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+13b4228b-12f8-46a6-a9e1-d59e98587750
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160411T220211Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

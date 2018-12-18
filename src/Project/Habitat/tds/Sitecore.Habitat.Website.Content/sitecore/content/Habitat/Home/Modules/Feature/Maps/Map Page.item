@@ -1,0 +1,234 @@
+----item----
+version: 1
+id: {D519E629-3709-44AD-9642-09C213F7403F}
+database: master
+path: /sitecore/content/Habitat/Home/Modules/Feature/Maps/Map Page
+parent: {C0A33DD0-EFDB-43C0-88EF-B46C39C5CBDA}
+name: Map Page
+master: {00000000-0000-0000-0000-000000000000}
+template: {EE9E5BDB-7D71-48F7-B461-42BF9C2052EC}
+templatekey: Map Page
+created: 20170612T151929Z
+
+----version----
+language: en
+version: 1
+revision: 8b8b5b83-ef7b-4f06-8614-92ecfde8e3ed
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 8
+
+Map Page
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 79
+
+<p>This is a page type very similar to an article, but with a built in map.</p>
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 324
+
+<p>This page type illustrates how a rendering (the map control) can draw content both from a data source but also from the page itself.</p>
+<p>Above is a map built into the page type itself, and drawing its content from that.</p>
+<p>Below is a map rendering which draws its content from a shared data source.</p>
+<p> </p>
+----field----
+field: {F12C22BB-E57D-4FAB-96E1-1229E4E7FF0E}
+name: MapPointName
+key: mappointname
+content-length: 11
+
+Sitecore HQ
+----field----
+field: {0295C01D-214C-4C23-AFC2-3F0B4E88B643}
+name: MapPointAddress
+key: mappointaddress
+content-length: 48
+
+Vester Farimagsgade 3
+1606 København V
+Denmark
+----field----
+field: {F686AC8E-1D33-45DB-8E1A-1B40CD491E7A}
+name: MapPointLocation
+key: mappointlocation
+content-length: 29
+
+55.6750834,12.559534600000006
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 8
+
+Map Page
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 8
+
+Map Page
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1033
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{D510F11D-594A-462B-9648-ABCFF19F2FD2}" p:before="*" s:ds="{37FCED17-913A-4ABB-9EEC-3BF745334326}" s:id="{7DFD9396-CB94-4174-9721-9419A2AA68E3}" s:par="MapType=hybrid&amp;CenterLocation=13.0593125%2C-98.6677164&amp;ZoomLevel=2&amp;EnableCenterMapControl&amp;EnableZoomControl=1&amp;EnableMapTypeControl=1&amp;EnableScaleControl&amp;EnableStreetViewControl&amp;EnableRotateControl" s:ph="/page-layout/section-narrow/col-wide-1_b38d639b-cca8-4397-846a-75efd37874a3" /><r uid="{B38D639B-CCA8-4397-846A-75EFD37874A3}" p:after="r[@uid='{D510F11D-594A-462B-9648-ABCFF19F2FD2}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/page-layout/section-narrow" /><r uid="{24941F8B-726E-4DC1-BC2C-82C8BE0C6414}" s:par="MapType=roadmap&amp;CenterLocation=-5.055576%2C3.803790&amp;ZoomLevel=4&amp;EnableCenterMapControl&amp;EnableZoomControl&amp;EnableMapTypeControl&amp;EnableScaleControl&amp;EnableStreetViewControl&amp;EnableRotateControl" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160606T020237Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8b8b5b83-ef7b-4f06-8614-92ecfde8e3ed
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151929Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----version----
+language: ja-JP
+version: 1
+revision: cb2688bf-1d7b-44c7-807e-6944a691d5f6
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 4
+
+地図情報
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 45
+
+<p>これは、記事と非常によく似たページタイプですが、マップが組み込まれています。</p>
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 178
+
+<p>このページタイプは、レンダリング（マップコントロール）がデータソースからだけでなくページ自体からコンテンツを描画する方法を示しています。</p>
+<p>上記はページタイプ自体に組み込まれたマップで、そこからコンテンツを描画します。</p>
+<p>以下は、共有データソースからコンテンツを描画するマップレンダリングです。</p>
+<p> </p>
+----field----
+field: {9492E0BB-9DF9-46E7-8188-EC795C4ADE44}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{88032F9C-B464-44CB-B76D-513D60B9C127}" />
+----field----
+field: {F12C22BB-E57D-4FAB-96E1-1229E4E7FF0E}
+name: MapPointName
+key: mappointname
+content-length: 9
+
+サイトコア株式会社
+----field----
+field: {0295C01D-214C-4C23-AFC2-3F0B4E88B643}
+name: MapPointAddress
+key: mappointaddress
+content-length: 30
+
+東京都港区南青山２－１１－１６
+METLIFE青山ビル3階
+----field----
+field: {F686AC8E-1D33-45DB-8E1A-1B40CD491E7A}
+name: MapPointLocation
+key: mappointlocation
+content-length: 22
+
+35.6714795,139.7191239
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 4
+
+地図情報
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 4
+
+地図情報
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 4
+
+地図情報
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1074
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{D510F11D-594A-462B-9648-ABCFF19F2FD2}" p:before="*" s:ds="{37FCED17-913A-4ABB-9EEC-3BF745334326}" s:id="{7DFD9396-CB94-4174-9721-9419A2AA68E3}" s:par="MapType=hybrid&amp;CenterLocation=13.0593125%2C-98.6677164&amp;ZoomLevel=2&amp;EnableCenterMapControl&amp;EnableZoomControl=1&amp;EnableMapTypeControl=1&amp;EnableScaleControl&amp;EnableStreetViewControl&amp;EnableRotateControl" s:ph="/page-layout/section-narrow/col-wide-1_b38d639b-cca8-4397-846a-75efd37874a3" /><r uid="{B38D639B-CCA8-4397-846A-75EFD37874A3}" p:after="r[@uid='{D510F11D-594A-462B-9648-ABCFF19F2FD2}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/page-layout/section-narrow" /><r uid="{24941F8B-726E-4DC1-BC2C-82C8BE0C6414}" s:par="MapType=roadmap&amp;CenterLocation=-5.055576%2C3.803790&amp;ZoomLevel=4&amp;EnableCenterMapControl&amp;EnableZoomControl&amp;EnableMapTypeControl&amp;EnableScaleControl&amp;EnableStreetViewControl&amp;EnableRotateControl" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170323T054544Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+cb2688bf-1d7b-44c7-807e-6944a691d5f6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151929Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

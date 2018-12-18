@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {3A881E4E-97FD-4D22-8E26-F81A6449E0E4}
+database: master
+path: /sitecore/content/Habitat/Global/Dictionary/teaser
+parent: {BB4ECAF5-BE3B-4BE7-B6BC-6BCC0B5BB77F}
+name: teaser
+master: {00000000-0000-0000-0000-000000000000}
+template: {98E4BDC6-9B43-4EB2-BAA3-D4303C35852E}
+templatekey: DictionaryFolder
+created: 20170101T210132Z
+
+----version----
+language: en
+version: 1
+revision: bb5f28b2-de4c-45e2-9443-53d10044c26a
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20161227T104622Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 17
+
+habitat\Anonymous
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+bb5f28b2-de4c-45e2-9443-53d10044c26a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170101T210132Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+default\Anonymous

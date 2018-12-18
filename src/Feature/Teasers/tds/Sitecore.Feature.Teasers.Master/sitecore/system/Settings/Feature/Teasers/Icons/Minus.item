@@ -1,0 +1,58 @@
+----item----
+version: 1
+id: {4877A665-225F-47E2-BD66-B8997302FA13}
+database: master
+path: /sitecore/system/Settings/Feature/Teasers/Icons/Minus
+parent: {2E066B18-EB55-41A6-B933-27063A7C3C55}
+name: Minus
+master: {00000000-0000-0000-0000-000000000000}
+template: {E90D00B6-0BE9-48E0-9C3F-047274024270}
+templatekey: Icon
+
+----field----
+field: {585F89D1-570C-4F66-A6EC-195A8DA654E1}
+name: CssClass
+key: cssclass
+content-length: 25
+
+glyphicon glyphicon-minus
+----version----
+language: en
+version: 1
+revision: 74e5ffe9-4713-4556-a04f-ea92399a59a9
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160322T035405Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+74e5ffe9-4713-4556-a04f-ea92399a59a9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160413T173825Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

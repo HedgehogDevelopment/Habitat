@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {8E8058FB-DF59-4F74-A0D6-A17DBB965C91}
+database: master
+path: /sitecore/layout/Placeholder Settings/Project/Common/parallax-content
+parent: {6CA1A082-5054-4AA0-88DA-39489A7D1CCE}
+name: parallax-content
+master: {00000000-0000-0000-0000-000000000000}
+template: {5C547D4E-7111-4995-95B0-6B561751BF2E}
+templatekey: Placeholder
+
+----field----
+field: {7256BDAB-1FD2-49DD-B205-CB4873D2917C}
+name: Placeholder Key
+key: placeholder key
+content-length: 16
+
+parallax-content
+----field----
+field: {E391B526-D0C5-439D-803E-17512EAE6222}
+name: Allowed Controls
+key: allowed controls
+content-length: 38
+
+{781C6B36-4B02-46EA-8ADC-B92A11877F10}
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 4
+
+1100
+----version----
+language: en
+version: 1
+revision: 41ba948e-d4bf-4c24-adb4-5c4eb70df935
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160114T102107Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+41ba948e-d4bf-4c24-adb4-5c4eb70df935
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160405T151911Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

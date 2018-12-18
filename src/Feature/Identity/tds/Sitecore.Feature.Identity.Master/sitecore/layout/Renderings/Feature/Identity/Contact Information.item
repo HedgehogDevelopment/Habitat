@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {CA748838-E6D5-4BAD-9126-CAD10DD1B0DB}
+database: master
+path: /sitecore/layout/Renderings/Feature/Identity/Contact Information
+parent: {3731116D-9468-4B89-9C95-CC6CECFF1CF4}
+name: Contact Information
+master: {00000000-0000-0000-0000-000000000000}
+template: {99F8905D-4A87-4EB8-9F8B-A9BEBFB3ADD6}
+templatekey: View rendering
+
+----field----
+field: {51B435BC-F7B9-478A-9C51-52916AF96FF5}
+name: Path
+key: path
+content-length: 41
+
+/Views/Identity/ContactInformation.cshtml
+----field----
+field: {7D24E54F-5C16-4314-90C9-6051AA1A7DA1}
+name: Parameters Template
+key: parameters template
+content-length: 38
+
+{A2A233A1-6701-48A9-B5F8-EFEAB74B655F}
+----field----
+field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
+name: __Thumbnail
+key: __thumbnail
+content-length: 58
+
+<image mediaid="{F75B4475-4C84-4D87-A271-76A1902CE4F2}" />
+----version----
+language: en
+version: 1
+revision: 93e2657d-1a23-4d65-9278-460266b63686
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160215T231736Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+93e2657d-1a23-4d65-9278-460266b63686
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160617T181429Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

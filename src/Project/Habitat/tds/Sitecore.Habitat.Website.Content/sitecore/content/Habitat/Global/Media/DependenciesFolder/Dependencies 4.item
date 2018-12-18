@@ -1,0 +1,127 @@
+----item----
+version: 1
+id: {16241F49-B3AE-4178-9F94-019551A34A5D}
+database: master
+path: /sitecore/content/Habitat/Global/Media/DependenciesFolder/Dependencies 4
+parent: {4B86CB93-0AE5-4845-877B-6A045EAC5707}
+name: Dependencies 4
+master: {00000000-0000-0000-0000-000000000000}
+template: {F0369E1A-9030-4A05-A09C-EF09B664ED27}
+templatekey: Image
+created: 20170612T151923Z
+
+----version----
+language: en
+version: 1
+revision: 001d8110-40af-4ba0-b41e-d65e8c4ed17c
+
+----field----
+field: {63DDA48B-B0CB-45A7-9A1B-B26DDB41009B}
+name: MediaTitle
+key: mediatitle
+content-length: 39
+
+Correct layering and dependency control
+----field----
+field: {302C9F8D-F703-4F76-A4AB-73D222648232}
+name: MediaDescription
+key: mediadescription
+content-length: 193
+
+With a layered approach, where dependencies are tightly controlled using technical design principles and patterns. The coupling between modules and functionalities can be reduced significantly.
+----field----
+field: {9F51DEAD-AD6E-41C2-9759-7BE17EB474A4}
+name: MediaImage
+key: mediaimage
+content-length: 311
+
+<image mediapath="/Habitat/Images/Content/Dependencies/Habitat Dependencies 2" alt="Dependencies in Habitat" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="~/media/Habitat/Images/Content/Dependencies/Habitat Dependencies 2" mediaid="{A3E11B65-76B1-4AB9-9020-7A5C2D191297}" ></image>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151209T045130Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+001d8110-40af-4ba0-b41e-d65e8c4ed17c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151923Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+default\Anonymous
+----version----
+language: ja-JP
+version: 1
+revision: aff2932d-3b3f-4ae1-8f19-f68956796df4
+
+----field----
+field: {63DDA48B-B0CB-45A7-9A1B-B26DDB41009B}
+name: MediaTitle
+key: mediatitle
+content-length: 39
+
+Correct layering and dependency control
+----field----
+field: {302C9F8D-F703-4F76-A4AB-73D222648232}
+name: MediaDescription
+key: mediadescription
+content-length: 193
+
+With a layered approach, where dependencies are tightly controlled using technical design principles and patterns. The coupling between modules and functionalities can be reduced significantly.
+----field----
+field: {9F51DEAD-AD6E-41C2-9759-7BE17EB474A4}
+name: MediaImage
+key: mediaimage
+content-length: 311
+
+<image mediapath="/Habitat/Images/Content/Dependencies/Habitat Dependencies 2" alt="Dependencies in Habitat" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="~/media/Habitat/Images/Content/Dependencies/Habitat Dependencies 2" mediaid="{A3E11B65-76B1-4AB9-9020-7A5C2D191297}" ></image>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170323T054654Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+aff2932d-3b3f-4ae1-8f19-f68956796df4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151923Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

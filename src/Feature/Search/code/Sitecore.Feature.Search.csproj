@@ -169,7 +169,6 @@
     <Content Include="Views\web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\Feature\Feature.Search.Serialization.config" />
     <Content Include="packages.config" />
     <Content Include="App_Config\Include\Feature\Feature.Search.config" />
     <None Include="Properties\PublishProfiles\Local.pubxml" />

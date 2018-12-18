@@ -1,0 +1,51 @@
+----item----
+version: 1
+id: {692E10B7-6E59-4253-BD64-9A2633FD735F}
+database: master
+path: /sitecore/layout/Renderings/Feature/News/News Related Content
+parent: {DB7775FA-27D8-44E4-9E6C-08ADE58EF4ED}
+name: News Related Content
+master: {00000000-0000-0000-0000-000000000000}
+template: {99F8905D-4A87-4EB8-9F8B-A9BEBFB3ADD6}
+templatekey: View rendering
+
+----field----
+field: {51B435BC-F7B9-478A-9C51-52916AF96FF5}
+name: Path
+key: path
+content-length: 31
+
+/Views/News/NewsMetadata.cshtml
+----version----
+language: en
+version: 1
+revision: 70bcb7a4-5ec8-49e0-8033-8d23fa455caf
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160215T025749Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+70bcb7a4-5ec8-49e0-8033-8d23fa455caf
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160405T151850Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

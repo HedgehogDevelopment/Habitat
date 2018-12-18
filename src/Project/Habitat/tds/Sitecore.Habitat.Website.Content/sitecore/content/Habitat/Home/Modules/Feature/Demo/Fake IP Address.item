@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {C28FF134-0F92-4B47-8B5B-D4B474D77DF4}
+database: master
+path: /sitecore/content/Habitat/Home/Modules/Feature/Demo/Fake IP Address
+parent: {8EAC162B-96BC-43F1-95D6-99B83745B2F4}
+name: Fake IP Address
+master: {00000000-0000-0000-0000-000000000000}
+template: {49C651BA-4004-40A9-9B0F-E95D0573F3AE}
+templatekey: Demo Page
+created: 20170612T151928Z
+
+----field----
+field: {1618E249-E670-46A7-A198-6E85B7745726}
+name: IP Address
+key: ip address
+content-length: 13
+
+52.197.31.124
+----field----
+field: {D28EFE17-C491-47C0-B62D-934DC9DA38A4}
+name: Referrer
+key: referrer
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: bada19d6-939b-460f-bc51-ea077806f599
+
+----field----
+field: {0BC0AEDF-A6D0-4F74-933C-BD1779CD40B2}
+name: HTML Content
+key: html content
+content-length: 369
+
+<html>
+<body>
+<h1>Demo Page</h1>
+<p>This page fakes the IP address. If IP geo lookup is enabled, the IP address will be used to lookup geo data.</p>
+<p>The page is not tracked in xDB.<br/>After returning to a standard web page, use the panel in the right hand side to view the faked information.</p>
+<p><a href="/">Return to the home page</a></p>
+</body>
+</html>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170530T230230Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+bada19d6-939b-460f-bc51-ea077806f599
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151928Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

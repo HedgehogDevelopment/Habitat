@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {5899FE6B-2AD7-4243-B1F9-3BC664CF0A7C}
+database: master
+path: /sitecore/layout/Renderings/Feature/Accounts/Login
+parent: {81460D62-74F8-4471-9DAD-2C82D767A689}
+name: Login
+master: {00000000-0000-0000-0000-000000000000}
+template: {2A3E91A0-7987-44B5-AB34-35C2D9DE83B9}
+templatekey: Controller rendering
+
+----field----
+field: {E64AD073-DFCC-4D20-8C0B-FE5AA6226CD7}
+name: Controller
+key: controller
+content-length: 83
+
+Sitecore.Feature.Accounts.Controllers.AccountsController, Sitecore.Feature.Accounts
+----field----
+field: {DED9E431-3604-4921-A4B3-A6EC7636A5B6}
+name: Controller Action
+key: controller action
+content-length: 5
+
+Login
+----field----
+field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
+name: __Thumbnail
+key: __thumbnail
+content-length: 58
+
+<image mediaid="{566DC106-44F0-4B41-A7A0-87C63D1C3F1D}" />
+----version----
+language: en
+version: 1
+revision: ed1c3495-616d-4833-93fb-25758ab4141e
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151105T104051Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ed1c3495-616d-4833-93fb-25758ab4141e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160617T181639Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

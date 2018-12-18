@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {A00DDF6F-3ABE-454E-AA5F-218EE5A9DA27}
+database: master
+path: /sitecore/content/Habitat/Home/Modules/Feature/Demo/Fake Referrer
+parent: {8EAC162B-96BC-43F1-95D6-99B83745B2F4}
+name: Fake Referrer
+master: {00000000-0000-0000-0000-000000000000}
+template: {49C651BA-4004-40A9-9B0F-E95D0573F3AE}
+templatekey: Demo Page
+created: 20170612T151929Z
+
+----field----
+field: {D28EFE17-C491-47C0-B62D-934DC9DA38A4}
+name: Referrer
+key: referrer
+content-length: 136
+
+http://www.bing.com/search?q=Sitecore+Habitat&qs=n&form=QBLH&sp=-1&pq=sitecore+habitat&sc=3-17&sk=&cvid=46997EBAFE7C4B18B9C0C5140789A0EB
+----version----
+language: en
+version: 1
+revision: 9151936c-80b4-4278-a590-f3723c215738
+
+----field----
+field: {0BC0AEDF-A6D0-4F74-933C-BD1779CD40B2}
+name: HTML Content
+key: html content
+content-length: 290
+
+<html>
+<body>
+<h1>Demo Page</h1>
+<p>This page fakes the referrer.</p>
+<p>The page is not tracked in xDB.<br/>After returning to a standard web page, use the panel in the right hand side to view the faked information.</p>
+<p><a href="/">Return to the home page</a></p>
+</body>
+</html>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170530T230230Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9151936c-80b4-4278-a590-f3723c215738
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151929Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

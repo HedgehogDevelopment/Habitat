@@ -112,9 +112,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Scripts\Maps\maps.js" />
-    <Content Include="App_Config\Include\Feature\Feature.Maps.Serialization.config">
-      <SubType>Designer</SubType>
-    </Content>
     <Content Include="App_Config\Include\Feature\Feature.Maps.config">
       <SubType>Designer</SubType>
     </Content>

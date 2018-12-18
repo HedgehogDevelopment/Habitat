@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {AB7270E4-9B87-4A24-94B0-B98C216B9F03}
+database: master
+path: /sitecore/layout/Renderings/Feature/Teasers/Tabs
+parent: {A781E01F-0C9E-4751-8C08-12A32EC063E3}
+name: Tabs
+master: {00000000-0000-0000-0000-000000000000}
+template: {2A3E91A0-7987-44B5-AB34-35C2D9DE83B9}
+templatekey: Controller rendering
+created: 20161006T142907:636113609470670000
+
+----field----
+field: {E64AD073-DFCC-4D20-8C0B-FE5AA6226CD7}
+name: Controller
+key: controller
+content-length: 79
+
+Sitecore.Feature.Teasers.Controller.TeasersController, Sitecore.Feature.Teasers
+----field----
+field: {DED9E431-3604-4921-A4B3-A6EC7636A5B6}
+name: Controller Action
+key: controller action
+content-length: 4
+
+Tabs
+----field----
+field: {B5B27AF1-25EF-405C-87CE-369B3A004016}
+name: Datasource Location
+key: datasource location
+content-length: 18
+
+site:dynamicteaser
+----field----
+field: {E441ABE7-2CA3-4640-AE26-3789967925D7}
+name: Compatible Renderings
+key: compatible renderings
+content-length: 38
+
+{DDC6F993-6689-432E-90C7-B2865947DFD5}
+----field----
+field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
+name: __Thumbnail
+key: __thumbnail
+content-length: 58
+
+<image mediaid="{BF467DA3-0CFC-4BD9-9448-90A813E0AC3D}" />
+----version----
+language: en
+version: 1
+revision: 83f1d26d-7b31-4e94-a2a4-ca4326d06ad0
+
+----field----
+field: {1C307764-806C-42F0-B7CE-FC173AC8372B}
+name: Supports Local Datasource
+key: supports local datasource
+content-length: 1
+
+1
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150903T115944Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+83f1d26d-7b31-4e94-a2a4-ca4326d06ad0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20161006T142907Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

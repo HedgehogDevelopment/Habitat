@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {2E4BDD9E-F7A0-4BB6-8A4F-8A8C1A52E512}
+database: master
+path: /sitecore/layout/Placeholder Settings/Project/Common/Columns/col-huge
+parent: {D046E7A5-9EE2-4CBA-8484-C601561F66D9}
+name: col-huge
+master: {00000000-0000-0000-0000-000000000000}
+template: {5C547D4E-7111-4995-95B0-6B561751BF2E}
+templatekey: Placeholder
+created: 20161226T040923Z
+
+----field----
+field: {7256BDAB-1FD2-49DD-B205-CB4873D2917C}
+name: Placeholder Key
+key: placeholder key
+content-length: 8
+
+col-huge
+----field----
+field: {E391B526-D0C5-439D-803E-17512EAE6222}
+name: Allowed Controls
+key: allowed controls
+content-length: 662
+
+{E86BFEB1-F3FC-4E37-B693-A5550D6789EE}|{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}|{EE5A9F3D-C2CB-4710-8053-04D1A7135EBE}|{7DFD9396-CB94-4174-9721-9419A2AA68E3}|{F2CCA16D-7524-4E99-8EE0-78FF6394A3B3}|{4E541395-9332-4F1D-87F0-E7F4920C2036}|{349287CD-182C-4F2F-80B8-62A8B62CC57E}|{6D309FC1-D6B1-43B1-A31C-1FECB7B9303F}|{84924ABF-F983-4AF5-9002-EA0237A53DA9}|{DC19892A-B345-4EFE-AAA2-6E27A801A733}|{D0B4FD9F-3AEE-4AD7-BBC4-F37F0A1A3309}|{5899FE6B-2AD7-4243-B1F9-3BC664CF0A7C}|{5D35C31F-0770-4498-BAB8-C88BEF41F153}|{DDC6F993-6689-432E-90C7-B2865947DFD5}|{AB7270E4-9B87-4A24-94B0-B98C216B9F03}|{2A750168-7DBE-4995-B609-B08963579EB3}|{B883E272-70D8-419A-8AF8-819356D839AD}
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 1
+
+0
+----version----
+language: en
+version: 1
+revision: 59e98019-8ee8-45aa-adef-bef473f7934f
+
+----field----
+field: {87871FF5-1965-46D6-884F-01D6A0B9C4C1}
+name: Description
+key: description
+content-length: 16
+
+Full Page Column
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150921T033504Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+59e98019-8ee8-45aa-adef-bef473f7934f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20161226T040923Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

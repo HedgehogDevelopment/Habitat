@@ -1,0 +1,51 @@
+----item----
+version: 1
+id: {0E5B11A9-57ED-4B11-9DF1-3CD27C827846}
+database: master
+path: /sitecore/templates/Foundation/Theming/ParametersTemplate_HasBackground/Page Layout
+parent: {A2A233A1-6701-48A9-B5F8-EFEAB74B655F}
+name: Page Layout
+master: {00000000-0000-0000-0000-000000000000}
+template: {E269FBB5-3750-427A-9149-7AA950B49301}
+templatekey: Template section
+
+----version----
+language: en
+version: 1
+revision: b286123f-bed3-414b-a056-0087f35d6466
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160214T232207Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b286123f-bed3-414b-a056-0087f35d6466
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160413T173715Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

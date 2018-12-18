@@ -1,0 +1,190 @@
+----item----
+version: 1
+id: {6F29D455-C5E8-426C-AE31-123F75204D7B}
+database: master
+path: /sitecore/content/Habitat/Home/Modules/Feature/FAQ
+parent: {F7434DF7-E32E-4F8C-A50E-27C476F4DC32}
+name: FAQ
+master: {00000000-0000-0000-0000-000000000000}
+template: {94A8C8E9-690B-4E65-98E7-F95800222767}
+templatekey: Article
+created: 20170612T151924Z
+
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 116
+
+{94A8C8E9-690B-4E65-98E7-F95800222767}|{8FF3D369-A508-4D2F-84A5-9B6C6BF5E537}|{BA1EB1BD-E705-4BE6-A432-06B7F1B2F2CC}
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 1501
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{8C9F3988-6CA4-4992-BFDA-E97ADD057A75}" p:before="*" s:ds="{7A015A8A-E7F5-4DC2-8BEF-1A3E1708B39C}" s:id="{52A898D9-6D20-43FD-9798-1578B14A117C}" s:ph="/page-layout/section_ae5aa048-6552-4479-85d5-2cfc1c1e4304/col-wide-1_8bbcd4a3-ff5a-459e-81ae-d24c6c5435a2" /><r uid="{EA1DC45B-54BB-4B3A-B49A-45C69DCBE88A}" p:after="r[@uid='{8C9F3988-6CA4-4992-BFDA-E97ADD057A75}']" s:id="{3F7AD288-FA57-441F-AD79-CA60DC0C0A8D}" s:ph="/page-layout/section_ae5aa048-6552-4479-85d5-2cfc1c1e4304/col-narrow-1_8bbcd4a3-ff5a-459e-81ae-d24c6c5435a2" /><r uid="{8BBCD4A3-FF5A-459E-81AE-D24C6C5435A2}" p:after="r[@uid='{EA1DC45B-54BB-4B3A-B49A-45C69DCBE88A}']" s:id="{AB7054DD-B8E3-41D6-A75F-B54F2F37D08B}" s:ph="/page-layout/section_ae5aa048-6552-4479-85d5-2cfc1c1e4304" /><r uid="{AE5AA048-6552-4479-85D5-2CFC1C1E4304}" p:after="r[@uid='{1DF746C3-2D29-43E6-9DE2-05622DED6F97}']" s:id="{D201A487-5099-48A1-8189-55944F70C6CB}" s:ph="page-layout" /><r uid="{66422117-69C1-4B62-9323-482F16C4F244}"><p:d /></r><r uid="{0DE72BFC-0F5B-482B-B04C-D70AF5EC1185}" p:after="r[@uid='{20E3883C-C16D-41D7-B5D3-C4AC60D8386D}']" s:id="{45B8E1D9-D522-49E0-B9B7-04C965CC7089}" s:ph="/page-layout/page-header" /><r uid="{20AB9BAA-C112-4567-A701-564423E650D2}"><p:d /></r><r uid="{D542B8DD-A7C7-4D05-8D9B-347B4ED90D24}" p:after="*[1=2]" s:id="{CED18F24-62C2-445E-B0D9-045E3325297B}" s:ph="page-sidebar" /></d></r>
+----version----
+language: en
+version: 1
+revision: ee592a55-8b84-406c-944c-0ca4665ab329
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 3
+
+FAQ
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 87
+
+<p>The FAQ module features a handy accordion control to show questions and answers.</p>
+----field----
+field: {9492E0BB-9DF9-46E7-8188-EC795C4ADE44}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{74F43420-14E8-47DD-BC03-C31A7B5471F2}" />
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 3
+
+FAQ
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 3
+
+FAQ
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 0
+
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160229T165159Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ee592a55-8b84-406c-944c-0ca4665ab329
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151924Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----version----
+language: ja-JP
+version: 1
+revision: dc8da49a-1091-40cc-a616-77f9ff9f5b66
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 9
+
+よくある質問と回答
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 50
+
+<p>FAQモジュールには、質問と回答を表示する便利なアコーディオンコントロールがあります。</p>
+----field----
+field: {9492E0BB-9DF9-46E7-8188-EC795C4ADE44}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{74F43420-14E8-47DD-BC03-C31A7B5471F2}" />
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 9
+
+よくある質問と回答
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 9
+
+よくある質問と回答
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 9
+
+よくある質問と回答
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 78
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema" />
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170323T054537Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+dc8da49a-1091-40cc-a616-77f9ff9f5b66
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170612T151924Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
