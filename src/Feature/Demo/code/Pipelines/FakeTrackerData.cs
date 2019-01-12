@@ -9,16 +9,27 @@ namespace Sitecore.Feature.Demo.Pipelines
     using Sitecore.Analytics;
     using Sitecore.Analytics.Model;
     using Sitecore.Analytics.Pipelines.ParseReferrer;
+    using Sitecore.Feature.Demo.Controllers;
     using Sitecore.Feature.Demo.Models;
+    using Sitecore.Feature.Demo.Services;
     using Sitecore.Foundation.SitecoreExtensions.Extensions;
     using Sitecore.Pipelines;
 
     public class FakeTrackerData
     {
+        public IDemoStateService DemoStateService { get; }
+
+        public FakeTrackerData(IDemoStateService demoStateService)
+        {
+            this.DemoStateService = demoStateService;
+        }
+
         private string FAKE_TRACKER_DATA = "Sitecore.Feature.Demo.FakeTrackerData";
 
         public void GetFakeTrackerData(PipelineArgs args)
         {
+            if (!DemoStateService.IsDemoEnabled)
+                return;
             var trackerData = CreateTrackerData();
             if (trackerData == null)
                 return;
@@ -27,7 +38,7 @@ namespace Sitecore.Feature.Demo.Pipelines
 
         private static TrackerData CreateTrackerData()
         {
-            if (Sitecore.Context.Item == null || !Sitecore.Context.Item.IsDerived(Templates.DemoContent.ID))
+            if (Sitecore.Context.Item == null || !Sitecore.Context.Item.DescendsFrom(Templates.DemoContent.ID))
                 return null;
 
             var demoContent = new DemoContent(Sitecore.Context.Item);
@@ -62,7 +73,7 @@ namespace Sitecore.Feature.Demo.Pipelines
 
         public void SetFakeTrackerData(PipelineArgs args)
         {
-            if (!Tracker.IsActive)
+            if (!Tracker.IsActive || !this.DemoStateService.IsDemoEnabled)
                 return;
 
             if (!(HttpContext.Current.Session[FAKE_TRACKER_DATA] is TrackerData))

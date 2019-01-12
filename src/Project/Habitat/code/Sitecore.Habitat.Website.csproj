@@ -220,6 +220,197 @@
       <Output TaskParameter="Include" ItemName="StyleCopFiles" />
     </CreateItem>
     <StyleCopTask ProjectFullPath="$(MSBuildProjectFile)" SourceFiles="@(StyleCopFiles)" ForceFullAnalysis="true" TreatErrorsAsWarnings="true" OutputFile="StyleCopReport.xml" CacheResults="true" />
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(ProjectDir)..\..\..\..\BuildConfiguration.csproj" Condition="Exists('$(ProjectDir)..\..\..\..\BuildConfiguration.csproj')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{86CADB26-5817-46B6-88C7-76D5753722C3}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Sitecore.Habitat.Website</RootNamespace>
+    <AssemblyName>Sitecore.Habitat.Website</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\..\</SolutionDir>
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <Use64BitIISExpress />
+    <NoWarn>NU1603</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.Mvc" Version="5.2.4" />
+    <PackageReference Include="Microsoft.AspNet.Razor" Version="3.2.4" />
+    <PackageReference Include="Microsoft.AspNet.WebApi" Version="5.2.6" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.6" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.Core" Version="5.2.6" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.WebHost" Version="5.2.6" />
+    <PackageReference Include="Microsoft.AspNet.WebPages" Version="3.2.4" />
+    <PackageReference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform" Version="1.0.3" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Net.Compilers" Version="1.3.2" />
+    <PackageReference Include="Microsoft.Web.Infrastructure" Version="1.0.0.0" />
+    <PackageReference Include="Microsoft.Web.Xdt" Version="2.1.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="System.ComponentModel" Version="4.0.1" />
+    <PackageReference Include="System.Diagnostics.Debug" Version="4.0.11" />
+    <PackageReference Include="System.Globalization" Version="4.0.11" />
+    <PackageReference Include="System.Linq" Version="4.1.0" />
+    <PackageReference Include="System.Linq.Expressions" Version="4.1.0" />
+    <PackageReference Include="System.Reflection" Version="4.1.0" />
+    <PackageReference Include="System.Resources.ResourceManager" Version="4.0.1" />
+  </ItemGroup>
+  <Choose>
+    <When Condition="'$(LocalReferences)' == 'true'">
+      <ItemGroup>
+        <Reference Include="Sitecore.Analytics.Core">
+          <HintPath>$(SitecorePath)\bin\Sitecore.Analytics.Core.dll</HintPath>
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Sitecore.Analytics.Model">
+          <HintPath>$(SitecorePath)\bin\Sitecore.Analytics.Model.dll</HintPath>
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Sitecore.Analytics">
+          <HintPath>$(SitecorePath)\bin\Sitecore.Analytics.dll</HintPath>
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Sitecore.Kernel">
+          <HintPath>$(SitecorePath)\bin\Sitecore.Kernel.dll</HintPath>
+          <Private>False</Private>
+        </Reference>
+      </ItemGroup>
+    </When>
+    <Otherwise>
+      <ItemGroup>
+        <PackageReference Include="Sitecore.Analytics.Core" Version="[12.0.0]" />
+        <PackageReference Include="Sitecore.Analytics.Model" Version="[12.0.0]" />
+        <PackageReference Include="Sitecore.Analytics" Version="[12.0.0]" />
+        <PackageReference Include="Sitecore.Kernel" Version="[12.0.0]" />
+      </ItemGroup>
+    </Otherwise>
+  </Choose>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Net.Http">
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest">
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="..\..\..\ProductInfo.cs">
+      <Link>Properties\ProductInfo.cs</Link>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\Include\Project\Habitat.Website.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="App_Config\Include\Project\Habitat.Website.Serialization.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="favicon.ico" />
+    <None Include="App_Config\layers.config.xdt" />
+    <None Include="App_Data\packages\Habitat.xml" />
+    <None Include="Properties\PublishProfiles\Standalone.pubxml" />
+    <Content Include="App_Config\Environment\Project\Habitat.Dev.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Views\Web.config" />
+    <Content Include="Views\Website\Layouts\Default.cshtml" />
+    <None Include="web.config" />
+    <None Include="web.Debug.config">
+      <DependentUpon>web.config</DependentUpon>
+    </None>
+    <None Include="web.Release.config">
+      <DependentUpon>web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\Website\Sublayouts\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\foundation\Assets\code\Sitecore.Foundation.Assets.csproj">
+      <Project>{7E46FF93-EE05-412C-AC47-2A59A13DA73C}</Project>
+      <Name>Sitecore.Foundation.Assets</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Foundation\Dictionary\code\Sitecore.Foundation.Dictionary.csproj">
+      <Project>{0D6BA4D8-C469-4AE9-9EBB-93BDF7D7E78F}</Project>
+      <Name>Sitecore.Foundation.Dictionary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\foundation\SitecoreExtensions\code\Sitecore.Foundation.SitecoreExtensions.csproj">
+      <Project>{b535703f-8d07-4f23-a533-2974bb4cc7b1}</Project>
+      <Name>Sitecore.Foundation.SitecoreExtensions</Name>
+      <Private>True</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <Target Name="MvcBuildViews" AfterTargets="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(WebProjectOutputDir)" />
+  </Target>
+  <UsingTask TaskName="StyleCopTask" AssemblyFile="$(StyleCopTasksPath)\StyleCop.dll" />
+  <Target Name="StyleCop">
+    <!-- Create a collection of files to scan -->
+    <CreateItem Include="$(SourceFolder)\**\*.cs">
+      <Output TaskParameter="Include" ItemName="StyleCopFiles" />
+    </CreateItem>
+    <StyleCopTask ProjectFullPath="$(MSBuildProjectFile)" SourceFiles="@(StyleCopFiles)" ForceFullAnalysis="true" TreatErrorsAsWarnings="true" OutputFile="StyleCopReport.xml" CacheResults="true" />
     <!--<Xslt Inputs="StyleCopReport.xml"
        RootTag="StyleCopViolations"
        Xsl="tools\StyleCop\StyleCopReport.xsl"
