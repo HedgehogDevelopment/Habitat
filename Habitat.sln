@@ -234,6 +234,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Sitecor
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Accounts.Tests", "src\Foundation\Accounts\tests\Sitecore.Foundation.Accounts.Tests.csproj", "{461905E3-1D1F-4A75-A4AF-0EFBC0B35F07}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E892F513-C3CA-4308-8CA5-9D1A00D57090} = {E892F513-C3CA-4308-8CA5-9D1A00D57090}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.Accounts.Tests", "src\Feature\Accounts\Tests\Sitecore.Feature.Accounts.Tests.csproj", "{0049EB56-74D3-4F39-B0CE-2295E0747F09}"
 	ProjectSection(ProjectDependencies) = postProject
