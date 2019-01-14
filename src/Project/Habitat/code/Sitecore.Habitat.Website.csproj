@@ -150,13 +150,13 @@
     </Content>
     <Content Include="Views\Web.config" />
     <Content Include="Views\Website\Layouts\Default.cshtml" />
-    <None Include="web.config" />
-    <None Include="web.Debug.config">
+    <Content Include="web.config" />
+    <Content Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
-    </None>
-    <None Include="web.Release.config">
+    </Content>
+    <Content Include="web.Release.config">
       <DependentUpon>web.config</DependentUpon>
-    </None>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Website\Sublayouts\" />
