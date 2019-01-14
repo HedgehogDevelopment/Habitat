@@ -376,11 +376,6 @@ Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "Sitecore.Foundation.FieldEd
 		{65E58FF2-DE32-4FD3-B858-A07219E0769E} = {65E58FF2-DE32-4FD3-B858-A07219E0769E}
 	EndProjectSection
 EndProject
-Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "Sitecore.Foundation.Forms.Master", "src\Foundation\Forms\tds\Sitecore.Foundation.Forms.Master\Sitecore.Foundation.Forms.Master.scproj", "{FEB3BDCA-6086-4C2D-B021-A8C399EBEAE6}"
-	ProjectSection(ProjectDependencies) = postProject
-		{7791B7E8-0C05-41B7-8EA7-BBD4107581E0} = {7791B7E8-0C05-41B7-8EA7-BBD4107581E0}
-	EndProjectSection
-EndProject
 Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "Sitecore.Foundation.Indexing.Master", "src\Foundation\Indexing\tds\Sitecore.Foundation.Indexing.Master\Sitecore.Foundation.Indexing.Master.scproj", "{0B38465A-BB8B-4414-8D00-6204829500BD}"
 	ProjectSection(ProjectDependencies) = postProject
 		{F10B8E08-67FE-4EF5-A1A8-B570AAE5D781} = {F10B8E08-67FE-4EF5-A1A8-B570AAE5D781}
@@ -421,9 +416,6 @@ EndProject
 Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "Sitecore.Foundation.Serialization.Master", "src\Foundation\Serialization\tds\Sitecore.Foundation.Serialization.Master\Sitecore.Foundation.Serialization.Master.scproj", "{F76D3A85-4A21-409A-979C-E92A18108644}"
 EndProject
 Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "Sitecore.Foundation.Serialization.Core", "src\Foundation\Serialization\tds\Sitecore.Foundation.Serialization.Core\Sitecore.Foundation.Serialization.Core.scproj", "{F10B8E08-67FE-4EF5-A1A8-B570AAE5D781}"
-	ProjectSection(ProjectDependencies) = postProject
-		{F76D3A85-4A21-409A-979C-E92A18108644} = {F76D3A85-4A21-409A-979C-E92A18108644}
-	EndProjectSection
 EndProject
 Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "Sitecore.Foundation.SitecoreExtensions.Master", "src\Foundation\SitecoreExtensions\tds\Sitecore.Foundation.SitecoreExtensions.Master\Sitecore.Foundation.SitecoreExtensions.Master.scproj", "{1DE919C1-FC1D-4562-95E7-7AC1413B3D76}"
 	ProjectSection(ProjectDependencies) = postProject
@@ -439,7 +431,7 @@ Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "Sitecore.Foundation.Install
 	ProjectSection(ProjectDependencies) = postProject
 		{F10B8E08-67FE-4EF5-A1A8-B570AAE5D781} = {F10B8E08-67FE-4EF5-A1A8-B570AAE5D781}
 		{F76D3A85-4A21-409A-979C-E92A18108644} = {F76D3A85-4A21-409A-979C-E92A18108644}
-		{FEB3BDCA-6086-4C2D-B021-A8C399EBEAE6} = {FEB3BDCA-6086-4C2D-B021-A8C399EBEAE6}
+		{7791B7E8-0C05-41B7-8EA7-BBD4107581E0} = {7791B7E8-0C05-41B7-8EA7-BBD4107581E0}
 	EndProjectSection
 EndProject
 Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "Sitecore.Habitat.Website.Content", "src\Project\Habitat\tds\Sitecore.Habitat.Website.Content\Sitecore.Habitat.Website.Content.scproj", "{E892F513-C3CA-4308-8CA5-9D1A00D57090}"
@@ -1158,18 +1150,6 @@ Global
 		{7791B7E8-0C05-41B7-8EA7-BBD4107581E0}.Release|x64.ActiveCfg = Release|Any CPU
 		{7791B7E8-0C05-41B7-8EA7-BBD4107581E0}.Release|x64.Build.0 = Release|Any CPU
 		{7791B7E8-0C05-41B7-8EA7-BBD4107581E0}.Release|x64.Deploy.0 = Release|Any CPU
-		{FEB3BDCA-6086-4C2D-B021-A8C399EBEAE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FEB3BDCA-6086-4C2D-B021-A8C399EBEAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FEB3BDCA-6086-4C2D-B021-A8C399EBEAE6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{FEB3BDCA-6086-4C2D-B021-A8C399EBEAE6}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{FEB3BDCA-6086-4C2D-B021-A8C399EBEAE6}.Debug|x64.Build.0 = Debug|Any CPU
-		{FEB3BDCA-6086-4C2D-B021-A8C399EBEAE6}.Debug|x64.Deploy.0 = Debug|Any CPU
-		{FEB3BDCA-6086-4C2D-B021-A8C399EBEAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FEB3BDCA-6086-4C2D-B021-A8C399EBEAE6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FEB3BDCA-6086-4C2D-B021-A8C399EBEAE6}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{FEB3BDCA-6086-4C2D-B021-A8C399EBEAE6}.Release|x64.ActiveCfg = Release|Any CPU
-		{FEB3BDCA-6086-4C2D-B021-A8C399EBEAE6}.Release|x64.Build.0 = Release|Any CPU
-		{FEB3BDCA-6086-4C2D-B021-A8C399EBEAE6}.Release|x64.Deploy.0 = Release|Any CPU
 		{0B38465A-BB8B-4414-8D00-6204829500BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0B38465A-BB8B-4414-8D00-6204829500BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B38465A-BB8B-4414-8D00-6204829500BD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
