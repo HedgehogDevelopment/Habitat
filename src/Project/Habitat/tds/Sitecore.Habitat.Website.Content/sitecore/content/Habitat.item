@@ -8,7 +8,7 @@ name: Habitat
 master: {00000000-0000-0000-0000-000000000000}
 template: {0643D9D4-F30B-4B07-91D0-289CC324C9CF}
 templatekey: Site Root
-created: 20170612T151917Z
+created: 20190111T192810Z
 
 ----field----
 field: {ED71D374-8C33-4561-991D-77482AE01330}
@@ -84,13 +84,13 @@ content-length: 3
 field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
 name: __Security
 key: __security
-content-length: 100
+content-length: 101
 
-ar|habitat\Project Habitat Content Author|pe|+item:write|+item:read|!*|pd|+item:write|+item:read|!*|
+ar|extranet\Project Habitat Content Author|pe|+item:write|+item:read|!*|pd|+item:write|+item:read|!*|
 ----version----
 language: da
 version: 1
-revision: 0222f2c4-d682-4b91-a3cc-746f49260071
+revision: 03aafc19-64d1-4046-891a-9f691552fd28
 
 ----field----
 field: {E748D808-64C1-4DEC-9718-F35CF9689E4B}
@@ -98,7 +98,7 @@ name: Logo
 key: logo
 content-length: 211
 
-<image mediapath="/Default Website/sc_logo" alt="" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="~/media/Default Website/sc_logo" mediaid="{461A93BF-5471-4AF2-BF36-D638F5660CB5}" />
+<image mediapath="/Default Website/sc_logo" alt="" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="~/media/Default Website/sc_logo" mediaid="{6C33AFC0-606E-4A18-A8DB-679620D5B409}" />
 ----field----
 field: {02115632-FE1E-4B3D-9AD4-A4DDF1F782F0}
 name: Copyright
@@ -113,6 +113,13 @@ key: sitebrowsertitle
 content-length: 36
 
  - Habitat Sitecore Framework Rammer
+----field----
+field: {53B5AF0A-265F-4E60-B2B2-4576CE0BECCF}
+name: Theme
+key: theme
+content-length: 38
+
+{9025588B-C765-458B-829C-1886A98AD3A7}
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -133,14 +140,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-0222f2c4-d682-4b91-a3cc-746f49260071
+03aafc19-64d1-4046-891a-9f691552fd28
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151917Z
+20190111T192810Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -151,7 +158,7 @@ sitecore\unicorn
 ----version----
 language: en
 version: 1
-revision: 24acf5f4-45d8-4f61-80db-c4772961e00f
+revision: 88e74362-729b-4583-829e-b4fccbf12fc9
 
 ----field----
 field: {835FA523-D28A-46A2-A589-6AA4A5BF0846}
@@ -166,14 +173,14 @@ name: SiteProfiles
 key: siteprofiles
 content-length: 38
 
-{24DFF2CF-B30A-4B75-8967-2FE3DED82271}
+{C4CC3EF6-A779-44AD-9021-01F1DAE26270}
 ----field----
 field: {E748D808-64C1-4DEC-9718-F35CF9689E4B}
 name: Logo
 key: logo
 content-length: 104
 
-<image mediaid="{93AB35C2-44A0-4D5D-9EC0-B857D37F8B08}" alt="" height="" width="" hspace="" vspace="" />
+<image mediaid="{6C33AFC0-606E-4A18-A8DB-679620D5B409}" alt="" height="" width="" hspace="" vspace="" />
 ----field----
 field: {31D027BB-FAB5-4E1A-A66D-9F5B0FD4F005}
 name: Logo Tagline
@@ -185,10 +192,12 @@ content-length: 0
 field: {02115632-FE1E-4B3D-9AD4-A4DDF1F782F0}
 name: Copyright
 key: copyright
-content-length: 329
+content-length: 507
 
-<p>© Copyright 2017, <a href="http://sitecore.net" target="_blank" title="Opens in a new window">Sitecore</a>. All Rights Reserved<br />
+<p>© Copyright 2018, <a href="http://sitecore.net" target="_blank" title="Opens in a new window">Sitecore</a>. All Rights Reserved<br />
 <small>&ldquo;Habitat&rdquo; as used here is for demonstration purposes only and to represent the software and services provided by Sitecore further described at www.sitecore.net.</small></p>
+
+<p><small>The Habitat demonstration site is provided for example/reference purposes only. It is not supported by Sitecore and should not be used as a starter kit.</small></p>
 ----field----
 field: {235AE392-97AC-4822-BE38-837DA3E7724E}
 name: SiteBrowserTitle
@@ -235,10 +244,11 @@ Sitecore Corporation
 field: {A24DF48F-C8A3-4163-966C-8C24BD8760B2}
 name: OrganisationAddress
 key: organisationaddress
-content-length: 44
+content-length: 65
 
-2320 Marinship Way
-Sausalito, CA 94965
+101 California Street 
+Suite 1600 
+San Francisco, CA 94111
 USA
 ----field----
 field: {005ED83C-2D2F-4D07-A7A9-EB64D873DE46}
@@ -267,25 +277,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-24acf5f4-45d8-4f61-80db-c4772961e00f
+88e74362-729b-4583-829e-b4fccbf12fc9
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151917Z
+20190111T192810Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 18
 
-habitat\Anonymous
+extranet\Anonymous
 ----version----
 language: ja-JP
 version: 1
-revision: f31744aa-ee2a-4a67-b06b-0bc8b5f4f1d0
+revision: 7bbcc915-2f7c-44a9-8afb-bfca1787723f
 
 ----field----
 field: {835FA523-D28A-46A2-A589-6AA4A5BF0846}
@@ -402,14 +412,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f31744aa-ee2a-4a67-b06b-0bc8b5f4f1d0
+7bbcc915-2f7c-44a9-8afb-bfca1787723f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151917Z
+20190111T192810Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

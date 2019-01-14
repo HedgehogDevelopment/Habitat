@@ -8,12 +8,12 @@ name: Accounts Menu
 master: {00000000-0000-0000-0000-000000000000}
 template: {98E4BDC6-9B43-4EB2-BAA3-D4303C35852E}
 templatekey: DictionaryFolder
-created: 20170612T151921Z
+created: 20190111T192820Z
 
 ----version----
 language: en
 version: 1
-revision: d709d37f-94ba-4f50-b804-f0f734767b7c
+revision: e33f860c-d335-4d00-a4a4-737cc775489d
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -28,25 +28,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d709d37f-94ba-4f50-b804-f0f734767b7c
+e33f860c-d335-4d00-a4a4-737cc775489d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151921Z
+20190111T192820Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 18
 
-default\Anonymous
+extranet\Anonymous
 ----version----
 language: ja-JP
 version: 1
-revision: 22d4521c-d71f-4f17-b680-75208f33fb38
+revision: 8ed352c4-9fc2-4685-b92e-fe5f4ea72202
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -75,14 +75,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-22d4521c-d71f-4f17-b680-75208f33fb38
+8ed352c4-9fc2-4685-b92e-fe5f4ea72202
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151921Z
+20190111T192820Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

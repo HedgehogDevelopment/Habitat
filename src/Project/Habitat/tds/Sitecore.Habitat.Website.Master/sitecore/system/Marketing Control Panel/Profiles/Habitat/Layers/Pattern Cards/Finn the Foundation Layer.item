@@ -1,0 +1,79 @@
+----item----
+version: 1
+id: {F2CB126F-83D7-426A-99E3-B49400B52675}
+database: master
+path: /sitecore/system/Marketing Control Panel/Profiles/Habitat/Layers/Pattern Cards/Finn the Foundation Layer
+parent: {4BA1802A-FB9B-400B-8DD0-77992ED9F580}
+name: Finn the Foundation Layer
+master: {00000000-0000-0000-0000-000000000000}
+template: {4A6A7E36-2481-438F-A9BA-0453ECC638FA}
+templatekey: Pattern Card
+created: 20190111T192834Z
+
+----field----
+field: {6DA71AD3-5849-4482-9317-D21390E5A348}
+name: Pattern
+key: pattern
+content-length: 224
+
+<tracking>
+  <profile id="c4cc3ef6-a779-44ad-9021-01f1dae26270" name="Layers">
+    <key name="Feature" value="2" />
+    <key name="Foundation" value="10" />
+    <key name="Project" value="0" />
+  </profile>
+</tracking>
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+200
+----version----
+language: en
+version: 1
+revision: a06c05f8-a2ea-4042-bd5d-ac1998c1a59b
+
+----field----
+field: {FE732790-2DDB-4657-A882-C2FCE1FBF0C9}
+name: Name
+key: name
+content-length: 25
+
+Finn the Foundation Layer
+----field----
+field: {98535F26-6C9D-4FD7-A7E2-392C7CB82D65}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{74F43420-14E8-47DD-BC03-C31A7B5471F2}" />
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20171005T142328Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a06c05f8-a2ea-4042-bd5d-ac1998c1a59b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190111T192834Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

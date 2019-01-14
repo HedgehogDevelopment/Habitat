@@ -8,12 +8,12 @@ name: Habitat Getting Started Video
 master: {00000000-0000-0000-0000-000000000000}
 template: {F1C095E2-B3E0-46D0-B838-02A9E8B880D9}
 templatekey: Video
-created: 20170612T151919Z
+created: 20190111T192812Z
 
 ----version----
 language: en
 version: 1
-revision: 40ea1240-8973-4cf4-b7b6-cc69da0f3901
+revision: 5fa6eec4-2483-4b8d-8eaf-b99fe2a0ea9c
 
 ----field----
 field: {2628705D-9434-4448-978C-C3BF166FA1EB}
@@ -56,25 +56,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-40ea1240-8973-4cf4-b7b6-cc69da0f3901
+5fa6eec4-2483-4b8d-8eaf-b99fe2a0ea9c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151919Z
+20190111T192812Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 16
 
-default\Anonymous
+sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 4965279d-cab8-4fe3-92ec-482b80713fac
+revision: b2561688-b776-479f-ba68-5389adb96c48
 
 ----field----
 field: {2628705D-9434-4448-978C-C3BF166FA1EB}
@@ -124,14 +124,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4965279d-cab8-4fe3-92ec-482b80713fac
+b2561688-b776-479f-ba68-5389adb96c48
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151919Z
+20190111T192812Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

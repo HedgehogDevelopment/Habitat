@@ -8,7 +8,7 @@ name: Global Folder
 master: {00000000-0000-0000-0000-000000000000}
 template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
 templatekey: Template
-created: 20170612T151855Z
+created: 20190111T192752Z
 
 ----field----
 field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
@@ -27,7 +27,7 @@ Applications/32x32/folder_green.png
 ----version----
 language: en
 version: 1
-revision: 2f949ec6-0548-47dc-8c89-c232d4fe3092
+revision: 0e81cdfd-39e6-4849-97af-f7cbda43f292
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -49,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2f949ec6-0548-47dc-8c89-c232d4fe3092
+0e81cdfd-39e6-4849-97af-f7cbda43f292
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151855Z
+20190111T192753Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -67,7 +67,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: eeb93c55-c310-4e38-8c21-7766674b8fbf
+revision: a77d5f78-55bc-47b3-be61-3a9231ee7360
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -96,14 +96,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-eeb93c55-c310-4e38-8c21-7766674b8fbf
+a77d5f78-55bc-47b3-be61-3a9231ee7360
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151855Z
+20190111T192753Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

@@ -8,6 +8,7 @@ name: Teaser Carousel
 master: {00000000-0000-0000-0000-000000000000}
 template: {F1828A2C-7E5D-4BBD-98CA-320474871548}
 templatekey: Image
+created: 20190111T192750Z
 
 ----field----
 field: {40E50ED9-BA07-4702-992E-A912738D32DC}
@@ -1424,7 +1425,7 @@ content-length: 61
 ----version----
 language: da
 version: 1
-revision: 05463bfe-bb55-4f17-84f1-36be3953f595
+revision: 239cfc62-f8f1-4717-97fe-ba2245040aa3
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -1446,14 +1447,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-05463bfe-bb55-4f17-84f1-36be3953f595
+239cfc62-f8f1-4717-97fe-ba2245040aa3
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160622T160134Z
+20190111T192750Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -1464,7 +1465,7 @@ sitecore\unicorn
 ----version----
 language: en
 version: 1
-revision: 6e988c1c-406b-4a31-878f-ce61530aba0d
+revision: b68902b0-c86d-44be-b4d6-f720c995a2b1
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -1479,14 +1480,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-6e988c1c-406b-4a31-878f-ce61530aba0d
+b68902b0-c86d-44be-b4d6-f720c995a2b1
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160622T160134Z
+20190111T192750Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

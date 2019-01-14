@@ -8,12 +8,12 @@ name: Register
 master: {00000000-0000-0000-0000-000000000000}
 template: {EC4DD3F2-590D-404B-9189-2A12679749CC}
 templatekey: DictionaryEntry
-created: 20170612T151926Z
+created: 20190111T192825Z
 
 ----version----
 language: en
 version: 1
-revision: b3585b5e-cef0-4da2-a1b8-5b105055a515
+revision: eb35efe9-e4c6-4b4f-b18c-12e7756148c3
 
 ----field----
 field: {DDACDD55-5B08-405F-9E58-04F09AED640A}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-b3585b5e-cef0-4da2-a1b8-5b105055a515
+eb35efe9-e4c6-4b4f-b18c-12e7756148c3
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151926Z
+20190111T192825Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -60,7 +60,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 3b49fa07-2884-44ce-92cf-1e9788d3b478
+revision: 6023c8d0-1b4c-4928-9298-58cdb3e902eb
 
 ----field----
 field: {DDACDD55-5B08-405F-9E58-04F09AED640A}
@@ -89,14 +89,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-3b49fa07-2884-44ce-92cf-1e9788d3b478
+6023c8d0-1b4c-4928-9298-58cdb3e902eb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151926Z
+20190111T192825Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

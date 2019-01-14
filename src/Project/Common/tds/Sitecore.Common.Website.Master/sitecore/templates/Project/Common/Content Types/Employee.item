@@ -8,7 +8,7 @@ name: Employee
 master: {00000000-0000-0000-0000-000000000000}
 template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
 templatekey: Template
-created: 20170612T151855Z
+created: 20190111T192751Z
 
 ----field----
 field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
@@ -34,7 +34,7 @@ People/32x32/user1_mobilephone.png
 ----version----
 language: en
 version: 1
-revision: 2c155171-930e-4f11-be41-c91551a7a539
+revision: 7f797d5b-86d0-4945-a984-2a2210432723
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2c155171-930e-4f11-be41-c91551a7a539
+7f797d5b-86d0-4945-a984-2a2210432723
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151855Z
+20190111T192751Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -74,7 +74,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 0fb343f5-d716-4334-9c3c-123ff6ca1ab2
+revision: 7f8f3ed7-5c92-449e-bcb3-d1dec77aeaaf
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -103,14 +103,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-0fb343f5-d716-4334-9c3c-123ff6ca1ab2
+7f8f3ed7-5c92-449e-bcb3-d1dec77aeaaf
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151855Z
+20190111T192751Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

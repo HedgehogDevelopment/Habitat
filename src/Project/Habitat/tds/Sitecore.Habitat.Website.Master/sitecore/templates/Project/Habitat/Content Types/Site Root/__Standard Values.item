@@ -8,6 +8,7 @@ name: __Standard Values
 master: {00000000-0000-0000-0000-000000000000}
 template: {0643D9D4-F30B-4B07-91D0-289CC324C9CF}
 templatekey: Site Root
+created: 20190111T192834Z
 
 ----field----
 field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
@@ -19,7 +20,7 @@ content-length: 77
 ----version----
 language: en
 version: 1
-revision: f98e0c41-4a09-481b-ab72-366ff1f9c154
+revision: 62d6e4a1-f6ba-408e-975b-bb1c47b657ee
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -34,18 +35,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f98e0c41-4a09-481b-ab72-366ff1f9c154
+62d6e4a1-f6ba-408e-975b-bb1c47b657ee
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160128T212041Z
+20190111T192834Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 18
 
-sitecore\admin
+extranet\Anonymous

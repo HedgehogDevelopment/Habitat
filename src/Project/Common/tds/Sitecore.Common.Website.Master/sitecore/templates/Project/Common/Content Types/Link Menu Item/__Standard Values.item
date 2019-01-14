@@ -8,11 +8,12 @@ name: __Standard Values
 master: {00000000-0000-0000-0000-000000000000}
 template: {390333C8-751B-4332-84A3-6360B969A19F}
 templatekey: Link Menu Item
+created: 20190111T192806Z
 
 ----version----
 language: en
 version: 1
-revision: c5fe5508-84b7-44e8-a405-230c4827071a
+revision: 2396078e-e9b7-43da-a7db-4a79b7e49935
 
 ----field----
 field: {1B483E91-D8C4-4D19-BA03-462074B55936}
@@ -41,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c5fe5508-84b7-44e8-a405-230c4827071a
+2396078e-e9b7-43da-a7db-4a79b7e49935
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160128T212024Z
+20190111T192806Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

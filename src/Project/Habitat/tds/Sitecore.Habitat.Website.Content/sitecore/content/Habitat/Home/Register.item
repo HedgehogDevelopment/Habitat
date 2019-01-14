@@ -8,7 +8,7 @@ name: Register
 master: {00000000-0000-0000-0000-000000000000}
 template: {6EF8F8A0-C567-495B-9E00-8775A268A486}
 templatekey: Register Page
-created: 20170612T151917Z
+created: 20190111T192811Z
 
 ----field----
 field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
@@ -27,7 +27,7 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: abd57648-56e9-44fd-81b7-0de39cc8b751
+revision: 8b08bac8-f606-41eb-8393-f23859df3c2b
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -70,14 +70,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-abd57648-56e9-44fd-81b7-0de39cc8b751
+8b08bac8-f606-41eb-8393-f23859df3c2b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151917Z
+20190111T192811Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -88,7 +88,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 137ae5a1-23a1-4af9-a4f8-e9a1542bf757
+revision: 77e07a3f-ae22-4733-a5a7-9cff7de64df0
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -145,14 +145,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-137ae5a1-23a1-4af9-a4f8-e9a1542bf757
+77e07a3f-ae22-4733-a5a7-9cff7de64df0
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151917Z
+20190111T192811Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

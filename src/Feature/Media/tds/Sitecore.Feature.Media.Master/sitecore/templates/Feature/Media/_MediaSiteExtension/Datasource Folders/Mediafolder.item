@@ -8,7 +8,7 @@ name: Mediafolder
 master: {00000000-0000-0000-0000-000000000000}
 template: {455A3E98-A627-4B40-8035-E683A0331AC7}
 templatekey: Template field
-created: 20170612T151745Z
+created: 20190111T192650Z
 
 ----field----
 field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
@@ -41,7 +41,7 @@ ar|modules\Feature Media Admin|pe|+field:write|pd|+field:write|ar|Everyone|pe|!*
 ----version----
 language: en
 version: 1
-revision: e971e6ba-bea8-4dd1-93a0-aa5f8a2a504b
+revision: 1fa87ec0-caa8-495f-b2d8-0d645d53d42d
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e971e6ba-bea8-4dd1-93a0-aa5f8a2a504b
+1fa87ec0-caa8-495f-b2d8-0d645d53d42d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151745Z
+20190111T192650Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -74,7 +74,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: b04f3adc-5438-4904-88b1-273625bad9a3
+revision: 1c60f9d7-9d24-46c5-ab33-e0213406eaea
 
 ----field----
 field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
@@ -103,14 +103,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-b04f3adc-5438-4904-88b1-273625bad9a3
+1c60f9d7-9d24-46c5-ab33-e0213406eaea
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151745Z
+20190111T192651Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

@@ -8,12 +8,12 @@ name: Twitter Account
 master: {00000000-0000-0000-0000-000000000000}
 template: {E269FBB5-3750-427A-9149-7AA950B49301}
 templatekey: Template section
-created: 20170612T151823Z
+created: 20190111T192734Z
 
 ----version----
 language: en
 version: 1
-revision: f42c901c-baee-436e-841f-2c7bbd3f8ca1
+revision: 3e73849d-217f-4a4c-9c68-06758ec2d4ce
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f42c901c-baee-436e-841f-2c7bbd3f8ca1
+3e73849d-217f-4a4c-9c68-06758ec2d4ce
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151823Z
+20190111T192734Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -60,7 +60,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: cbd89cfe-5f6e-4b35-86d3-c38e1afaee6f
+revision: 07123ddd-2ac5-4cef-a7dc-2084be256bc2
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -89,14 +89,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-cbd89cfe-5f6e-4b35-86d3-c38e1afaee6f
+07123ddd-2ac5-4cef-a7dc-2084be256bc2
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151823Z
+20190111T192734Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

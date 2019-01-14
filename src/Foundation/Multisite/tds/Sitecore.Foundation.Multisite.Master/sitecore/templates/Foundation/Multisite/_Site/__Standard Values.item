@@ -8,6 +8,7 @@ name: __Standard Values
 master: {00000000-0000-0000-0000-000000000000}
 template: {BB85C5C2-9F87-48CE-8012-AF67CF4F765D}
 templatekey: _Site
+created: 20190111T192525Z
 
 ----field----
 field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
@@ -19,7 +20,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 2f0cfd06-7b6a-4730-a211-0e630395c512
+revision: 7edbc5b0-15cd-40f1-ba5a-572a6694fc4f
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -41,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2f0cfd06-7b6a-4730-a211-0e630395c512
+7edbc5b0-15cd-40f1-ba5a-572a6694fc4f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160128T211927Z
+20190111T192525Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

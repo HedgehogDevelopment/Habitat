@@ -3,16 +3,17 @@ version: 1
 id: {DB479E33-FD2E-46C8-BE22-8E0329B1AEE1}
 database: master
 path: /sitecore/media library/Feature/FAQ
-parent: {4E5E3BFB-C253-4764-9F60-309172F9F592}
+parent: {AA12EEAE-D925-4569-BC39-6092C745FC05}
 name: FAQ
 master: {00000000-0000-0000-0000-000000000000}
 template: {FE5DD826-48C6-436D-B87A-7C4210C7413B}
 templatekey: Media folder
+created: 20190111T192634Z
 
 ----version----
 language: en
 version: 1
-revision: 8c467dbf-e7d5-4ec7-9570-71cff7c996e0
+revision: f0eb8fbd-1ddd-4726-b20a-a3a315a8bc1d
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -34,14 +35,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-8c467dbf-e7d5-4ec7-9570-71cff7c996e0
+f0eb8fbd-1ddd-4726-b20a-a3a315a8bc1d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160622T155731Z
+20190111T192634Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

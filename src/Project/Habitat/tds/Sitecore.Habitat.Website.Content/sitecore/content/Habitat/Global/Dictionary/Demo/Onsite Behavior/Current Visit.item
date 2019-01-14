@@ -8,12 +8,12 @@ name: Current Visit
 master: {00000000-0000-0000-0000-000000000000}
 template: {EC4DD3F2-590D-404B-9189-2A12679749CC}
 templatekey: DictionaryEntry
-created: 20170612T151926Z
+created: 20190111T192822Z
 
 ----version----
 language: en
 version: 1
-revision: 9f36e673-854b-43b5-a037-af3a1e415921
+revision: 350a9887-78af-490c-8242-1b156fd1861c
 
 ----field----
 field: {DDACDD55-5B08-405F-9E58-04F09AED640A}
@@ -33,23 +33,23 @@ content-length: 16
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
 key: __created by
-content-length: 25
+content-length: 14
 
-habitat\thomas@eldblom.dk
+sitecore\Admin
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-9f36e673-854b-43b5-a037-af3a1e415921
+350a9887-78af-490c-8242-1b156fd1861c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151926Z
+20190111T192822Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -60,7 +60,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: fee38d7d-d131-4563-9cd4-1127289f600d
+revision: c89129f0-8d88-4291-b035-f1e0724e4ea2
 
 ----field----
 field: {DDACDD55-5B08-405F-9E58-04F09AED640A}
@@ -89,14 +89,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-fee38d7d-d131-4563-9cd4-1127289f600d
+c89129f0-8d88-4291-b035-f1e0724e4ea2
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151926Z
+20190111T192822Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

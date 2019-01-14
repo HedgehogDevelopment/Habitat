@@ -8,7 +8,7 @@ name: Token Value
 master: {00000000-0000-0000-0000-000000000000}
 template: {455A3E98-A627-4B40-8035-E683A0331AC7}
 templatekey: Template field
-created: 20170612T151722Z
+created: 20190111T192632Z
 
 ----field----
 field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
@@ -34,7 +34,7 @@ ar|Everyone|pe|!*|+field:read|pd|+field:read|!*|ar|modules\Feature Demo Admin|pe
 ----version----
 language: en
 version: 1
-revision: eedd6324-c004-4d9e-afb8-1bc9a564c4f6
+revision: 8b24542b-17fc-48dd-91cf-542248b05c09
 
 ----field----
 field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
@@ -63,14 +63,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-eedd6324-c004-4d9e-afb8-1bc9a564c4f6
+8b24542b-17fc-48dd-91cf-542248b05c09
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151722Z
+20190111T192632Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -81,7 +81,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 55eee18c-18f8-4f71-a265-957840a4f441
+revision: 8ffc12fc-2f76-4366-975f-d78ad2a61987
 
 ----field----
 field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
@@ -110,14 +110,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-55eee18c-18f8-4f71-a265-957840a4f441
+8ffc12fc-2f76-4366-975f-d78ad2a61987
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151722Z
+20190111T192632Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

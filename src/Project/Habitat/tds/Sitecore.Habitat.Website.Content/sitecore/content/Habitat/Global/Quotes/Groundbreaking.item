@@ -8,12 +8,12 @@ name: Groundbreaking
 master: {00000000-0000-0000-0000-000000000000}
 template: {40AD8A9B-C75C-428D-9E1A-51372B21F63E}
 templatekey: Quote
-created: 20170612T151920Z
+created: 20190111T192812Z
 
 ----version----
 language: en
 version: 1
-revision: e33ddd49-367c-494d-b3e5-e32488a00545
+revision: 4bbdc9e7-c3d6-4203-a348-8bd20c37d487
 
 ----field----
 field: {26CD59AB-3639-488F-BAFD-58D2B217755A}
@@ -40,9 +40,9 @@ Sitecore MVP
 field: {BF83983A-473F-4A49-BE8E-7D563AA5687E}
 name: Cite Origin
 key: cite origin
-content-length: 10
+content-length: 0
 
-Pentia A/S
+
 ----field----
 field: {C9BAF3EB-8CFA-4BF6-9B19-51D38DB5FC38}
 name: Picture
@@ -63,25 +63,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e33ddd49-367c-494d-b3e5-e32488a00545
+4bbdc9e7-c3d6-4203-a348-8bd20c37d487
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151920Z
+20190111T192812Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 16
 
-default\Anonymous
+sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 15e265e3-9b5e-4cd1-8bb3-f05ce94f6af6
+revision: f1222cf3-5465-4923-a23a-6d0ef114152f
 
 ----field----
 field: {26CD59AB-3639-488F-BAFD-58D2B217755A}
@@ -138,14 +138,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-15e265e3-9b5e-4cd1-8bb3-f05ce94f6af6
+f1222cf3-5465-4923-a23a-6d0ef114152f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151920Z
+20190111T192812Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

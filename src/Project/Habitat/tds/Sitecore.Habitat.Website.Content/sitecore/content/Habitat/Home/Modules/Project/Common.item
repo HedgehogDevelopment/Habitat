@@ -8,8 +8,15 @@ name: Common
 master: {00000000-0000-0000-0000-000000000000}
 template: {94A8C8E9-690B-4E65-98E7-F95800222767}
 templatekey: Article
-created: 20170612T151925Z
+created: 20190111T192820Z
 
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 234
+
+<tracking><profile id="c4cc3ef6-a779-44ad-9021-01f1dae26270" name="Layers" presets="pam the project layer|100||"><key name="Feature" value="3" /><key name="Foundation" value="0" /><key name="Project" value="10" /></profile></tracking>
 ----field----
 field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
 name: __Sortorder
@@ -20,7 +27,7 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: ca2c2052-28a0-42fe-97cf-829af6d9f166
+revision: c5991dd4-e26a-4f1d-81cf-d73c78aaf8cd
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -78,14 +85,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ca2c2052-28a0-42fe-97cf-829af6d9f166
+c5991dd4-e26a-4f1d-81cf-d73c78aaf8cd
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151925Z
+20190111T192820Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -96,7 +103,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 8a03871f-d1dd-4b83-bdbc-fe6d41a3d0ab
+revision: 23d90a61-9566-4c5a-8340-8ed4167976fb
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -168,14 +175,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-8a03871f-d1dd-4b83-bdbc-fe6d41a3d0ab
+23d90a61-9566-4c5a-8340-8ed4167976fb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151925Z
+20190111T192820Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

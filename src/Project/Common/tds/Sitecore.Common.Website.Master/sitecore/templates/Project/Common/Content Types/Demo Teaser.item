@@ -8,7 +8,7 @@ name: Demo Teaser
 master: {00000000-0000-0000-0000-000000000000}
 template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
 templatekey: Template
-created: 20170612T151852Z
+created: 20190111T192751Z
 
 ----field----
 field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
@@ -34,7 +34,7 @@ Software/32x32/text_code_colored.png
 ----version----
 language: en
 version: 1
-revision: 19eb50c6-d844-491f-8047-77e017da026e
+revision: ecf880e7-3d39-483a-bc4b-0cfcb0ccf287
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-19eb50c6-d844-491f-8047-77e017da026e
+ecf880e7-3d39-483a-bc4b-0cfcb0ccf287
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151854Z
+20190111T192751Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -74,7 +74,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: b7a9bf00-6b77-4329-a9bb-a91e19cd753f
+revision: ce9b1917-c649-4682-9e35-5f157157c6c0
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -103,14 +103,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-b7a9bf00-6b77-4329-a9bb-a91e19cd753f
+ce9b1917-c649-4682-9e35-5f157157c6c0
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151854Z
+20190111T192751Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

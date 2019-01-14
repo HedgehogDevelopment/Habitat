@@ -8,12 +8,12 @@ name: headlines
 master: {00000000-0000-0000-0000-000000000000}
 template: {C82DC5FF-09EF-4403-96D3-3CAF377B8C5B}
 templatekey: Datasource Configuration
-created: 20170612T151921Z
+created: 20190111T192814Z
 
 ----version----
 language: en
 version: 1
-revision: e50c38b9-5cfa-4fc4-acaf-e68c5d438e63
+revision: af7ea1a1-3249-47a3-9888-8f6ea290bc90
 
 ----field----
 field: {5FE1CC43-F86C-459C-A379-CD75950D85AF}
@@ -49,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e50c38b9-5cfa-4fc4-acaf-e68c5d438e63
+af7ea1a1-3249-47a3-9888-8f6ea290bc90
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151921Z
+20190111T192814Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -67,7 +67,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 15ff1e9c-d1a5-4658-a41f-92a72e3d2e34
+revision: fded64f4-87b3-41c3-b203-04e97f5e90ae
 
 ----field----
 field: {5FE1CC43-F86C-459C-A379-CD75950D85AF}
@@ -110,14 +110,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-15ff1e9c-d1a5-4658-a41f-92a72e3d2e34
+fded64f4-87b3-41c3-b203-04e97f5e90ae
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151921Z
+20190111T192814Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

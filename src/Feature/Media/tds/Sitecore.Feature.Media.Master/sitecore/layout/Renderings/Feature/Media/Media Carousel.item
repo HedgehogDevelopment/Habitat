@@ -8,6 +8,7 @@ name: Media Carousel
 master: {00000000-0000-0000-0000-000000000000}
 template: {99F8905D-4A87-4EB8-9F8B-A9BEBFB3ADD6}
 templatekey: View rendering
+created: 20190111T192651Z
 
 ----field----
 field: {51B435BC-F7B9-478A-9C51-52916AF96FF5}
@@ -47,7 +48,7 @@ content-length: 58
 ----version----
 language: en
 version: 1
-revision: 04d4c03f-9a33-466a-987b-1403acea8014
+revision: 850f922a-76a2-42e5-8d66-3f03e70cf38e
 
 ----field----
 field: {1C307764-806C-42F0-B7CE-FC173AC8372B}
@@ -69,14 +70,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-04d4c03f-9a33-466a-987b-1403acea8014
+850f922a-76a2-42e5-8d66-3f03e70cf38e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160617T181702Z
+20190111T192651Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

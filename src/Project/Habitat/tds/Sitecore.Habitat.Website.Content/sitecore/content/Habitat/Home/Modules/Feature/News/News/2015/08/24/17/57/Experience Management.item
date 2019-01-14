@@ -8,7 +8,7 @@ name: Experience Management
 master: {00000000-0000-0000-0000-000000000000}
 template: {B69277AD-E917-4B9F-9136-A12E0A3E462F}
 templatekey: News Article
-created: 20170612T151929Z
+created: 20190111T192828Z
 
 ----field----
 field: {C464D2D7-3382-428A-BCDF-0963C60BA0E3}
@@ -34,7 +34,7 @@ content-length: 38
 ----version----
 language: da
 version: 1
-revision: 2cffcc93-a9c9-4250-9266-128d4aa2f494
+revision: cc33666c-4e0c-4d11-88a8-ea486c801011
 
 ----field----
 field: {BD9ECD4A-C0B0-4233-A3CD-D995519AC87B}
@@ -86,14 +86,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2cffcc93-a9c9-4250-9266-128d4aa2f494
+cc33666c-4e0c-4d11-88a8-ea486c801011
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151929Z
+20190111T192828Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -104,7 +104,7 @@ sitecore\unicorn
 ----version----
 language: en
 version: 1
-revision: 2ef7bd07-9e5e-499c-aec6-588a6505cc78
+revision: d5cada9b-6514-4f09-8279-9c3784df44c1
 
 ----field----
 field: {BD9ECD4A-C0B0-4233-A3CD-D995519AC87B}
@@ -156,14 +156,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2ef7bd07-9e5e-499c-aec6-588a6505cc78
+d5cada9b-6514-4f09-8279-9c3784df44c1
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151929Z
+20190111T192828Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -174,7 +174,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: bbeea044-c0ae-4692-9441-baaff184bde9
+revision: 37fe1c3e-f229-4572-a8ed-572d1b709c48
 
 ----field----
 field: {BD9ECD4A-C0B0-4233-A3CD-D995519AC87B}
@@ -233,14 +233,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-bbeea044-c0ae-4692-9441-baaff184bde9
+37fe1c3e-f229-4572-a8ed-572d1b709c48
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151929Z
+20190111T192828Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

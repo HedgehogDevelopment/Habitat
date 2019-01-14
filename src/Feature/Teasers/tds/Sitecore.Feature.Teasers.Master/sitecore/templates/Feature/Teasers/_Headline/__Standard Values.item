@@ -8,11 +8,12 @@ name: __Standard Values
 master: {00000000-0000-0000-0000-000000000000}
 template: {C80D124B-B9AC-432E-8C26-DBF3A7F18D20}
 templatekey: _Headline
+created: 20190111T192751Z
 
 ----version----
 language: en
 version: 1
-revision: 3a048bfb-01e9-40d4-90a4-047339028fdf
+revision: d6e29f43-ceb9-4eae-98a2-fba9894eca99
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -41,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-3a048bfb-01e9-40d4-90a4-047339028fdf
+d6e29f43-ceb9-4eae-98a2-fba9894eca99
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160413T145037Z
+20190111T192751Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

@@ -8,12 +8,12 @@ name: Skiing
 master: {00000000-0000-0000-0000-000000000000}
 template: {4176BFC2-7814-4FA5-ABCF-7FA0714BF05F}
 templatekey: Interest
-created: 20170612T151919Z
+created: 20190111T192813Z
 
 ----version----
 language: en
 version: 1
-revision: f0419acc-bb35-41cd-8b7c-0de57a616d73
+revision: b92bd104-233d-4d77-9286-703b23e30744
 
 ----field----
 field: {1FBE5200-2C62-4A32-BA84-CFFE3CF665D3}
@@ -35,25 +35,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f0419acc-bb35-41cd-8b7c-0de57a616d73
+b92bd104-233d-4d77-9286-703b23e30744
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151919Z
+20190111T192813Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 16
 
-default\Anonymous
+sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 6fd9f912-15a9-43ff-b05b-48e2de8c6c11
+revision: 4a7d7dac-ce67-4e7e-a7d1-6dd49a2153bb
 
 ----field----
 field: {1FBE5200-2C62-4A32-BA84-CFFE3CF665D3}
@@ -82,14 +82,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-6fd9f912-15a9-43ff-b05b-48e2de8c6c11
+4a7d7dac-ce67-4e7e-a7d1-6dd49a2153bb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151919Z
+20190111T192813Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

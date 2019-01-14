@@ -8,11 +8,12 @@ name: Links
 master: {30235F43-6242-4107-87AB-5267E34EDF0C}
 template: {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
 templatekey: Folder
+created: 20190111T192440Z
 
 ----version----
 language: da
 version: 1
-revision: 2c5749a3-22ae-463a-b32b-301bed030b8c
+revision: 29fbf32e-065a-435a-806b-80ebe76f5e00
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -41,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2c5749a3-22ae-463a-b32b-301bed030b8c
+29fbf32e-065a-435a-806b-80ebe76f5e00
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160405T151309Z
+20190111T192440Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -59,7 +60,7 @@ sitecore\unicorn
 ----version----
 language: de-DE
 version: 1
-revision: b6a15350-4090-49a6-a099-6cca1e38e258
+revision: 41424d47-df00-49b7-8bbb-2c7f3af79af1
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -88,14 +89,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-b6a15350-4090-49a6-a099-6cca1e38e258
+41424d47-df00-49b7-8bbb-2c7f3af79af1
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160405T151310Z
+20190111T192440Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -106,7 +107,7 @@ sitecore\unicorn
 ----version----
 language: en
 version: 1
-revision: 0c900888-3940-4c94-8c58-ea55b1f97055
+revision: bac6b166-0b30-4bf2-919e-7a8f29249737
 
 ----field----
 field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
@@ -135,14 +136,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-0c900888-3940-4c94-8c58-ea55b1f97055
+bac6b166-0b30-4bf2-919e-7a8f29249737
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160405T151310Z
+20190111T192440Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -153,7 +154,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: fadd400f-b85c-434f-9ca8-709b3cfec315
+revision: 9141f721-dee3-4aac-b016-91a445de885f
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -182,14 +183,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-fadd400f-b85c-434f-9ca8-709b3cfec315
+9141f721-dee3-4aac-b016-91a445de885f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160405T151310Z
+20190111T192440Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

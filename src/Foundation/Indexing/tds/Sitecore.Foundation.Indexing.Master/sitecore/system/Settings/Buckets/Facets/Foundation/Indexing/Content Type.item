@@ -8,7 +8,7 @@ name: Content Type
 master: {00000000-0000-0000-0000-000000000000}
 template: {5C125B6D-C481-4C24-B5B9-9A23FE396BF0}
 templatekey: Facet
-created: 20170612T151611Z
+created: 20190111T192524Z
 
 ----field----
 field: {0E23BB51-C071-41B5-9D83-AC410B89B85A}
@@ -20,7 +20,7 @@ content_type
 ----version----
 language: en
 version: 1
-revision: e74650f5-5913-44e6-9b74-011074eca85f
+revision: 28136135-40aa-4797-b5c5-9da0cab1df15
 
 ----field----
 field: {31CA077F-EF38-4980-8A24-05408031B2BC}
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e74650f5-5913-44e6-9b74-011074eca85f
+28136135-40aa-4797-b5c5-9da0cab1df15
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151611Z
+20190111T192524Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

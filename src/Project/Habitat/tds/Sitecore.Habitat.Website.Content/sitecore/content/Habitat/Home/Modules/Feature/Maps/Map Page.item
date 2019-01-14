@@ -8,12 +8,12 @@ name: Map Page
 master: {00000000-0000-0000-0000-000000000000}
 template: {EE9E5BDB-7D71-48F7-B461-42BF9C2052EC}
 templatekey: Map Page
-created: 20170612T151929Z
+created: 20190111T192826Z
 
 ----version----
 language: en
 version: 1
-revision: 8b8b5b83-ef7b-4f06-8614-92ecfde8e3ed
+revision: 9726b3fe-56d6-44c2-a2da-c854e793a509
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -80,9 +80,9 @@ Map Page
 field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
 name: __Final Renderings
 key: __final renderings
-content-length: 1033
+content-length: 1037
 
-<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{D510F11D-594A-462B-9648-ABCFF19F2FD2}" p:before="*" s:ds="{37FCED17-913A-4ABB-9EEC-3BF745334326}" s:id="{7DFD9396-CB94-4174-9721-9419A2AA68E3}" s:par="MapType=hybrid&amp;CenterLocation=13.0593125%2C-98.6677164&amp;ZoomLevel=2&amp;EnableCenterMapControl&amp;EnableZoomControl=1&amp;EnableMapTypeControl=1&amp;EnableScaleControl&amp;EnableStreetViewControl&amp;EnableRotateControl" s:ph="/page-layout/section-narrow/col-wide-1_b38d639b-cca8-4397-846a-75efd37874a3" /><r uid="{B38D639B-CCA8-4397-846A-75EFD37874A3}" p:after="r[@uid='{D510F11D-594A-462B-9648-ABCFF19F2FD2}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/page-layout/section-narrow" /><r uid="{24941F8B-726E-4DC1-BC2C-82C8BE0C6414}" s:par="MapType=roadmap&amp;CenterLocation=-5.055576%2C3.803790&amp;ZoomLevel=4&amp;EnableCenterMapControl&amp;EnableZoomControl&amp;EnableMapTypeControl&amp;EnableScaleControl&amp;EnableStreetViewControl&amp;EnableRotateControl" /></d></r>
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{D510F11D-594A-462B-9648-ABCFF19F2FD2}" p:before="*" s:ds="{37FCED17-913A-4ABB-9EEC-3BF745334326}" s:id="{7DFD9396-CB94-4174-9721-9419A2AA68E3}" s:par="MapType=hybrid&amp;CenterLocation=13.0593125%2C-98.6677164&amp;ZoomLevel=2&amp;EnableCenterMapControl&amp;EnableZoomControl=1&amp;EnableMapTypeControl=1&amp;EnableScaleControl&amp;EnableStreetViewControl&amp;EnableRotateControl" s:ph="/page-layout/section-narrow/col-wide-1-{B38D639B-CCA8-4397-846A-75EFD37874A3}-0" /><r uid="{B38D639B-CCA8-4397-846A-75EFD37874A3}" p:after="r[@uid='{D510F11D-594A-462B-9648-ABCFF19F2FD2}']" s:id="{03112E88-1499-4132-9D5F-E213AFD2019C}" s:ph="/page-layout/section-narrow" /><r uid="{24941F8B-726E-4DC1-BC2C-82C8BE0C6414}" s:par="MapType=roadmap&amp;CenterLocation=-5.055576%2C3.803790&amp;ZoomLevel=4&amp;EnableCenterMapControl&amp;EnableZoomControl&amp;EnableMapTypeControl&amp;EnableScaleControl&amp;EnableStreetViewControl&amp;EnableRotateControl" /></d></r>
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -96,14 +96,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-8b8b5b83-ef7b-4f06-8614-92ecfde8e3ed
+9726b3fe-56d6-44c2-a2da-c854e793a509
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151929Z
+20190111T192826Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -114,7 +114,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: cb2688bf-1d7b-44c7-807e-6944a691d5f6
+revision: 86d6f71a-ccbe-4a2c-97bd-d1f08b715ad5
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -217,14 +217,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-cb2688bf-1d7b-44c7-807e-6944a691d5f6
+86d6f71a-ccbe-4a2c-97bd-d1f08b715ad5
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151929Z
+20190111T192826Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

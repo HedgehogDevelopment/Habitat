@@ -8,12 +8,12 @@ name: San Francisco
 master: {00000000-0000-0000-0000-000000000000}
 template: {11C28D16-9B88-456E-A42B-D4B5A82867E3}
 templatekey: Map Point
-created: 20170612T151923Z
+created: 20190111T192818Z
 
 ----version----
 language: en
 version: 1
-revision: a84eefe5-bf05-44f0-84c4-beb71028ed1a
+revision: 9dbd01bb-6fd0-4921-b5d7-493b1a660ed3
 
 ----field----
 field: {F12C22BB-E57D-4FAB-96E1-1229E4E7FF0E}
@@ -50,25 +50,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a84eefe5-bf05-44f0-84c4-beb71028ed1a
+9dbd01bb-6fd0-4921-b5d7-493b1a660ed3
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151923Z
+20190111T192818Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 16
 
-default\Anonymous
+sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 88364597-3cc6-4655-92fe-c1fb3b9273a5
+revision: 32078212-f926-40cb-96a4-3bc1888bc966
 
 ----field----
 field: {F12C22BB-E57D-4FAB-96E1-1229E4E7FF0E}
@@ -112,14 +112,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-88364597-3cc6-4655-92fe-c1fb3b9273a5
+32078212-f926-40cb-96a4-3bc1888bc966
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151923Z
+20190111T192818Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

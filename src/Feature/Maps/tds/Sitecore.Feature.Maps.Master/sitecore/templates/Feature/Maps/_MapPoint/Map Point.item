@@ -8,12 +8,12 @@ name: Map Point
 master: {00000000-0000-0000-0000-000000000000}
 template: {E269FBB5-3750-427A-9149-7AA950B49301}
 templatekey: Template section
-created: 20170612T151738Z
+created: 20190111T192639Z
 
 ----version----
 language: en
 version: 1
-revision: 869cff4f-162e-4a37-b094-599a058d1f77
+revision: c0794980-4bcd-4336-bf52-41309877e6ff
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -35,14 +35,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-869cff4f-162e-4a37-b094-599a058d1f77
+c0794980-4bcd-4336-bf52-41309877e6ff
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151738Z
+20190111T192639Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -53,7 +53,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 8b3fce22-f853-40fb-b08e-5f70272afb21
+revision: e178b6d6-c977-480d-9ede-a10b78109b3d
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -82,14 +82,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-8b3fce22-f853-40fb-b08e-5f70272afb21
+e178b6d6-c977-480d-9ede-a10b78109b3d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151738Z
+20190111T192639Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

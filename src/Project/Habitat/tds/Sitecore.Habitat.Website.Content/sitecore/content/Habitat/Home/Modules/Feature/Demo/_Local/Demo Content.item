@@ -8,12 +8,12 @@ name: Demo Content
 master: {00000000-0000-0000-0000-000000000000}
 template: {B4F6F114-E653-4A22-86C5-499E0BD99D9A}
 templatekey: Demo Teaser
-created: 20170612T151929Z
+created: 20190111T192827Z
 
 ----version----
 language: en
 version: 1
-revision: d7ee111d-a5e7-4487-99e0-76f50683a6a5
+revision: 393d2090-46e1-469c-b8a0-545a3ed59031
 
 ----field----
 field: {0BC0AEDF-A6D0-4F74-933C-BD1779CD40B2}
@@ -37,25 +37,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d7ee111d-a5e7-4487-99e0-76f50683a6a5
+393d2090-46e1-469c-b8a0-545a3ed59031
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151929Z
+20190111T192827Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 16
 
-default\Anonymous
+sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 03abeff6-35eb-4bf4-983e-2fc889ecf3f3
+revision: 9ac895a8-50fc-477a-8c54-c2eb76a3f0f7
 
 ----field----
 field: {0BC0AEDF-A6D0-4F74-933C-BD1779CD40B2}
@@ -93,14 +93,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-03abeff6-35eb-4bf4-983e-2fc889ecf3f3
+9ac895a8-50fc-477a-8c54-c2eb76a3f0f7
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151929Z
+20190111T192827Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

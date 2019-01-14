@@ -8,12 +8,12 @@ name: Lightbox Video Documentation
 master: {00000000-0000-0000-0000-000000000000}
 template: {F1C095E2-B3E0-46D0-B838-02A9E8B880D9}
 templatekey: Video
-created: 20170612T151920Z
+created: 20190111T192811Z
 
 ----version----
 language: en
 version: 1
-revision: a15eaa90-a6a7-4aa1-9c5e-b3f68e1457a3
+revision: 3c7d1c44-4121-4513-896b-6b2847bee311
 
 ----field----
 field: {2628705D-9434-4448-978C-C3BF166FA1EB}
@@ -56,25 +56,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a15eaa90-a6a7-4aa1-9c5e-b3f68e1457a3
+3c7d1c44-4121-4513-896b-6b2847bee311
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151920Z
+20190111T192812Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 16
 
-default\Anonymous
+sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 4b0afe13-07ac-42c7-92e5-097744943e92
+revision: d119969e-5491-4b86-9f91-9334e723f3fe
 
 ----field----
 field: {2628705D-9434-4448-978C-C3BF166FA1EB}
@@ -124,14 +124,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4b0afe13-07ac-42c7-92e5-097744943e92
+d119969e-5491-4b86-9f91-9334e723f3fe
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151920Z
+20190111T192812Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

@@ -8,12 +8,12 @@ name: Dependencies 1
 master: {00000000-0000-0000-0000-000000000000}
 template: {F0369E1A-9030-4A05-A09C-EF09B664ED27}
 templatekey: Image
-created: 20170612T151923Z
+created: 20190111T192816Z
 
 ----version----
 language: en
 version: 1
-revision: 9652a270-2900-40a7-bc6e-af1a9917798e
+revision: 39431f9b-1e35-49e8-b60a-630abe8e1454
 
 ----field----
 field: {63DDA48B-B0CB-45A7-9A1B-B26DDB41009B}
@@ -49,25 +49,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-9652a270-2900-40a7-bc6e-af1a9917798e
+39431f9b-1e35-49e8-b60a-630abe8e1454
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151923Z
+20190111T192816Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 16
 
-default\Anonymous
+sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 53fb4627-cb32-4872-a89a-bd5f71f6673d
+revision: 69bc9a54-56ca-451e-b39d-632a062dad3d
 
 ----field----
 field: {63DDA48B-B0CB-45A7-9A1B-B26DDB41009B}
@@ -110,14 +110,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-53fb4627-cb32-4872-a89a-bd5f71f6673d
+69bc9a54-56ca-451e-b39d-632a062dad3d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151923Z
+20190111T192816Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

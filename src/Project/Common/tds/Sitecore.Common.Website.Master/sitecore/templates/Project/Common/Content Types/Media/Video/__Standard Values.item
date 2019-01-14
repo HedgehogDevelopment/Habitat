@@ -8,11 +8,12 @@ name: __Standard Values
 master: {00000000-0000-0000-0000-000000000000}
 template: {F1C095E2-B3E0-46D0-B838-02A9E8B880D9}
 templatekey: Video
+created: 20190111T192806Z
 
 ----version----
 language: en
 version: 1
-revision: 35531614-eaba-43d4-8a2c-161167c9ed6e
+revision: f15cdcdd-4f46-4156-bab9-fb860db4ffbb
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -34,14 +35,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-35531614-eaba-43d4-8a2c-161167c9ed6e
+f15cdcdd-4f46-4156-bab9-fb860db4ffbb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160128T212026Z
+20190111T192806Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

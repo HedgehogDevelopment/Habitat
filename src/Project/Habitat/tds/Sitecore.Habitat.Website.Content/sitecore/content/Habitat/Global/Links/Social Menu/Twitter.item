@@ -8,12 +8,12 @@ name: Twitter
 master: {00000000-0000-0000-0000-000000000000}
 template: {390333C8-751B-4332-84A3-6360B969A19F}
 templatekey: Link Menu Item
-created: 20170612T151922Z
+created: 20190111T192817Z
 
 ----version----
 language: da
 version: 1
-revision: d5b53081-094f-4ead-829e-a1873faadf31
+revision: 00d12b68-0877-4778-bd3f-b59762cc7526
 
 ----field----
 field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d5b53081-094f-4ead-829e-a1873faadf31
+00d12b68-0877-4778-bd3f-b59762cc7526
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151922Z
+20190111T192817Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -74,7 +74,7 @@ sitecore\unicorn
 ----version----
 language: en
 version: 1
-revision: 2c383860-041e-41b7-aca0-72ec99fdb4a3
+revision: 383f4c5e-10eb-495d-8437-4291a17228d0
 
 ----field----
 field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
@@ -110,25 +110,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2c383860-041e-41b7-aca0-72ec99fdb4a3
+383f4c5e-10eb-495d-8437-4291a17228d0
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151922Z
+20190111T192817Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 16
 
-default\Anonymous
+sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: c2433d6c-8a58-47c0-8b64-e51f57e94190
+revision: 09c711f7-2306-44a9-8175-590ef2f14087
 
 ----field----
 field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
@@ -171,14 +171,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c2433d6c-8a58-47c0-8b64-e51f57e94190
+09c711f7-2306-44a9-8175-590ef2f14087
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151922Z
+20190111T192817Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

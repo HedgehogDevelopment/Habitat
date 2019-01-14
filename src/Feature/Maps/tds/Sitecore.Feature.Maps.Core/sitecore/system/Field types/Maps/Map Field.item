@@ -8,6 +8,7 @@ name: Map Field
 master: {00000000-0000-0000-0000-000000000000}
 template: {F8A17D6A-118E-4CD7-B5F5-88FF37A4F237}
 templatekey: Template field type
+created: 20190111T192646Z
 
 ----field----
 field: {6BF5ED07-BC70-42F4-BB77-C017D340950E}
@@ -33,7 +34,7 @@ Control/32x32/edit.png
 ----version----
 language: en
 version: 1
-revision: 322db27c-b714-4e86-8e63-7b6d4d8ec8cd
+revision: c42fef04-1a2f-4302-925b-951ecd04cab2
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -55,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-322db27c-b714-4e86-8e63-7b6d4d8ec8cd
+c42fef04-1a2f-4302-925b-951ecd04cab2
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160411T220211Z
+20190111T192646Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

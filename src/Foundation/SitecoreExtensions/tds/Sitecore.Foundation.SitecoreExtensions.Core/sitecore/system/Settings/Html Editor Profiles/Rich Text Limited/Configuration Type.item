@@ -8,6 +8,7 @@ name: Configuration Type
 master: {00000000-0000-0000-0000-000000000000}
 template: {ECA6E291-BB55-47AB-BD02-BE76B1BC884F}
 templatekey: Html Editor Configuration Type
+created: 20190111T192450Z
 
 ----field----
 field: {FF617570-33A4-4D0E-931E-FFEB9FAB450F}
@@ -19,7 +20,7 @@ Sitecore.Shell.Controls.RichTextEditor.EditorConfiguration,Sitecore.Client
 ----version----
 language: da
 version: 1
-revision: b620378c-b4bd-45e0-8abc-848dbb6cbc66
+revision: 8076db70-c97e-4d3a-8aae-f069c115da64
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -48,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-b620378c-b4bd-45e0-8abc-848dbb6cbc66
+8076db70-c97e-4d3a-8aae-f069c115da64
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160405T151317Z
+20190111T192450Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -66,7 +67,7 @@ sitecore\unicorn
 ----version----
 language: de-DE
 version: 1
-revision: 13c89683-b455-483b-bc0c-027a50726c66
+revision: 8aeb62c2-ab05-45bc-acd8-34ba5db1d66e
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -95,14 +96,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-13c89683-b455-483b-bc0c-027a50726c66
+8aeb62c2-ab05-45bc-acd8-34ba5db1d66e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160405T151317Z
+20190111T192450Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -113,7 +114,7 @@ sitecore\unicorn
 ----version----
 language: en
 version: 1
-revision: 6c5a68ac-a931-482a-9b94-5100e59624f7
+revision: 1ab9d158-f4a2-470d-abd7-de3431c3eb71
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -135,14 +136,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-6c5a68ac-a931-482a-9b94-5100e59624f7
+1ab9d158-f4a2-470d-abd7-de3431c3eb71
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160405T151317Z
+20190111T192450Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -153,7 +154,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: ba45d570-2f04-497c-aa64-50eb872f2138
+revision: 57ec69e5-b26e-47af-94ec-db6b97f8b2f5
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -182,14 +183,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ba45d570-2f04-497c-aa64-50eb872f2138
+57ec69e5-b26e-47af-94ec-db6b97f8b2f5
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160405T151317Z
+20190111T192450Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

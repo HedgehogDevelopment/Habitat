@@ -8,12 +8,12 @@ name: Headline Employee Carousel
 master: {00000000-0000-0000-0000-000000000000}
 template: {061574E1-59DD-4B62-9680-1C84EFBE6773}
 templatekey: Headline
-created: 20170612T151924Z
+created: 20190111T192816Z
 
 ----version----
 language: en
 version: 1
-revision: f92a3bbe-563e-4392-823a-c105347224b7
+revision: 0049579f-4166-4c9e-86b0-72bd0b11a5c4
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -35,25 +35,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f92a3bbe-563e-4392-823a-c105347224b7
+0049579f-4166-4c9e-86b0-72bd0b11a5c4
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151924Z
+20190111T192816Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 18
 
-default\Anonymous
+extranet\Anonymous
 ----version----
 language: ja-JP
 version: 1
-revision: e287d120-7a89-4651-a0e9-a167a4810b8e
+revision: af659ecb-46bc-446a-88bb-a0a239584e08
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -89,14 +89,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e287d120-7a89-4651-a0e9-a167a4810b8e
+af659ecb-46bc-446a-88bb-a0a239584e08
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151924Z
+20190111T192816Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

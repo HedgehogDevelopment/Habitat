@@ -8,12 +8,19 @@ name: Maps
 master: {00000000-0000-0000-0000-000000000000}
 template: {94A8C8E9-690B-4E65-98E7-F95800222767}
 templatekey: Article
-created: 20170612T151924Z
+created: 20190111T192821Z
 
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 237
+
+<tracking><profile id="c4cc3ef6-a779-44ad-9021-01f1dae26270" name="Layers" presets="freddy the feature layer|100||"><key name="Feature" value="10" /><key name="Foundation" value="2" /><key name="Project" value="0" /></profile></tracking>
 ----version----
 language: en
 version: 1
-revision: ca86d3ac-06f9-42db-b507-70be898ee98a
+revision: b12d4746-1300-43e3-b74e-7875e90bfa70
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -61,9 +68,9 @@ Maps
 field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
 name: __Final Renderings
 key: __final renderings
-content-length: 1317
+content-length: 1325
 
-<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{1D14E75C-3F43-4665-B2E2-B21B89EAF728}" p:before="*" s:ds="{F4477B0F-B874-4385-A3D7-ED1C1A868DB0}" s:id="{7DFD9396-CB94-4174-9721-9419A2AA68E3}" s:par="MapType=terrain&amp;CenterLocation=-33.832724, 151.289431&amp;ZoomLevel=10&amp;EnableCenterMapControl&amp;EnableZoomControl&amp;EnableMapTypeControl&amp;EnableScaleControl&amp;EnableStreetViewControl&amp;EnableRotateControl" s:ph="/page-layout/section-narrow/col-wide-1_27c81c8d-b50a-4a27-b728-114c314d417b" /><r uid="{D9CA2CCD-729B-41C0-988D-A5DD7961E6AD}" p:after="r[@uid='{1D14E75C-3F43-4665-B2E2-B21B89EAF728}']" s:ds="{37FCED17-913A-4ABB-9EEC-3BF745334326}" s:id="{7DFD9396-CB94-4174-9721-9419A2AA68E3}" s:par="MapType=roadmap&amp;CenterLocation=55.6749167,12.561860199999956&amp;ZoomLevel=0&amp;EnableCenterMapControl&amp;EnableZoomControl=1&amp;EnableMapTypeControl=1&amp;EnableScaleControl&amp;EnableStreetViewControl&amp;EnableRotateControl" s:ph="/page-layout/section-narrow/col-wide-2_27c81c8d-b50a-4a27-b728-114c314d417b" /><r uid="{27C81C8D-B50A-4A27-B728-114C314D417B}" p:after="r[@uid='{D9CA2CCD-729B-41C0-988D-A5DD7961E6AD}']" s:id="{50F6052C-4FC2-4AA6-9399-FFC6055CF19F}" s:ph="/page-layout/section-narrow" /></d></r>
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{1D14E75C-3F43-4665-B2E2-B21B89EAF728}" p:before="*" s:ds="{F4477B0F-B874-4385-A3D7-ED1C1A868DB0}" s:id="{7DFD9396-CB94-4174-9721-9419A2AA68E3}" s:par="MapType=terrain&amp;CenterLocation=-33.832724, 151.289431&amp;ZoomLevel=10&amp;EnableCenterMapControl&amp;EnableZoomControl&amp;EnableMapTypeControl&amp;EnableScaleControl&amp;EnableStreetViewControl&amp;EnableRotateControl" s:ph="/page-layout/section-narrow/col-wide-1-{27C81C8D-B50A-4A27-B728-114C314D417B}-0" /><r uid="{D9CA2CCD-729B-41C0-988D-A5DD7961E6AD}" p:after="r[@uid='{1D14E75C-3F43-4665-B2E2-B21B89EAF728}']" s:ds="{37FCED17-913A-4ABB-9EEC-3BF745334326}" s:id="{7DFD9396-CB94-4174-9721-9419A2AA68E3}" s:par="MapType=roadmap&amp;CenterLocation=55.6749167,12.561860199999956&amp;ZoomLevel=0&amp;EnableCenterMapControl&amp;EnableZoomControl=1&amp;EnableMapTypeControl=1&amp;EnableScaleControl&amp;EnableStreetViewControl&amp;EnableRotateControl" s:ph="/page-layout/section-narrow/col-wide-2-{27C81C8D-B50A-4A27-B728-114C314D417B}-0" /><r uid="{27C81C8D-B50A-4A27-B728-114C314D417B}" p:after="r[@uid='{D9CA2CCD-729B-41C0-988D-A5DD7961E6AD}']" s:id="{50F6052C-4FC2-4AA6-9399-FFC6055CF19F}" s:ph="/page-layout/section-narrow" /></d></r>
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -77,14 +84,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ca86d3ac-06f9-42db-b507-70be898ee98a
+b12d4746-1300-43e3-b74e-7875e90bfa70
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151924Z
+20190111T192821Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -95,7 +102,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: b014799c-1cc8-49d7-901a-b0b6bb2384b9
+revision: 4860a3b9-5fd1-47b1-a4ff-9985405b0f1e
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -173,14 +180,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-b014799c-1cc8-49d7-901a-b0b6bb2384b9
+4860a3b9-5fd1-47b1-a4ff-9985405b0f1e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151924Z
+20190111T192821Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

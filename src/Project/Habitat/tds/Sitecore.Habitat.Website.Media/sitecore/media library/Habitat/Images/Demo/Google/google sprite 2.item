@@ -8,6 +8,7 @@ name: google sprite 2
 master: {00000000-0000-0000-0000-000000000000}
 template: {F1828A2C-7E5D-4BBD-98CA-320474871548}
 templatekey: Image
+created: 20190111T192833Z
 
 ----field----
 field: {40E50ED9-BA07-4702-992E-A912738D32DC}
@@ -452,7 +453,7 @@ content-length: 61
 ----version----
 language: en
 version: 1
-revision: adba8fe5-2b35-4f47-b45c-c577f36259b6
+revision: e06f3026-5f11-4b3d-b05c-0314bd2a1061
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -467,14 +468,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-adba8fe5-2b35-4f47-b45c-c577f36259b6
+e06f3026-5f11-4b3d-b05c-0314bd2a1061
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160128T212107Z
+20190111T192833Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

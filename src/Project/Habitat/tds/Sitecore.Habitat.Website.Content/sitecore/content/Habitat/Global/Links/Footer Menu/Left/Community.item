@@ -8,12 +8,12 @@ name: Community
 master: {00000000-0000-0000-0000-000000000000}
 template: {390333C8-751B-4332-84A3-6360B969A19F}
 templatekey: Link Menu Item
-created: 20170612T151928Z
+created: 20190111T192822Z
 
 ----version----
 language: da
 version: 1
-revision: f1a5f9bd-d65b-472e-9905-26d47d771ebe
+revision: 37c218dd-3736-4cb6-b1e4-8c21c0780865
 
 ----field----
 field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
@@ -49,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f1a5f9bd-d65b-472e-9905-26d47d771ebe
+37c218dd-3736-4cb6-b1e4-8c21c0780865
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151928Z
+20190111T192822Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -67,7 +67,7 @@ sitecore\unicorn
 ----version----
 language: en
 version: 1
-revision: 0d438579-1f35-424b-9401-e5bb92f1aa70
+revision: f59cfd67-9e77-4dcd-9307-593a9bff57ee
 
 ----field----
 field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
@@ -96,25 +96,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-0d438579-1f35-424b-9401-e5bb92f1aa70
+f59cfd67-9e77-4dcd-9307-593a9bff57ee
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151928Z
+20190111T192822Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 16
 
-default\Anonymous
+sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 266a9cf8-738f-4b77-88ae-7c7b2bc9466b
+revision: 6a90ac36-a259-429f-9ec2-765d04ee27e7
 
 ----field----
 field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
@@ -157,14 +157,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-266a9cf8-738f-4b77-88ae-7c7b2bc9466b
+6a90ac36-a259-429f-9ec2-765d04ee27e7
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151928Z
+20190111T192822Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

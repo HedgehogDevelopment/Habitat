@@ -8,7 +8,7 @@ name: The Common Reuse Principle
 master: {00000000-0000-0000-0000-000000000000}
 template: {C7D9D293-4EF8-4380-8E10-C4632E729F39}
 templatekey: Teaser
-created: 20170612T151923Z
+created: 20190111T192817Z
 
 ----field----
 field: {E8AB122C-6F54-4D4E-AEC6-F81ADDC558FC}
@@ -20,7 +20,7 @@ content-length: 121
 ----version----
 language: en
 version: 1
-revision: 79421e35-7418-4d03-b803-86a097508690
+revision: b37b7e35-2db6-4f46-ab47-efda4b47591a
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -50,25 +50,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-79421e35-7418-4d03-b803-86a097508690
+b37b7e35-2db6-4f46-ab47-efda4b47591a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151923Z
+20190111T192817Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 18
 
-default\Anonymous
+extranet\Anonymous
 ----version----
 language: ja-JP
 version: 1
-revision: f7891ab4-b54e-4ea0-bf86-9476ef86f63d
+revision: 0371af77-f7ea-4ca4-aca3-11090ee4bb2d
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -105,14 +105,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f7891ab4-b54e-4ea0-bf86-9476ef86f63d
+0371af77-f7ea-4ca4-aca3-11090ee4bb2d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151923Z
+20190111T192817Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

@@ -8,11 +8,12 @@ name: Teasers
 master: {00000000-0000-0000-0000-000000000000}
 template: {7EE0975B-0698-493E-B3A2-0B2EF33D0522}
 templatekey: Rendering Folder
+created: 20190111T192749Z
 
 ----version----
 language: en
 version: 1
-revision: 90956c69-39d6-4e8a-b4ba-b5e595490c44
+revision: 14b8f8bf-6310-4579-9eec-bd2f99e31e5f
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -27,14 +28,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-90956c69-39d6-4e8a-b4ba-b5e595490c44
+14b8f8bf-6310-4579-9eec-bd2f99e31e5f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160128T212016Z
+20190111T192749Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

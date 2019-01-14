@@ -8,7 +8,7 @@ name: Applications
 master: {30235F43-6242-4107-87AB-5267E34EDF0C}
 template: {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
 templatekey: Folder
-created: 20170728T140315Z
+created: 20181101T095340Z
 
 ----field----
 field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
@@ -62,7 +62,7 @@ content-length: 0
 ----version----
 language: da
 version: 1
-revision: 9434db21-25f1-4291-bff4-1b4cc380acf0
+revision: d1a77604-1d55-4383-9d84-1dddd8d57663
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -91,7 +91,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20170728T142007Z
+20181101T100343Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -105,14 +105,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-9434db21-25f1-4291-bff4-1b4cc380acf0
+d1a77604-1d55-4383-9d84-1dddd8d57663
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170728T142007Z
+20181101T100343Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -123,7 +123,7 @@ sitecore\admin
 ----version----
 language: de-DE
 version: 1
-revision: 51e8f47e-05ac-496f-bc6c-7f22b503a355
+revision: a75e715f-9fb4-487d-be1e-2c068d1260ab
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -152,7 +152,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20170728T142407Z
+20181101T100646Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -166,14 +166,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-51e8f47e-05ac-496f-bc6c-7f22b503a355
+a75e715f-9fb4-487d-be1e-2c068d1260ab
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170728T142407Z
+20181101T100646Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -238,7 +238,7 @@ sitecore\admin
 ----version----
 language: ja-JP
 version: 1
-revision: f027d550-1a49-4942-a6b0-3a0a445e8dd8
+revision: 344566e8-2b39-4e9b-82fc-91f34426f05f
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -267,7 +267,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20170728T142717Z
+20181101T100926Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -281,14 +281,75 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f027d550-1a49-4942-a6b0-3a0a445e8dd8
+344566e8-2b39-4e9b-82fc-91f34426f05f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170728T142717Z
+20181101T100926Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: zh-CN
+version: 1
+revision: 4b48376c-dd29-4faa-9225-cc72edbfdf4a
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 4
+
+应用程序
+----field----
+field: {9541E67D-CE8C-4225-803D-33F7F29F09EF}
+name: __Short description
+key: __short description
+content-length: 6
+
+客户应用程序
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20181101T101211Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4b48376c-dd29-4faa-9225-cc72edbfdf4a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20181101T101211Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

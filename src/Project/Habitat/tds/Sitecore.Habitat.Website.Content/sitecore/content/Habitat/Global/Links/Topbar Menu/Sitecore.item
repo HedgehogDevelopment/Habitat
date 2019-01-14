@@ -8,7 +8,7 @@ name: Sitecore
 master: {00000000-0000-0000-0000-000000000000}
 template: {390333C8-751B-4332-84A3-6360B969A19F}
 templatekey: Link Menu Item
-created: 20170612T151922Z
+created: 20190111T192817Z
 
 ----field----
 field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
@@ -20,7 +20,7 @@ content-length: 3
 ----version----
 language: da
 version: 1
-revision: c70422f7-2ff2-4756-8f54-076e720363da
+revision: f494e753-98a0-4ce6-b8b6-7b4b1965289e
 
 ----field----
 field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
@@ -63,14 +63,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c70422f7-2ff2-4756-8f54-076e720363da
+f494e753-98a0-4ce6-b8b6-7b4b1965289e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151922Z
+20190111T192817Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -81,7 +81,7 @@ sitecore\unicorn
 ----version----
 language: en
 version: 1
-revision: 964faf42-afad-46a2-8098-d01f0a187bfb
+revision: c7b7aac6-ba31-48a9-a26a-d52abd013b09
 
 ----field----
 field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
@@ -117,25 +117,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-964faf42-afad-46a2-8098-d01f0a187bfb
+c7b7aac6-ba31-48a9-a26a-d52abd013b09
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151922Z
+20190111T192817Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 16
 
-default\Anonymous
+sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: a6fe553f-9e98-4b9e-a0f6-241db355ac4f
+revision: 3cfbff47-49ed-4d88-9b79-70dd099c4357
 
 ----field----
 field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
@@ -178,14 +178,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a6fe553f-9e98-4b9e-a0f6-241db355ac4f
+3cfbff47-49ed-4d88-9b79-70dd099c4357
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151923Z
+20190111T192817Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

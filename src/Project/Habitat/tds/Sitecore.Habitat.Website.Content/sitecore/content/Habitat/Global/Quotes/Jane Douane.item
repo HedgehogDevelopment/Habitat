@@ -8,12 +8,12 @@ name: Jane Douane
 master: {00000000-0000-0000-0000-000000000000}
 template: {40AD8A9B-C75C-428D-9E1A-51372B21F63E}
 templatekey: Quote
-created: 20170612T151920Z
+created: 20190111T192812Z
 
 ----version----
 language: en
 version: 1
-revision: 4b5e3f37-34db-43ae-9e04-2fdab7ee9ba7
+revision: f226e497-5b6d-436f-aa2f-1ad6dd3a1667
 
 ----field----
 field: {26CD59AB-3639-488F-BAFD-58D2B217755A}
@@ -56,25 +56,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4b5e3f37-34db-43ae-9e04-2fdab7ee9ba7
+f226e497-5b6d-436f-aa2f-1ad6dd3a1667
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151920Z
+20190111T192812Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 16
 
-default\Anonymous
+sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 00349560-5241-4c71-b570-0e3b57a4b300
+revision: f4d4b82b-4e1a-4eca-9bfd-478a16cf4801
 
 ----field----
 field: {26CD59AB-3639-488F-BAFD-58D2B217755A}
@@ -124,14 +124,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-00349560-5241-4c71-b570-0e3b57a4b300
+f4d4b82b-4e1a-4eca-9bfd-478a16cf4801
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151920Z
+20190111T192812Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

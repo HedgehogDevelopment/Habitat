@@ -8,11 +8,12 @@ name: __Standard Values
 master: {00000000-0000-0000-0000-000000000000}
 template: {18CDD4CE-CDBE-4BDC-9D5A-6249F7F0EC17}
 templatekey: MetaKeyword
+created: 20190111T192806Z
 
 ----version----
 language: en
 version: 1
-revision: 0f7c4b02-d257-4732-8e09-6d930de5e7f0
+revision: ae2b3960-1b69-461f-a374-7992c8616dca
 
 ----field----
 field: {7BDBBA5F-C7E6-45C2-82F5-010DED013588}
@@ -41,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-0f7c4b02-d257-4732-8e09-6d930de5e7f0
+ae2b3960-1b69-461f-a374-7992c8616dca
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160128T212024Z
+20190111T192806Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

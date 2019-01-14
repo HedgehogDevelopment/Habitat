@@ -8,12 +8,12 @@ name: Teasers
 master: {00000000-0000-0000-0000-000000000000}
 template: {29D4B405-39EB-487D-9D6B-3F8467AB167D}
 templatekey: Teaser Folder
-created: 20170612T151917Z
+created: 20190111T192810Z
 
 ----version----
 language: en
 version: 1
-revision: 0b834589-6d22-4cb0-bbb9-f4a855328c11
+revision: 5dca037b-f4a5-49e4-a557-bf476ae23325
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -28,25 +28,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-0b834589-6d22-4cb0-bbb9-f4a855328c11
+5dca037b-f4a5-49e4-a557-bf476ae23325
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151917Z
+20190111T192810Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 16
 
-default\Anonymous
+sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: a77d4baa-8f8f-4b23-bff4-3e3fa3c3ed69
+revision: c514298b-85b6-479e-83bc-0b677cc037dd
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -75,14 +75,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a77d4baa-8f8f-4b23-bff4-3e3fa3c3ed69
+c514298b-85b6-479e-83bc-0b677cc037dd
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151917Z
+20190111T192810Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

@@ -8,7 +8,7 @@ name: Dynamic Teaser
 master: {00000000-0000-0000-0000-000000000000}
 template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
 templatekey: Template
-created: 20170612T151859Z
+created: 20190111T192756Z
 
 ----field----
 field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
@@ -34,7 +34,7 @@ Applications/16x16/window_split_ver.png
 ----version----
 language: en
 version: 1
-revision: 3b9e135c-da17-493f-9189-27d830015c21
+revision: b3594b3c-cddd-4f1e-b91e-b01f892897c9
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-3b9e135c-da17-493f-9189-27d830015c21
+b3594b3c-cddd-4f1e-b91e-b01f892897c9
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151859Z
+20190111T192756Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -74,7 +74,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: f9967c4b-7b5a-4240-9d1c-d2f08b5fc3cb
+revision: bcd36c6e-8176-4f1b-aab1-2c81d5d912f7
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -103,14 +103,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f9967c4b-7b5a-4240-9d1c-d2f08b5fc3cb
+bcd36c6e-8176-4f1b-aab1-2c81d5d912f7
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151859Z
+20190111T192756Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

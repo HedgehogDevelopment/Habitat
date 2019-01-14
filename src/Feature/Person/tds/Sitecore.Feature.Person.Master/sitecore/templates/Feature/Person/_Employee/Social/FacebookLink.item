@@ -8,7 +8,7 @@ name: FacebookLink
 master: {00000000-0000-0000-0000-000000000000}
 template: {455A3E98-A627-4B40-8035-E683A0331AC7}
 templatekey: Template field
-created: 20170612T151850Z
+created: 20190111T192720Z
 
 ----field----
 field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
@@ -27,7 +27,7 @@ ar|modules\Feature Person Admin|pe|+field:write|pd|+field:write|ar|Everyone|pe|!
 ----version----
 language: en
 version: 1
-revision: b2d0d58b-63fd-4526-b480-6f63bd2614d6
+revision: 0644df21-8f8e-4861-9a24-c8cc471f7815
 
 ----field----
 field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-b2d0d58b-63fd-4526-b480-6f63bd2614d6
+0644df21-8f8e-4861-9a24-c8cc471f7815
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151850Z
+20190111T192720Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -74,7 +74,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 6369e457-8414-4c02-9363-34dd3de58045
+revision: 086848a6-32bd-4eb9-b3c5-a543e07a6084
 
 ----field----
 field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
@@ -103,14 +103,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-6369e457-8414-4c02-9363-34dd3de58045
+086848a6-32bd-4eb9-b3c5-a543e07a6084
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151850Z
+20190111T192720Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

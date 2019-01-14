@@ -8,12 +8,12 @@ name: mappoints
 master: {00000000-0000-0000-0000-000000000000}
 template: {C82DC5FF-09EF-4403-96D3-3CAF377B8C5B}
 templatekey: Datasource Configuration
-created: 20170612T151921Z
+created: 20190111T192815Z
 
 ----version----
 language: en
 version: 1
-revision: cf1302ff-cb7c-4264-9f22-35a597ad67d7
+revision: 3c4fd089-bc20-4ff4-a10f-bd3c32b2e36e
 
 ----field----
 field: {5FE1CC43-F86C-459C-A379-CD75950D85AF}
@@ -49,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-cf1302ff-cb7c-4264-9f22-35a597ad67d7
+3c4fd089-bc20-4ff4-a10f-bd3c32b2e36e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151921Z
+20190111T192815Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -67,7 +67,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: b7952b45-07a2-4819-969e-47e4f8c004ca
+revision: 5b18c502-7cd9-43f7-a855-221c27d9e8fa
 
 ----field----
 field: {5FE1CC43-F86C-459C-A379-CD75950D85AF}
@@ -110,14 +110,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-b7952b45-07a2-4819-969e-47e4f8c004ca
+5b18c502-7cd9-43f7-a855-221c27d9e8fa
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151921Z
+20190111T192815Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

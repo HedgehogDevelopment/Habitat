@@ -8,6 +8,7 @@ name: Dynamic Jumbotron Carousel
 master: {00000000-0000-0000-0000-000000000000}
 template: {F5F30CDC-9003-4015-84EC-C3A7E3E50D5E}
 templatekey: Dynamic Teaser
+created: 20190111T192816Z
 
 ----field----
 field: {9E942565-677F-491C-A0AC-6B930E37342A}
@@ -26,7 +27,7 @@ content-length: 1
 ----version----
 language: en
 version: 1
-revision: 840d2320-9295-44fc-9489-91b70dc92ff8
+revision: 71df5000-130a-4077-8184-4095860a73cf
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -41,18 +42,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-840d2320-9295-44fc-9489-91b70dc92ff8
+71df5000-130a-4077-8184-4095860a73cf
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160617T181802Z
+20190111T192816Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 16
 
-default\Anonymous
+sitecore\unicorn

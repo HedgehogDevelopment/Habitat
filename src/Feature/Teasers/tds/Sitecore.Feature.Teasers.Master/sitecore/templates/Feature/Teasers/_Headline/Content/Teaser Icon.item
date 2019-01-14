@@ -8,7 +8,7 @@ name: Teaser Icon
 master: {00000000-0000-0000-0000-000000000000}
 template: {455A3E98-A627-4B40-8035-E683A0331AC7}
 templatekey: Template field
-created: 20170612T151835Z
+created: 20190111T192747Z
 
 ----field----
 field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
@@ -41,7 +41,7 @@ ar|modules\Feature Teasers Admin|pe|+field:write|pd|+field:write|ar|Everyone|pe|
 ----version----
 language: en
 version: 1
-revision: 25a28d2a-2c43-47af-b432-9afb9dd811e7
+revision: fdf3680c-a98b-43d7-8332-423d0a00b5bd
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-25a28d2a-2c43-47af-b432-9afb9dd811e7
+fdf3680c-a98b-43d7-8332-423d0a00b5bd
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T185823Z
+20190111T192749Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -74,7 +74,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: c813603e-8b59-4923-87d7-1bd5785b6dea
+revision: 700bf353-dee8-4ca1-845a-1ea74f5c2f03
 
 ----field----
 field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
@@ -103,14 +103,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c813603e-8b59-4923-87d7-1bd5785b6dea
+700bf353-dee8-4ca1-845a-1ea74f5c2f03
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T185823Z
+20190111T192749Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

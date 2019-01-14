@@ -8,12 +8,12 @@ name: External Link
 master: {00000000-0000-0000-0000-000000000000}
 template: {8FF3D369-A508-4D2F-84A5-9B6C6BF5E537}
 templatekey: Navigation Link
-created: 20170612T151929Z
+created: 20190111T192827Z
 
 ----version----
 language: en
 version: 1
-revision: 10db0409-f3ef-4095-a5cd-0a8095a7e1f1
+revision: 929addf5-d534-4865-a946-ad92dcc4ee4c
 
 ----field----
 field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
@@ -49,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-10db0409-f3ef-4095-a5cd-0a8095a7e1f1
+929addf5-d534-4865-a946-ad92dcc4ee4c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151929Z
+20190111T192827Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -67,7 +67,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 58869508-dcda-4bac-844c-d65123e8fa77
+revision: 94f5f917-5088-4f70-85a1-fada9f27ba8a
 
 ----field----
 field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
@@ -103,14 +103,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-58869508-dcda-4bac-844c-d65123e8fa77
+94f5f917-5088-4f70-85a1-fada9f27ba8a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151929Z
+20190111T192827Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

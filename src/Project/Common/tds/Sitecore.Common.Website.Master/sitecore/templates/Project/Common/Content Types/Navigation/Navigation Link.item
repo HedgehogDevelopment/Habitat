@@ -8,7 +8,7 @@ name: Navigation Link
 master: {00000000-0000-0000-0000-000000000000}
 template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
 templatekey: Template
-created: 20170612T151859Z
+created: 20190111T192757Z
 
 ----field----
 field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
@@ -27,7 +27,7 @@ WordProcessing/16x16/insert_hyperlink.png
 ----version----
 language: en
 version: 1
-revision: 0459fcda-5f5c-43d1-930a-6f75faff8500
+revision: dac6ccb4-ad82-4fd9-9a34-1d575da2a0e6
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -49,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-0459fcda-5f5c-43d1-930a-6f75faff8500
+dac6ccb4-ad82-4fd9-9a34-1d575da2a0e6
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151859Z
+20190111T192757Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -67,7 +67,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 45cb52bb-68b9-4cc7-b17a-a49d7ada80b3
+revision: c37f0c64-5f24-46ec-947f-b51fac5e4e45
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -96,14 +96,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-45cb52bb-68b9-4cc7-b17a-a49d7ada80b3
+c37f0c64-5f24-46ec-947f-b51fac5e4e45
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151859Z
+20190111T192757Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

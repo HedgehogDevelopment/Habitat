@@ -8,12 +8,12 @@ name: Sydney
 master: {00000000-0000-0000-0000-000000000000}
 template: {11C28D16-9B88-456E-A42B-D4B5A82867E3}
 templatekey: Map Point
-created: 20170612T151923Z
+created: 20190111T192818Z
 
 ----version----
 language: en
 version: 1
-revision: 22218f5a-f861-4adf-aceb-2b1d2c3eaa39
+revision: 93375209-7221-408e-b37a-dac53ce142cb
 
 ----field----
 field: {F12C22BB-E57D-4FAB-96E1-1229E4E7FF0E}
@@ -50,25 +50,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-22218f5a-f861-4adf-aceb-2b1d2c3eaa39
+93375209-7221-408e-b37a-dac53ce142cb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151923Z
+20190111T192818Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 16
 
-default\Anonymous
+sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 92033186-4d5c-46f1-96f4-34960049cb4e
+revision: c832193d-fa84-4b2e-a87f-54634ab0c3d3
 
 ----field----
 field: {F12C22BB-E57D-4FAB-96E1-1229E4E7FF0E}
@@ -112,14 +112,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-92033186-4d5c-46f1-96f4-34960049cb4e
+c832193d-fa84-4b2e-a87f-54634ab0c3d3
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151923Z
+20190111T192818Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

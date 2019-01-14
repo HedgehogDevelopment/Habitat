@@ -8,11 +8,12 @@ name: __Standard Values
 master: {00000000-0000-0000-0000-000000000000}
 template: {329421CF-B99C-4E7A-AF71-F7FA7DC42BF1}
 templatekey: ParametersTemplate_FixedHeight
+created: 20190111T192533Z
 
 ----version----
 language: en
 version: 1
-revision: 4d13acee-be08-4e63-b8cc-b12b846087bd
+revision: 74551e94-0378-40b5-acfc-a1da5f4df0ba
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -25,23 +26,23 @@ content-length: 16
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
 key: __created by
-content-length: 18
+content-length: 14
 
-extranet\Anonymous
+sitecore\admin
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-4d13acee-be08-4e63-b8cc-b12b846087bd
+74551e94-0378-40b5-acfc-a1da5f4df0ba
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160415T210908Z
+20190111T192533Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

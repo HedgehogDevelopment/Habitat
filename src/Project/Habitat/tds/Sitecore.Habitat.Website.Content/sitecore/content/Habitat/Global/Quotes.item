@@ -8,12 +8,12 @@ name: Quotes
 master: {00000000-0000-0000-0000-000000000000}
 template: {A8F1B162-041F-46BF-81EB-5213AE8BC579}
 templatekey: Quote Folder
-created: 20170612T151917Z
+created: 20190111T192810Z
 
 ----version----
 language: en
 version: 1
-revision: 4a0892f4-396c-45d9-abba-b20fb6e923bd
+revision: 17bfb91d-c0d6-40e4-a79c-05747aab1992
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -28,25 +28,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4a0892f4-396c-45d9-abba-b20fb6e923bd
+17bfb91d-c0d6-40e4-a79c-05747aab1992
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151917Z
+20190111T192810Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 16
 
-default\Anonymous
+sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 10911805-56b3-4df3-abe3-0d131ed54076
+revision: b79a2899-e9f9-4691-aea1-bb581b515027
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -75,14 +75,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-10911805-56b3-4df3-abe3-0d131ed54076
+b79a2899-e9f9-4691-aea1-bb581b515027
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151917Z
+20190111T192810Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

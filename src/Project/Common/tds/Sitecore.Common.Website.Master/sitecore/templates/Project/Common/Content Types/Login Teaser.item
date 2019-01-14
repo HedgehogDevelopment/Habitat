@@ -8,7 +8,7 @@ name: Login Teaser
 master: {00000000-0000-0000-0000-000000000000}
 template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
 templatekey: Template
-created: 20170612T151856Z
+created: 20190111T192752Z
 
 ----field----
 field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
@@ -34,7 +34,7 @@ Core2/32x32/key.png
 ----version----
 language: en
 version: 1
-revision: a22b0425-056f-41b4-aa08-0fb09751afd1
+revision: 679aa2c5-cbe4-40f0-b996-2e1386572946
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a22b0425-056f-41b4-aa08-0fb09751afd1
+679aa2c5-cbe4-40f0-b996-2e1386572946
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151856Z
+20190111T192752Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -74,7 +74,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 5ad30f12-4f37-485d-a930-c9fc70c557f6
+revision: ba9b2ad6-d011-4a3d-a9ea-c913b67c6951
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -103,14 +103,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-5ad30f12-4f37-485d-a930-c9fc70c557f6
+ba9b2ad6-d011-4a3d-a9ea-c913b67c6951
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151856Z
+20190111T192752Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

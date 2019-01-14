@@ -8,7 +8,7 @@ name: Facebook Open Graph
 master: {00000000-0000-0000-0000-000000000000}
 template: {E269FBB5-3750-427A-9149-7AA950B49301}
 templatekey: Template section
-created: 20170612T151823Z
+created: 20190111T192733Z
 
 ----field----
 field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
@@ -20,7 +20,7 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: c3553cda-1008-4883-be1b-6e53afc46a04
+revision: 855fcce9-2299-426a-87e9-3f672a9e089a
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -49,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c3553cda-1008-4883-be1b-6e53afc46a04
+855fcce9-2299-426a-87e9-3f672a9e089a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151823Z
+20190111T192734Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -67,7 +67,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 4203713e-bd4c-441f-953c-b610bab5d2a5
+revision: 6308ea79-3b6d-4b6b-bfaa-ba34143b2cb2
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -96,14 +96,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4203713e-bd4c-441f-953c-b610bab5d2a5
+6308ea79-3b6d-4b6b-bfaa-ba34143b2cb2
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151823Z
+20190111T192734Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

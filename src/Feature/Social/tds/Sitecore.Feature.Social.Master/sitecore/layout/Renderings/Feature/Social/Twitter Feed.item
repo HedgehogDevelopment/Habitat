@@ -8,6 +8,7 @@ name: Twitter Feed
 master: {00000000-0000-0000-0000-000000000000}
 template: {99F8905D-4A87-4EB8-9F8B-A9BEBFB3ADD6}
 templatekey: View rendering
+created: 20190111T192735Z
 
 ----field----
 field: {51B435BC-F7B9-478A-9C51-52916AF96FF5}
@@ -47,7 +48,7 @@ content-length: 58
 ----version----
 language: en
 version: 1
-revision: 6fe1f4dc-701d-4313-ada9-1744e1dce613
+revision: 88c11274-e6c8-4cc7-bd46-73cc97deaab9
 
 ----field----
 field: {1C307764-806C-42F0-B7CE-FC173AC8372B}
@@ -69,14 +70,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-6fe1f4dc-701d-4313-ada9-1744e1dce613
+88c11274-e6c8-4cc7-bd46-73cc97deaab9
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160617T181722Z
+20190111T192735Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

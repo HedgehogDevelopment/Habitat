@@ -8,7 +8,7 @@ name: News
 master: {00000000-0000-0000-0000-000000000000}
 template: {A99866E5-08E7-44D8-8A52-F8E26BCD3714}
 templatekey: News List
-created: 20170612T151929Z
+created: 20190111T192827Z
 
 ----field----
 field: {A0CB3965-8884-4C7A-8815-B6B2E5CED162}
@@ -27,7 +27,7 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: bc334550-d90a-46d4-a639-3395d33b07da
+revision: 1f4925e0-faee-422c-b8ca-b5cc8ce55feb
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -70,14 +70,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-bc334550-d90a-46d4-a639-3395d33b07da
+1f4925e0-faee-422c-b8ca-b5cc8ce55feb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151929Z
+20190111T192827Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -88,7 +88,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 52bce6d5-a496-4faa-a754-1493b89f9bbf
+revision: 78ca7cb7-3bd4-479b-84bd-973b520e2fd2
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -138,14 +138,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-52bce6d5-a496-4faa-a754-1493b89f9bbf
+78ca7cb7-3bd4-479b-84bd-973b520e2fd2
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151929Z
+20190111T192827Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

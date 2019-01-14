@@ -8,12 +8,12 @@ name: Page Teaser
 master: {00000000-0000-0000-0000-000000000000}
 template: {98E4BDC6-9B43-4EB2-BAA3-D4303C35852E}
 templatekey: DictionaryFolder
-created: 20170612T151922Z
+created: 20190111T192819Z
 
 ----version----
 language: en
 version: 1
-revision: 4380c292-79c1-49db-9fd4-bf2719a3d5e8
+revision: 2230f2e6-6d04-41cd-bbf4-e3be81dca241
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -28,25 +28,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4380c292-79c1-49db-9fd4-bf2719a3d5e8
+2230f2e6-6d04-41cd-bbf4-e3be81dca241
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151922Z
+20190111T192819Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 18
 
-default\Anonymous
+extranet\Anonymous
 ----version----
 language: ja-JP
 version: 1
-revision: bd15b9c5-6747-47e3-8a0a-db9d06395a76
+revision: 66661171-7df0-456c-822a-970b9a95d9d8
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -75,14 +75,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-bd15b9c5-6747-47e3-8a0a-db9d06395a76
+66661171-7df0-456c-822a-970b9a95d9d8
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151922Z
+20190111T192819Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

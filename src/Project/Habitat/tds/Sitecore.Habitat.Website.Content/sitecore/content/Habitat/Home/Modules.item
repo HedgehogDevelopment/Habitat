@@ -8,12 +8,12 @@ name: Modules
 master: {00000000-0000-0000-0000-000000000000}
 template: {8EE208F9-A6A6-41E2-88A0-C188737A178C}
 templatekey: Section
-created: 20170612T151917Z
+created: 20190111T192811Z
 
 ----version----
 language: da
 version: 1
-revision: 1fe77bdc-92e7-41ad-a498-6a1bb4f604e7
+revision: 961e6986-947c-49e5-abbe-24ac4931fb84
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -63,14 +63,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-1fe77bdc-92e7-41ad-a498-6a1bb4f604e7
+961e6986-947c-49e5-abbe-24ac4931fb84
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151917Z
+20190111T192811Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -81,7 +81,7 @@ sitecore\unicorn
 ----version----
 language: en
 version: 1
-revision: a2bdd0a4-cab6-47fa-a103-5ac65bf2b87b
+revision: 28698d2a-484a-40f9-915f-dafa88b0cde1
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -131,14 +131,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a2bdd0a4-cab6-47fa-a103-5ac65bf2b87b
+28698d2a-484a-40f9-915f-dafa88b0cde1
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151917Z
+20190111T192811Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -149,7 +149,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: a328b29d-981f-4c15-81b0-0681245a1462
+revision: 369e749e-14cc-4cc7-af14-979c78689265
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -213,14 +213,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a328b29d-981f-4c15-81b0-0681245a1462
+369e749e-14cc-4cc7-af14-979c78689265
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151917Z
+20190111T192811Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

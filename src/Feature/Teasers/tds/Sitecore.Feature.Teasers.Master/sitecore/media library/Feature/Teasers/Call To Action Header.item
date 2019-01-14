@@ -8,6 +8,7 @@ name: Call To Action Header
 master: {00000000-0000-0000-0000-000000000000}
 template: {F1828A2C-7E5D-4BBD-98CA-320474871548}
 templatekey: Image
+created: 20190111T192750Z
 
 ----field----
 field: {40E50ED9-BA07-4702-992E-A912738D32DC}
@@ -2481,7 +2482,7 @@ content-length: 61
 ----version----
 language: da
 version: 1
-revision: d8b8cae5-7dce-4d82-89ec-86ed47bda309
+revision: 8ce18437-7f48-4db6-b662-3898610d1bf5
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -2503,14 +2504,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d8b8cae5-7dce-4d82-89ec-86ed47bda309
+8ce18437-7f48-4db6-b662-3898610d1bf5
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160622T160134Z
+20190111T192750Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -2521,7 +2522,7 @@ sitecore\unicorn
 ----version----
 language: en
 version: 1
-revision: fe89d97b-f9c6-4ad3-aa58-9901c9974cbc
+revision: 6abe3c98-7ec1-4f37-a591-6f809ebd5d03
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -2536,14 +2537,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-fe89d97b-f9c6-4ad3-aa58-9901c9974cbc
+6abe3c98-7ec1-4f37-a591-6f809ebd5d03
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160622T160134Z
+20190111T192750Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

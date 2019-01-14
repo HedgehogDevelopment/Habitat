@@ -8,7 +8,7 @@ name: Home
 master: {00000000-0000-0000-0000-000000000000}
 template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
 templatekey: Sample Item
-created: 20170728T140314Z
+created: 20181101T095340Z
 
 ----field----
 field: {A0CB3965-8884-4C7A-8815-B6B2E5CED162}
@@ -139,7 +139,7 @@ content-length: 0
 ----version----
 language: da
 version: 1
-revision: b4b1ac5f-04c5-4e7a-9d2a-fb0d94da0440
+revision: cf62e5dc-5472-4f56-8506-ecfbddea1fa8
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
@@ -152,10 +152,10 @@ Sitecore
 field: {A60ACD61-A6DB-4182-8329-C957982CEC74}
 name: Text
 key: text
-content-length: 812
+content-length: 828
 
-><p style="line-height: 22px;">Fra en enkelt forbundet platform, der også integrerer med andre kundevendte platforme, til et enkelt billede af kunden i et stor data marketing repository, der helt eliminere meget af den kompleksitet, der tidligere har holdt marketingfolk tilbage, den nyeste version af Sitecore gør kundeoplevelsen meget nemt opnåeligt. Lær, hvordan den nyeste version af Sitecore giver marketingfolk det komplette overblik, integrerede værktøjer og automatiserings kapaciteter til at engagere kunder i hele den iterativ livscyklus - teknologi fundamentet der er absolut nødvendigt for at vinde kunder for livet.</p>
-<p>For yderligere oplysninger, kan du gå til <a href="https://doc.sitecore.net/" target="_blank" title="Sitecore Documentation webstedet">Sitecore Documentation webstedet</a></p>
+<p style="line-height: 22px;">Fra en enkelt tilsluttet platform, der også kan integreres med andre kundeorienterede platforme, til et enkelt overblik over kunden i et big data-marketinglager, til at slippe for meget af den kompleksitet, der har holdt marketingafdelingerne tilbage – med den nyeste version af Sitecore er det muligt at opnå en fantastisk kundeoplevelse. Se, hvordan den nyeste version af Sitecore giver marketingafdelingen fyldestgørende data, integrerede værktøjer og automatiske funktioner, der engagerer kunderne i løbet af en iterativ livscyklus &ndash; det teknologiske grundlag, der er helt afgørende for at skabe kunder for livet.</p>
+<p>Du kan få flere oplysninger ved at gå til <a href="https://doc.sitecore.net/" target="_blank" title="Sitecore Documentation site">Sitecores dokumentationssite</a></p>
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
 name: __Display name
@@ -188,9 +188,9 @@ sitecore\admin
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
-content-length: 34
+content-length: 16
 
-20140516T182531:635358615311709544
+20181101T100439Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -204,14 +204,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-b4b1ac5f-04c5-4e7a-9d2a-fb0d94da0440
+cf62e5dc-5472-4f56-8506-ecfbddea1fa8
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170728T142129Z
+20181101T100439Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -222,7 +222,7 @@ sitecore\admin
 ----version----
 language: de-DE
 version: 1
-revision: 11593e83-3726-4dc7-8214-bcbf3986fa95
+revision: 9302290c-4d32-40c4-8f3c-2610734643cf
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
@@ -235,10 +235,10 @@ Sitecore Experience Plattform
 field: {A60ACD61-A6DB-4182-8329-C957982CEC74}
 name: Text
 key: text
-content-length: 914
+content-length: 858
 
-<p style="line-height: 22px;">Dank einer einzigen Plattform, die auch andere kundennahe Plattformen integriert, in Verbindung mit einer einheitlichen Ansicht des Kunden im Big Data Repository und einer fast vollständigen Beseitigung der Komplexität, die Vermarkter früher zurückgehalten hat, schafft es die neuste Version von Sitecore, das Kundenerlebnis tatsächlich erreichbar zu machen. Erfahren Sie mehr darüber, wie die neuste Version von Sitecore Vermarktern  vollständige Daten, integrierte Tools und Automatisierungsfähigkeiten zur Kundenbindung in einem durchgehend interaktiven Lebenszyklus liefert. Diese technische Basis ist für eine nachhaltige Kundengewinnung von größter Wichtigkeit.  </p>
-<p>Weiterführende Informationen finden Sie auf der Dokumentationsseite von Sitecore: <a href="https://doc.sitecore.net/" target="_blank" title="Sitecore-Dokumentationsseite">Sitecore Documentation site</a></p>
+<p style="line-height: 22px;">Von einer einzelnen verbundenen Plattform, die auch auf anderen kundenorientierten Plattformen abgestimmt ist, zu einer Einzelansicht des Kunden in einem Big Data Marketing Repository, um einen Gutteil der Komplexität, die zuvor Marketer zurückgehalten hat, vollständig zu eliminieren, macht die neuste Sitecore Version das Kundenerlebnis erreichbar. Erfahren Sie, wie die neuste Sitecore Version Marketern die vollständigen Daten, integrierte Tools und automatisierte Fähigkeiten gibt, um Kunden während der sich wiederholenden Nutzungszeit&ndash; anzusprechen Diese Technologiegrundlage ist absolut nötig, um Kunden fürs Leben zu gewinnen.</p>
+<p>Für weiterführende Informationen gehen Sie bitte zur <a href="https://doc.sitecore.net/" target="_blank" title="Sitecore Dokumentationsseite">Sitecore Dokumentationsseite</a></p>
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
 name: __Display name
@@ -271,9 +271,9 @@ sitecore\admin
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
-content-length: 34
+content-length: 16
 
-20140516T175833:635358599136286942
+20181101T100721Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -287,14 +287,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-11593e83-3726-4dc7-8214-bcbf3986fa95
+9302290c-4d32-40c4-8f3c-2610734643cf
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170728T142457Z
+20181101T100721Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -318,10 +318,10 @@ Sitecore Experience Platform
 field: {A60ACD61-A6DB-4182-8329-C957982CEC74}
 name: Text
 key: text
-content-length: 787
+content-length: 788
 
 <p style="line-height: 22px;">From a single connected platform that also integrates with other customer-facing platforms, to a single view of the customer in a big data marketing repository, to completely eliminating much of the complexity that has previously held marketers back, the latest version of Sitecore makes customer experience highly achievable. Learn how the latest version of Sitecore gives marketers the complete data, integrated tools, and automation capabilities to engage customers throughout an iterative lifecycle &ndash; the technology foundation absolutely necessary to win customers for life.</p>
-<p>For further information, please go to the <a href="https://doc.sitecore.net/" target="_blank" title="Sitecore Documentation site">Sitecore Documentation site</a></p>
+<p>For further information, please go to the <a href="https://doc.sitecore.net/" target="_blank" title="Sitecore Documentation site">Sitecore Documentation site</a></p>
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
 name: __Display name
@@ -402,7 +402,7 @@ sitecore\admin
 ----version----
 language: ja-JP
 version: 1
-revision: cc4cccc1-ec9e-4d20-bae8-bee51ba1fd5b
+revision: 6d45085b-3641-4b0b-a275-16e7a700ce7c
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
@@ -415,11 +415,10 @@ content-length: 28
 field: {A60ACD61-A6DB-4182-8329-C957982CEC74}
 name: Text
 key: text
-content-length: 477
+content-length: 447
 
-<p style="line-height: 22px;">サイトコアの最新バージョンでは、複数の消費者向けプラットフォームと統合する単一接続プラットフォームや、マーケティング レポジトリのビッグ データから顧客情報を一目で確認可能なビューを提供し、さらにこれまでマーケターの悩みの種であった多くの複雑性を完全に解消することによって、カスタマー エクスペリエンスの実現が高いレベルで可能になりました。
-サイトコアの最新バージョンの完全なデータや統合ツール、そしてオートメーション機能を活用することで、反復型のライフ サイクルの中で消費者といかにエンゲージを構築し生涯顧客を獲得できるかを学んでください。生涯顧客を獲得するためにテクノロジーの基盤は不可欠です。</p>
-<p>詳しくは <a href="https://doc.sitecore.net/" target="_blank" title="Sitecore Documentation site">Sitecore Documentation Site</a> をご参照ください。</p>
+<p style="line-height: 22px;">他の顧客対応プラットフォームとも統合した単独接続プラットフォームから、ビッグ データ マーケティング レポジトリーの顧客の単独ビューまで、従来マーケターを阻んでいた複雑性を完全に解消するため、Sitecore の最新バージョンがカスタマー エクスペリエンスを達成可能にします。インタラクティブなライフサイクル全体を通して顧客のエンゲージメントを高めるために、Sitecore の最新バージョンがマーケターに完全なデータ、統合されたツール、オートメーション機能をどのように提供するかを学びます &ndash; 一生の顧客を獲得するためには技術基盤は絶対に必要です。</p>
+<p>詳細は<a href="https://doc.sitecore.net/" target="_blank" title="Sitecore Documentation site">Sitecore ドキュメント サイト</a>をご参照ください。</p>
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
 name: __Display name
@@ -452,9 +451,9 @@ sitecore\admin
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
-content-length: 34
+content-length: 16
 
-20140516T185403:635358632434514719
+20181101T101007Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -468,14 +467,97 @@ name: __Revision
 key: __revision
 content-length: 36
 
-cc4cccc1-ec9e-4d20-bae8-bee51ba1fd5b
+6d45085b-3641-4b0b-a275-16e7a700ce7c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170728T142805Z
+20181101T101007Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: zh-CN
+version: 1
+revision: fffe1bf0-76bd-4f96-9b0c-87e595b08d88
+
+----field----
+field: {75577384-3C97-45DA-A847-81B00500E250}
+name: Title
+key: title
+content-length: 8
+
+Sitecore
+----field----
+field: {A60ACD61-A6DB-4182-8329-C957982CEC74}
+name: Text
+key: text
+content-length: 311
+
+<p style="line-height: 22px;">从一个与其他面向客户的平台集成的单一连接平台，到大数据营销存储库中的客户的单一视图，完全消除了大部分先前让营销人员回归的复杂性，最新版本的Sitecore使客户体验得以实现。了解最新版本的Sitecore如何为营销人员提供完整的数据，集成工具和自动化功能，以便在整个迭代生命周期中吸引客户。&ndash;为赢得终身客户绝对必要的技术基础。</p>
+<p>有关详细信息，请转到<a href="https://doc.sitecore.net/" target="_blank" title="Sitecore文档网站">Sitecore文档网站</a></p>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 2
+
+主页
+----field----
+field: {577F1689-7DE4-4AD2-A15F-7FDC1759285F}
+name: __Long description
+key: __long description
+content-length: 17
+
+Home节点是一个网站的默认起始点
+----field----
+field: {9541E67D-CE8C-4225-803D-33F7F29F09EF}
+name: __Short description
+key: __short description
+content-length: 12
+
+欢迎使用Sitecore
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20181101T101252Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+fffe1bf0-76bd-4f96-9b0c-87e595b08d88
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20181101T101252Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

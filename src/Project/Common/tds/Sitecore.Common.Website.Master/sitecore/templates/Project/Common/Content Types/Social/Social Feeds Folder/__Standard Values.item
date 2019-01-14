@@ -8,6 +8,7 @@ name: __Standard Values
 master: {00000000-0000-0000-0000-000000000000}
 template: {4DE2D9D9-0781-47AD-8F5D-52F2AD920D83}
 templatekey: Social Feeds Folder
+created: 20190111T192806Z
 
 ----field----
 field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
@@ -19,7 +20,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 01744e7a-b10f-4a76-9ab7-0f11a1b97508
+revision: b9235262-1cbd-4551-ab23-db69b89327a8
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -41,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-01744e7a-b10f-4a76-9ab7-0f11a1b97508
+b9235262-1cbd-4551-ab23-db69b89327a8
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160128T212026Z
+20190111T192806Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

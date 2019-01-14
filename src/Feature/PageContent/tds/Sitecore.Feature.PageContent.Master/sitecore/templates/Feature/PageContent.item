@@ -8,12 +8,12 @@ name: PageContent
 master: {00000000-0000-0000-0000-000000000000}
 template: {0437FEE2-44C9-46A6-ABE9-28858D9FEE8C}
 templatekey: Template Folder
-created: 20170612T151807Z
+created: 20190111T192715Z
 
 ----version----
 language: en
 version: 1
-revision: 587c4eca-398f-4499-8a26-1fed184d2ae4
+revision: 28ce8d31-35d0-4889-9d35-d8a04bc3b304
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -35,14 +35,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-587c4eca-398f-4499-8a26-1fed184d2ae4
+28ce8d31-35d0-4889-9d35-d8a04bc3b304
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151807Z
+20190111T192715Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -53,7 +53,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 2a534adf-5de6-42d0-addb-031aba355b21
+revision: 277fb4a2-07d3-4722-bd37-9cadeb793853
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -82,14 +82,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2a534adf-5de6-42d0-addb-031aba355b21
+277fb4a2-07d3-4722-bd37-9cadeb793853
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151807Z
+20190111T192715Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

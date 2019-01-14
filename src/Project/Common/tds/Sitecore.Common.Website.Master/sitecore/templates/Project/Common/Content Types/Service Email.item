@@ -8,7 +8,7 @@ name: Service Email
 master: {00000000-0000-0000-0000-000000000000}
 template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
 templatekey: Template
-created: 20170612T151857Z
+created: 20190111T192754Z
 
 ----field----
 field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
@@ -34,7 +34,7 @@ Office/32x32/mail.png
 ----version----
 language: en
 version: 1
-revision: 6fa059c9-bbe2-421e-a8e4-5070b3536e7b
+revision: 19db8c45-fc7f-4c15-b8f3-3136ee3e22b1
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-6fa059c9-bbe2-421e-a8e4-5070b3536e7b
+19db8c45-fc7f-4c15-b8f3-3136ee3e22b1
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151857Z
+20190111T192754Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -74,7 +74,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 6ed47999-5d84-4c32-9ae1-9e6e0f933a6b
+revision: 6c625ae2-f386-4d43-a4b1-45298d949a21
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -103,14 +103,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-6ed47999-5d84-4c32-9ae1-9e6e0f933a6b
+6c625ae2-f386-4d43-a4b1-45298d949a21
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151857Z
+20190111T192754Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

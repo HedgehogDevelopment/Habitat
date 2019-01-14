@@ -8,7 +8,7 @@ name: Call to Action Content
 master: {00000000-0000-0000-0000-000000000000}
 template: {C7D9D293-4EF8-4380-8E10-C4632E729F39}
 templatekey: Teaser
-created: 20170612T151924Z
+created: 20190111T192816Z
 
 ----field----
 field: {E8AB122C-6F54-4D4E-AEC6-F81ADDC558FC}
@@ -20,7 +20,7 @@ content-length: 97
 ----version----
 language: en
 version: 1
-revision: 8de148bd-553f-496a-9e65-2978d25c5aa9
+revision: d939bf25-1a3b-467f-9d38-4de77be750d2
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -56,25 +56,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-8de148bd-553f-496a-9e65-2978d25c5aa9
+d939bf25-1a3b-467f-9d38-4de77be750d2
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151924Z
+20190111T192816Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 18
 
-default\Anonymous
+extranet\Anonymous
 ----version----
 language: ja-JP
 version: 1
-revision: 3f52e637-da01-447d-a9b9-3f1bcea29482
+revision: b9b8c71c-9c5d-417d-9753-d6be33eceee0
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -117,14 +117,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-3f52e637-da01-447d-a9b9-3f1bcea29482
+b9b8c71c-9c5d-417d-9753-d6be33eceee0
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151924Z
+20190111T192816Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

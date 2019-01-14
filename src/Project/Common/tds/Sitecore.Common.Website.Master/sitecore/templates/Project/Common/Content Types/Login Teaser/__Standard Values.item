@@ -8,12 +8,12 @@ name: __Standard Values
 master: {00000000-0000-0000-0000-000000000000}
 template: {6E686B1C-1675-4263-AF03-DCE07827AFDD}
 templatekey: Login Teaser
-created: 20161226T040929Z
+created: 20190111T192806Z
 
 ----version----
 language: en
 version: 1
-revision: 841380e3-ecd4-4439-9d1e-ae2f9c8f938d
+revision: b9446708-ea6f-4ab2-9fc7-6140e8405f78
 
 ----field----
 field: {D9843186-ED10-47D8-8CC7-511AC670B6B4}
@@ -49,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-841380e3-ecd4-4439-9d1e-ae2f9c8f938d
+b9446708-ea6f-4ab2-9fc7-6140e8405f78
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20161226T040929Z
+20190111T192806Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

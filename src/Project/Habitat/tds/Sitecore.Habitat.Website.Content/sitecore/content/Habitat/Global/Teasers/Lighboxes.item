@@ -8,12 +8,12 @@ name: Lighboxes
 master: {00000000-0000-0000-0000-000000000000}
 template: {C7D9D293-4EF8-4380-8E10-C4632E729F39}
 templatekey: Teaser
-created: 20170612T151920Z
+created: 20190111T192813Z
 
 ----version----
 language: en
 version: 1
-revision: 47adfaa5-e03c-43cc-8b38-21403d4302fa
+revision: df56e6cf-df9b-4d77-bb8d-51cb2febe685
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -49,25 +49,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-47adfaa5-e03c-43cc-8b38-21403d4302fa
+df56e6cf-df9b-4d77-bb8d-51cb2febe685
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151920Z
+20190111T192813Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 18
 
-default\Anonymous
+extranet\Anonymous
 ----version----
 language: ja-JP
 version: 1
-revision: 8d00b9e4-02df-4510-8c14-7b6181af3c70
+revision: d6f8d407-ce1f-4386-b5e2-9a06462eeba4
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -117,14 +117,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-8d00b9e4-02df-4510-8c14-7b6181af3c70
+d6f8d407-ce1f-4386-b5e2-9a06462eeba4
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151920Z
+20190111T192813Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

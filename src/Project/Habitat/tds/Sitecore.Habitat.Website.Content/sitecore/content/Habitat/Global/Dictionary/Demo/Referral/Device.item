@@ -8,12 +8,12 @@ name: Device
 master: {00000000-0000-0000-0000-000000000000}
 template: {EC4DD3F2-590D-404B-9189-2A12679749CC}
 templatekey: DictionaryEntry
-created: 20170612T151927Z
+created: 20190111T192823Z
 
 ----version----
 language: en
 version: 1
-revision: 79fd9858-5a2d-40ef-b792-718d57c90194
+revision: 5acbf3c0-bb3f-4233-96d4-b048bbd20038
 
 ----field----
 field: {DDACDD55-5B08-405F-9E58-04F09AED640A}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-79fd9858-5a2d-40ef-b792-718d57c90194
+5acbf3c0-bb3f-4233-96d4-b048bbd20038
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151927Z
+20190111T192823Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -60,7 +60,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: a65d72b9-2c26-4d57-bdc4-53b7c33ab520
+revision: 7ebdeb6b-1e00-4861-b1a9-70e434fb75fc
 
 ----field----
 field: {DDACDD55-5B08-405F-9E58-04F09AED640A}
@@ -89,14 +89,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a65d72b9-2c26-4d57-bdc4-53b7c33ab520
+7ebdeb6b-1e00-4861-b1a9-70e434fb75fc
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151927Z
+20190111T192823Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

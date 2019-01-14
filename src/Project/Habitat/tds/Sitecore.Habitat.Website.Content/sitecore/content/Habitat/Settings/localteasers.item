@@ -8,12 +8,12 @@ name: localteasers
 master: {00000000-0000-0000-0000-000000000000}
 template: {C82DC5FF-09EF-4403-96D3-3CAF377B8C5B}
 templatekey: Datasource Configuration
-created: 20170612T151918Z
+created: 20190111T192811Z
 
 ----version----
 language: en
 version: 1
-revision: 3653dee0-abd4-425f-87e2-e8e095ff5fcd
+revision: 6480f7f7-72b7-493b-9ad8-6b3b44420f90
 
 ----field----
 field: {498DD5B6-7DAE-44A7-9213-1D32596AD14F}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-3653dee0-abd4-425f-87e2-e8e095ff5fcd
+6480f7f7-72b7-493b-9ad8-6b3b44420f90
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151918Z
+20190111T192811Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -60,7 +60,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 8465a4f2-e585-4dc4-b958-1cd221a5e0f0
+revision: a7ee473c-b8df-4143-8535-1c8396632180
 
 ----field----
 field: {498DD5B6-7DAE-44A7-9213-1D32596AD14F}
@@ -96,14 +96,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-8465a4f2-e585-4dc4-b958-1cd221a5e0f0
+a7ee473c-b8df-4143-8535-1c8396632180
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151918Z
+20190111T192811Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

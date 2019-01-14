@@ -8,6 +8,7 @@ name: _TeasersParameters
 master: {00000000-0000-0000-0000-000000000000}
 template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
 templatekey: Template
+created: 20190111T192736Z
 
 ----field----
 field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
@@ -26,7 +27,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 0226f80c-5a76-4a23-b063-12d3239bfc46
+revision: 505722a4-60bd-4755-967e-e90eb580bf3c
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -48,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-0226f80c-5a76-4a23-b063-12d3239bfc46
+505722a4-60bd-4755-967e-e90eb580bf3c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160415T211005Z
+20190111T192736Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

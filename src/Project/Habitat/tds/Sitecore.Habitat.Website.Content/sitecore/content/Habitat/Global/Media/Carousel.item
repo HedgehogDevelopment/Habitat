@@ -8,12 +8,12 @@ name: Carousel
 master: {00000000-0000-0000-0000-000000000000}
 template: {C18D3794-D126-4548-BFC8-89358DE6E9C1}
 templatekey: Carousel
-created: 20170612T151919Z
+created: 20190111T192812Z
 
 ----version----
 language: da
 version: 1
-revision: 9a48831d-be4f-4632-9bfe-c99c0d3b620a
+revision: d75c89ad-ba14-463e-880e-262c60a79851
 
 ----field----
 field: {72EA8682-24D2-4BEB-951C-3E2164974105}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-9a48831d-be4f-4632-9bfe-c99c0d3b620a
+d75c89ad-ba14-463e-880e-262c60a79851
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151919Z
+20190111T192812Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -60,7 +60,7 @@ sitecore\unicorn
 ----version----
 language: en
 version: 1
-revision: f80c4ce8-e9ee-4e70-9a33-de1f44e4373f
+revision: c3ee4ccb-7e73-4728-9ac9-635254f6b0b1
 
 ----field----
 field: {72EA8682-24D2-4BEB-951C-3E2164974105}
@@ -89,25 +89,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f80c4ce8-e9ee-4e70-9a33-de1f44e4373f
+c3ee4ccb-7e73-4728-9ac9-635254f6b0b1
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151919Z
+20190111T192812Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 16
 
-default\Anonymous
+sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: e3803bd5-918b-4a69-a3d1-fcbcb4ea86f1
+revision: 7db2163a-8671-461e-9dad-4adebf7a388b
 
 ----field----
 field: {72EA8682-24D2-4BEB-951C-3E2164974105}
@@ -143,14 +143,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e3803bd5-918b-4a69-a3d1-fcbcb4ea86f1
+7db2163a-8671-461e-9dad-4adebf7a388b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151919Z
+20190111T192812Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

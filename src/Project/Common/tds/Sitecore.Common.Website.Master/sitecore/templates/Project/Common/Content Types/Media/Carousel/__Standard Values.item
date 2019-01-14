@@ -8,7 +8,7 @@ name: __Standard Values
 master: {00000000-0000-0000-0000-000000000000}
 template: {C18D3794-D126-4548-BFC8-89358DE6E9C1}
 templatekey: Carousel
-created: 20161006T142930:636113609702030000
+created: 20190111T192806Z
 
 ----field----
 field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
@@ -20,7 +20,7 @@ content-length: 77
 ----version----
 language: en
 version: 1
-revision: 30bea40f-7b28-4001-96f4-bc46aba06749
+revision: 9a98c0c1-e6f4-41a1-a853-644c3a89304a
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-30bea40f-7b28-4001-96f4-bc46aba06749
+9a98c0c1-e6f4-41a1-a853-644c3a89304a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20161006T142930Z
+20190111T192806Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

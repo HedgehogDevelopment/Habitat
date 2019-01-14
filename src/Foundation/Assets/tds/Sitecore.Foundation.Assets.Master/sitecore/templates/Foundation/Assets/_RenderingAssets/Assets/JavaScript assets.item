@@ -8,7 +8,7 @@ name: JavaScript assets
 master: {00000000-0000-0000-0000-000000000000}
 template: {455A3E98-A627-4B40-8035-E683A0331AC7}
 templatekey: Template field
-created: 20170612T151554Z
+created: 20190111T192508Z
 
 ----field----
 field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
@@ -41,7 +41,7 @@ ar|Everyone|pe|!*|+field:read|pd|+field:read|!*|ar|modules\Foundation Assets Adm
 ----version----
 language: en
 version: 1
-revision: 0f7cfcf2-6d26-4b21-9063-2c30ab931069
+revision: 6853ca56-ee90-48b7-872a-40a2c8fe3ed9
 
 ----field----
 field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
@@ -63,14 +63,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-0f7cfcf2-6d26-4b21-9063-2c30ab931069
+6853ca56-ee90-48b7-872a-40a2c8fe3ed9
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151556Z
+20190111T192511Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -81,7 +81,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: a343a5eb-3bd3-4af5-9213-6ea468e62692
+revision: 25a36cc7-4b04-4435-9ea5-3b701dcda586
 
 ----field----
 field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
@@ -110,14 +110,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a343a5eb-3bd3-4af5-9213-6ea468e62692
+25a36cc7-4b04-4435-9ea5-3b701dcda586
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151556Z
+20190111T192511Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

@@ -8,7 +8,7 @@ name: __Standard Values
 master: {00000000-0000-0000-0000-000000000000}
 template: {CD047791-C29A-4596-AEEE-DB5E70421C1F}
 templatekey: MetaKeyword Folder
-created: 20161226T040930Z
+created: 20190111T192806Z
 
 ----field----
 field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
@@ -20,7 +20,7 @@ content-length: 77
 ----version----
 language: en
 version: 1
-revision: 79d51fd3-c406-48ba-a0b3-e70ed47a06a8
+revision: 50fb27a6-8aef-4b6f-899a-608a5e141a90
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-79d51fd3-c406-48ba-a0b3-e70ed47a06a8
+50fb27a6-8aef-4b6f-899a-608a5e141a90
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20161226T040930Z
+20190111T192806Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

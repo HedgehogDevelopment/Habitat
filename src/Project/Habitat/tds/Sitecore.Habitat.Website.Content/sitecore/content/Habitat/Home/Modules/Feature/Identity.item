@@ -8,12 +8,19 @@ name: Identity
 master: {00000000-0000-0000-0000-000000000000}
 template: {94A8C8E9-690B-4E65-98E7-F95800222767}
 templatekey: Article
-created: 20170612T151924Z
+created: 20190111T192821Z
 
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 237
+
+<tracking><profile id="c4cc3ef6-a779-44ad-9021-01f1dae26270" name="Layers" presets="freddy the feature layer|100||"><key name="Feature" value="10" /><key name="Foundation" value="2" /><key name="Project" value="0" /></profile></tracking>
 ----version----
 language: en
 version: 1
-revision: 674096b4-9da7-4c82-811f-8c5a7953369b
+revision: 62529af1-b529-4df0-8d91-ff3617916f36
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -61,9 +68,9 @@ Identity
 field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
 name: __Final Renderings
 key: __final renderings
-content-length: 515
+content-length: 519
 
-<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{4BAA8F11-90C7-4BF3-B5D8-C59381B81189}" p:before="*" s:id="{CA748838-E6D5-4BAD-9126-CAD10DD1B0DB}" s:ph="/page-layout/section-narrow/col-narrow-1_d4399158-183a-41e7-aa4c-86f7d7e68d76" /><r uid="{D4399158-183A-41E7-AA4C-86F7D7E68D76}" p:after="r[@uid='{4BAA8F11-90C7-4BF3-B5D8-C59381B81189}']" s:id="{831876B6-F9F1-463E-9DD5-7F93F1640590}" s:ph="/page-layout/section-narrow" /></d></r>
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{4BAA8F11-90C7-4BF3-B5D8-C59381B81189}" p:before="*" s:id="{CA748838-E6D5-4BAD-9126-CAD10DD1B0DB}" s:ph="/page-layout/section-narrow/col-narrow-1-{D4399158-183A-41E7-AA4C-86F7D7E68D76}-0" /><r uid="{D4399158-183A-41E7-AA4C-86F7D7E68D76}" p:after="r[@uid='{4BAA8F11-90C7-4BF3-B5D8-C59381B81189}']" s:id="{831876B6-F9F1-463E-9DD5-7F93F1640590}" s:ph="/page-layout/section-narrow" /></d></r>
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -77,14 +84,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-674096b4-9da7-4c82-811f-8c5a7953369b
+62529af1-b529-4df0-8d91-ff3617916f36
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151924Z
+20190111T192821Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -95,7 +102,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: cf69c43e-48f5-4e88-b9b4-d04bf7f09bd3
+revision: 0b9d86df-0071-406e-892e-0ec9bfe2f0fe
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -173,14 +180,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-cf69c43e-48f5-4e88-b9b4-d04bf7f09bd3
+0b9d86df-0071-406e-892e-0ec9bfe2f0fe
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151924Z
+20190111T192821Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

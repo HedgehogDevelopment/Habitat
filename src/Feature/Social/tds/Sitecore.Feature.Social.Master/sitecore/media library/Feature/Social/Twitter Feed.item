@@ -8,6 +8,7 @@ name: Twitter Feed
 master: {00000000-0000-0000-0000-000000000000}
 template: {F1828A2C-7E5D-4BBD-98CA-320474871548}
 templatekey: Image
+created: 20190111T192735Z
 
 ----field----
 field: {40E50ED9-BA07-4702-992E-A912738D32DC}
@@ -1537,7 +1538,7 @@ content-length: 61
 ----version----
 language: da
 version: 1
-revision: 7c8b77f0-a6a1-4a3c-88fd-40b8babed175
+revision: 753a9440-fb70-4488-b8da-b19afe4f8e15
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -1559,14 +1560,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7c8b77f0-a6a1-4a3c-88fd-40b8babed175
+753a9440-fb70-4488-b8da-b19afe4f8e15
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160622T160114Z
+20190111T192735Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -1577,7 +1578,7 @@ sitecore\unicorn
 ----version----
 language: en
 version: 1
-revision: fae75c84-bbee-47da-8b8a-f87f5f2dc66a
+revision: 18af9844-02d9-45b3-b1bf-b6c14cfab821
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -1592,14 +1593,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-fae75c84-bbee-47da-8b8a-f87f5f2dc66a
+18af9844-02d9-45b3-b1bf-b6c14cfab821
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160622T160114Z
+20190111T192735Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

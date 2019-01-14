@@ -8,12 +8,12 @@ name: __Standard Values
 master: {00000000-0000-0000-0000-000000000000}
 template: {5B6F8720-3A93-4DA1-92A0-C3E85E01219A}
 templatekey: _HasTheme
-created: 20170101T205914Z
+created: 20190111T192513Z
 
 ----version----
 language: en
 version: 1
-revision: c48294ae-e17f-4b0a-ba88-3cbe131c8c4a
+revision: 25653c28-4038-4271-95f4-80ec47c1f7dd
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -35,14 +35,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c48294ae-e17f-4b0a-ba88-3cbe131c8c4a
+25653c28-4038-4271-95f4-80ec47c1f7dd
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170101T205914Z
+20190111T192513Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

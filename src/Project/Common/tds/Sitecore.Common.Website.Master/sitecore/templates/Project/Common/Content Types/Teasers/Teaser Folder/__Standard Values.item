@@ -8,6 +8,7 @@ name: __Standard Values
 master: {00000000-0000-0000-0000-000000000000}
 template: {29D4B405-39EB-487D-9D6B-3F8467AB167D}
 templatekey: Teaser Folder
+created: 20190111T192806Z
 
 ----field----
 field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
@@ -19,7 +20,7 @@ content-length: 155
 ----version----
 language: en
 version: 1
-revision: 2d20e101-90f0-4eb3-bb13-0f54211e6fb4
+revision: 179365b1-c246-4c5e-9a80-c5696f05c995
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -41,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2d20e101-90f0-4eb3-bb13-0f54211e6fb4
+179365b1-c246-4c5e-9a80-c5696f05c995
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160128T212026Z
+20190111T192806Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

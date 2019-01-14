@@ -8,7 +8,7 @@ name: The Stable Abstractions Principle
 master: {00000000-0000-0000-0000-000000000000}
 template: {C7D9D293-4EF8-4380-8E10-C4632E729F39}
 templatekey: Teaser
-created: 20170612T151923Z
+created: 20190111T192817Z
 
 ----field----
 field: {E8AB122C-6F54-4D4E-AEC6-F81ADDC558FC}
@@ -20,7 +20,7 @@ content-length: 128
 ----version----
 language: en
 version: 1
-revision: 88d38843-ff49-4b31-88de-e74e16f89d91
+revision: d920e341-aa78-49ae-804e-4295fa1b71fd
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -49,25 +49,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-88d38843-ff49-4b31-88de-e74e16f89d91
+d920e341-aa78-49ae-804e-4295fa1b71fd
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151923Z
+20190111T192817Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 18
 
-default\Anonymous
+extranet\Anonymous
 ----version----
 language: ja-JP
 version: 1
-revision: f3976377-1e8f-4f03-8e91-7d41620cc088
+revision: 0f2618c3-8cd1-4320-8900-2657e7fc6c3a
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -103,14 +103,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f3976377-1e8f-4f03-8e91-7d41620cc088
+0f2618c3-8cd1-4320-8900-2657e7fc6c3a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151923Z
+20190111T192817Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

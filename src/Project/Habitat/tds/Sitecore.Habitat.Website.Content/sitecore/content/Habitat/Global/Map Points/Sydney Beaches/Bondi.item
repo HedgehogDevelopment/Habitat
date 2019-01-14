@@ -8,12 +8,12 @@ name: Bondi
 master: {00000000-0000-0000-0000-000000000000}
 template: {11C28D16-9B88-456E-A42B-D4B5A82867E3}
 templatekey: Map Point
-created: 20170612T151923Z
+created: 20190111T192818Z
 
 ----version----
 language: en
 version: 1
-revision: 8c9e4bda-fffa-4e5f-aa5f-ebeb5ca0a1be
+revision: 755edaff-e21e-446d-bd4a-b839d127e94c
 
 ----field----
 field: {F12C22BB-E57D-4FAB-96E1-1229E4E7FF0E}
@@ -49,25 +49,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-8c9e4bda-fffa-4e5f-aa5f-ebeb5ca0a1be
+755edaff-e21e-446d-bd4a-b839d127e94c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151923Z
+20190111T192818Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 16
 
-default\Anonymous
+sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 95096cdb-113c-4f4a-a19f-d43200282b5c
+revision: 3f5d260b-184a-4e3a-a988-9119da8f30fd
 
 ----field----
 field: {F12C22BB-E57D-4FAB-96E1-1229E4E7FF0E}
@@ -117,14 +117,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-95096cdb-113c-4f4a-a19f-d43200282b5c
+3f5d260b-184a-4e3a-a988-9119da8f30fd
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151923Z
+20190111T192818Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

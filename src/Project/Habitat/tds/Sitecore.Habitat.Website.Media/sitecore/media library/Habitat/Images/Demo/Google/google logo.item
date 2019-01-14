@@ -8,6 +8,7 @@ name: google logo
 master: {00000000-0000-0000-0000-000000000000}
 template: {F1828A2C-7E5D-4BBD-98CA-320474871548}
 templatekey: Image
+created: 20190111T192833Z
 
 ----field----
 field: {40E50ED9-BA07-4702-992E-A912738D32DC}
@@ -304,7 +305,7 @@ content-length: 61
 ----version----
 language: en
 version: 1
-revision: 7e97759c-0252-4c72-9cd8-ceb5b370e640
+revision: fb271375-c9c4-4ff9-87a8-8f0192a81977
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -333,14 +334,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7e97759c-0252-4c72-9cd8-ceb5b370e640
+fb271375-c9c4-4ff9-87a8-8f0192a81977
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160128T212107Z
+20190111T192833Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

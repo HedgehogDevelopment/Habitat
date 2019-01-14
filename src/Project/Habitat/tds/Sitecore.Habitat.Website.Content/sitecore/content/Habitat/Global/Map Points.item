@@ -8,12 +8,12 @@ name: Map Points
 master: {00000000-0000-0000-0000-000000000000}
 template: {067EC866-B3FB-485B-BB49-6151FB086E78}
 templatekey: Map Points Folder
-created: 20170612T151917Z
+created: 20190111T192810Z
 
 ----version----
 language: en
 version: 1
-revision: 0679e164-8d3b-4f75-9787-56d9d4735d59
+revision: 9f8d5f96-df7b-4812-8c6d-f604e9fb4247
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -28,25 +28,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-0679e164-8d3b-4f75-9787-56d9d4735d59
+9f8d5f96-df7b-4812-8c6d-f604e9fb4247
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151917Z
+20190111T192810Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 16
 
-default\Anonymous
+sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 39a3d2f3-f865-4237-b3d4-73ad5389ef02
+revision: 2529cbc3-2e37-4813-966d-79bad6459481
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -75,14 +75,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-39a3d2f3-f865-4237-b3d4-73ad5389ef02
+2529cbc3-2e37-4813-966d-79bad6459481
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151917Z
+20190111T192810Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

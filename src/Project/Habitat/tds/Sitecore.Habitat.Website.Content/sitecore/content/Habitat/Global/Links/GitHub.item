@@ -8,11 +8,12 @@ name: GitHub
 master: {00000000-0000-0000-0000-000000000000}
 template: {AC7394D5-2AA7-4FDB-A7D8-B1B87F9FA661}
 templatekey: Link Menu
+created: 20190111T192813Z
 
 ----version----
 language: da
 version: 1
-revision: 5aebe69e-b97a-4eb8-967a-29796999cecb
+revision: 749ff1cc-e5f2-4997-b8c3-a1475a97d715
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -34,14 +35,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-5aebe69e-b97a-4eb8-967a-29796999cecb
+749ff1cc-e5f2-4997-b8c3-a1475a97d715
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160128T212043Z
+20190111T192813Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -52,7 +53,7 @@ sitecore\unicorn
 ----version----
 language: en
 version: 1
-revision: aa95d972-3320-4a1e-9b1a-feced3d0f740
+revision: 2de9943e-23e3-47aa-9f44-8eb726404f32
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -67,18 +68,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-aa95d972-3320-4a1e-9b1a-feced3d0f740
+2de9943e-23e3-47aa-9f44-8eb726404f32
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160128T212043Z
+20190111T192813Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 16
 
-sitecore\admin
+sitecore\unicorn

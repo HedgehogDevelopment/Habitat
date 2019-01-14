@@ -8,12 +8,12 @@ name: Lightbox Image Documentation
 master: {00000000-0000-0000-0000-000000000000}
 template: {F0369E1A-9030-4A05-A09C-EF09B664ED27}
 templatekey: Image
-created: 20170612T151919Z
+created: 20190111T192812Z
 
 ----version----
 language: en
 version: 1
-revision: 05dcaeef-e224-483a-9572-9469f26c07e1
+revision: 19d112cb-04d6-4ad6-8ad4-b47d36acc88d
 
 ----field----
 field: {63DDA48B-B0CB-45A7-9A1B-B26DDB41009B}
@@ -56,25 +56,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-05dcaeef-e224-483a-9572-9469f26c07e1
+19d112cb-04d6-4ad6-8ad4-b47d36acc88d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151920Z
+20190111T192812Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 16
 
-default\Anonymous
+sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 2cb817ee-8f85-4ca5-ae16-6ce21e5a9060
+revision: e7311f4d-cb5e-4934-9959-2f52969a35f0
 
 ----field----
 field: {63DDA48B-B0CB-45A7-9A1B-B26DDB41009B}
@@ -124,14 +124,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2cb817ee-8f85-4ca5-ae16-6ce21e5a9060
+e7311f4d-cb5e-4934-9959-2f52969a35f0
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151920Z
+20190111T192812Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

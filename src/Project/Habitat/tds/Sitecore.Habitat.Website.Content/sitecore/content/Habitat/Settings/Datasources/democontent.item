@@ -8,12 +8,12 @@ name: democontent
 master: {00000000-0000-0000-0000-000000000000}
 template: {C82DC5FF-09EF-4403-96D3-3CAF377B8C5B}
 templatekey: Datasource Configuration
-created: 20170612T151921Z
+created: 20190111T192815Z
 
 ----version----
 language: en
 version: 1
-revision: 81b47064-7372-473f-8b4f-2adb53604900
+revision: c38a6209-7394-4ddd-b534-97f840de5dd0
 
 ----field----
 field: {498DD5B6-7DAE-44A7-9213-1D32596AD14F}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-81b47064-7372-473f-8b4f-2adb53604900
+c38a6209-7394-4ddd-b534-97f840de5dd0
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151921Z
+20190111T192815Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -60,7 +60,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 3ed594f2-dab0-4961-80b3-6394df5c0027
+revision: 7a0db3d8-894e-4c46-860a-7156a21775a4
 
 ----field----
 field: {498DD5B6-7DAE-44A7-9213-1D32596AD14F}
@@ -96,14 +96,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-3ed594f2-dab0-4961-80b3-6394df5c0027
+7a0db3d8-894e-4c46-860a-7156a21775a4
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151921Z
+20190111T192815Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

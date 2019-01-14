@@ -8,6 +8,7 @@ name: Sitecore Experience
 master: {00000000-0000-0000-0000-000000000000}
 template: {E76ADBDF-87D1-4FCB-BA71-274F7DBF5670}
 templatekey: Movie
+created: 20190111T192828Z
 
 ----field----
 field: {40E50ED9-BA07-4702-992E-A912738D32DC}
@@ -10384,7 +10385,7 @@ content-length: 61
 ----version----
 language: en
 version: 1
-revision: 703a9886-94e7-4dd8-a8e0-468c87638bc1
+revision: 557966fa-3216-4527-9bb1-a224ee1db0db
 
 ----field----
 field: {3F4B20E9-36E6-4D45-A423-C86567373F82}
@@ -10406,14 +10407,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-703a9886-94e7-4dd8-a8e0-468c87638bc1
+557966fa-3216-4527-9bb1-a224ee1db0db
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160128T212050Z
+20190111T192828Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

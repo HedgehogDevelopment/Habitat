@@ -8,12 +8,12 @@ name: Home
 master: {00000000-0000-0000-0000-000000000000}
 template: {EC4DD3F2-590D-404B-9189-2A12679749CC}
 templatekey: DictionaryEntry
-created: 20170612T151927Z
+created: 20190111T192824Z
 
 ----version----
 language: en
 version: 1
-revision: 352ad9a2-2704-4445-a842-031d3530db7b
+revision: d5b3cdd7-e951-46a1-bd4f-be35a4ac0966
 
 ----field----
 field: {DDACDD55-5B08-405F-9E58-04F09AED640A}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-352ad9a2-2704-4445-a842-031d3530db7b
+d5b3cdd7-e951-46a1-bd4f-be35a4ac0966
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151927Z
+20190111T192824Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -60,7 +60,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 94918e93-dfa2-4c10-917b-eaa29f28d8f5
+revision: a1704774-1651-4725-a416-4d588a8075b8
 
 ----field----
 field: {DDACDD55-5B08-405F-9E58-04F09AED640A}
@@ -89,14 +89,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-94918e93-dfa2-4c10-917b-eaa29f28d8f5
+a1704774-1651-4725-a416-4d588a8075b8
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151927Z
+20190111T192824Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

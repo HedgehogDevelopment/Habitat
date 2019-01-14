@@ -8,7 +8,7 @@ name: __Standard Values
 master: {00000000-0000-0000-0000-000000000000}
 template: {10059264-CD0B-47B9-8350-A31A90815921}
 templatekey: Theme Folder
-created: 20170101T205914Z
+created: 20190111T192513Z
 
 ----field----
 field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
@@ -27,7 +27,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 52f99fbe-651d-4473-9f7a-9a6d786b138e
+revision: 599f7b6d-3c31-4508-9472-b85727f52f25
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -49,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-52f99fbe-651d-4473-9f7a-9a6d786b138e
+599f7b6d-3c31-4508-9472-b85727f52f25
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170101T205914Z
+20190111T192514Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

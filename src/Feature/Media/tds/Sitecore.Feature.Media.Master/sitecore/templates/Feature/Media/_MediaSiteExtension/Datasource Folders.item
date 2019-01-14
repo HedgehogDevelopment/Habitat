@@ -8,12 +8,12 @@ name: Datasource Folders
 master: {00000000-0000-0000-0000-000000000000}
 template: {E269FBB5-3750-427A-9149-7AA950B49301}
 templatekey: Template section
-created: 20170612T151744Z
+created: 20190111T192649Z
 
 ----version----
 language: en
 version: 1
-revision: ac0ee5d8-82fe-41e0-a6bd-1b9c1ffabe42
+revision: 7e5bcc50-df80-45cc-8008-40612047f9b8
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ac0ee5d8-82fe-41e0-a6bd-1b9c1ffabe42
+7e5bcc50-df80-45cc-8008-40612047f9b8
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151744Z
+20190111T192649Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -60,7 +60,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 4000513b-ccbe-4e6d-a343-780fe3c7e9d2
+revision: e8bcb621-d4c0-4114-9392-3619b9c4412a
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -89,14 +89,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4000513b-ccbe-4e6d-a343-780fe3c7e9d2
+e8bcb621-d4c0-4114-9392-3619b9c4412a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151744Z
+20190111T192649Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

@@ -8,6 +8,7 @@ name: Insert Image
 master: {00000000-0000-0000-0000-000000000000}
 template: {02404208-46D4-49BF-988B-EB363A52A1C9}
 templatekey: WebEdit Button
+created: 20190111T192441Z
 
 ----field----
 field: {E8CC41C7-C304-4282-B782-E21CA32D324C}
@@ -47,7 +48,7 @@ ar|sitecore\Sitecore Minimal Page Editor|pd|-item:read|pe|-item:read|
 ----version----
 language: da
 version: 1
-revision: f2e220a5-318f-4e68-b168-2fae7e25ae75
+revision: 416edcf5-b18b-4f11-a7d1-60e7e7131210
 
 ----field----
 field: {C523ABA8-D1A1-4DCB-AEEE-52635A4AB2AE}
@@ -90,14 +91,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f2e220a5-318f-4e68-b168-2fae7e25ae75
+416edcf5-b18b-4f11-a7d1-60e7e7131210
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160405T151315Z
+20190111T192441Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -108,7 +109,7 @@ sitecore\unicorn
 ----version----
 language: de-DE
 version: 1
-revision: f8c01b0c-c826-4ff8-b291-9b06e712ad87
+revision: fdbd3e85-1edd-4834-836d-7fc5818690eb
 
 ----field----
 field: {C523ABA8-D1A1-4DCB-AEEE-52635A4AB2AE}
@@ -151,14 +152,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f8c01b0c-c826-4ff8-b291-9b06e712ad87
+fdbd3e85-1edd-4834-836d-7fc5818690eb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160405T151315Z
+20190111T192441Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -169,7 +170,7 @@ sitecore\unicorn
 ----version----
 language: en
 version: 1
-revision: a41e4ce0-45ee-47bb-aa73-23d00f07373f
+revision: d4edab36-79c9-4698-b02f-d56b0617cbc1
 
 ----field----
 field: {C523ABA8-D1A1-4DCB-AEEE-52635A4AB2AE}
@@ -205,14 +206,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a41e4ce0-45ee-47bb-aa73-23d00f07373f
+d4edab36-79c9-4698-b02f-d56b0617cbc1
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160405T151315Z
+20190111T192442Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -223,7 +224,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 958f0b32-0fd2-4aa7-83c0-27e438d0bb96
+revision: 4c1e2a13-b26e-45b1-894f-4d476069f49c
 
 ----field----
 field: {C523ABA8-D1A1-4DCB-AEEE-52635A4AB2AE}
@@ -266,14 +267,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-958f0b32-0fd2-4aa7-83c0-27e438d0bb96
+4c1e2a13-b26e-45b1-894f-4d476069f49c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160405T151315Z
+20190111T192442Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

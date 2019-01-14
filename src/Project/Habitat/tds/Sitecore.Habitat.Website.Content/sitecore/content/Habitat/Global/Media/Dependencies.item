@@ -8,12 +8,12 @@ name: Dependencies
 master: {00000000-0000-0000-0000-000000000000}
 template: {C18D3794-D126-4548-BFC8-89358DE6E9C1}
 templatekey: Carousel
-created: 20170612T151919Z
+created: 20190111T192812Z
 
 ----version----
 language: en
 version: 1
-revision: 1ac8ac10-f779-4532-b8db-cc26a291b55e
+revision: fdd08ade-15bc-4d96-9813-99e653849c88
 
 ----field----
 field: {72EA8682-24D2-4BEB-951C-3E2164974105}
@@ -42,25 +42,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-1ac8ac10-f779-4532-b8db-cc26a291b55e
+fdd08ade-15bc-4d96-9813-99e653849c88
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151919Z
+20190111T192812Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 16
 
-default\Anonymous
+sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: fa196a4e-6da7-4c90-b2bf-6860fdc14a3e
+revision: 7ba80d5d-1097-4a7b-bba3-950d1dd6d820
 
 ----field----
 field: {72EA8682-24D2-4BEB-951C-3E2164974105}
@@ -89,14 +89,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-fa196a4e-6da7-4c90-b2bf-6860fdc14a3e
+7ba80d5d-1097-4a7b-bba3-950d1dd6d820
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151919Z
+20190111T192812Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

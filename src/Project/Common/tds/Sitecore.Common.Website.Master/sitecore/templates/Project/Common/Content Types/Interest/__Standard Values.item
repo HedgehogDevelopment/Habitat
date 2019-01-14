@@ -8,6 +8,7 @@ name: __Standard Values
 master: {00000000-0000-0000-0000-000000000000}
 template: {4176BFC2-7814-4FA5-ABCF-7FA0714BF05F}
 templatekey: Interest
+created: 20190111T192806Z
 
 ----field----
 field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
@@ -19,7 +20,7 @@ Core2/32x32/smiley_face2_h.png
 ----version----
 language: en
 version: 1
-revision: 52fc1c35-2542-433d-9313-b1e73d64e587
+revision: f2252bb9-44cf-45ac-9047-c3240c9965b9
 
 ----field----
 field: {1FBE5200-2C62-4A32-BA84-CFFE3CF665D3}
@@ -48,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-52fc1c35-2542-433d-9313-b1e73d64e587
+f2252bb9-44cf-45ac-9047-c3240c9965b9
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160128T212024Z
+20190111T192806Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

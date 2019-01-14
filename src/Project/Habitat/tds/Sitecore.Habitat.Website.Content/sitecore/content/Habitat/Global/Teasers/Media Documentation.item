@@ -8,12 +8,12 @@ name: Media Documentation
 master: {00000000-0000-0000-0000-000000000000}
 template: {C7D9D293-4EF8-4380-8E10-C4632E729F39}
 templatekey: Teaser
-created: 20170612T151920Z
+created: 20190111T192813Z
 
 ----version----
 language: en
 version: 1
-revision: 587d398b-2155-46bc-a4e3-71a07b1e2d21
+revision: 67163dc1-7dbd-4649-a739-a7b1a75cff3c
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -49,25 +49,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-587d398b-2155-46bc-a4e3-71a07b1e2d21
+67163dc1-7dbd-4649-a739-a7b1a75cff3c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151920Z
+20190111T192813Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 18
 
-default\Anonymous
+extranet\Anonymous
 ----version----
 language: ja-JP
 version: 1
-revision: 78d91bfb-4c0a-4abf-9a9c-89023bc4c899
+revision: 7dbe21d4-7ec0-4ede-b329-f8e82ae5c169
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -117,14 +117,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-78d91bfb-4c0a-4abf-9a9c-89023bc4c899
+7dbe21d4-7ec0-4ede-b329-f8e82ae5c169
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151920Z
+20190111T192813Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

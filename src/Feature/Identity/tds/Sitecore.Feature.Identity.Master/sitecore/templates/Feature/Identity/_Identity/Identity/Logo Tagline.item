@@ -8,7 +8,7 @@ name: Logo Tagline
 master: {00000000-0000-0000-0000-000000000000}
 template: {455A3E98-A627-4B40-8035-E683A0331AC7}
 templatekey: Template field
-created: 20170612T151526Z
+created: 20190111T192634Z
 
 ----field----
 field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
@@ -34,7 +34,7 @@ ar|Everyone|pe|!*|+field:read|pd|!*|+field:read|ar|modules\Feature Identity Admi
 ----version----
 language: en
 version: 1
-revision: 89373d6b-5c5d-4f1d-b5ea-f8e4bf9a25fb
+revision: 40a3ddb2-9449-44f5-8bc0-5dfcbb206659
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -49,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-89373d6b-5c5d-4f1d-b5ea-f8e4bf9a25fb
+40a3ddb2-9449-44f5-8bc0-5dfcbb206659
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151526Z
+20190111T192634Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -67,7 +67,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: a92fc779-5c3c-429a-a556-18198a431beb
+revision: d4339808-8525-4271-8b8e-7e4d572ff6c3
 
 ----field----
 field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
@@ -96,14 +96,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a92fc779-5c3c-429a-a556-18198a431beb
+d4339808-8525-4271-8b8e-7e4d572ff6c3
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151526Z
+20190111T192634Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

@@ -8,7 +8,7 @@ name: BlogLink
 master: {00000000-0000-0000-0000-000000000000}
 template: {455A3E98-A627-4B40-8035-E683A0331AC7}
 templatekey: Template field
-created: 20170612T151850Z
+created: 20190111T192720Z
 
 ----field----
 field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
@@ -34,7 +34,7 @@ ar|modules\Feature Person Admin|pe|+field:write|pd|+field:write|ar|Everyone|pe|!
 ----version----
 language: en
 version: 1
-revision: 23e0fba2-9492-434c-9846-8dc79238e556
+revision: fed9e925-5cd6-48ef-ab4b-3b3f3835807b
 
 ----field----
 field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
@@ -63,14 +63,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-23e0fba2-9492-434c-9846-8dc79238e556
+fed9e925-5cd6-48ef-ab4b-3b3f3835807b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151850Z
+20190111T192720Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -81,7 +81,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 6ebd941f-df00-41ac-b8ab-81e050f4af80
+revision: b9ed712d-08b7-4bc9-82cb-79e3edc0c443
 
 ----field----
 field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
@@ -110,14 +110,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-6ebd941f-df00-41ac-b8ab-81e050f4af80
+b9ed712d-08b7-4bc9-82cb-79e3edc0c443
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151850Z
+20190111T192720Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

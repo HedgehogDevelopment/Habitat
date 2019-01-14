@@ -8,7 +8,7 @@ name: Flexibility
 master: {00000000-0000-0000-0000-000000000000}
 template: {061574E1-59DD-4B62-9680-1C84EFBE6773}
 templatekey: Headline
-created: 20170612T151928Z
+created: 20190111T192821Z
 
 ----field----
 field: {3AF50903-63A9-464B-A375-B94983624E7D}
@@ -20,7 +20,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: d6d9afea-f8bc-4937-9b0f-03c56e07bdb2
+revision: b84ab4c5-1427-4221-bbf8-63215256f0a2
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -42,25 +42,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d6d9afea-f8bc-4937-9b0f-03c56e07bdb2
+b84ab4c5-1427-4221-bbf8-63215256f0a2
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151928Z
+20190111T192821Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 18
 
-default\Anonymous
+extranet\Anonymous
 ----version----
 language: ja-JP
 version: 1
-revision: a221d915-f697-444c-9dbb-244950c90e1b
+revision: 70b3ae85-ab7c-405d-8209-eb9919202ead
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -89,14 +89,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a221d915-f697-444c-9dbb-244950c90e1b
+70b3ae85-ab7c-405d-8209-eb9919202ead
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151928Z
+20190111T192821Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

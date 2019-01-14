@@ -8,12 +8,12 @@ name: FAQ Group
 master: {00000000-0000-0000-0000-000000000000}
 template: {BA1EB1BD-E705-4BE6-A432-06B7F1B2F2CC}
 templatekey: FAQ Group
-created: 20170612T151929Z
+created: 20190111T192826Z
 
 ----version----
 language: en
 version: 1
-revision: d354aa3f-be4c-489d-a307-a66c105f572e
+revision: 6e479a48-3871-4744-98da-648c4af97981
 
 ----field----
 field: {631DA648-E2A5-4E3B-9733-C9C066C41EAE}
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d354aa3f-be4c-489d-a307-a66c105f572e
+6e479a48-3871-4744-98da-648c4af97981
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151929Z
+20190111T192826Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -60,7 +60,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 345efdc6-969a-47ed-bd81-55b50107cffb
+revision: 50a5643f-e568-440b-ad53-2ec5584865d5
 
 ----field----
 field: {631DA648-E2A5-4E3B-9733-C9C066C41EAE}
@@ -96,14 +96,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-345efdc6-969a-47ed-bd81-55b50107cffb
+50a5643f-e568-440b-ad53-2ec5584865d5
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151929Z
+20190111T192826Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

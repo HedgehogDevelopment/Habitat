@@ -8,11 +8,12 @@ name: __Standard Values
 master: {00000000-0000-0000-0000-000000000000}
 template: {89D988BC-A9A7-43F5-A9FD-A05B0B164720}
 templatekey: _TwitterFeed
+created: 20190111T192735Z
 
 ----version----
 language: en
 version: 1
-revision: acb8e620-ab99-49ef-a63d-2fa006d2adf3
+revision: ccf89546-9cd7-419f-bd00-c3c7799b1131
 
 ----field----
 field: {92EF8986-45E2-42DE-913F-B91FD960297A}
@@ -48,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-acb8e620-ab99-49ef-a63d-2fa006d2adf3
+ccf89546-9cd7-419f-bd00-c3c7799b1131
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160128T212012Z
+20190111T192735Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

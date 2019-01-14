@@ -527,12 +527,6 @@
       <ExcludeItemFrom>
       </ExcludeItemFrom>
     </SitecoreItem>
-    <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Personal Info\Identification.item">
-      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
-      <ItemDeployment>DeployOnce</ItemDeployment>
-      <ExcludeItemFrom>
-      </ExcludeItemFrom>
-    </SitecoreItem>
     <SitecoreItem Include="sitecore\content\Habitat\Global\Dictionary\Demo\Personal Info\Identified User.item">
       <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
       <ItemDeployment>DeployOnce</ItemDeployment>
@@ -1055,25 +1049,22 @@
       <ExcludeItemFrom>
       </ExcludeItemFrom>
     </SitecoreItem>
-    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\Footer Menu\Right\Best Practice Blogs.item">
-      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
-      <ItemDeployment>DeployOnce</ItemDeployment>
-      <ExcludeItemFrom>
-      </ExcludeItemFrom>
-    </SitecoreItem>
-    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\Footer Menu\Right\Business Blogs.item">
-      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
-      <ItemDeployment>DeployOnce</ItemDeployment>
-      <ExcludeItemFrom>
-      </ExcludeItemFrom>
-    </SitecoreItem>
     <SitecoreItem Include="sitecore\content\Habitat\Global\Links\Footer Menu\Right\Contact Sitecore.item">
       <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
       <ItemDeployment>DeployOnce</ItemDeployment>
       <ExcludeItemFrom>
       </ExcludeItemFrom>
     </SitecoreItem>
-    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\Footer Menu\Right\Technical Blogs.item">
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\Footer Menu\Right\Sitecore Blog.item">
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+      <ItemDeployment>DeployOnce</ItemDeployment>
+      <ExcludeItemFrom>
+      </ExcludeItemFrom>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\Footer Menu\Right\Sitecore Stackexchange.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Habitat\Global\Links\Footer Menu\Right\Technical Blog.item">
       <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
       <ItemDeployment>DeployOnce</ItemDeployment>
       <ExcludeItemFrom>
@@ -1974,12 +1965,6 @@
     <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Foundation\Assets.item">
       <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
       <ItemDeployment>DeployOnce</ItemDeployment>
-      <ExcludeItemFrom>
-      </ExcludeItemFrom>
-    </SitecoreItem>
-    <SitecoreItem Include="sitecore\content\Habitat\Home\Modules\Foundation\Forms.item">
-      <ItemDeployment>DeployOnce</ItemDeployment>
-      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
       <ExcludeItemFrom>
       </ExcludeItemFrom>
     </SitecoreItem>

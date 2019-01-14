@@ -8,11 +8,12 @@ name: News
 master: {00000000-0000-0000-0000-000000000000}
 template: {98E4BDC6-9B43-4EB2-BAA3-D4303C35852E}
 templatekey: DictionaryFolder
+created: 20190111T192814Z
 
 ----version----
 language: en
 version: 1
-revision: ac704a1e-ac48-4d92-bf41-1b61230d5462
+revision: ea6e9d14-b6e6-4640-9223-e0aed73b815c
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -27,18 +28,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ac704a1e-ac48-4d92-bf41-1b61230d5462
+ea6e9d14-b6e6-4640-9223-e0aed73b815c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160617T181759Z
+20190111T192814Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 18
 
-default\Anonymous
+extranet\Anonymous

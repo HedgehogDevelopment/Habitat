@@ -8,7 +8,7 @@ name: Demos
 master: {00000000-0000-0000-0000-000000000000}
 template: {C7D9D293-4EF8-4380-8E10-C4632E729F39}
 templatekey: Teaser
-created: 20170612T151925Z
+created: 20190111T192820Z
 
 ----field----
 field: {E8AB122C-6F54-4D4E-AEC6-F81ADDC558FC}
@@ -20,7 +20,7 @@ content-length: 134
 ----version----
 language: en
 version: 1
-revision: 57c28e1b-0777-44de-bc21-d8b429334f72
+revision: 20fbbb59-6d10-4257-9426-1055e88523c3
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -71,25 +71,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-57c28e1b-0777-44de-bc21-d8b429334f72
+20fbbb59-6d10-4257-9426-1055e88523c3
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151925Z
+20190111T192820Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 18
 
-default\Anonymous
+extranet\Anonymous
 ----version----
 language: ja-JP
 version: 1
-revision: 7642eb5c-1a5b-4707-b80c-f7b3398ba6bc
+revision: 2231981a-410d-46a7-a46c-84ef98e199b3
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -147,14 +147,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7642eb5c-1a5b-4707-b80c-f7b3398ba6bc
+2231981a-410d-46a7-a46c-84ef98e199b3
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151925Z
+20190111T192820Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

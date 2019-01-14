@@ -8,12 +8,12 @@ name: Principles
 master: {00000000-0000-0000-0000-000000000000}
 template: {061574E1-59DD-4B62-9680-1C84EFBE6773}
 templatekey: Headline
-created: 20170612T151928Z
+created: 20190111T192827Z
 
 ----version----
 language: en
 version: 1
-revision: 7126ca79-239b-4e73-acb7-f9d6d63cb9b6
+revision: 079f31ba-e424-49c1-89de-2dbfb2ed0cf8
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -42,25 +42,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7126ca79-239b-4e73-acb7-f9d6d63cb9b6
+079f31ba-e424-49c1-89de-2dbfb2ed0cf8
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151928Z
+20190111T192827Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 18
 
-default\Anonymous
+extranet\Anonymous
 ----version----
 language: ja-JP
 version: 1
-revision: 093d80d7-772c-4050-bb32-35333cadf4f4
+revision: 4cc633e9-c976-4491-9835-2d50ef491a74
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -96,14 +96,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-093d80d7-772c-4050-bb32-35333cadf4f4
+4cc633e9-c976-4491-9835-2d50ef491a74
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151928Z
+20190111T192827Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

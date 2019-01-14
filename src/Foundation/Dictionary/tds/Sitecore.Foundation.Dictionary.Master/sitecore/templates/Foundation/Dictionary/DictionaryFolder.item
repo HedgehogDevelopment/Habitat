@@ -8,7 +8,7 @@ name: DictionaryFolder
 master: {00000000-0000-0000-0000-000000000000}
 template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
 templatekey: Template
-created: 20170612T151600Z
+created: 20190111T192514Z
 
 ----field----
 field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
@@ -34,7 +34,7 @@ People/16x16/book_red.png
 ----version----
 language: en
 version: 1
-revision: c302fba0-74f2-44f7-8db2-c5f39fbe780e
+revision: bf50738d-1030-4278-ae80-9977a6a10adf
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c302fba0-74f2-44f7-8db2-c5f39fbe780e
+bf50738d-1030-4278-ae80-9977a6a10adf
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151600Z
+20190111T192514Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -74,7 +74,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 588be6ff-5554-4232-9f58-c65ef601ee5f
+revision: 51c1eee2-8543-45d6-83b5-dfcddf06c7ec
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -103,14 +103,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-588be6ff-5554-4232-9f58-c65ef601ee5f
+51c1eee2-8543-45d6-83b5-dfcddf06c7ec
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151600Z
+20190111T192514Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

@@ -8,7 +8,7 @@ name: Login
 master: {00000000-0000-0000-0000-000000000000}
 template: {ECC4E901-9C5F-4043-B11E-CFA868D1BB73}
 templatekey: Login Page
-created: 20170612T151917Z
+created: 20190111T192811Z
 
 ----field----
 field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
@@ -20,7 +20,7 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: c32b2ee5-5073-4cbd-bf62-ed7322b45242
+revision: 71f100c2-0e62-4fb7-8f44-75291f3828db
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -63,14 +63,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c32b2ee5-5073-4cbd-bf62-ed7322b45242
+71f100c2-0e62-4fb7-8f44-75291f3828db
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151917Z
+20190111T192811Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -81,7 +81,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 4035bfff-9d82-4e59-99cb-20b02059128c
+revision: 8c3ebaf0-fd61-4d38-bc61-0c23b30c22d0
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -138,14 +138,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4035bfff-9d82-4e59-99cb-20b02059128c
+8c3ebaf0-fd61-4d38-bc61-0c23b30c22d0
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151917Z
+20190111T192811Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

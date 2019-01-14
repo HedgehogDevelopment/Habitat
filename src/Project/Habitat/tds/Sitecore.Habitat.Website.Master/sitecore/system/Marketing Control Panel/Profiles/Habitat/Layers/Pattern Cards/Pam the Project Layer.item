@@ -1,0 +1,86 @@
+----item----
+version: 1
+id: {36D23371-D693-4523-9C5F-F176B1B25020}
+database: master
+path: /sitecore/system/Marketing Control Panel/Profiles/Habitat/Layers/Pattern Cards/Pam the Project Layer
+parent: {4BA1802A-FB9B-400B-8DD0-77992ED9F580}
+name: Pam the Project Layer
+master: {00000000-0000-0000-0000-000000000000}
+template: {4A6A7E36-2481-438F-A9BA-0453ECC638FA}
+templatekey: Pattern Card
+created: 20190111T192834Z
+
+----field----
+field: {6DA71AD3-5849-4482-9317-D21390E5A348}
+name: Pattern
+key: pattern
+content-length: 224
+
+<tracking>
+  <profile id="c4cc3ef6-a779-44ad-9021-01f1dae26270" name="Layers">
+    <key name="Feature" value="2" />
+    <key name="Foundation" value="0" />
+    <key name="Project" value="10" />
+  </profile>
+</tracking>
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 0
+
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 2
+
+50
+----version----
+language: en
+version: 1
+revision: 77b73312-f84d-4ac3-aaa9-9fcb07bf65bc
+
+----field----
+field: {FE732790-2DDB-4657-A882-C2FCE1FBF0C9}
+name: Name
+key: name
+content-length: 21
+
+Pam the Project Layer
+----field----
+field: {98535F26-6C9D-4FD7-A7E2-392C7CB82D65}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{FF8E14C4-79AA-4D80-A2E5-D07BFD835411}" />
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20171005T141932Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+77b73312-f84d-4ac3-aaa9-9fcb07bf65bc
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190111T192834Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

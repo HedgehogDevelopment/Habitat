@@ -8,7 +8,7 @@ name: UseStaticPlaceholderNames
 master: {00000000-0000-0000-0000-000000000000}
 template: {455A3E98-A627-4B40-8035-E683A0331AC7}
 templatekey: Template field
-created: 20170612T151501Z
+created: 20190111T192437Z
 
 ----field----
 field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
@@ -34,7 +34,7 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: 181fd413-0151-433b-b1d5-4d912e20c770
+revision: cb0b4f73-914e-49d8-94be-9c9122f77716
 
 ----field----
 field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
@@ -63,14 +63,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-181fd413-0151-433b-b1d5-4d912e20c770
+cb0b4f73-914e-49d8-94be-9c9122f77716
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151507Z
+20190111T192439Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -81,7 +81,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: ad1e33d1-7f0e-4ba9-95fe-f6f0e97d9b7f
+revision: 16d90696-d486-442c-b7e1-7817c82dd1da
 
 ----field----
 field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
@@ -110,14 +110,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ad1e33d1-7f0e-4ba9-95fe-f6f0e97d9b7f
+16d90696-d486-442c-b7e1-7817c82dd1da
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151507Z
+20190111T192439Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

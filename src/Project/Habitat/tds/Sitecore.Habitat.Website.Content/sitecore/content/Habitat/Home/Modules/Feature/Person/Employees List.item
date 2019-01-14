@@ -8,7 +8,7 @@ name: Employees List
 master: {00000000-0000-0000-0000-000000000000}
 template: {51E2FF7F-6FB3-4470-91C8-D2AD97BF1EAE}
 templatekey: Employees folder
-created: 20170612T151929Z
+created: 20190111T192826Z
 
 ----field----
 field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
@@ -20,7 +20,7 @@ content-length: 211
 ----version----
 language: en
 version: 1
-revision: 6b6ab87d-bfb2-418a-bb60-6bf50435a865
+revision: 62ad32bb-f290-4a9c-a412-04713456718d
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -63,14 +63,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-6b6ab87d-bfb2-418a-bb60-6bf50435a865
+62ad32bb-f290-4a9c-a412-04713456718d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151929Z
+20190111T192826Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -81,7 +81,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: eaea82b4-a977-4e2f-814c-3ce2cfd95666
+revision: 24db3c97-a545-47a8-9c53-db9de2c0f768
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -131,14 +131,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-eaea82b4-a977-4e2f-814c-3ce2cfd95666
+24db3c97-a545-47a8-9c53-db9de2c0f768
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151929Z
+20190111T192826Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

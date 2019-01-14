@@ -8,12 +8,12 @@ name: Partner Network
 master: {00000000-0000-0000-0000-000000000000}
 template: {390333C8-751B-4332-84A3-6360B969A19F}
 templatekey: Link Menu Item
-created: 20170612T151928Z
+created: 20190111T192822Z
 
 ----version----
 language: da
 version: 1
-revision: b7c0842b-e6d4-4e0b-a2e6-3300a0da1a04
+revision: 980f435e-ef03-427f-90d4-4a22bb475a81
 
 ----field----
 field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
@@ -49,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-b7c0842b-e6d4-4e0b-a2e6-3300a0da1a04
+980f435e-ef03-427f-90d4-4a22bb475a81
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151928Z
+20190111T192822Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -67,15 +67,15 @@ sitecore\unicorn
 ----version----
 language: en
 version: 1
-revision: e378a102-db81-41e9-b94d-5ece59069146
+revision: 1830ac6e-ab0a-4d78-9e8e-39612f408e7a
 
 ----field----
 field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
 name: Link
 key: link
-content-length: 124
+content-length: 84
 
-<link text="" linktype="external" url="spn.sitecore.net" anchor="" title="" class="" querystring="" target="_blank" id="" />
+<link linktype="external" url="http://spn.sitecore.net" anchor="" target="_blank" />
 ----field----
 field: {1B483E91-D8C4-4D19-BA03-462074B55936}
 name: NavigationTitle
@@ -96,25 +96,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e378a102-db81-41e9-b94d-5ece59069146
+1830ac6e-ab0a-4d78-9e8e-39612f408e7a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151928Z
+20190111T192822Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 16
 
-default\Anonymous
+sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: bed4e1e1-df6e-423c-8d74-e9f9e01ab525
+revision: 4d2658c1-0db8-4ac6-92b9-8c58373bda21
 
 ----field----
 field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
@@ -157,14 +157,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-bed4e1e1-df6e-423c-8d74-e9f9e01ab525
+4d2658c1-0db8-4ac6-92b9-8c58373bda21
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151928Z
+20190111T192822Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

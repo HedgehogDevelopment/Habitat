@@ -8,7 +8,7 @@ name: Sitecore Experience Platform
 master: {00000000-0000-0000-0000-000000000000}
 template: {C7D9D293-4EF8-4380-8E10-C4632E729F39}
 templatekey: Teaser
-created: 20170612T151920Z
+created: 20190111T192813Z
 
 ----field----
 field: {E8AB122C-6F54-4D4E-AEC6-F81ADDC558FC}
@@ -20,7 +20,7 @@ content-length: 110
 ----version----
 language: en
 version: 1
-revision: bf2f56a1-7f7a-4aa2-8fc0-288edcc051e4
+revision: e42b104e-c5d1-4c6b-97d9-7a7923544edb
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -56,25 +56,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-bf2f56a1-7f7a-4aa2-8fc0-288edcc051e4
+e42b104e-c5d1-4c6b-97d9-7a7923544edb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151920Z
+20190111T192813Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 18
 
-default\Anonymous
+extranet\Anonymous
 ----version----
 language: ja-JP
 version: 1
-revision: 30fa94ba-19a2-4b80-a4eb-4fea49ede5c6
+revision: d4ed7e9f-b44e-4701-86d8-5edcda659c1c
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -117,14 +117,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-30fa94ba-19a2-4b80-a4eb-4fea49ede5c6
+d4ed7e9f-b44e-4701-86d8-5edcda659c1c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151920Z
+20190111T192813Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

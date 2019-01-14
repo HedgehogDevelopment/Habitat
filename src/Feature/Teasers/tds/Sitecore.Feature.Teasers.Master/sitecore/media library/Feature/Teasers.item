@@ -3,16 +3,17 @@ version: 1
 id: {8D1A9A0B-59A8-4A6F-8759-F10956E69D68}
 database: master
 path: /sitecore/media library/Feature/Teasers
-parent: {4E5E3BFB-C253-4764-9F60-309172F9F592}
+parent: {AA12EEAE-D925-4569-BC39-6092C745FC05}
 name: Teasers
 master: {00000000-0000-0000-0000-000000000000}
 template: {FE5DD826-48C6-436D-B87A-7C4210C7413B}
 templatekey: Media folder
+created: 20190111T192750Z
 
 ----version----
 language: en
 version: 1
-revision: 13428797-61f3-4313-8b61-e62747e87c34
+revision: ba5743bf-7e94-4b1e-876f-d8033f828cd7
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -34,14 +35,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-13428797-61f3-4313-8b61-e62747e87c34
+ba5743bf-7e94-4b1e-876f-d8033f828cd7
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160622T160134Z
+20190111T192750Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

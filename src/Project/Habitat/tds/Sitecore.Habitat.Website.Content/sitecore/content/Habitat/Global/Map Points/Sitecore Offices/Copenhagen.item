@@ -8,12 +8,12 @@ name: Copenhagen
 master: {00000000-0000-0000-0000-000000000000}
 template: {11C28D16-9B88-456E-A42B-D4B5A82867E3}
 templatekey: Map Point
-created: 20170612T151923Z
+created: 20190111T192818Z
 
 ----version----
 language: en
 version: 1
-revision: 5d884d3a-58d7-4914-b24d-8b3f71ae339f
+revision: eea5436b-7bd2-4282-b99f-85db7d07642b
 
 ----field----
 field: {F12C22BB-E57D-4FAB-96E1-1229E4E7FF0E}
@@ -51,25 +51,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-5d884d3a-58d7-4914-b24d-8b3f71ae339f
+eea5436b-7bd2-4282-b99f-85db7d07642b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151923Z
+20190111T192818Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 16
 
-default\Anonymous
+sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 71d310bf-10ce-4d88-aa75-07f0dcb2e2d5
+revision: a6f53751-220d-47c6-9be0-085c08ddd536
 
 ----field----
 field: {F12C22BB-E57D-4FAB-96E1-1229E4E7FF0E}
@@ -114,14 +114,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-71d310bf-10ce-4d88-aa75-07f0dcb2e2d5
+a6f53751-220d-47c6-9be0-085c08ddd536
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151923Z
+20190111T192818Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

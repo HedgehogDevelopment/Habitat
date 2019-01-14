@@ -8,11 +8,12 @@ name: __Standard Values
 master: {00000000-0000-0000-0000-000000000000}
 template: {FEC0E62A-01FD-40E5-88F3-E5229FE79527}
 templatekey: _TeaserContent
+created: 20190111T192751Z
 
 ----version----
 language: en
 version: 1
-revision: f1249063-63d4-4f37-87cd-7739334c0681
+revision: 6c9eb261-199e-44c7-9224-31337e4aa0ce
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -27,18 +28,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f1249063-63d4-4f37-87cd-7739334c0681
+6c9eb261-199e-44c7-9224-31337e4aa0ce
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160413T145037Z
+20190111T192751Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 18
+content-length: 16
 
-extranet\Anonymous
+sitecore\unicorn

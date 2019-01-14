@@ -8,7 +8,7 @@ name: MapPointLocation
 master: {00000000-0000-0000-0000-000000000000}
 template: {455A3E98-A627-4B40-8035-E683A0331AC7}
 templatekey: Template field
-created: 20170612T151738Z
+created: 20190111T192639Z
 
 ----field----
 field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
@@ -34,7 +34,7 @@ ar|Everyone|pe|+field:read|!*|pd|+field:read|!*|ar|modules\Feature Maps Admin|pe
 ----version----
 language: en
 version: 1
-revision: 2e585778-02d5-4d05-b344-479b110e56a7
+revision: e150b363-9b36-47d1-9049-812d021b16c2
 
 ----field----
 field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2e585778-02d5-4d05-b344-479b110e56a7
+e150b363-9b36-47d1-9049-812d021b16c2
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151738Z
+20190111T192640Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -74,7 +74,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 00b5eb6c-d525-4a25-b566-7e38f3f288f8
+revision: 47e6ae27-599a-4700-a8fb-cac9e0d280eb
 
 ----field----
 field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
@@ -103,14 +103,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-00b5eb6c-d525-4a25-b566-7e38f3f288f8
+47e6ae27-599a-4700-a8fb-cac9e0d280eb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151738Z
+20190111T192640Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

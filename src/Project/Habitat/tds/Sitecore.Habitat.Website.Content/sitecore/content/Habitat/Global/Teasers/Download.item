@@ -8,7 +8,7 @@ name: Download
 master: {00000000-0000-0000-0000-000000000000}
 template: {C7D9D293-4EF8-4380-8E10-C4632E729F39}
 templatekey: Teaser
-created: 20170612T151920Z
+created: 20190111T192813Z
 
 ----field----
 field: {E8AB122C-6F54-4D4E-AEC6-F81ADDC558FC}
@@ -20,7 +20,7 @@ content-length: 130
 ----version----
 language: en
 version: 1
-revision: d574ec6b-e977-4e4a-aaa6-34de28cd2b8d
+revision: 2623de0c-9d0c-415e-97c2-6712940f4593
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -49,25 +49,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d574ec6b-e977-4e4a-aaa6-34de28cd2b8d
+2623de0c-9d0c-415e-97c2-6712940f4593
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151920Z
+20190111T192813Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 18
 
-default\Anonymous
+extranet\Anonymous
 ----version----
 language: ja-JP
 version: 1
-revision: bf9b31f1-3770-4a2b-a4b6-15256fe7cb16
+revision: 9e60e323-2c54-4e98-a738-c16fea75eb06
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -110,14 +110,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-bf9b31f1-3770-4a2b-a4b6-15256fe7cb16
+9e60e323-2c54-4e98-a738-c16fea75eb06
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151920Z
+20190111T192813Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

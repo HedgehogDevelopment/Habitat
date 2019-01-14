@@ -8,7 +8,7 @@ name: Helix Intro Blogpost
 master: {00000000-0000-0000-0000-000000000000}
 template: {C7D9D293-4EF8-4380-8E10-C4632E729F39}
 templatekey: Teaser
-created: 20170612T151928Z
+created: 20190111T192827Z
 
 ----field----
 field: {E8AB122C-6F54-4D4E-AEC6-F81ADDC558FC}
@@ -20,7 +20,7 @@ content-length: 177
 ----version----
 language: en
 version: 1
-revision: 39489708-fa8a-49f1-8cb4-37ca98e6aa41
+revision: 7ae874ed-329d-4430-9870-5821f3bfeb00
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -57,25 +57,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-39489708-fa8a-49f1-8cb4-37ca98e6aa41
+7ae874ed-329d-4430-9870-5821f3bfeb00
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151928Z
+20190111T192827Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 18
 
-default\Anonymous
+extranet\Anonymous
 ----version----
 language: ja-JP
 version: 1
-revision: b1ca01f4-c6f5-4926-b9af-89efd5cf50d0
+revision: 43ce613c-0dfb-4f91-ace6-58511a06e75f
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -119,14 +119,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-b1ca01f4-c6f5-4926-b9af-89efd5cf50d0
+43ce613c-0dfb-4f91-ace6-58511a06e75f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151928Z
+20190111T192827Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

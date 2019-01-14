@@ -8,12 +8,12 @@ name: jumbotronteaser
 master: {00000000-0000-0000-0000-000000000000}
 template: {C82DC5FF-09EF-4403-96D3-3CAF377B8C5B}
 templatekey: Datasource Configuration
-created: 20170612T151921Z
+created: 20190111T192815Z
 
 ----version----
 language: en
 version: 1
-revision: 1b985894-1b21-4918-847d-5dfeb03b402c
+revision: 0d377ba6-98ca-42e1-934f-0451be38c21b
 
 ----field----
 field: {5FE1CC43-F86C-459C-A379-CD75950D85AF}
@@ -49,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-1b985894-1b21-4918-847d-5dfeb03b402c
+0d377ba6-98ca-42e1-934f-0451be38c21b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151921Z
+20190111T192815Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -67,7 +67,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: d111268c-a017-4c11-ab11-7b95d290bf83
+revision: af8163a0-578d-409b-ae29-694a6d9cf535
 
 ----field----
 field: {5FE1CC43-F86C-459C-A379-CD75950D85AF}
@@ -110,14 +110,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d111268c-a017-4c11-ab11-7b95d290bf83
+af8163a0-578d-409b-ae29-694a6d9cf535
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151921Z
+20190111T192815Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

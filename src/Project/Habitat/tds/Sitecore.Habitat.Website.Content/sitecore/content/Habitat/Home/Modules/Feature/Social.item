@@ -8,12 +8,19 @@ name: Social
 master: {00000000-0000-0000-0000-000000000000}
 template: {94A8C8E9-690B-4E65-98E7-F95800222767}
 templatekey: Article
-created: 20170612T151925Z
+created: 20190111T192821Z
 
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 237
+
+<tracking><profile id="c4cc3ef6-a779-44ad-9021-01f1dae26270" name="Layers" presets="freddy the feature layer|100||"><key name="Feature" value="10" /><key name="Foundation" value="2" /><key name="Project" value="0" /></profile></tracking>
 ----version----
 language: en
 version: 1
-revision: de745672-8693-4036-a575-6320231b2c71
+revision: 0ad2afda-cf7a-4e86-9104-cb5856ff927e
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -62,9 +69,9 @@ Social
 field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
 name: __Final Renderings
 key: __final renderings
-content-length: 854
+content-length: 858
 
-<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{EFDC23BE-86F5-47C5-B86A-48BC7B4D37CF}" p:before="*" s:ds="{98E48045-DFC7-4A70-9BED-5C40AB6558A6}" s:id="{0CF58F14-D0F8-4C41-9896-3D69048A0B19}" s:par="Background={BD2F308A-E00A-4372-ADBB-BD64712A54FA}&amp;TweetsToShow=2" s:ph="/page-layout/section-narrow/col-narrow-1_9c668f15-14eb-4736-9acb-eb2b9e0812a7" /><r uid="{9C668F15-14EB-4736-9ACB-EB2B9E0812A7}" p:after="r[@uid='{EFDC23BE-86F5-47C5-B86A-48BC7B4D37CF}']" s:id="{831876B6-F9F1-463E-9DD5-7F93F1640590}" s:ph="/page-layout/section-narrow" /><r uid="{47F5A079-6F63-4219-BC45-1A221B200906}" s:par="Background={22EFB258-62F5-4B49-9D7E-DE07F70C9F37}" /><r uid="{84124EE2-E678-4144-8316-0D6874866604}" s:par="Background={22EFB258-62F5-4B49-9D7E-DE07F70C9F37}" /></d></r>
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{EFDC23BE-86F5-47C5-B86A-48BC7B4D37CF}" p:before="*" s:ds="{98E48045-DFC7-4A70-9BED-5C40AB6558A6}" s:id="{0CF58F14-D0F8-4C41-9896-3D69048A0B19}" s:par="Background={BD2F308A-E00A-4372-ADBB-BD64712A54FA}&amp;TweetsToShow=2" s:ph="/page-layout/section-narrow/col-narrow-1-{9C668F15-14EB-4736-9ACB-EB2B9E0812A7}-0" /><r uid="{9C668F15-14EB-4736-9ACB-EB2B9E0812A7}" p:after="r[@uid='{EFDC23BE-86F5-47C5-B86A-48BC7B4D37CF}']" s:id="{831876B6-F9F1-463E-9DD5-7F93F1640590}" s:ph="/page-layout/section-narrow" /><r uid="{47F5A079-6F63-4219-BC45-1A221B200906}" s:par="Background={22EFB258-62F5-4B49-9D7E-DE07F70C9F37}" /><r uid="{84124EE2-E678-4144-8316-0D6874866604}" s:par="Background={22EFB258-62F5-4B49-9D7E-DE07F70C9F37}" /></d></r>
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -78,14 +85,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-de745672-8693-4036-a575-6320231b2c71
+0ad2afda-cf7a-4e86-9104-cb5856ff927e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151925Z
+20190111T192821Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -96,7 +103,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 083fb82c-1c52-4938-8a09-6d8a28d24c53
+revision: 81028bd6-d65a-4279-ac84-9143221fa694
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -175,14 +182,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-083fb82c-1c52-4938-8a09-6d8a28d24c53
+81028bd6-d65a-4279-ac84-9143221fa694
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151925Z
+20190111T192821Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

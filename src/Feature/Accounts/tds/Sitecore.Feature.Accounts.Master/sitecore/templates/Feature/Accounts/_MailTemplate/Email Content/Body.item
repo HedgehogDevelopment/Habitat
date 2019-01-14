@@ -8,7 +8,7 @@ name: Body
 master: {00000000-0000-0000-0000-000000000000}
 template: {455A3E98-A627-4B40-8035-E683A0331AC7}
 templatekey: Template field
-created: 20170612T151644Z
+created: 20190111T192548Z
 
 ----field----
 field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
@@ -34,7 +34,7 @@ ar|Everyone|pe|+field:read|!*|pd|!*|+field:read|ar|modules\Feature Accounts Admi
 ----version----
 language: en
 version: 1
-revision: 1b6ba3ed-b978-4bd8-b60b-ddc6891cdb4e
+revision: ef6b3668-e8f6-4825-b194-2e6ba510517e
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -49,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-1b6ba3ed-b978-4bd8-b60b-ddc6891cdb4e
+ef6b3668-e8f6-4825-b194-2e6ba510517e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151644Z
+20190111T192548Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -67,7 +67,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 600b0a20-c768-448d-b7cb-68ae5b81e259
+revision: 873e91e3-1df1-4f24-af5a-13c316a2db50
 
 ----field----
 field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
@@ -96,14 +96,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-600b0a20-c768-448d-b7cb-68ae5b81e259
+873e91e3-1df1-4f24-af5a-13c316a2db50
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151644Z
+20190111T192548Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

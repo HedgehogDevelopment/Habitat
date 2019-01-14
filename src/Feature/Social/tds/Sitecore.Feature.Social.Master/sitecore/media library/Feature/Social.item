@@ -3,16 +3,17 @@ version: 1
 id: {712A94CF-88A2-41BE-9CBB-93E7491DF005}
 database: master
 path: /sitecore/media library/Feature/Social
-parent: {4E5E3BFB-C253-4764-9F60-309172F9F592}
+parent: {AA12EEAE-D925-4569-BC39-6092C745FC05}
 name: Social
 master: {00000000-0000-0000-0000-000000000000}
 template: {FE5DD826-48C6-436D-B87A-7C4210C7413B}
 templatekey: Media folder
+created: 20190111T192735Z
 
 ----version----
 language: en
 version: 1
-revision: 7be4671d-1548-4eff-ac8b-45d27c5cc462
+revision: 77708795-362f-4e98-b71f-3287528c7b5d
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -34,14 +35,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7be4671d-1548-4eff-ac8b-45d27c5cc462
+77708795-362f-4e98-b71f-3287528c7b5d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160622T160114Z
+20190111T192735Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

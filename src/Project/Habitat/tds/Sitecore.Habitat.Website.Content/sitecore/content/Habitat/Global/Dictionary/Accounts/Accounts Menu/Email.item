@@ -8,20 +8,20 @@ name: Email
 master: {00000000-0000-0000-0000-000000000000}
 template: {EC4DD3F2-590D-404B-9189-2A12679749CC}
 templatekey: DictionaryEntry
-created: 20170612T151925Z
+created: 20190111T192826Z
 
 ----version----
 language: en
 version: 1
-revision: 7e9b2944-ff3a-4c9c-84e5-520d8217bbb6
+revision: 9fddb8d2-f169-4203-9237-50d4d097671b
 
 ----field----
 field: {DDACDD55-5B08-405F-9E58-04F09AED640A}
 name: Phrase
 key: phrase
-content-length: 4
+content-length: 6
 
-Name
+E-mail
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -42,14 +42,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7e9b2944-ff3a-4c9c-84e5-520d8217bbb6
+9fddb8d2-f169-4203-9237-50d4d097671b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151925Z
+20190111T192826Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -60,7 +60,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: a5c353e1-b8dd-4e59-ae2d-f898811ef09b
+revision: 8bb93dde-e1d5-43ab-930a-72f6d9863b2b
 
 ----field----
 field: {DDACDD55-5B08-405F-9E58-04F09AED640A}
@@ -96,14 +96,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a5c353e1-b8dd-4e59-ae2d-f898811ef09b
+8bb93dde-e1d5-43ab-930a-72f6d9863b2b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151925Z
+20190111T192826Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

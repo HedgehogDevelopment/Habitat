@@ -8,6 +8,7 @@ name: Register page
 master: {00000000-0000-0000-0000-000000000000}
 template: {94FD1606-139E-46EE-86FF-BC5BF3C79804}
 templatekey: Campaign
+created: 20190111T192834Z
 
 ----field----
 field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
@@ -19,7 +20,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: aff8a380-58ee-41ef-892a-3d84a526a0b3
+revision: 3f3d1b32-485d-474d-908f-36a21141d575
 
 ----field----
 field: {0F47D1B4-BCB4-4F7F-9065-6ECB46AAB9A1}
@@ -32,9 +33,9 @@ Register page
 field: {1C534A2D-0B6D-4E89-8FCA-6289475A3A46}
 name: Enroll in Engagement Plan
 key: enroll in engagement plan
-content-length: 38
+content-length: 0
 
-{505F2357-AB77-4CE8-991C-70AC53AEF39F}
+
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
 name: __Display name
@@ -62,14 +63,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-aff8a380-58ee-41ef-892a-3d84a526a0b3
+3f3d1b32-485d-474d-908f-36a21141d575
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160411T220325Z
+20190111T192834Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

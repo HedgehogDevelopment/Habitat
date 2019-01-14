@@ -8,12 +8,12 @@ name: Map Type
 master: {00000000-0000-0000-0000-000000000000}
 template: {E269FBB5-3750-427A-9149-7AA950B49301}
 templatekey: Template section
-created: 20170612T151737Z
+created: 20190111T192639Z
 
 ----version----
 language: en
 version: 1
-revision: 61e919c1-3f6b-496f-a51c-14a4b56bad35
+revision: 76cae0d9-1f4c-4012-972f-8b711fc8b576
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -35,14 +35,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-61e919c1-3f6b-496f-a51c-14a4b56bad35
+76cae0d9-1f4c-4012-972f-8b711fc8b576
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151737Z
+20190111T192639Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -53,7 +53,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 803c1387-43c5-4cc6-9c15-e76ab4afed42
+revision: 2a9a78c8-c242-40c3-be4b-514d8355aa35
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -82,14 +82,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-803c1387-43c5-4cc6-9c15-e76ab4afed42
+2a9a78c8-c242-40c3-be4b-514d8355aa35
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151737Z
+20190111T192639Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

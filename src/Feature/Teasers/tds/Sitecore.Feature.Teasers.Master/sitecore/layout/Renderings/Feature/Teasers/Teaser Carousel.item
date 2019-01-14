@@ -8,7 +8,7 @@ name: Teaser Carousel
 master: {00000000-0000-0000-0000-000000000000}
 template: {2A3E91A0-7987-44B5-AB34-35C2D9DE83B9}
 templatekey: Controller rendering
-created: 20161006T142907:636113609470870000
+created: 20190111T192749Z
 
 ----field----
 field: {E64AD073-DFCC-4D20-8C0B-FE5AA6226CD7}
@@ -48,7 +48,7 @@ content-length: 58
 ----version----
 language: en
 version: 1
-revision: 2972dfaa-afff-4cd0-862e-6dbf97d5d1e6
+revision: a977eb8d-b744-439d-8a3a-93508bcdeb4a
 
 ----field----
 field: {1C307764-806C-42F0-B7CE-FC173AC8372B}
@@ -70,14 +70,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2972dfaa-afff-4cd0-862e-6dbf97d5d1e6
+a977eb8d-b744-439d-8a3a-93508bcdeb4a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20161006T142907Z
+20190111T192749Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

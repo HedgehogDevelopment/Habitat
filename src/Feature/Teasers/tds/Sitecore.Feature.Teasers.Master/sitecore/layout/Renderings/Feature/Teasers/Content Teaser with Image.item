@@ -8,7 +8,7 @@ name: Content Teaser with Image
 master: {00000000-0000-0000-0000-000000000000}
 template: {99F8905D-4A87-4EB8-9F8B-A9BEBFB3ADD6}
 templatekey: View rendering
-created: 20161006T142906:636113609469570000
+created: 20190111T192750Z
 
 ----field----
 field: {51B435BC-F7B9-478A-9C51-52916AF96FF5}
@@ -48,7 +48,7 @@ content-length: 58
 ----version----
 language: en
 version: 1
-revision: 0b9da16c-a093-4b4b-bd02-b020d1a84c96
+revision: 30c4b01c-5790-4000-b191-a68dece126d3
 
 ----field----
 field: {1C307764-806C-42F0-B7CE-FC173AC8372B}
@@ -70,14 +70,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-0b9da16c-a093-4b4b-bd02-b020d1a84c96
+30c4b01c-5790-4000-b191-a68dece126d3
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20161006T142906Z
+20190111T192750Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

@@ -8,6 +8,7 @@ name: Employee Teaser
 master: {00000000-0000-0000-0000-000000000000}
 template: {F1828A2C-7E5D-4BBD-98CA-320474871548}
 templatekey: Image
+created: 20190111T192721Z
 
 ----field----
 field: {40E50ED9-BA07-4702-992E-A912738D32DC}
@@ -2175,7 +2176,7 @@ content-length: 61
 ----version----
 language: da
 version: 1
-revision: 517ec51d-f602-45e4-8d44-1e5694e90b4b
+revision: fa0729cc-2733-46bf-9f2c-81af35038025
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -2197,14 +2198,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-517ec51d-f602-45e4-8d44-1e5694e90b4b
+fa0729cc-2733-46bf-9f2c-81af35038025
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160622T160142Z
+20190111T192721Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -2215,7 +2216,7 @@ sitecore\unicorn
 ----version----
 language: en
 version: 1
-revision: 2db05822-13e0-479a-8d58-32f36dad241a
+revision: 6e5152c4-7313-4c04-87b6-c2862c82597b
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -2230,14 +2231,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2db05822-13e0-479a-8d58-32f36dad241a
+6e5152c4-7313-4c04-87b6-c2862c82597b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160622T160142Z
+20190111T192721Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

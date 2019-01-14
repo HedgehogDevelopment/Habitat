@@ -8,6 +8,7 @@ name: Accordion
 master: {00000000-0000-0000-0000-000000000000}
 template: {F1828A2C-7E5D-4BBD-98CA-320474871548}
 templatekey: Image
+created: 20190111T192750Z
 
 ----field----
 field: {40E50ED9-BA07-4702-992E-A912738D32DC}
@@ -640,7 +641,7 @@ content-length: 61
 ----version----
 language: da
 version: 1
-revision: eb43d9ad-1dda-4623-b5cd-2b78d375a5b9
+revision: 24f7565c-cd24-4dc2-b0ac-d3282ea3b2e6
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -662,14 +663,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-eb43d9ad-1dda-4623-b5cd-2b78d375a5b9
+24f7565c-cd24-4dc2-b0ac-d3282ea3b2e6
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160622T160134Z
+20190111T192750Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -680,7 +681,7 @@ sitecore\unicorn
 ----version----
 language: en
 version: 1
-revision: 416d0570-5f66-4efa-90fd-13b19080b507
+revision: 1c6cfabc-4825-43ef-8cc9-5682a98b4ad5
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -695,14 +696,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-416d0570-5f66-4efa-90fd-13b19080b507
+1c6cfabc-4825-43ef-8cc9-5682a98b4ad5
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160622T160134Z
+20190111T192750Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

@@ -8,12 +8,12 @@ name: Balmoral
 master: {00000000-0000-0000-0000-000000000000}
 template: {11C28D16-9B88-456E-A42B-D4B5A82867E3}
 templatekey: Map Point
-created: 20170612T151923Z
+created: 20190111T192817Z
 
 ----version----
 language: en
 version: 1
-revision: 70fb0945-a7d9-4d55-b85f-edda5d32a661
+revision: f2e47de0-508b-4cf3-ac45-5a93e0756b76
 
 ----field----
 field: {F12C22BB-E57D-4FAB-96E1-1229E4E7FF0E}
@@ -49,25 +49,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-70fb0945-a7d9-4d55-b85f-edda5d32a661
+f2e47de0-508b-4cf3-ac45-5a93e0756b76
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151923Z
+20190111T192817Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 16
 
-default\Anonymous
+sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 436e132e-131c-45b9-83bd-6d6866f3ae42
+revision: 88b8c03d-dad5-4180-a841-14d180b96e1d
 
 ----field----
 field: {F12C22BB-E57D-4FAB-96E1-1229E4E7FF0E}
@@ -117,14 +117,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-436e132e-131c-45b9-83bd-6d6866f3ae42
+88b8c03d-dad5-4180-a841-14d180b96e1d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151923Z
+20190111T192817Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

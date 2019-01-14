@@ -3,16 +3,17 @@ version: 1
 id: {8AD55B8E-73BB-409B-95E6-9516990835B8}
 database: master
 path: /sitecore/media library/Project/Common
-parent: {E39630B2-2328-4E73-BEE8-9EE7D5B85CF2}
+parent: {90AE357F-6171-4EA9-808C-5600B678F726}
 name: Common
 master: {00000000-0000-0000-0000-000000000000}
 template: {FE5DD826-48C6-436D-B87A-7C4210C7413B}
 templatekey: Media folder
+created: 20190111T192805Z
 
 ----version----
 language: en
 version: 1
-revision: 0cf25ef9-d149-4288-9112-175d047aa423
+revision: 95fab5c0-229c-4097-b591-2eccda9ec41e
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -34,14 +35,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-0cf25ef9-d149-4288-9112-175d047aa423
+95fab5c0-229c-4097-b591-2eccda9ec41e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160705T192545Z
+20190111T192805Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

@@ -8,7 +8,7 @@ name: Anders Laub Christoffersen
 master: {00000000-0000-0000-0000-000000000000}
 template: {DAF085E8-602E-43A6-8299-038FF171349F}
 templatekey: Jpeg
-created: 20170612T151931Z
+created: 20190111T192830Z
 
 ----field----
 field: {40E50ED9-BA07-4702-992E-A912738D32DC}
@@ -252,7 +252,7 @@ content-length: 61
 ----version----
 language: en
 version: 1
-revision: 7c4d9160-5301-4e57-ad9c-2a4734a08d52
+revision: b80079b9-65dc-449c-a6e0-c856b065c59a
 
 ----field----
 field: {65885C44-8FCD-4A7F-94F1-EE63703FE193}
@@ -274,14 +274,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7c4d9160-5301-4e57-ad9c-2a4734a08d52
+b80079b9-65dc-449c-a6e0-c856b065c59a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151931Z
+20190111T192830Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -292,7 +292,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 23c83652-0651-4665-8ed9-8f5d34dfa832
+revision: f04cf031-921d-4b21-82f2-b8761a690128
 
 ----field----
 field: {65885C44-8FCD-4A7F-94F1-EE63703FE193}
@@ -321,14 +321,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-23c83652-0651-4665-8ed9-8f5d34dfa832
+f04cf031-921d-4b21-82f2-b8761a690128
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151931Z
+20190111T192830Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

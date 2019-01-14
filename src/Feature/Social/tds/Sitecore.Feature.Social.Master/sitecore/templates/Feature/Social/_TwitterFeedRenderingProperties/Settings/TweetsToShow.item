@@ -8,7 +8,7 @@ name: TweetsToShow
 master: {00000000-0000-0000-0000-000000000000}
 template: {455A3E98-A627-4B40-8035-E683A0331AC7}
 templatekey: Template field
-created: 20170612T151824Z
+created: 20190111T192735Z
 
 ----field----
 field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
@@ -41,7 +41,7 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: 2fae4997-2306-4bd6-bb9a-05317720a8ee
+revision: 0c8ac89f-a3eb-4f5b-a42f-cb44b2e97f73
 
 ----field----
 field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
@@ -70,14 +70,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2fae4997-2306-4bd6-bb9a-05317720a8ee
+0c8ac89f-a3eb-4f5b-a42f-cb44b2e97f73
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151825Z
+20190111T192735Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -88,7 +88,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 67957a24-e421-442e-8ffe-399ec9bcb4ff
+revision: 0af8c1dc-c0b8-425b-819a-12d609a9a070
 
 ----field----
 field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
@@ -117,14 +117,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-67957a24-e421-442e-8ffe-399ec9bcb4ff
+0af8c1dc-c0b8-425b-819a-12d609a9a070
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151825Z
+20190111T192735Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

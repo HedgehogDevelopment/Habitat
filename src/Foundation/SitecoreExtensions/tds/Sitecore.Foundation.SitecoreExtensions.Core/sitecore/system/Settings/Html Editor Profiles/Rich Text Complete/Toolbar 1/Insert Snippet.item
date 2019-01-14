@@ -8,6 +8,7 @@ name: Insert Snippet
 master: {B9ED3CCB-9EC5-4C8C-825B-3DBC2EB0E676}
 template: {A473CBD2-4E48-41B3-8B1B-5695DAF90B5C}
 templatekey: Html Editor Drop Down Button
+created: 20190111T192445Z
 
 ----field----
 field: {8D4F1B9F-D46B-4842-845D-4A3795DA1C0B}
@@ -26,7 +27,7 @@ content-length: 4
 ----version----
 language: da
 version: 1
-revision: 7fa44e50-7ad4-4833-8496-f2031f99c842
+revision: 6af8da46-dce9-47c2-9e45-6e971ffd91fa
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -55,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7fa44e50-7ad4-4833-8496-f2031f99c842
+6af8da46-dce9-47c2-9e45-6e971ffd91fa
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160405T151313Z
+20190111T192445Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -73,7 +74,7 @@ sitecore\unicorn
 ----version----
 language: de-DE
 version: 1
-revision: 4cd56221-6dd5-451c-98fa-7191d47af514
+revision: 687322d2-7166-4c13-87f1-35d56e9b6c41
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -102,14 +103,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4cd56221-6dd5-451c-98fa-7191d47af514
+687322d2-7166-4c13-87f1-35d56e9b6c41
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160405T151313Z
+20190111T192445Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -120,7 +121,7 @@ sitecore\unicorn
 ----version----
 language: en
 version: 1
-revision: af62f520-5c30-433d-8877-4c9b37b868b7
+revision: 0ec909d2-cd91-4412-871f-8fd1b3ec09f3
 
 ----field----
 field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
@@ -149,14 +150,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-af62f520-5c30-433d-8877-4c9b37b868b7
+0ec909d2-cd91-4412-871f-8fd1b3ec09f3
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160405T151313Z
+20190111T192445Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -167,7 +168,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 4b23398d-fa6b-49fb-9dfe-436ad188114a
+revision: 1822caa3-5d70-4a1d-909b-0a207858f8ca
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -196,14 +197,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4b23398d-fa6b-49fb-9dfe-436ad188114a
+1822caa3-5d70-4a1d-909b-0a207858f8ca
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160405T151314Z
+20190111T192445Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

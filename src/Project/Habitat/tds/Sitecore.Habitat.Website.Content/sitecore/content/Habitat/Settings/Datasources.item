@@ -8,12 +8,12 @@ name: Datasources
 master: {00000000-0000-0000-0000-000000000000}
 template: {7A98BE60-9F59-4064-82C2-58DA63562FA5}
 templatekey: Datasource Settings Folder
-created: 20170612T151918Z
+created: 20190111T192811Z
 
 ----version----
 language: en
 version: 1
-revision: ba5f34db-7996-410d-b3e9-de432dafa640
+revision: 11c84c75-ed3f-4cbb-8663-520fbe82cf74
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -28,25 +28,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ba5f34db-7996-410d-b3e9-de432dafa640
+11c84c75-ed3f-4cbb-8663-520fbe82cf74
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151918Z
+20190111T192811Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 18
 
-default\Anonymous
+extranet\Anonymous
 ----version----
 language: ja-JP
 version: 1
-revision: fe4a93e2-6e52-4ebe-b191-8b1565080fed
+revision: 471d176b-4b2d-43cc-ab6f-07d9c68e3e96
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -75,14 +75,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-fe4a93e2-6e52-4ebe-b191-8b1565080fed
+471d176b-4b2d-43cc-ab6f-07d9c68e3e96
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151918Z
+20190111T192811Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

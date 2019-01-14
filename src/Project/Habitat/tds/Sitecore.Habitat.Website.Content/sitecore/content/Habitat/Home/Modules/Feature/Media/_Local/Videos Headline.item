@@ -8,12 +8,12 @@ name: Videos Headline
 master: {00000000-0000-0000-0000-000000000000}
 template: {061574E1-59DD-4B62-9680-1C84EFBE6773}
 templatekey: Headline
-created: 20170612T151929Z
+created: 20190111T192827Z
 
 ----version----
 language: en
 version: 1
-revision: dd5a93e9-2e96-4680-b8ba-b8a505158c02
+revision: 47a385f3-8a2d-4fe2-903d-20facaf13db8
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -35,25 +35,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-dd5a93e9-2e96-4680-b8ba-b8a505158c02
+47a385f3-8a2d-4fe2-903d-20facaf13db8
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151929Z
+20190111T192827Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 18
 
-default\Anonymous
+extranet\Anonymous
 ----version----
 language: ja-JP
 version: 1
-revision: 4dcaca9e-40ae-4ade-8efc-0b640ca1feca
+revision: 0291a970-0e4f-40d3-ae5f-4cae76b9a09f
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -82,14 +82,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4dcaca9e-40ae-4ade-8efc-0b640ca1feca
+0291a970-0e4f-40d3-ae5f-4cae76b9a09f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151929Z
+20190111T192827Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

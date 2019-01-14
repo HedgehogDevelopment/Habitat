@@ -8,12 +8,12 @@ name: Left
 master: {00000000-0000-0000-0000-000000000000}
 template: {AC7394D5-2AA7-4FDB-A7D8-B1B87F9FA661}
 templatekey: Link Menu
-created: 20170612T151922Z
+created: 20190111T192817Z
 
 ----version----
 language: en
 version: 1
-revision: 37df010c-9942-49c7-83ad-2e98a6b1e8ad
+revision: b1e3c459-d159-4862-bef1-961d81ea82d2
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -28,25 +28,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-37df010c-9942-49c7-83ad-2e98a6b1e8ad
+b1e3c459-d159-4862-bef1-961d81ea82d2
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151922Z
+20190111T192817Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 16
 
-default\Anonymous
+sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: d49b886c-8e82-4024-816e-412923de886f
+revision: b6ce845f-ea20-44d0-bdc3-3c47213596a0
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -75,14 +75,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d49b886c-8e82-4024-816e-412923de886f
+b6ce845f-ea20-44d0-bdc3-3c47213596a0
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151922Z
+20190111T192817Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

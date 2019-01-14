@@ -8,12 +8,12 @@ name: Headline Tabs
 master: {00000000-0000-0000-0000-000000000000}
 template: {061574E1-59DD-4B62-9680-1C84EFBE6773}
 templatekey: Headline
-created: 20170612T151924Z
+created: 20190111T192816Z
 
 ----version----
 language: en
 version: 1
-revision: 965c9c60-2311-43e6-904b-79358b08fedc
+revision: 29a697af-b3e0-4977-886e-263dddf8397c
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -35,25 +35,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-965c9c60-2311-43e6-904b-79358b08fedc
+29a697af-b3e0-4977-886e-263dddf8397c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151924Z
+20190111T192816Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 18
 
-default\Anonymous
+extranet\Anonymous
 ----version----
 language: ja-JP
 version: 1
-revision: c637a90f-dbf5-4df1-8cb8-4a8e8e11d3b5
+revision: 29230296-bab0-4a2c-a553-27097621aaaa
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -89,14 +89,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c637a90f-dbf5-4df1-8cb8-4a8e8e11d3b5
+29230296-bab0-4a2c-a553-27097621aaaa
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151924Z
+20190111T192816Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

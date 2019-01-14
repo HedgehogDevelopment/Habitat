@@ -8,7 +8,7 @@ name: Datasource Configuration
 master: {00000000-0000-0000-0000-000000000000}
 template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
 templatekey: Template
-created: 20170612T151613Z
+created: 20190111T192524Z
 
 ----field----
 field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
@@ -27,7 +27,7 @@ Apps/32x32/Routes.png
 ----version----
 language: en
 version: 1
-revision: d8c9f940-92a4-4db2-a4c1-ffd0500633f8
+revision: 4210ad8b-9968-4d6f-8e67-35169d2afbff
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -49,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d8c9f940-92a4-4db2-a4c1-ffd0500633f8
+4210ad8b-9968-4d6f-8e67-35169d2afbff
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151615Z
+20190111T192524Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -67,7 +67,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: fef54d6b-376e-4be1-abe5-1617e7590e75
+revision: dd014d92-10fb-4c66-8873-5fb1cce7c82b
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -96,14 +96,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-fef54d6b-376e-4be1-abe5-1617e7590e75
+dd014d92-10fb-4c66-8873-5fb1cce7c82b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151616Z
+20190111T192524Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

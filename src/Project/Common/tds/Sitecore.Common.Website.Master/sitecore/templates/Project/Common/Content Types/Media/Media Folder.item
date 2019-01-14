@@ -8,7 +8,7 @@ name: Media Folder
 master: {00000000-0000-0000-0000-000000000000}
 template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
 templatekey: Template
-created: 20170612T151859Z
+created: 20190111T192756Z
 
 ----field----
 field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
@@ -34,7 +34,7 @@ Applications/16x16/folder_movie.png
 ----version----
 language: en
 version: 1
-revision: ef17aabc-357c-4bd0-b8ef-476cd737a72f
+revision: e3ff1053-3f05-4068-8ad6-06eb02700090
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ef17aabc-357c-4bd0-b8ef-476cd737a72f
+e3ff1053-3f05-4068-8ad6-06eb02700090
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151859Z
+20190111T192757Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -74,7 +74,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 11aadf66-60f2-4ebe-9410-353ea3619b88
+revision: 066a528d-db98-4a28-82ac-8147586aff43
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -103,14 +103,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-11aadf66-60f2-4ebe-9410-353ea3619b88
+066a528d-db98-4a28-82ac-8147586aff43
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151859Z
+20190111T192757Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

@@ -8,7 +8,7 @@ name: The Stable Dependencies Principle
 master: {00000000-0000-0000-0000-000000000000}
 template: {C7D9D293-4EF8-4380-8E10-C4632E729F39}
 templatekey: Teaser
-created: 20170612T151923Z
+created: 20190111T192817Z
 
 ----field----
 field: {E8AB122C-6F54-4D4E-AEC6-F81ADDC558FC}
@@ -20,7 +20,7 @@ content-length: 128
 ----version----
 language: en
 version: 1
-revision: a8f6497d-09eb-4786-b6de-20de91c37bc0
+revision: 26b5f9d2-f974-415d-94c5-1126d6cfc6f5
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -49,25 +49,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a8f6497d-09eb-4786-b6de-20de91c37bc0
+26b5f9d2-f974-415d-94c5-1126d6cfc6f5
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151923Z
+20190111T192817Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 18
 
-default\Anonymous
+extranet\Anonymous
 ----version----
 language: ja-JP
 version: 1
-revision: 937229f5-88fb-45ca-a96a-28acde0d4076
+revision: 2b63eb77-285e-4ccc-a6cb-cbb17d8199f6
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -103,14 +103,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-937229f5-88fb-45ca-a96a-28acde0d4076
+2b63eb77-285e-4ccc-a6cb-cbb17d8199f6
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151923Z
+20190111T192817Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

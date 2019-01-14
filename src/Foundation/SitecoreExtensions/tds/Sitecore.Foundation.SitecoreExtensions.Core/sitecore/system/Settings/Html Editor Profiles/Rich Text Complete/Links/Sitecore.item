@@ -8,6 +8,7 @@ name: Sitecore
 master: {86584D00-3712-4928-B9A0-C2058E098537}
 template: {D73319BC-E3DF-45B9-B545-A255AA7E3C88}
 templatekey: Html Editor Html Item
+created: 20190111T192443Z
 
 ----field----
 field: {CA0ADFC1-B5D8-4338-AAEC-F0DADD0F5C55}
@@ -19,7 +20,7 @@ http://www.sitecore.net
 ----version----
 language: da
 version: 1
-revision: 72b00488-9ade-47a6-84d1-ed770ddcc6fd
+revision: 8a7ca2de-a655-4f4a-b353-b254df2fec8c
 
 ----field----
 field: {4BFAA1D9-C66A-45AC-BE10-99DFE91739D8}
@@ -55,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-72b00488-9ade-47a6-84d1-ed770ddcc6fd
+8a7ca2de-a655-4f4a-b353-b254df2fec8c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160405T151311Z
+20190111T192443Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -73,7 +74,7 @@ sitecore\unicorn
 ----version----
 language: de-DE
 version: 1
-revision: 021b5ef8-9f7f-4b47-8ac9-1b0fe23c3c57
+revision: 942b94cd-5e8a-4048-a7e9-c5b849bcd62a
 
 ----field----
 field: {4BFAA1D9-C66A-45AC-BE10-99DFE91739D8}
@@ -109,14 +110,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-021b5ef8-9f7f-4b47-8ac9-1b0fe23c3c57
+942b94cd-5e8a-4048-a7e9-c5b849bcd62a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160405T151311Z
+20190111T192443Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -127,7 +128,7 @@ sitecore\unicorn
 ----version----
 language: en
 version: 1
-revision: a1faf23f-037f-42a6-b5e0-a01e30648c5a
+revision: 1704169a-3327-4267-b888-19baf4e45c34
 
 ----field----
 field: {4BFAA1D9-C66A-45AC-BE10-99DFE91739D8}
@@ -163,14 +164,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a1faf23f-037f-42a6-b5e0-a01e30648c5a
+1704169a-3327-4267-b888-19baf4e45c34
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160405T151311Z
+20190111T192443Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -181,7 +182,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 55956fca-f920-48ff-9e29-50b34fd805b7
+revision: 120d5dd1-3f6b-4b49-b743-d8d30854239e
 
 ----field----
 field: {4BFAA1D9-C66A-45AC-BE10-99DFE91739D8}
@@ -217,14 +218,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-55956fca-f920-48ff-9e29-50b34fd805b7
+120d5dd1-3f6b-4b49-b743-d8d30854239e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160405T151311Z
+20190111T192443Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

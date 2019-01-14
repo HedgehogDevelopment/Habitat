@@ -8,15 +8,15 @@ name: Habitat
 master: {00000000-0000-0000-0000-000000000000}
 template: {94A8C8E9-690B-4E65-98E7-F95800222767}
 templatekey: Article
-created: 20170612T151925Z
+created: 20190111T192820Z
 
 ----field----
 field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
 name: __Tracking
 key: __tracking
-content-length: 256
+content-length: 467
 
-<tracking><profile id="{24DFF2CF-B30A-4B75-8967-2FE3DED82271}" name="Focus" presets="development|100||"><key name="Background" value="0" /><key name="Practical" value="8" /><key name="Process" value="2" /><key name="Scope" value="5" /></profile></tracking>
+<tracking><profile id="24dff2cf-b30a-4b75-8967-2fe3ded82271" name="Focus" presets="development|100||"><key name="Background" value="0" /><key name="Practical" value="8" /><key name="Process" value="2" /><key name="Scope" value="5" /></profile><profile id="c4cc3ef6-a779-44ad-9021-01f1dae26270" name="Layers" presets="pam the project layer|100||"><key name="Feature" value="3" /><key name="Foundation" value="0" /><key name="Project" value="10" /></profile></tracking>
 ----field----
 field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
 name: __Sortorder
@@ -27,7 +27,7 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: 63df2777-50b2-47fe-ab4e-2fb4f151dd84
+revision: 00599dd9-a45e-4b06-9b02-f2ff64b00c1d
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -86,14 +86,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-63df2777-50b2-47fe-ab4e-2fb4f151dd84
+00599dd9-a45e-4b06-9b02-f2ff64b00c1d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151925Z
+20190111T192820Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -104,7 +104,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 5fdb401f-6b95-40cc-b8e6-48d5539f39a4
+revision: b6eb303d-4756-4ddf-a89b-c46e1ee697e2
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -170,14 +170,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-5fdb401f-6b95-40cc-b8e6-48d5539f39a4
+b6eb303d-4756-4ddf-a89b-c46e1ee697e2
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151925Z
+20190111T192820Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

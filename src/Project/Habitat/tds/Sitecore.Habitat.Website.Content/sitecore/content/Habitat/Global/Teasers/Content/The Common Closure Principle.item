@@ -8,7 +8,7 @@ name: The Common Closure Principle
 master: {00000000-0000-0000-0000-000000000000}
 template: {C7D9D293-4EF8-4380-8E10-C4632E729F39}
 templatekey: Teaser
-created: 20170612T151923Z
+created: 20190111T192817Z
 
 ----field----
 field: {E8AB122C-6F54-4D4E-AEC6-F81ADDC558FC}
@@ -20,7 +20,7 @@ content-length: 123
 ----version----
 language: en
 version: 1
-revision: 9c1f0a7f-df1c-4d6e-99b9-44e75e86c04f
+revision: 1457c413-6e49-46c3-801c-22bcacab2b93
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -50,25 +50,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-9c1f0a7f-df1c-4d6e-99b9-44e75e86c04f
+1457c413-6e49-46c3-801c-22bcacab2b93
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151923Z
+20190111T192817Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 18
 
-default\Anonymous
+extranet\Anonymous
 ----version----
 language: ja-JP
 version: 1
-revision: 921dc0ec-53e2-4291-9aed-8e4963f08f3e
+revision: fb204f24-1875-4b98-8fc6-c9efdcd59343
 
 ----field----
 field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
@@ -105,14 +105,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-921dc0ec-53e2-4291-9aed-8e4963f08f3e
+fb204f24-1875-4b98-8fc6-c9efdcd59343
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151923Z
+20190111T192817Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

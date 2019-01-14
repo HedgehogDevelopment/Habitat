@@ -8,7 +8,7 @@ name: Style
 master: {00000000-0000-0000-0000-000000000000}
 template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
 templatekey: Template
-created: 20170612T151619Z
+created: 20190111T192526Z
 
 ----field----
 field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
@@ -27,7 +27,7 @@ People/32x32/brush1.png
 ----version----
 language: en
 version: 1
-revision: 952d3808-947f-4856-9191-fe8cf21826a6
+revision: 72d9b41b-4394-45d4-9144-9cbaf14ca22d
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -49,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-952d3808-947f-4856-9191-fe8cf21826a6
+72d9b41b-4394-45d4-9144-9cbaf14ca22d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151619Z
+20190111T192526Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -67,7 +67,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 4dd76eb9-27a2-4b3a-bd3f-53e2617010b2
+revision: 933c22a5-a92f-4234-8f01-7560e3e72ecb
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -96,14 +96,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4dd76eb9-27a2-4b3a-bd3f-53e2617010b2
+933c22a5-a92f-4234-8f01-7560e3e72ecb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151619Z
+20190111T192526Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

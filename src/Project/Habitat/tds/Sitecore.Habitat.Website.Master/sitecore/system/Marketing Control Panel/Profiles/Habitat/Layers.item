@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {C4CC3EF6-A779-44AD-9021-01F1DAE26270}
+database: master
+path: /sitecore/system/Marketing Control Panel/Profiles/Habitat/Layers
+parent: {5411EB5C-8A94-4EAE-922F-4B20F1FBE164}
+name: Layers
+master: {07624A03-BB2F-45D8-ABE1-15E2B1705FF3}
+template: {8E0C1738-3591-4C60-8151-54ABCC9807D1}
+templatekey: Profile
+created: 20190111T192833Z
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{67759D75-62E4-4945-8199-913BBECD1879}
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: 1c41bc6f-94e6-4953-adb1-9a012d300e3a
+
+----field----
+field: {5D9FE5D7-4C45-4A98-A1F5-4796A6DA428B}
+name: Name
+key: name
+content-length: 6
+
+Layers
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20171005T141720Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1c41bc6f-94e6-4953-adb1-9a012d300e3a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190111T192833Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{39156DC0-21C6-4F64-B641-31E85C8F5DFE}

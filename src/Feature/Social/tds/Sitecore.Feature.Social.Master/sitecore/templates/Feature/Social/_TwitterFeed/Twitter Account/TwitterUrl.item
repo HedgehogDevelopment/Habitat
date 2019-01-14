@@ -8,7 +8,7 @@ name: TwitterUrl
 master: {00000000-0000-0000-0000-000000000000}
 template: {455A3E98-A627-4B40-8035-E683A0331AC7}
 templatekey: Template field
-created: 20170612T151824Z
+created: 20190111T192735Z
 
 ----field----
 field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
@@ -34,7 +34,7 @@ ar|Everyone|pe|!*|+field:read|pd|!*|+field:read|ar|modules\Feature Social Admin|
 ----version----
 language: en
 version: 1
-revision: f4e39ba3-7882-42ee-a092-018a96a82f34
+revision: 468146ec-36fb-492e-a0d0-81b30b0b6786
 
 ----field----
 field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
@@ -63,14 +63,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f4e39ba3-7882-42ee-a092-018a96a82f34
+468146ec-36fb-492e-a0d0-81b30b0b6786
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151824Z
+20190111T192735Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -81,7 +81,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 7cd7585c-a274-4688-a2d1-66c5779b13c0
+revision: bc0b5da1-1a1e-41f0-9733-fac41b612783
 
 ----field----
 field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
@@ -110,14 +110,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7cd7585c-a274-4688-a2d1-66c5779b13c0
+bc0b5da1-1a1e-41f0-9733-fac41b612783
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151824Z
+20190111T192735Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

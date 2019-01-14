@@ -8,12 +8,12 @@ name: Manly
 master: {00000000-0000-0000-0000-000000000000}
 template: {11C28D16-9B88-456E-A42B-D4B5A82867E3}
 templatekey: Map Point
-created: 20170612T151923Z
+created: 20190111T192818Z
 
 ----version----
 language: en
 version: 1
-revision: 0ed6d1fb-8354-4e2a-965a-7ac93b84de9c
+revision: 7dd60f30-d59d-45f6-a89f-59f64340be6f
 
 ----field----
 field: {F12C22BB-E57D-4FAB-96E1-1229E4E7FF0E}
@@ -49,25 +49,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-0ed6d1fb-8354-4e2a-965a-7ac93b84de9c
+7dd60f30-d59d-45f6-a89f-59f64340be6f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151923Z
+20190111T192818Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 17
+content-length: 16
 
-default\Anonymous
+sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 51c065a8-961c-46d4-a2d6-e3d0e16f03a8
+revision: 1c8f0129-1d69-4464-bcf2-0b60da17d2ce
 
 ----field----
 field: {F12C22BB-E57D-4FAB-96E1-1229E4E7FF0E}
@@ -117,14 +117,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-51c065a8-961c-46d4-a2d6-e3d0e16f03a8
+1c8f0129-1d69-4464-bcf2-0b60da17d2ce
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151923Z
+20190111T192818Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

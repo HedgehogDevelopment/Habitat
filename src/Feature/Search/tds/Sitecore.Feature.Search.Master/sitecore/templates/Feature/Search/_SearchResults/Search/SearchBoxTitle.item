@@ -8,7 +8,7 @@ name: SearchBoxTitle
 master: {00000000-0000-0000-0000-000000000000}
 template: {455A3E98-A627-4B40-8035-E683A0331AC7}
 templatekey: Template field
-created: 20170612T151820Z
+created: 20190111T192725Z
 
 ----field----
 field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
@@ -34,7 +34,7 @@ ar|modules\Feature Search Admin|pe|+field:write|pd|+field:write|ar|Everyone|pe|!
 ----version----
 language: en
 version: 1
-revision: 28c3489f-d05a-4102-a314-a81e4866de1f
+revision: b3e1f9f5-d1f5-4ad5-97c7-c284368139d8
 
 ----field----
 field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
@@ -63,14 +63,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-28c3489f-d05a-4102-a314-a81e4866de1f
+b3e1f9f5-d1f5-4ad5-97c7-c284368139d8
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151820Z
+20190111T192725Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -81,7 +81,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 886a90fe-48c7-4113-8679-35bd222c7b3f
+revision: 54e0cd2b-f5d9-48ad-9812-6941755b1ffe
 
 ----field----
 field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
@@ -110,14 +110,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-886a90fe-48c7-4113-8679-35bd222c7b3f
+54e0cd2b-f5d9-48ad-9812-6941755b1ffe
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151820Z
+20190111T192725Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

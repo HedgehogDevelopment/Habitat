@@ -8,12 +8,19 @@ name: Assets
 master: {00000000-0000-0000-0000-000000000000}
 template: {94A8C8E9-690B-4E65-98E7-F95800222767}
 templatekey: Article
-created: 20170612T151925Z
+created: 20190111T192820Z
 
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 238
+
+<tracking><profile id="c4cc3ef6-a779-44ad-9021-01f1dae26270" name="Layers" presets="finn the foundation layer|100||"><key name="Feature" value="2" /><key name="Foundation" value="10" /><key name="Project" value="0" /></profile></tracking>
 ----version----
 language: en
 version: 1
-revision: 16db233e-1cee-4d35-b32f-75f923130b69
+revision: cb227efb-f27f-46a5-97e3-b55ed24a22f6
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -56,14 +63,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-16db233e-1cee-4d35-b32f-75f923130b69
+cb227efb-f27f-46a5-97e3-b55ed24a22f6
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151925Z
+20190111T192820Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -74,7 +81,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: c591ddc7-e804-4448-963b-2baa0b1e785c
+revision: 3d14c2a7-d768-40ae-8d82-6d5a240b9ecc
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
@@ -138,14 +145,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c591ddc7-e804-4448-963b-2baa0b1e785c
+3d14c2a7-d768-40ae-8d82-6d5a240b9ecc
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151925Z
+20190111T192820Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

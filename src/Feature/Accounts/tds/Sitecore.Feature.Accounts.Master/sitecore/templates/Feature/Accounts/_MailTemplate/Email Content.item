@@ -8,12 +8,12 @@ name: Email Content
 master: {00000000-0000-0000-0000-000000000000}
 template: {E269FBB5-3750-427A-9149-7AA950B49301}
 templatekey: Template section
-created: 20170612T151630Z
+created: 20190111T192535Z
 
 ----version----
 language: en
 version: 1
-revision: 84fa0971-47c3-4fa4-8c7b-4021afc817f0
+revision: 8494e28e-2281-499a-a4ae-6f936f926fef
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -35,14 +35,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-84fa0971-47c3-4fa4-8c7b-4021afc817f0
+8494e28e-2281-499a-a4ae-6f936f926fef
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151630Z
+20190111T192535Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -53,7 +53,7 @@ sitecore\unicorn
 ----version----
 language: ja-JP
 version: 1
-revision: 85d88e17-24d8-45c5-9335-1348ece311de
+revision: 39f338e4-241f-443a-b1bc-55c36ba8f599
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -82,14 +82,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-85d88e17-24d8-45c5-9335-1348ece311de
+39f338e4-241f-443a-b1bc-55c36ba8f599
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170612T151630Z
+20190111T192535Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
