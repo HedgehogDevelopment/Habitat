@@ -42,8 +42,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{9A8F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Habitat.Website", "src\Project\Habitat\code\Sitecore.Habitat.Website.csproj", "{86CADB26-5817-46B6-88C7-76D5753722C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Serialization", "src\foundation\Serialization\code\Sitecore.Foundation.Serialization.csproj", "{007CD5DC-0030-460D-91A3-3DDEA9AB472F}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.Accounts", "src\feature\Accounts\code\Sitecore.Feature.Accounts.csproj", "{3F61C57D-50D9-4194-8196-EF5F7AA4CCE5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Indexing", "src\foundation\Indexing\code\Sitecore.Foundation.Indexing.csproj", "{80213F24-577F-4F0B-A3B8-62485EA4D2F3}"
@@ -162,42 +160,90 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Testing", "src\Foundation\Testing\tests\Sitecore.Foundation.Testing.csproj", "{7CC3D72B-4518-4B78-BE48-630A263C0F5B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.Language.Tests", "src\Feature\Language\Tests\Sitecore.Feature.Language.Tests.csproj", "{B65AC070-F56C-4C2C-9D0E-E76CEF7E8928}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0CF1F7D9-121A-4E40-844C-612EC40345F5} = {0CF1F7D9-121A-4E40-844C-612EC40345F5}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.Maps.Tests", "src\Feature\Maps\tests\Sitecore.Feature.Maps.Tests.csproj", "{268D8E32-75BB-4830-9D0E-3F70E1C75A5F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B65AC070-F56C-4C2C-9D0E-E76CEF7E8928} = {B65AC070-F56C-4C2C-9D0E-E76CEF7E8928}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.Media.Tests", "src\Feature\Media\Tests\Sitecore.Feature.Media.Tests.csproj", "{097A482B-CD89-4BA9-939F-B232D35AF8E1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{268D8E32-75BB-4830-9D0E-3F70E1C75A5F} = {268D8E32-75BB-4830-9D0E-3F70E1C75A5F}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.Multisite.Tests", "src\Feature\Multisite\tests\Sitecore.Feature.Multisite.Tests.csproj", "{B2D57490-58A9-4F73-A34E-B4076713F712}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.News.Tests", "src\Feature\News\Tests\Sitecore.Feature.News.Tests.csproj", "{ADF3A6FF-9E94-400D-8A03-DE9C3A778186}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B2D57490-58A9-4F73-A34E-B4076713F712} = {B2D57490-58A9-4F73-A34E-B4076713F712}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.Person.Tests", "src\Feature\Person\tests\Sitecore.Feature.Person.Tests.csproj", "{931B6ABB-1791-44F8-9727-4110FB59C961}"
+	ProjectSection(ProjectDependencies) = postProject
+		{ADF3A6FF-9E94-400D-8A03-DE9C3A778186} = {ADF3A6FF-9E94-400D-8A03-DE9C3A778186}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.Teasers.Tests", "src\Feature\Teasers\tests\Sitecore.Feature.Teasers.Tests.csproj", "{E2E3E9FC-15EB-4212-A6BD-A0D9590541E4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Alerts.Tests", "src\Foundation\Alerts\tests\Sitecore.Foundation.Alerts.Tests.csproj", "{EC2C5218-7C4E-4010-820B-8F2593E77AE3}"
+	ProjectSection(ProjectDependencies) = postProject
+		{461905E3-1D1F-4A75-A4AF-0EFBC0B35F07} = {461905E3-1D1F-4A75-A4AF-0EFBC0B35F07}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Dictionary.Tests", "src\Foundation\Dictionary\tests\Sitecore.Foundation.Dictionary.Tests.csproj", "{C6AED40E-22F8-49EC-AA3E-D9323E207A9D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{EC2C5218-7C4E-4010-820B-8F2593E77AE3} = {EC2C5218-7C4E-4010-820B-8F2593E77AE3}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.FieldEditor.Tests", "src\Foundation\FieldEditor\tests\Sitecore.Foundation.FieldEditor.Tests.csproj", "{F1585C81-8BFD-44D5-8601-C4A4CF5BEA33}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C6AED40E-22F8-49EC-AA3E-D9323E207A9D} = {C6AED40E-22F8-49EC-AA3E-D9323E207A9D}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Indexing.Tests", "src\Foundation\Indexing\Tests\Sitecore.Foundation.Indexing.Tests.csproj", "{3ECFDA25-B8AE-43F5-9CA9-4AFDF1F96901}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F1585C81-8BFD-44D5-8601-C4A4CF5BEA33} = {F1585C81-8BFD-44D5-8601-C4A4CF5BEA33}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Installer.Tests", "src\Foundation\Installer\tests\Sitecore.Foundation.Installer.Tests.csproj", "{EDD5B894-28C3-4FB5-8A85-AFD9C2FD823D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3ECFDA25-B8AE-43F5-9CA9-4AFDF1F96901} = {3ECFDA25-B8AE-43F5-9CA9-4AFDF1F96901}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.LocalDatasource.Tests", "src\Foundation\LocalDatasource\tests\Sitecore.Foundation.LocalDatasource.Tests.csproj", "{1E797ECB-D017-4ED6-8706-BC89B556F26C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{EDD5B894-28C3-4FB5-8A85-AFD9C2FD823D} = {EDD5B894-28C3-4FB5-8A85-AFD9C2FD823D}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Multisite.Tests", "src\Foundation\Multisite\tests\Sitecore.Foundation.Multisite.Tests.csproj", "{57295D42-6C03-455B-8202-12AEAF233677}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1E797ECB-D017-4ED6-8706-BC89B556F26C} = {1E797ECB-D017-4ED6-8706-BC89B556F26C}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Theming.Tests", "src\Foundation\Theming\tests\Sitecore.Foundation.Theming.Tests.csproj", "{A4C73B2A-8F4A-48C5-BFEE-EA31B3DC34D3}"
+	ProjectSection(ProjectDependencies) = postProject
+		{85F735B7-9BEE-43C3-94DF-539CE267F0B9} = {85F735B7-9BEE-43C3-94DF-539CE267F0B9}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.SitecoreExtensions.Tests", "src\Foundation\SitecoreExtensions\Tests\Sitecore.Foundation.SitecoreExtensions.Tests.csproj", "{85F735B7-9BEE-43C3-94DF-539CE267F0B9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{57295D42-6C03-455B-8202-12AEAF233677} = {57295D42-6C03-455B-8202-12AEAF233677}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Accounts.Tests", "src\Foundation\Accounts\tests\Sitecore.Foundation.Accounts.Tests.csproj", "{461905E3-1D1F-4A75-A4AF-0EFBC0B35F07}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.Accounts.Tests", "src\Feature\Accounts\Tests\Sitecore.Feature.Accounts.Tests.csproj", "{0049EB56-74D3-4F39-B0CE-2295E0747F09}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A4C73B2A-8F4A-48C5-BFEE-EA31B3DC34D3} = {A4C73B2A-8F4A-48C5-BFEE-EA31B3DC34D3}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.Demo.Tests", "src\Feature\Demo\tests\Sitecore.Feature.Demo.Tests.csproj", "{0CF1F7D9-121A-4E40-844C-612EC40345F5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0049EB56-74D3-4F39-B0CE-2295E0747F09} = {0049EB56-74D3-4F39-B0CE-2295E0747F09}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -293,14 +339,6 @@ Global
 		{86CADB26-5817-46B6-88C7-76D5753722C3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{86CADB26-5817-46B6-88C7-76D5753722C3}.Release|x64.ActiveCfg = Release|Any CPU
 		{86CADB26-5817-46B6-88C7-76D5753722C3}.Release|x64.Build.0 = Release|Any CPU
-		{007CD5DC-0030-460D-91A3-3DDEA9AB472F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{007CD5DC-0030-460D-91A3-3DDEA9AB472F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{007CD5DC-0030-460D-91A3-3DDEA9AB472F}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{007CD5DC-0030-460D-91A3-3DDEA9AB472F}.Debug|x64.Build.0 = Debug|Any CPU
-		{007CD5DC-0030-460D-91A3-3DDEA9AB472F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{007CD5DC-0030-460D-91A3-3DDEA9AB472F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{007CD5DC-0030-460D-91A3-3DDEA9AB472F}.Release|x64.ActiveCfg = Release|Any CPU
-		{007CD5DC-0030-460D-91A3-3DDEA9AB472F}.Release|x64.Build.0 = Release|Any CPU
 		{3F61C57D-50D9-4194-8196-EF5F7AA4CCE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3F61C57D-50D9-4194-8196-EF5F7AA4CCE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F61C57D-50D9-4194-8196-EF5F7AA4CCE5}.Debug|x64.ActiveCfg = Debug|Any CPU
@@ -629,7 +667,6 @@ Global
 		{ACA65632-EE93-422B-B25E-8E31969694F5} = {3BB5C2EE-694B-49F4-989F-8484FD0A3F75}
 		{1417B162-F987-4CBD-8642-CA4C4119E705} = {836F4115-EB6C-468A-AE65-6F123B0376E8}
 		{86CADB26-5817-46B6-88C7-76D5753722C3} = {E5ADCE9F-29A4-42D7-A316-2A1AD6E23E3E}
-		{007CD5DC-0030-460D-91A3-3DDEA9AB472F} = {BF8EAE6B-0DFD-45EC-A419-1EC760FE9E49}
 		{3F61C57D-50D9-4194-8196-EF5F7AA4CCE5} = {C7886F90-3A67-4889-8ACC-F07D42CFDBF0}
 		{80213F24-577F-4F0B-A3B8-62485EA4D2F3} = {641F22ED-9C6A-4ADA-A9E7-7CA6A67E39B1}
 		{64C1C1EF-71CB-47BD-92F9-4E50CE35BD9F} = {8AE5D37C-D340-4D66-8BAE-48A7ED60BCE8}
