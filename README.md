@@ -40,7 +40,7 @@ TDS is an Enterprise-grade, Sitecore development and deployment tool created by 
 ### Config Transforms ###
 Config transforms are implemented through XDT transforms using Visual Studio builds and TDS's in-build transforming capabilities. This works similar to the popular Visual Studio extension, Slow Cheetah.
  - The Sitecore, out-of-the-box App_Config/Security/Domains.config and Web.config are included in the solution (in the Project.Habitat module)
- - App_Config/Security/Domains.config is patched during a build using the Domains.[Configuration].config file. This transform file includes the transforms from Foundation.Accounts and Project.Habitat from the original repo.
+ - App_Config/Security/Domains.config is patched during a build using the Domains.[Configuration].config file. This transform file includes the transforms from Feature.Accounts and Foundation.Accounts from the original repo.
  - Web.config is patched, and directly has the transforms from the Foundation.Forms, Foundation.Installer and Project.Common modules in it.
 
 ### Build Order ###

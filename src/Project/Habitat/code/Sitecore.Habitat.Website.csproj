@@ -136,6 +136,13 @@
     </Content>
     <Content Include="favicon.ico" />
     <None Include="App_Config\layers.config.xdt" />
+    <Content Include="App_Config\Security\Domains.config" />
+    <None Include="App_Config\Security\Domains.Debug.config">
+      <DependentUpon>Domains.config</DependentUpon>
+    </None>
+    <None Include="App_Config\Security\Domains.Release.config">
+      <DependentUpon>Domains.config</DependentUpon>
+    </None>
     <None Include="App_Data\packages\Habitat.xml" />
     <None Include="Properties\PublishProfiles\Standalone.pubxml" />
     <Content Include="App_Config\Environment\Project\Habitat.Dev.config">
