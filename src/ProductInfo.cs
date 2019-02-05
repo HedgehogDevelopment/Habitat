@@ -12,3 +12,4 @@
 [assembly: AssemblyCulture("")]
 
 [assembly: AssemblyVersion("9.0.0.*")]
+[assembly: AssemblyInformationalVersion("1.0.0.0")]
