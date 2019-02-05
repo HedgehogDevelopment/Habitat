@@ -23,16 +23,38 @@
     <AssemblyName>Sitecore.Foundation.Serialization.Master</AssemblyName>
     <Name>Sitecore.Foundation.Serialization.Master</Name>
     <RootNamespace>Sitecore.Foundation.Serialization.Master</RootNamespace>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
     <OutputPath>.\bin\Debug\</OutputPath>
     <RecursiveDeployAction>Ignore</RecursiveDeployAction>
+    <PackageName>Sitecore.Habitat.TDS</PackageName>
+    <PackageAuthor>Sean Holmesby</PackageAuthor>
+    <PackagePublisher>Hedgehog</PackagePublisher>
+    <PackageVersion>1.7.0.0</PackageVersion>
+    <PackageReadme>Sitecore 9.1 Package</PackageReadme>
+    <SitecoreAssemblyPath />
+    <GeneratePackage>True</GeneratePackage>
+    <SeperateFilesAndItems>False</SeperateFilesAndItems>
+    <PackageExcludeCode>False</PackageExcludeCode>
+    <AddDateTimeToPackageName>False</AddDateTimeToPackageName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
     <DebugSymbols>false</DebugSymbols>
     <OutputPath>.\bin\Release\</OutputPath>
     <RecursiveDeployAction>Ignore</RecursiveDeployAction>
+    <PackageName>Sitecore.Habitat.TDS</PackageName>
+    <PackageAuthor>Sean Holmesby</PackageAuthor>
+    <PackagePublisher>Hedgehog</PackagePublisher>
+    <PackageVersion>1.7.0.0</PackageVersion>
+    <PackageReadme>Sitecore 9.1 Package</PackageReadme>
+    <SitecoreAssemblyPath />
+    <GeneratePackage>False</GeneratePackage>
+    <SeperateFilesAndItems>False</SeperateFilesAndItems>
+    <PackageExcludeCode>False</PackageExcludeCode>
+    <AddDateTimeToPackageName>False</AddDateTimeToPackageName>
   </PropertyGroup>
   <ItemGroup>
     <AssemblyAttributes Include="AssemblyFileVersion">
@@ -189,14 +211,246 @@
     </SitecoreItem>
   </ItemGroup>
   <ItemGroup>
+    <BundledProject Include="..\..\..\..\Feature\Accounts\tds\Sitecore.Feature.Accounts.Core\Sitecore.Feature.Accounts.Core.scproj">
+      <ProjectId>{aec741a2-5bc2-4c9a-807e-c6bc56ff8031}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\..\Feature\Accounts\tds\Sitecore.Feature.Accounts.Master\Sitecore.Feature.Accounts.Master.scproj">
+      <ProjectId>{ae13d34c-cd4f-40c1-8ef3-06f1366d5a81}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\..\Feature\Demo\tds\Sitecore.Feature.Demo.Master\Sitecore.Feature.Demo.Master.scproj">
+      <ProjectId>{e0598453-0397-4daa-b3a0-064c8b3f25f5}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\..\Feature\faq\tds\Sitecore.Feature.FAQ.Master\Sitecore.Feature.FAQ.Master.scproj">
+      <ProjectId>{dddc658e-bf73-4f12-b10c-21463aa55112}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\..\Feature\Identity\tds\Sitecore.Feature.Identity.Master\Sitecore.Feature.Identity.Master.scproj">
+      <ProjectId>{bcbeaeb7-1371-49e6-a00d-ad62e1ccd19a}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\..\Feature\Language\tds\Sitecore.Feature.Language.Master\Sitecore.Feature.Language.Master.scproj">
+      <ProjectId>{c5a686ea-9c06-4d79-b4eb-e10af3cdaf1e}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\..\Feature\Maps\tds\Sitecore.Feature.Maps.Core\Sitecore.Feature.Maps.Core.scproj">
+      <ProjectId>{c7fefd13-b99f-433d-9dc0-1d1762b73b73}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\..\Feature\Maps\tds\Sitecore.Feature.Maps.Master\Sitecore.Feature.Maps.Master.scproj">
+      <ProjectId>{c81b58ef-884f-4d28-8f9f-b4385d880183}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\..\Feature\Media\tds\Sitecore.Feature.Media.Master\Sitecore.Feature.Media.Master.scproj">
+      <ProjectId>{4042b797-0e29-4459-ae97-2e274b76b018}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\..\Feature\Metadata\tds\Sitecore.Feature.Metadata.Master\Sitecore.Feature.Metadata.Master.scproj">
+      <ProjectId>{4d451c82-35c9-4018-b127-2f36d31917a3}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\..\Feature\Multisite\tds\Sitecore.Feature.Multisite.Master\Sitecore.Feature.Multisite.Master.scproj">
+      <ProjectId>{0d343d50-1fbc-452e-bb77-73aeccd15111}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\..\Feature\Navigation\tds\Sitecore.Feature.Navigation.Master\Sitecore.Feature.Navigation.Master.scproj">
+      <ProjectId>{8269f815-d34f-4797-8a5d-9ce761a1a8dd}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\..\Feature\News\tds\Sitecore.Feature.News.Master\Sitecore.Feature.News.Master.scproj">
+      <ProjectId>{ccff3497-44a0-493e-a440-5e88abeeb4f4}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\..\Feature\PageContent\tds\Sitecore.Feature.PageContent.Master\Sitecore.Feature.PageContent.Master.scproj">
+      <ProjectId>{58fe88ed-c34f-40b4-ad15-73f5ab0b80f3}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\..\Feature\Person\tds\Sitecore.Feature.Person.Master\Sitecore.Feature.Person.Master.scproj">
+      <ProjectId>{c1ee0036-1b56-4f22-b58a-3a9643dea346}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\..\Feature\Search\tds\Sitecore.Feature.Search.Master\Sitecore.Feature.Search.Master.scproj">
+      <ProjectId>{a39f8207-6ff7-443a-b39e-27e181542a37}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\..\Feature\Social\tds\Sitecore.Feature.Social.Master\Sitecore.Feature.Social.Master.scproj">
+      <ProjectId>{d3712d53-f781-4b3d-94b2-5d8b2629093b}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\..\Feature\Teasers\tds\Sitecore.Feature.Teasers.Master\Sitecore.Feature.Teasers.Master.scproj">
+      <ProjectId>{1e86efa3-0793-4e36-9c62-3af793b9028f}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\..\Project\Common\tds\Sitecore.Common.Website.Core\Sitecore.Common.Website.Core.scproj">
+      <ProjectId>{96cb4d20-920c-4795-879c-80e92570ea41}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\..\Project\Common\tds\Sitecore.Common.Website.Master\Sitecore.Common.Website.Master.scproj">
+      <ProjectId>{06feb855-6724-4e55-afaa-aa9306141088}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\..\Project\Habitat\tds\Sitecore.Habitat.Website.Content\Sitecore.Habitat.Website.Content.scproj">
+      <ProjectId>{e892f513-c3ca-4308-8ca5-9d1a00d57090}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\..\Project\Habitat\tds\Sitecore.Habitat.Website.Master\Sitecore.Habitat.Website.Master.scproj">
+      <ProjectId>{d6cc9bae-cf6b-4bf8-94b6-290a494b3de4}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\..\Project\Habitat\tds\Sitecore.Habitat.Website.Media\Sitecore.Habitat.Website.Media.scproj">
+      <ProjectId>{1d63ddd8-78d4-4253-a86c-3b2b02cb38df}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\Accounts\tds\Sitecore.Foundation.Accounts.Master\Sitecore.Foundation.Accounts.Master.scproj">
+      <ProjectId>{028439a6-441c-49ad-a240-a7763ec508ea}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\Alerts\tds\Sitecore.Foundation.Alerts.Master\Sitecore.Foundation.Alerts.Master.scproj">
+      <ProjectId>{6585d32b-ef87-41b2-9be5-c049024f138a}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\Assets\tds\Sitecore.Foundation.Assets.Master\Sitecore.Foundation.Assets.Master.scproj">
+      <ProjectId>{031de74a-d92d-4e68-90c3-8e99ec0d83a5}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\DependencyInjection\tds\Sitecore.Foundation.DependencyInjection.Master\Sitecore.Foundation.DependencyInjection.Master.scproj">
+      <ProjectId>{690482d5-10cc-4f8d-a301-7ef8c17a2e18}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\Dictionary\tds\Sitecore.Foundation.Dictionary.Master\Sitecore.Foundation.Dictionary.Master.scproj">
+      <ProjectId>{5017b3bf-e175-4c13-9500-b64ddb3ce0a5}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\FieldEditor\tds\Sitecore.Foundation.FieldEditor.Core\Sitecore.Foundation.FieldEditor.Core.scproj">
+      <ProjectId>{7791b7e8-0c05-41b7-8ea7-bbd4107581e0}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\FieldEditor\tds\Sitecore.Foundation.FieldEditor.Master\Sitecore.Foundation.FieldEditor.Master.scproj">
+      <ProjectId>{65e58ff2-de32-4fd3-b858-a07219e0769e}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\Indexing\tds\Sitecore.Foundation.Indexing.Master\Sitecore.Foundation.Indexing.Master.scproj">
+      <ProjectId>{0b38465a-bb8b-4414-8d00-6204829500bd}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\Installer\tds\Sitecore.Foundation.Installer.Master\Sitecore.Foundation.Installer.Master.scproj">
+      <ProjectId>{8fc51e9f-0c50-4c19-b45b-1e15b327bc50}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\LocalDatasource\tds\Sitecore.Foundation.LocalDatasource.Master\Sitecore.Foundation.LocalDatasource.Master.scproj">
+      <ProjectId>{d28dcfc0-a1b4-4f91-8038-19e0e1103e6a}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\Multisite\tds\Sitecore.Foundation.Multisite.Master\Sitecore.Foundation.Multisite.Master.scproj">
+      <ProjectId>{0ffda52a-7be3-44b0-a1c3-5a7305b4ca89}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\SitecoreExtensions\tds\Sitecore.Foundation.SitecoreExtensions.Core\Sitecore.Foundation.SitecoreExtensions.Core.scproj">
+      <ProjectId>{2c4b960c-6a37-4a1f-befe-75a6ba3b9e36}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\SitecoreExtensions\tds\Sitecore.Foundation.SitecoreExtensions.Master\Sitecore.Foundation.SitecoreExtensions.Master.scproj">
+      <ProjectId>{1de919c1-fc1d-4562-95e7-7ac1413b3d76}</ProjectId>
+    </BundledProject>
+    <BundledProject Include="..\..\..\Theming\tds\Sitecore.Foundation.Theming.Master\Sitecore.Foundation.Theming.Master.scproj">
+      <ProjectId>{941aefd8-5bd3-46fb-b35c-e0ad5f267e9e}</ProjectId>
+    </BundledProject>
     <BundledProject Include="..\Sitecore.Foundation.Serialization.Core\Sitecore.Foundation.Serialization.Core.scproj">
       <ProjectId>{f10b8e08-67fe-4ef5-a1a8-b570aae5d781}</ProjectId>
     </BundledProject>
   </ItemGroup>
-  <Import Project="$(MSBuildExtensionsPath)\HedgehogDevelopment\SitecoreProject\v9.0\HedgehogDevelopment.SitecoreProject.targets" Condition="Exists('$(MSBuildExtensionsPath)\HedgehogDevelopment\SitecoreProject\v9.0\HedgehogDevelopment.SitecoreProject.targets')" />
   <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Feature\Accounts\tds\Sitecore.Feature.Accounts.Core\Sitecore.Feature.Accounts.Core.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\Feature\Accounts\tds\Sitecore.Feature.Accounts.Master\Sitecore.Feature.Accounts.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\Feature\Demo\tds\Sitecore.Feature.Demo.Master\Sitecore.Feature.Demo.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\Feature\faq\tds\Sitecore.Feature.FAQ.Master\Sitecore.Feature.FAQ.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\Feature\Identity\tds\Sitecore.Feature.Identity.Master\Sitecore.Feature.Identity.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\Feature\Language\tds\Sitecore.Feature.Language.Master\Sitecore.Feature.Language.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\Feature\Maps\tds\Sitecore.Feature.Maps.Core\Sitecore.Feature.Maps.Core.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\Feature\Maps\tds\Sitecore.Feature.Maps.Master\Sitecore.Feature.Maps.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\Feature\Media\tds\Sitecore.Feature.Media.Master\Sitecore.Feature.Media.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\Feature\Metadata\tds\Sitecore.Feature.Metadata.Master\Sitecore.Feature.Metadata.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\Feature\Multisite\tds\Sitecore.Feature.Multisite.Master\Sitecore.Feature.Multisite.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\Feature\Navigation\tds\Sitecore.Feature.Navigation.Master\Sitecore.Feature.Navigation.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\Feature\News\tds\Sitecore.Feature.News.Master\Sitecore.Feature.News.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\Feature\PageContent\tds\Sitecore.Feature.PageContent.Master\Sitecore.Feature.PageContent.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\Feature\Person\tds\Sitecore.Feature.Person.Master\Sitecore.Feature.Person.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\Feature\Search\tds\Sitecore.Feature.Search.Master\Sitecore.Feature.Search.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\Feature\Social\tds\Sitecore.Feature.Social.Master\Sitecore.Feature.Social.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\Feature\Teasers\tds\Sitecore.Feature.Teasers.Master\Sitecore.Feature.Teasers.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\Project\Common\tds\Sitecore.Common.Website.Core\Sitecore.Common.Website.Core.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\Project\Common\tds\Sitecore.Common.Website.Master\Sitecore.Common.Website.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\Project\Habitat\tds\Sitecore.Habitat.Website.Content\Sitecore.Habitat.Website.Content.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\Project\Habitat\tds\Sitecore.Habitat.Website.Master\Sitecore.Habitat.Website.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\Project\Habitat\tds\Sitecore.Habitat.Website.Media\Sitecore.Habitat.Website.Media.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Accounts\tds\Sitecore.Foundation.Accounts.Master\Sitecore.Foundation.Accounts.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Alerts\tds\Sitecore.Foundation.Alerts.Master\Sitecore.Foundation.Alerts.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Assets\tds\Sitecore.Foundation.Assets.Master\Sitecore.Foundation.Assets.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\DependencyInjection\tds\Sitecore.Foundation.DependencyInjection.Master\Sitecore.Foundation.DependencyInjection.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Dictionary\tds\Sitecore.Foundation.Dictionary.Master\Sitecore.Foundation.Dictionary.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\FieldEditor\tds\Sitecore.Foundation.FieldEditor.Core\Sitecore.Foundation.FieldEditor.Core.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\FieldEditor\tds\Sitecore.Foundation.FieldEditor.Master\Sitecore.Foundation.FieldEditor.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Indexing\tds\Sitecore.Foundation.Indexing.Master\Sitecore.Foundation.Indexing.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Installer\tds\Sitecore.Foundation.Installer.Master\Sitecore.Foundation.Installer.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\LocalDatasource\tds\Sitecore.Foundation.LocalDatasource.Master\Sitecore.Foundation.LocalDatasource.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Multisite\tds\Sitecore.Foundation.Multisite.Master\Sitecore.Foundation.Multisite.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\SitecoreExtensions\tds\Sitecore.Foundation.SitecoreExtensions.Core\Sitecore.Foundation.SitecoreExtensions.Core.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\SitecoreExtensions\tds\Sitecore.Foundation.SitecoreExtensions.Master\Sitecore.Foundation.SitecoreExtensions.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Theming\tds\Sitecore.Foundation.Theming.Master\Sitecore.Foundation.Theming.Master.scproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
     <ProjectReference Include="..\Sitecore.Foundation.Serialization.Core\Sitecore.Foundation.Serialization.Core.scproj">
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\HedgehogDevelopment\SitecoreProject\v9.0\HedgehogDevelopment.SitecoreProject.targets" Condition="Exists('$(MSBuildExtensionsPath)\HedgehogDevelopment\SitecoreProject\v9.0\HedgehogDevelopment.SitecoreProject.targets')" />
+  <Import Project="..\..\..\..\..\packages\HedgehogDevelopment.TDS.5.7.0.27\build\HedgehogDevelopment.TDS.targets" Condition="Exists('..\..\..\..\..\packages\HedgehogDevelopment.TDS.5.7.0.27\build\HedgehogDevelopment.TDS.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\..\..\..\..\packages\HedgehogDevelopment.TDS.5.7.0.27\build\HedgehogDevelopment.TDS.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\..\..\..\..\packages\HedgehogDevelopment.TDS.5.7.0.27\build\HedgehogDevelopment.TDS.targets'))" />
+  </Target>
 </Project>
