@@ -1,5 +1,5 @@
 install:
-  - choco install gitversion.portable -pre -y
+ # - choco install gitversion.portable -pre -y
 
 nuget:
   account_feed: false
@@ -18,11 +18,10 @@ platform: Any CPU
 
 before_build:
   - nuget restore Habitat.sln
-  - ps: gitversion /l console /output buildserver /updateAssemblyInfo
+ # - ps: gitversion /l console /output buildserver /updateAssemblyInfo
 
 build_script:
-  - cmd: msbuild Habitat.sln /p:Configuration=Debug /logger:"C:\Program Files\AppVeyor\BuildAgent\Appveyor.MSBuildLogger.dll" /verbosity:normal /p:PackageVersion=%GitVersion_SemVer%
-  - cmd: msbuild Habitat.sln /p:Configuration=Release /logger:"C:\Program Files\AppVeyor\BuildAgent\Appveyor.MSBuildLogger.dll" /verbosity:normal /p:PackageVersion=%GitVersion_SemVer%
+  - cmd: msbuild Habitat.sln /p:Configuration=Release /logger:"C:\Program Files\AppVeyor\BuildAgent\Appveyor.MSBuildLogger.dll" /verbosity:normal # /p:PackageVersion=%GitVersion_SemVer%
 
 #---------------------------------#
 #      artifacts configuration    #
