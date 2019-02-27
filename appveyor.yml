@@ -11,8 +11,8 @@ branches:
     - original-repo
 
 # build Configuration, i.e. Debug, Release, etc.
-# configuration:
-#  - Release
+configuration:
+  - Release
 
 image: Visual Studio 2017
 
@@ -35,6 +35,8 @@ before_build:
 
 build_script:
   - cmd: msbuild Habitat.sln /logger:"C:\Program Files\AppVeyor\BuildAgent\Appveyor.MSBuildLogger.dll" /verbosity:detailed # /p:PackageVersion=%GitVersion_SemVer%
+#  - cmd: msbuild Habitat.sln /p:Configuration=Release /logger:"C:\Program Files\AppVeyor\BuildAgent\Appveyor.MSBuildLogger.dll" /verbosity:detailed # /p:PackageVersion=%GitVersion_SemVer%
+
 
 #---------------------------------#
 #      artifacts configuration    #
