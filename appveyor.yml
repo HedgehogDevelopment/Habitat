@@ -1,3 +1,19 @@
+# version format
+version: 2.0.a-{build}
+
+# branches to build
+branches:
+  # whitelist
+  only:
+    - /release*/
+  except:
+    - master
+    - original-repo
+
+# build Configuration, i.e. Debug, Release, etc.
+# configuration:
+#  - Release
+
 image: Visual Studio 2017
 
 install:
@@ -13,17 +29,12 @@ nuget:
 # build platform, i.e. x86, x64, Any CPU. This setting is optional.
 platform: Any CPU
 
-# build Configuration, i.e. Debug, Release, etc.
-#configuration:
-#  - Debug
-#  - Release
-
 before_build:
   - nuget restore Habitat.sln
  # - ps: gitversion /l console /output buildserver /updateAssemblyInfo
 
 build_script:
-  - cmd: msbuild Habitat.sln /p:Configuration=Release /logger:"C:\Program Files\AppVeyor\BuildAgent\Appveyor.MSBuildLogger.dll" /verbosity:detailed # /p:PackageVersion=%GitVersion_SemVer%
+  - cmd: msbuild Habitat.sln /logger:"C:\Program Files\AppVeyor\BuildAgent\Appveyor.MSBuildLogger.dll" /verbosity:detailed # /p:PackageVersion=%GitVersion_SemVer%
 
 #---------------------------------#
 #      artifacts configuration    #
