@@ -5,7 +5,7 @@ Standard dotnet git ignore file:
 [Dd]ebug/
 [Rr]elease/
 x64/
-build/
+#build/
 [Bb]in/
 [Oo]bj/
 
@@ -175,7 +175,7 @@ publish/
 *.azurePubxml
 
 # NuGet Packages Directory
-packages/
+#packages/
 ## TODO: If the tool you use requires repositories.config uncomment the next line
 #!packages/repositories.config
 .nuget/
