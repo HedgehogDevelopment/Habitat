@@ -5,7 +5,7 @@ version: 2.0.a-{build}
 branches:
   # whitelist
   only:
-    - /release*/
+    - /ReleaseTest/
   except:
     - master
     - original-repo
@@ -34,7 +34,7 @@ before_build:
  # - ps: gitversion /l console /output buildserver /updateAssemblyInfo
 
 build_script:
-  - cmd: msbuild Habitat.sln /p:Configuration=Release /logger:"C:\Program Files\AppVeyor\BuildAgent\Appveyor.MSBuildLogger.dll" /verbosity:detailed # /p:PackageVersion=%GitVersion_SemVer%
+  - cmd: msbuild Habitat.sln /p:Configuration=Release /logger:"C:\Program Files\AppVeyor\BuildAgent\Appveyor.MSBuildLogger.dll" /verbosity:normal # /p:PackageVersion=%GitVersion_SemVer%
 #  - cmd: msbuild Habitat.sln /p:Configuration=Release /logger:"C:\Program Files\AppVeyor\BuildAgent\Appveyor.MSBuildLogger.dll" /verbosity:detailed # /p:PackageVersion=%GitVersion_SemVer%
 
 
@@ -48,13 +48,13 @@ artifacts:
 #---------------------------------#
 #      deploy configuration    #
 #---------------------------------#
-deploy:
-  description: 'Habitat'
-  provider: GitHub
-  auth_token:
-    secure: vMfLJBfd7tN7ijjHaiJ1DSbqJzKP7M0i0zJ4k2SSFPj/t+vl9Kp+jFPt/wExjXOa # your encrypted token from GitHub
-  artifact: /.*\.update/
-  draft: false
-  prerelease: false
-  on:
-    appveyor_repo_tag: true        # deploy on tag push only
+#deploy:
+#  description: 'Habitat'
+#  provider: GitHub
+#  auth_token:
+#    secure: vMfLJBfd7tN7ijjHaiJ1DSbqJzKP7M0i0zJ4k2SSFPj/t+vl9Kp+jFPt/wExjXOa # your encrypted token from GitHub
+#  artifact: /.*\.update/
+#  draft: false
+#  prerelease: false
+#  on:
+#    appveyor_repo_tag: true        # deploy on tag push only
