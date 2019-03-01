@@ -34,7 +34,7 @@ before_build:
  # - ps: gitversion /l console /output buildserver /updateAssemblyInfo
 
 build_script:
-  - cmd: msbuild Habitat.sln /p:Configuration=Release /logger:"C:\Program Files\AppVeyor\BuildAgent\Appveyor.MSBuildLogger.dll" /verbosity:normal /m:1 # /p:PackageVersion=%GitVersion_SemVer%
+  - cmd: msbuild Habitat.sln /p:Configuration=Release /logger:"C:\Program Files\AppVeyor\BuildAgent\Appveyor.MSBuildLogger.dll" /verbosity:debug /m:1 # /p:PackageVersion=%GitVersion_SemVer%
 #  - cmd: msbuild Habitat.sln /p:Configuration=Release /logger:"C:\Program Files\AppVeyor\BuildAgent\Appveyor.MSBuildLogger.dll" /verbosity:detailed # /p:PackageVersion=%GitVersion_SemVer%
 
 
