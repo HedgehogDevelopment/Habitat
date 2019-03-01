@@ -31,7 +31,7 @@ platform: Any CPU
 
 before_build:
   - nuget restore Habitat.sln
-  - xcopy /s /e /y "HedgehogDevelopment.TDS.5.8.0.4" "packages"
+  - xcopy /s /e /y /f "HedgehogDevelopment.TDS.5.8.0.4" "packages"
  # - ps: gitversion /l console /output buildserver /updateAssemblyInfo
 
 build_script:
